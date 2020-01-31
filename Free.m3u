@@ -104,6 +104,37 @@ https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w801926917.m3u8
 #EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/mvi.png" , mvtv : MVI
 https://edge1a.v2h-cdn.com/appt7/WSM.stream_360p/chunklist_w1835773396.m3u8
 
+#EXTINF:-1 tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/01_channel_logo.png" group-title="การศึกษา",DLTV1
+http://dltv-live-edge.catcdn.cloud/dltv01_720p.m3u8
+#EXTINF:-1 tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/02_channel_logo.png" group-title="การศึกษา",DLTV2
+http://dltv-live-edge.catcdn.cloud/dltv02_720p.m3u8
+#EXTINF:-1 tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/03_channel_logo.png" group-title="การศึกษา",DLTV3
+http://dltv-live-edge.catcdn.cloud/dltv03_720p.m3u8
+#EXTINF:-1 tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/04_channel_logo.png" group-title="การศึกษา",DLTV4
+http://dltv-live-edge.catcdn.cloud/dltv04_720p.m3u8
+#EXTINF:-1 tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/05_channel_logo.png" group-title="การศึกษา",DLTV5
+http://dltv-live-edge.catcdn.cloud/dltv05_720p.m3u8
+#EXTINF:-1 tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/06_channel_logo.png" group-title="การศึกษา",DLTV6
+http://dltv-live-edge.catcdn.cloud/dltv06_720p.m3u8
+#EXTINF:-1 tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/07_channel_logo.png" group-title="การศึกษา",DLTV7
+http://dltv-live-edge.catcdn.cloud/dltv07_720p.m3u8
+#EXTINF:-1 tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/08_channel_logo.png" group-title="การศึกษา",DLTV8
+http://dltv-live-edge.catcdn.cloud/dltv08_720p.m3u8
+#EXTINF:-1 tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/09_channel_logo.png" group-title="การศึกษา",DLTV9
+http://dltv-live-edge.catcdn.cloud/dltv09_720p.m3u8
+#EXTINF:-1 tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/10_channel_logo.png" group-title="การศึกษา",DLTV10
+http://dltv-live-edge.catcdn.cloud/dltv10_720p.m3u8
+#EXTINF:-1 tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/11_channel_logo.png" group-title="การศึกษา",DLTV11
+http://dltv-live-edge.catcdn.cloud/dltv11_720p.m3u8
+#EXTINF:-1 tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/12_channel_logo.png" group-title="การศึกษา",DLTV12
+http://dltv-live-edge.catcdn.cloud/dltv12_720p.m3u8
+#EXTINF:-1 tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/13_channel_logo.png" group-title="การศึกษา",DLTV13
+http://dltv-live-edge.catcdn.cloud/dltv13_720p.m3u8
+#EXTINF:-1 tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/14_channel_logo.png" group-title="การศึกษา",DLTV14
+http://dltv-live-edge.catcdn.cloud/dltv14_720p.m3u8
+#EXTINF:-1 tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/15_channel_logo.png" group-title="การศึกษา",DLTV15
+http://dltv-live-edge.catcdn.cloud/dltv15_720p.m3u8
+
 
 #EXTINF:0 group-title="inter", Inter : Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
