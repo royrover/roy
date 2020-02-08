@@ -195,7 +195,7 @@ https://www.livedoomovie.com/02_RT_TV_HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CCTV9.png",CCTV9
 https://www.livedoomovie.com/02_CCTV9_720p/chunklist.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK THAI
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.stickpng.com/assets/images/589a41e25aa6293a4aac48ab.png",CARTOON NETWORK UAE
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-sparkjump.png",TRUE SPARK JUMP
@@ -205,7 +205,7 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",Disney Junior 
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick jr TH
 https://www.livedoomovie.com/02_Nick_Jr_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/babytv.png",Baby TV
@@ -213,7 +213,7 @@ https://www.livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://imgcloud.fwiptv.cc/postor/2019032506051812377635_206785022990745_2323450990199693871_o.jpg",MIAO MI
 https://www.livedoomovie.com/02_Miao_Mi_720p/chunklist.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/20181110075722846215341.jpg",ANIPLUS
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+http://rr.dens.tv/h/h02/index2.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://lollipoptheater.org/wp-content/uploads/2016/05/nickelodieon-logo-200x200-03.png",Nickelodeon
 https://leechviplink.ddnslive.com/app/nickelodeon/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="การ์ตูน", 哈哈炫动
@@ -226,9 +226,8 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",BOOMERANG
 https://www.livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="38" tvg-logo="https://imgur.com/axvewxY.png" group-title="การ์ตูน", TH: Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-Animax-mp4a_98800_eng=3.m3u8
-
+#EXTINF:-1 tvg-id="38" tvg-logo="https://imgur.com/axvewxY.png" group-title="การ์ตูน", Animax
+https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 group-title="กีฬา "tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premiere Football HD1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
@@ -1062,6 +1061,7 @@ https://glus-st.mthcdn.com/stream/video02/2017/12/03/1512283514/1512283514_720.m
 https://glus-st.mthcdn.com/stream/video02/2018/07/18/1531908815/1531908815_720.mp4
 
 #EXTINF:-1 group-title="MOVIE"tvg-logo=",White Tiger (2012) เบลืยติกร์ สงครามรถถังประจัญบาน
+
 https://glus-st.mthcdn.com/stream/video02/2017/12/19/1513678037/1513678037_360.mp4
 
 #EXTINF:-1 group-title="MOVIE"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/9nX4Dsjj1htVLOjPxBq.jpg",Transformers 4: Age of Extinction มหาวิบัติยุคสุญพันธุ์
