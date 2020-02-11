@@ -230,8 +230,8 @@ https://www.livedooMovies.com/02_RT_TV_HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/CCTV9.png",CCTV9
 https://www.livedooMovies.com/02_CCTV9_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK THAI
-https://www.doofree88.com/streaming/sd-cartoonnetwork_480/index.m3u8
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK 
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.stickpng.com/assets/images/589a41e25aa6293a4aac48ab.png",CARTOON NETWORK UAE
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/sd-sparkjump.png",TRUE SPARK JUMP
@@ -378,6 +378,10 @@ https://www.doofree88.com/streaming/sd-skynetsports4_480/index.m3u8
 https://www.doofree88.com/streaming/sd-skynetsports5_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-skynetsports6.png" group-title="กีฬา", Skynetsport6
 https://www.doofree88.com/streaming/sd-skynetsports6_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",Sony Six
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/soy-ten-1-live.png" group-title="กีฬา",Sony Ten 1
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8 
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/sony-ten-2-live.png" group-title="กีฬา",Sony Ten 2
@@ -389,9 +393,43 @@ https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/100px-Sony_ESPN_logo.svg.png" group-title="กีฬา",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/5/56/Real_Madrid_CF.svg/732px-Real_Madrid_CF.svg.png" group-title="กีฬา",REAL MADRID TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1202558122998546432/mqL9eCZZ_400x400.jpg" group-title="กีฬา",LFC TV
 https://www.doofree88.com/streaming/uk-lfctv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",RED BULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",Sky Sports Premier League HD
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",MNC SPORT 1
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_2499968=7-mp4a_98800_eng=5.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",MNC SPORT 2
+https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_2499968=7-mp4a_98800_eng=3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",100 AUTOMOTO TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",CBC SPORT
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",DUBAI RACING
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",STADIUM
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",UFC
+http://mfe17.svc.ott.zala.by/hls/CH_UFC_HLS/variant.m3u8?version=2%3C/stream_url"
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",UFC NETWORK
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",Fight Sports
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/60kby94vmDfhktKcXCq.jpg" group-title="Movies",HITMAN: AGENT 47 (2015) ฮิทแมน: สายลับ 47
 https://www302.playercdn.net/88/0/LiYGXlq0giJzLXs8kixP2A/1570063645/191002/553G7K4CWHJPYDMJEIXNB.mp4
