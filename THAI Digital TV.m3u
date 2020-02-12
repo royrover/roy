@@ -72,6 +72,18 @@ http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m
 #EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/TPTV.png",TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 
+#EXTINF:-1 group-title="ข่าวต่างประเทศ"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/hd-cnn.png",CNN
+https://www.doofree88.com/streaming/uk-cnn_480/index.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/sd-france24.png",FRANCE24
+https://www.doofree88.com/streaming/sd-france24_480/index.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/sd-cctv.png",CCTV4 NEWS
+https://www.doofree88.com/streaming/sd-cctv4_480/index.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/Sky_News.png",Sky News 
+https://www.doofree88.com/streaming/uk-skynews_480/index.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/Fox_News_TH.png",Fox News TH
+https://www.doofree88.com/streaming/sd-foxnews_720/index.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/NHK_WORLD_TV.png",NHK WORLD TV
+https://www.doofree88.com/streaming/sd-nhkworld_720/index.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO HD
 http://ktu.ktuiptvapp.com/livetv/ktuiptv-2229.m3u8
@@ -131,8 +143,6 @@ https://www.doofree88.com/streaming/sd-celestial_480/index.m3u8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="http://image.free.in.th/v/2013/il/180806015437.jpg",Thai CCTV
 http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
-#EXTINF:-1 group-title="หนัง"tvg-logo="https://f.ptcdn.info/288/058/000/pavp0r3fv2XLVMHFZlf-s.jpg", SERIES CHANNEL
-http://stream.rs.co.th/you-hi/index.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/JKN.jpg",JKN
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/jknchannel.smil/playlist.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://i.imgur.com/EqTTEyu.png",Major Mix
