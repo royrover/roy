@@ -71,6 +71,9 @@ https://live.nationtv.tv/hls/ntv_th_hd.m3u8
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
 #EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/TPTV.png",TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://www.doohdbox.com/assets/20170708160324242106141.jpg",Voice TV
+https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+ 
 
 #EXTINF:-1 group-title="ข่าวต่างประเทศ"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/hd-cnn.png",CNN
 https://www.doofree88.com/streaming/uk-cnn_480/index.m3u8
@@ -332,7 +335,8 @@ https://ott-live.olympicchannel.com/out/u/OC10_1.m3u8
 #EXTINF:-1 group-title="กีฬา "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel 11
 https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8
 #EXTINF:-1 group-title="กีฬา "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel 12
-https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-skynetsportshd.png" group-title="กีฬา", SkynetsportHD
+https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-skynetsportshd.png" group-title="กีฬา", SkynetsportHD
 https://www.livedooMovies.com/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-skynetsports1.png" group-title="กีฬา", Skynetsport1
 https://www.doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
@@ -367,7 +371,8 @@ https://www.doofree88.com/streaming/uk-lfctv_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",RED BULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",Sky Sports Premier League HD
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",MNC SPORT 1
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",MNC SPORT 1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_2499968=7-mp4a_98800_eng=5.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",MNC SPORT 2
@@ -388,15 +393,10 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",STADIUM
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",UFC
-http://mfe17.svc.ott.zala.by/hls/CH_UFC_HLS/variant.m3u8?version=2%3C/stream_url"
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",UFC NETWORK
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",Fight Sports
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/60kby94vmDfhktKcXCq.jpg" group-title="Movies",HITMAN: AGENT 47 (2015) ฮิทแมน: สายลับ 47
