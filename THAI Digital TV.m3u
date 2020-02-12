@@ -1,6 +1,6 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- อัพเดทล่าสุด: 11.2.20", อัพเดทล่าสุด: 11.2.20
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- อัพเดทล่าสุด: 12.2.20", อัพเดทล่าสุด: 12.2.20
 http://tiny.cc/d69fjz
 
 #EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
@@ -137,10 +137,10 @@ http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
 http://stream.rs.co.th/you-hi/index.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/JKN.jpg",JKN
 https://www.livedooMovies.com/02_JKN_480p/chunklist.m3u8
-#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/MANGORN.png",มังกร
-https://www.livedoomovie.com/02_JKN_480p/chunklist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://i.imgur.com/EqTTEyu.png",Major Mix
+https://edge1a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w670261144.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/m-channel.png",MChannel
-https://www.livedoomovie.com/02_MChannel_480p/chunklist.m3u8
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="http://thaiip.tv/tvlogo2/monoplus.png",Monoplus
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w501711662.m3u8
 
