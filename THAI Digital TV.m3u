@@ -3,75 +3,75 @@
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- อัพเดทล่าสุด: 18.2.20", อัพเดทล่าสุด: 18.2.20
 http://tiny.cc/d69fjz
 
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
+#EXTINF:-1 tvg-id="Channel3.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv33_ch3hd/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD สำรอง
+#EXTINF:-1 tvg-id="Channel3.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD สำรอง
 https://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD 
+#EXTINF:-1 tvg-id="" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD 
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv01_ch5hd/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD สำรอง
+#EXTINF:-1 tvg-id="" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD สำรอง
 http://61.91.12.34:1935/live/tv5streaming_720p/chunklist_w1246231467.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD
+#EXTINF:-1 tvg-id="7HD.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD             	
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv35_ch7hd/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD สำรอง
+#EXTINF:-1 tvg-id="7HD.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD สำรอง
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
+#EXTINF:-1 tvg-id="beINSports2.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv30_mcothd/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD สำรอง
+#EXTINF:-1 tvg-id="beINSports2.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD สำรอง
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
+#EXTINF:-1 tvg-id="" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT สำรอง
+#EXTINF:-1 tvg-id="" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT สำรอง
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv02_nbthd/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH HD
+#EXTINF:-1 tvg-id="Thairath.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH HD
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH HD สำรอง
+#EXTINF:-1 tvg-id="Thairath.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH HD สำรอง
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD
+#EXTINF:-1 tvg-id="AmarinTV.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD สำรอง
+#EXTINF:-1 tvg-id="AmarinTV.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD สำรอง
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD
+#EXTINF:-1 tvg-id="One31.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv31_onehd/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD สำรอง
+#EXTINF:-1 tvg-id="One31.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD สำรอง
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv31_onehd/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
+#EXTINF:-1 tvg-id="PPTV.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD สำรอง
+#EXTINF:-1 tvg-id="PPTV.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD สำรอง
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAIPBS
+#EXTINF:-1 tvg-id="" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAIPBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAIPBS สำรอง
+#EXTINF:-1 tvg-id="" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAIPBS สำรอง
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv03_tpbshd/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT
+#EXTINF:-1 tvg-id="Workpoint.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT สำรอง
+#EXTINF:-1 tvg-id="Workpoint.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT สำรอง
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
+#EXTINF:-1 tvg-id="Mono29.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv29_mono29/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29 สำรอง
+#EXTINF:-1 tvg-id="Mono29.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29 สำรอง
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv29_mono29/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/true4u.png",TRUE4U
+#EXTINF:-1 tvg-id="true4U.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/true4u.png",TRUE4U
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv24_true4u/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/true4u.png",TRUE4U สำรอง
+#EXTINF:-1 tvg-id="true4U.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/true4u.png",TRUE4U สำรอง
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv24_true4u/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
+#EXTINF:-1 tvg-id="GMM25.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv25_gmmchannel/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25 สำรอง
+#EXTINF:-1 tvg-id="GMM25.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25 สำรอง
 http://27.254.130.64/live01/ch11.m3u8?p=st
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
+#EXTINF:-1 tvg-id="Channel8.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
 http://stream.rs.co.th/ch8-hi/index.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN24
+#EXTINF:-1 tvg-id="TNN24.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN24
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv16_tnn24/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/nation.png",NATION CHANNEL
+#EXTINF:-1 tvg-id="" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/nation.png",NATION CHANNEL
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv22_nationtv/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/nation.png",NATION CHANNEL สำรอง
+#EXTINF:-1 tvg-id="" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/nation.png",NATION CHANNEL สำรอง
 https://live.nationtv.tv/hls/ntv_th_hd.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181211134819NEW-TV.jpg",NEW TV
+#EXTINF:-1 tvg-id="" group-title="ทีวีไทย"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181211134819NEW-TV.jpg",NEW TV
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://www.doofree88.com/storage/live/Oi7Bugg9OQD3v8ScXo4adYgYL0gm5gOEqSZvVt3R.png",TPTV
+#EXTINF:-1 tvg-id="" group-title="ทีวีไทย"tvg-logo="https://www.doofree88.com/storage/live/Oi7Bugg9OQD3v8ScXo4adYgYL0gm5gOEqSZvVt3R.png",TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://www.doohdbox.com/assets/20170708160324242106141.jpg",Voice TV
+#EXTINF:-1 gtvg-id="" roup-title="ทีวีไทย"tvg-logo="https://www.doohdbox.com/assets/20170708160324242106141.jpg",Voice TV
 https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
  
 
@@ -232,29 +232,29 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD1 
+#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD1 
 https://www.doofree88.com/streaming/epl-x1_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD2 
+#EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD2 
 https://www.doofree88.com/streaming/epl-x2_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD3
+#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD3
 https://www.doofree88.com/streaming/epl-x3_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD4 
+#EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD4 
 https://www.doofree88.com/streaming/epl-x4_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD5 
+#EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD5 
 https://www.doofree88.com/streaming/epl-x5_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD1 สำรอง        
+#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD1 สำรอง        
 http://cdn776.stm.trueid.net:80/live6/ht111_th_m_high_tidapp.smil/chunklist_b2603315_slth.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=ddQYCu9%2BgqYc%2FkGdcF9OQkfsdYPy6oGvHd2dGNr%2B7QKhbD7nckXW4lUyDmXEsSUrz815ZUWR%2BRR4hgs36SskDHgrXKA1xlewYRcMxV%2BgtsY6Os6eunUcv5Rtn06Al5wzoUU
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD2 สำรอง   
+#EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD2 สำรอง   
 http://cdn121.stm.trueid.net:80/live5/ht112_th_m_high_tidapp.smil/chunklist_b2603315_slth.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=RZPalL6gvM7aXwOdsZ8xb7HRaMSoBTSL2unEx7oeIynBh76V1KMQHvQP9zt%2BVorcBbgnm%2BUY7VED8DdP3u0nD96bCgdu30ISSuQ8EftCAh86OutePKjNiPw%2Fge3xIuSOAGk
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD3 สำรอง    
+#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD3 สำรอง    
 http://cdn125.stm.trueid.net:80/live6/ht113_th_m_high_tidapp.smil/chunklist_b2603315_slth.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=I5%2BkqTqPAA8%2ByTkMF1c6wc5V45xdoq7oZhA%2BEh6ltvzyQTtEuf5%2FImP6rBvvORUkW4pVXRFHYKKuoiH0St3hiQdQ%2FAx5eKtvxh7wOr%2BRQC06OkKiZiCqurFVaA9PZL2bNPY
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD4 สำรอง   
+#EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD4 สำรอง   
 http://cdn100.stm.trueid.net:80/live5/ht114_th_m_high_tidapp.smil/chunklist_b2603315_slth.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=wOMB1vl42R247%2B2zeuibwovr3EsedtgwygIC%2BZ7VcerPLyWeoMe2KLUA2Y4JMu5iv27XaaSq1jxTocfH2gjKaegyC9P8805AzRQk7PmdJ9g6OugKHpkzLIEBujD912CYzy0
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD5 สำรอง   
+#EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD5 สำรอง   
 http://cdn102.stm.trueid.net:80/live6/ht115_th_m_high_tidapp.smil/chunklist_b2603315_slth.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=Tw4HcAVjMyAMcXdtpHXNhniNi1zR4jaeOoQ%2BvRXSo5u16EwSIoy3na2My7QzvIGnsbRTlGWOM%2B7szuwtC2RTnTytTqlC80fXvJ0AkF4dJh06OleSUIkb1211sTTNauvN0tQ
-#EXTINF:-1 tvg-id="beINSports1.th" tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein1.png" group-title="กีฬา", Bein1 HD
+#EXTINF:-1 tvg-id="beINSports1.th" tvg-id="beINSports1.th" tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein1.png" group-title="กีฬา", Bein1 HD
 https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
-#EXTINF:-1 tvg-id="beINSports2.th" tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein2.png" group-title="กีฬา", Bein2 HD
+#EXTINF:-1 tvg-id="beINSports2.th" tvg-id="beINSports2.th" tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein2.png" group-title="กีฬา", Bein2 HD
 https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://arsenalloversintheworld.weebly.com/uploads/3/8/1/6/38160015/6818237.jpg" group-title="กีฬา", Bein3 HD
