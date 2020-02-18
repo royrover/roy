@@ -2,7 +2,7 @@
  
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- อัพเดทล่าสุด: 18.2.20", อัพเดทล่าสุด: 18.2.20
 http://tiny.cc/d69fjz
-
+#EXTM3U url-tvg="http://iptv-epg.com/139e9-lskafs.xml.gz" x-tvg-url="http://iptv-epg.com/139e9-lskafs.xml.gz"
 #EXTINF:-1 tvg-id="Channel3.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv33_ch3hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel3.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD สำรอง
