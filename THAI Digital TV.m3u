@@ -69,7 +69,7 @@ http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv22_nationtv/play
 https://live.nationtv.tv/hls/ntv_th_hd.m3u8
 #EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181211134819NEW-TV.jpg",NEW TV
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",TPTV
+#EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://www.doofree88.com/storage/live/Oi7Bugg9OQD3v8ScXo4adYgYL0gm5gOEqSZvVt3R.png",TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1 group-title="ทีวีไทย"tvg-logo="https://www.doohdbox.com/assets/20170708160324242106141.jpg",Voice TV
 https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
@@ -252,9 +252,9 @@ http://cdn125.stm.trueid.net:80/live6/ht113_th_m_high_tidapp.smil/chunklist_b260
 http://cdn100.stm.trueid.net:80/live5/ht114_th_m_high_tidapp.smil/chunklist_b2603315_slth.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=wOMB1vl42R247%2B2zeuibwovr3EsedtgwygIC%2BZ7VcerPLyWeoMe2KLUA2Y4JMu5iv27XaaSq1jxTocfH2gjKaegyC9P8805AzRQk7PmdJ9g6OugKHpkzLIEBujD912CYzy0
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="กีฬา",Premier HD5 สำรอง   
 http://cdn102.stm.trueid.net:80/live6/ht115_th_m_high_tidapp.smil/chunklist_b2603315_slth.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=Tw4HcAVjMyAMcXdtpHXNhniNi1zR4jaeOoQ%2BvRXSo5u16EwSIoy3na2My7QzvIGnsbRTlGWOM%2B7szuwtC2RTnTytTqlC80fXvJ0AkF4dJh06OleSUIkb1211sTTNauvN0tQ
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein1.png" group-title="กีฬา", Bein1 HD
+#EXTINF:-1 tvg-id="beINSports1.th" tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein1.png" group-title="กีฬา", Bein1 HD
 https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein2.png" group-title="กีฬา", Bein2 HD
+#EXTINF:-1 tvg-id="beINSports2.th" tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein2.png" group-title="กีฬา", Bein2 HD
 https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://arsenalloversintheworld.weebly.com/uploads/3/8/1/6/38160015/6818237.jpg" group-title="กีฬา", Bein3 HD
