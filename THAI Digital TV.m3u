@@ -95,7 +95,7 @@ https://www.doofree88.com/streaming/sd-redalt_480/index.m3u8
 http://ktu.ktuiptvapp.com/livetv/ktuiptv-1335.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO SIGNATURE
 https://live.mawintv2.com/02_HBOSignature_720p/chunklist.m3u8
-#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
+#EXTINF:-1 tvg-id="Warner.th"group-title="หนัง"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
 https://www.doofree88.com/streaming/hd-warnertv_720/index.m3u8
 #EXTINF:-1 tvg-id="TrueFilm.th"group-title="หนัง"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm hd 1
 https://www.doofree88.com/streaming/hd-tfilm_720/index.m3u8
@@ -206,11 +206,11 @@ https://www.doofree88.com/streaming/sd-sabaidee_480/index.m3u8
 https://www.doofree88.com/streaming/sd-cartoonnetwork_480/index.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.stickpng.com/assets/images/589a41e25aa6293a4aac48ab.png",CARTOON NETWORK UAE
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/sd-sparkjump.png",TRUE SPARK JUMP
+#EXTINF:-1 tvg-id="TrueSparkJump.th"group-title="การ์ตูน"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/sd-sparkjump.png",TRUE SPARK JUMP
 https://www.doofree88.com/streaming/sd-sparkjump_480/index.m3u8
-#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DisneyChannel.th"group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
 https://www.doofree88.com/streaming/sd-disney_480/index.m3u8
-#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
+#EXTINF:-1 tvg-id="DisneyXD.th"group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
 https://www.doofree88.com/streaming/hd-disneyxd_720/index.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick jr TH
 https://www.doofree88.com/streaming/sd-nickjr_480/index.m3u8
@@ -288,23 +288,23 @@ http://skdn.redi-vo.com/iptv/ch516?code=8601338691674826&key=27664
 http://skdn.redi-vo.com/iptv/ch522?code=8601338691674826&key=52241
 
 
-#EXTINF:-1 tvg-id="	TrueSport1.th"group-title="กีฬา"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/hd-tsport1.png",TRUESPORT HD
+#EXTINF:-1 tvg-id="TrueSport1.th"group-title="กีฬา"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/hd-tsport1.png",TRUESPORT HD
 https://www.doofree88.com/streaming/hd-tsport1_720/index.m3u8
-#EXTINF:-1 tvg-id="	TrueSport2.th"group-title="กีฬา"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/hd-tsport2.png",TRUESPORT HD2
+#EXTINF:-1 tvg-id="TrueSport2.th"group-title="กีฬา"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/hd-tsport2.png",TRUESPORT HD2
 https://www.doofree88.com/streaming/hd-tsport2_720/index.m3u8
-#EXTINF:-1 tvg-id="	TrueSport3.th"group-title="กีฬา"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/hd-tsport3.png",TRUESPORT HD3
+#EXTINF:-1 tvg-id="TrueSport3.th"group-title="กีฬา"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/hd-tsport3.png",TRUESPORT HD3
 https://www.doofree88.com/streaming/hd-tsport3_720/index.m3u8
-#EXTINF:-1 tvg-id="	TrueSport4.th"group-title="กีฬา"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/hd-tsport4.png",TRUESPORT HD4
+#EXTINF:-1 tvg-id="TrueSport4.th"group-title="กีฬา"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/hd-tsport4.png",TRUESPORT HD4
 https://www.doofree88.com/streaming/hd-tsport4_720/index.m3u8
-#EXTINF:-1 tvg-id="	TrueSport2.th"group-title="กีฬา"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181127121521True_sport2.jpg",TRUE SPORT 2
+#EXTINF:-1 tvg-id="TrueSport2.th"group-title="กีฬา"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181127121521True_sport2.jpg",TRUE SPORT 2
 https://www.doofree88.com/streaming/sd-tsport2_480/index.m3u8
-#EXTINF:-1 tvg-id="	TrueSport5.th"group-title="กีฬา"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112204True_sport5.jpg",TRUE SPORT 5
+#EXTINF:-1 tvg-id="TrueSport5.th"group-title="กีฬา"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112204True_sport5.jpg",TRUE SPORT 5
 https://www.doofree88.com/streaming/sd-tsport5_480/index.m3u8
-#EXTINF:-1 tvg-id="	TrueSport6.th"group-title="กีฬา"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112227True_sport6.jpg",TRUE SPORT 6
+#EXTINF:-1 tvg-id="TrueSport6.th"group-title="กีฬา"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112227True_sport6.jpg",TRUE SPORT 6
 https://www.doofree88.com/streaming/sd-tsport6_480/index.m3u8
-#EXTINF:-1 tvg-id="	TrueSport7.th"group-title="กีฬา"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112240True_sport7.jpg",TRUE SPORT 7
+#EXTINF:-1 tvg-id="TrueSport7.th"group-title="กีฬา"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112240True_sport7.jpg",TRUE SPORT 7
 https://www.doofree88.com/streaming/sd-tsport7_480/index.m3u8
-#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/nba.png",NBA TV
+#EXTINF:-1 tvg-id="NBATV.th"group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/nba.png",NBA TV
 https://www.doofree88.com/streaming/hd-nba_720/index.m3u8
 #EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/tennis.png",Tennis
 https://www.doofree88.com/streaming/hd-tennis_720/index.m3u8
