@@ -1,18 +1,18 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- อัพเดทล่าสุด: 18.2.20", อัพเดทล่าสุด: 18.2.20
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- อัพเดทล่าสุด: 19.2.20", อัพเดทล่าสุด: 19.2.20
 http://tiny.cc/d69fjz
-#EXTINF:-1 tvg-id="Channel3.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
+#EXTINF:-1 tvg-id="channel3.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv33_ch3hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel3.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD สำรอง
+#EXTINF:-1 tvg-id="channel3.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD สำรอง
 https://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD 
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv01_ch5hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD สำรอง
 http://61.91.12.34:1935/live/tv5streaming_720p/chunklist_w1246231467.m3u8
-#EXTINF:-1 tvg-id="7HD.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD             	
+#EXTINF:-1 tvg-id="	channel7.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD             	
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv35_ch7hd/playlist.m3u8
-#EXTINF:-1 tvg-id="7HD.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD สำรอง
+#EXTINF:-1 tvg-id="	channel7.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD สำรอง
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv30_mcothd/playlist.m3u8
@@ -26,9 +26,9 @@ http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv02_nbthd/playlist.m
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="Thairath.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH HD สำรอง
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-id="AmarinTV.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD
+#EXTINF:-1 tvg-id="amarintv.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AmarinTV.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD สำรอง
+#EXTINF:-1 tvg-id="amarintv.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD สำรอง
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="One31.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv31_onehd/playlist.m3u8
@@ -58,7 +58,7 @@ http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv24_true4u/playli
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv25_gmmchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="GMM25.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25 สำรอง
 http://27.254.130.64/live01/ch11.m3u8?p=st
-#EXTINF:-1 tvg-id="" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
+#EXTINF:-1 tvg-id="channel8.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
 http://stream.rs.co.th/ch8-hi/index.m3u8
 #EXTINF:-1 tvg-id="TNN24.th" group-title="ทีวีไทย"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN24
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv16_tnn24/playlist.m3u8
@@ -103,13 +103,13 @@ https://www.doofree88.com/streaming/hd-tfilm_720/index.m3u8
 https://www.doofree88.com/streaming/hd-tfilm2_720/index.m3u8
 #EXTINF:-1 tvg-id="TrueFilmAsia.th"group-title="หนัง"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/sd-filmasia.png",Truefilm ASIA
 https://www.doofree88.com/streaming/sd-filmasia_480/index.m3u8
-#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/axn.png",AXN
+#EXTINF:-1 tvg-id="axn.th"group-title="หนัง"tvg-logo="https://teevee-hd.com/img/axn.png",AXN
 https://www.doofree88.com/streaming/hd-axn_720/index.m3u8
 #EXTINF:-1 tvg-id="FoxActionMovies.th"group-title="หนัง"tvg-logo="https://www.doofree88.com/storage/live/fox-action-movies-th.png",FOX ACTION Movies 
 https://www.doofree88.com/streaming/hd-foxaction_720/index.m3u8
 #EXTINF:-1 tvg-id="FoxMovies.th"group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Fox Moviess HD
 https://www.doofree88.com/streaming/hd-fox_720/index.m3u8
-#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Fox Moviess Premium
+#EXTINF:-1 tvg-id="FoxMovies.th"group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Fox Moviess Premium
 https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
 #EXTINF:-1 tvg-id="FoxFamilyMovies.th"group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxfamily.png",Fox family Movies
 https://www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8
@@ -117,11 +117,11 @@ https://www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8
 https://www.doofree88.com/streaming/sd-fox_720/index.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime TH
 https://www.doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8
-#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/fxhd.png",FX HD
+#EXTINF:-1 tvg-id=""group-title="หนัง"tvg-logo="https://teevee-hd.com/img/fxhd.png",FX HD
 https://www.doofree88.com/streaming/hd-fxeng_480/index.m3u8
-#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxlife.png",Foxlife
+#EXTINF:-1 tvg-id=""group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxlife.png",Foxlife
 https://www.doofree88.com/streaming/hd-foxlife_720/index.m3u8
-#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill
+#EXTINF:-1 tvg-id=""group-title="หนัง"tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill
 https://www.doofree88.com/streaming/sd-thrill_480/index.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201707091324071763565202.jpg",Star chinese Moviess
 https://www.doofree88.com/streaming/sd-starchinesechannel_480/index.m3u8
@@ -139,7 +139,7 @@ http://iliketot.dyndns.tv/205930751d5743e2be719ed1dff8970f.m3u8?wmsAuthSign=c2Vy
 https://www.doofree88.com/streaming/sd-znung_480/index.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201804041103021708743536.jpg",CCM
 https://www.doofree88.com/streaming/sd-celestial_480/index.m3u8
-#EXTINF:-1 group-title="หนัง"tvg-logo="http://image.free.in.th/v/2013/ic/180708120008.jpg",Channel8
+#EXTINF:-1 tvg-id=""group-title="หนัง"tvg-logo="http://image.free.in.th/v/2013/ic/180708120008.jpg",Channel8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="http://image.free.in.th/v/2013/il/180806015437.jpg",Thai CCTV
 http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
@@ -162,25 +162,25 @@ https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/ch
 
 
 
-#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY
+#EXTINF:-1 tvg-id="historychannel.th"group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY
 https://www.doofree88.com/streaming/hd-history_720/index.m3u8
-#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
+#EXTINF:-1 tvg-id="history2.th"group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
 https://www.doofree88.com/streaming/hd-history2_720/index.m3u8
-#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY
+#EXTINF:-1 tvg-id="discovery.th"group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY
 https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
-#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",TRUE EXPLORE SCI
+#EXTINF:-1 tvg-id="trueexploresci.th"group-title="สารคดี"tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",TRUE EXPLORE SCI
 https://www.doofree88.com/streaming/sd-expsci_480/index.m3u8
-#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natwild.png",NATGEO WILD 
+#EXTINF:-1 tvg-id=""group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natwild.png",NATGEO WILD 
 https://www.doofree88.com/streaming/hd-natgeowild_720/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.th"group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC TH
 https://www.doofree88.com/streaming/hd-natgeo_720/index.m3u8
-#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natpeople.png",NATGEO PEOPLE
+#EXTINF:-1 tvg-id=""group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/natpeople.png",NATGEO PEOPLE
 https://www.doofree88.com/streaming/hd-natgeopeople_720/index.m3u8
-#EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
+#EXTINF:-1 tvg-id="animalplanet.th"group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
 https://www.doofree88.com/streaming/sd-animalplaneteng_480/index.m3u8
-#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg",SAMRUJLOK
+#EXTINF:-1 tvg-id=""group-title="สารคดี"tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg",SAMRUJLOK
 https://live.mawintv2.com/sumrujlok_goodtv/chunklist.m3u8
-#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BCC EARTH
+#EXTINF:-1 tvg-id="bbcearth.th"group-title="สารคดี"tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BCC EARTH
 https://www.doofree88.com/streaming/sd-bbcearth_720/index.m3u8
 
 #EXTINF:-1 group-title="บันเทิง"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/sd-mtvchina.png",MTV MUSIC
@@ -202,7 +202,7 @@ http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="บันเทิง"tvg-logo="https://www.doohdbox.com/assets/201707121010421211349166.jpg",สบายดี ทีวี
 https://www.doofree88.com/streaming/sd-sabaidee_480/index.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Network TH"group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK 
+#EXTINF:-1 tvg-id="cartoonnetwork.th"group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK 
 https://www.doofree88.com/streaming/sd-cartoonnetwork_480/index.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.stickpng.com/assets/images/589a41e25aa6293a4aac48ab.png",CARTOON NETWORK UAE
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
@@ -310,11 +310,11 @@ https://www.doofree88.com/streaming/hd-nba_720/index.m3u8
 https://www.doofree88.com/streaming/hd-tennis_720/index.m3u8
 #EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/golf.png",Golf channel
 https://www.doofree88.com/streaming/hd-golf_720/index.m3u8
-#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/foxsport1.png",FOX SPORTS 1 
+#EXTINF:-1 tvg-id="foxsports.th"group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/foxsport1.png",FOX SPORTS 1 
 http://cdn105.stm.trueid.net:80/live6/ht003_th_m_high_tidapp.smil/chunklist_b2603315_slth.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=L8MgcyI%2BYoBDqmtHlnD9Pad0Yt4A7ibhXLxwDEVhl4NCNW01Kx2PSIgAbr%2B5EvsEH5lmEanZ5RncRU6jNS99N5SuauDIXQ9zf7evjEyV1T86OnyelDd8HvDNOc%2BRkUgFeh8
-#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2 
+#EXTINF:-1 tvg-id="foxsport2.th"group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2 
 http://iliketot.dyndns.tv/1fd48f2cd616439ca4162478e572d681.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOCAzOjMyOjEyIEFNJmhhc2hfdmFsdWU9ek5zQWd0TmZmbHFvQXZZYTNoYlo5UT09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDR8OTExfGlwdHZoZXJvfDE1MzkzMTUxMzJ8MS40Ni45OS4xNDk=
-#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3 
+#EXTINF:-1 tvg-id="foxsport3.th"group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3 
 http://iliketot.dyndns.tv/b254601a75724ad79e2633f3d307e331.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOCAzOjMyOjEyIEFNJmhhc2hfdmFsdWU9ek5zQWd0TmZmbHFvQXZZYTNoYlo5UT09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDR8OTExfGlwdHZoZXJvfDE1MzkzMTUxMzJ8MS40Ni45OS4xNDk=
 #EXTINF:-1 group-title="กีฬา"tvg-logo="https://www.doohdbox.com/assets/201707081423451786051871.jpg",T-SPORT
 https://www.doofree88.com/streaming/sd-tsports_480/index.m3u8
