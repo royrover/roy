@@ -192,7 +192,7 @@ https://live.mawintv2.com/sumrujlok_goodtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbcearth.th"group-title="สารคดี"tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BCC EARTH
 https://www.doofree88.com/streaming/sd-bbcearth_720/index.m3u8
 
-#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/sd-mtvchina.png",MTV MUSIC
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlNaYvbFEBe_CRIweJ-EXZXOZh-4gQVL4nDh-Gc2hIq4Uocj6ZSg&s",MTV MUSIC
 https://www.doofree88.com/streaming/sd-mtvasia_480/index.m3u8
 #EXTINF:-1 group-title="บันเทิง"tvg-logo="https://teevee-hd.com/img/mtvlive.png",MTV LIVE
 https://www.doofree88.com/streaming/hd-mtvlive_720/index.m3u8
@@ -300,7 +300,7 @@ http://skdn.redi-vo.com/iptv/ch522?code=103131497823984&key=52241
 
 
 #EXTINF:-1 tvg-id="TrueSport1.th"group-title="กีฬา"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/hd-tsport1.png",TRUESPORT HD
-https://www.doofree88.com/streaming/hd-tsport1_720/index.m3u8
+http://cdn106.stm.trueid.net:80/live6/097_th_m_high_tidapp.smil/chunklist_b2603315_slth.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=lWc3LfuYfNuMp6I13vbunOhy990xb%2F6PGYy5q4emTAssYuyvFK2ifSjCOzr3f09Vznw56nZKruMrghIN%2BfSuTA22Un9oyjwuFp%2B3bZbVtJU6OgvTRgtz%2B6OFHgu6QwEcWks
 #EXTINF:-1 tvg-id="TrueSport2.th"group-title="กีฬา"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/hd-tsport2.png",TRUESPORT HD2
 https://www.doofree88.com/streaming/hd-tsport2_720/index.m3u8
 #EXTINF:-1 tvg-id="TrueSport3.th"group-title="กีฬา"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/hd-tsport3.png",TRUESPORT HD3
@@ -407,8 +407,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",100 AUTOMOTO TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",CBC SPORT
-http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="กีฬา",STADIUM
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
