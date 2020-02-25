@@ -207,35 +207,37 @@ http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="บันเทิง"tvg-logo="https://www.doohdbox.com/assets/201707121010421211349166.jpg",สบายดี ทีวี
 http://iliketot.dyndns.tv/b9bedb1b0539456dbc84542cf2ebca7b.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
-#EXTINF:-1 tvg-id="cartoonnetwork.th"group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK 
+#EXTINF:-1 tvg-id="cartoonnetwork.th"group-title="KIDS"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK 
 https://www.doofree88.com/streaming/sd-cartoonnetwork_480/index.m3u8
-#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.stickpng.com/assets/images/589a41e25aa6293a4aac48ab.png",CARTOON NETWORK UAE
+#EXTINF:-1 group-title="KIDS"tvg-logo="https://www.stickpng.com/assets/images/589a41e25aa6293a4aac48ab.png",CARTOON NETWORK UAE
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1 tvg-id="TrueSparkJump.th"group-title="การ์ตูน"tvg-logo="https://i.pinimg.com/474x/42/b0/a5/42b0a53eedfd1b9d18f1931635de29ca.jpg",TRUE SPARK JUMP
+#EXTINF:-1 tvg-id="TrueSparkJump.th"group-title="KIDS"tvg-logo="https://i.pinimg.com/474x/42/b0/a5/42b0a53eedfd1b9d18f1931635de29ca.jpg",TRUE SPARK JUMP
 https://www.doofree88.com/streaming/sd-sparkjump_480/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.th"group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DisneyChannel.th"group-title="KIDS"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
 https://www.doofree88.com/streaming/sd-disney_480/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.th"group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
+#EXTINF:-1 tvg-id="DisneyXD.th"group-title="KIDS"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
 https://www.doofree88.com/streaming/hd-disneyxd_720/index.m3u8
-#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick jr TH
+#EXTINF:-1 group-title="KIDS"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick jr TH
 https://www.doofree88.com/streaming/sd-nickjr_480/index.m3u8
-#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/babytv.png",Baby TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://x1.cdn.broiptv.online/img/nickelodeon.png" group-title="KIDS", Nickelodeon
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_1000000=8-mp4a_98800_eng=4.m3u8
+#EXTINF:-1 group-title="KIDS"tvg-logo="https://teevee-hd.com/img/babytv.png",Baby TV
 https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV-avc1_2499968=10-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://imgcloud.fwiptv.cc/postor/2019032506051812377635_206785022990745_2323450990199693871_o.jpg",MIAO MI
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://imgcloud.fwiptv.cc/postor/2019032506051812377635_206785022990745_2323450990199693871_o.jpg",MIAO MI
 https://www.doofree88.com/streaming/sd-miaomi_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="การ์ตูน", 哈哈炫动
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="KIDS", 哈哈炫动
 http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
- #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="การ์ตูน", 卡酷少儿
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="KIDS", 卡酷少儿
 http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/201707071723021769536352.jpg",CARTOON CLUB
+#EXTINF:-1 group-title="KIDS"tvg-logo="https://www.doohdbox.com/assets/201707071723021769536352.jpg",CARTOON CLUB
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/cartoonclub.smil/playlist.m3u8
-#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg",GANG CARTOON
+#EXTINF:-1 group-title="KIDS"tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg",GANG CARTOON
 http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
-#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",BOOMERANG
+#EXTINF:-1 group-title="KIDS"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",BOOMERANG
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/boomerang.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/axvewxY.png" group-title="การ์ตูน",Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-id="DisneyJr.th"group-title="การ์ตูน"tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",Disney Junior
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/axvewxY.png" group-title="KIDS",Animax
+https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8?
+#EXTINF:-1 tvg-id="DisneyJr.th"group-title="KIDS"tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 
