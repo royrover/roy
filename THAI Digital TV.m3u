@@ -3,16 +3,16 @@
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 26.2.2020", Last Update: 26.2.2020
 http://tiny.cc/d69fjz
 
-#EXTINF:-1 tvg-id="channel3.th" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 FHD
-http://103.120.113.90:1935/psilive1a/3HD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="channel3.th" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="channel3.th" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD BKP
 https://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/ch5.png",5 FHD 
-http://103.120.113.90:1935/psilive1a/5HD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD 
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD BKP
 http://61.91.12.34:1935/live/tv5streaming_720p/chunklist_w1246231467.m3u8
-#EXTINF:-1 tvg-id="channel7.th" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/ch7.png",7 FHD             	
-http://103.120.113.90:1935/psilive1a/7HD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="channel7.th" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD             	
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="channel7.th" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD BKP
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
@@ -27,12 +27,12 @@ http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="Thairath.th" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH HD BKP
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-id="amarintv.th" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN FHD
-http://103.120.113.90:1935/psilive1a/AmarinHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="amarintv.th" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="amarintv.th" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD BKP
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
-#EXTINF:-1 tvg-id="One31.th" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE FHD
-http://103.120.113.90:1935/psilive1a/OneHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="One31.th" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="One31.th" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD BKP
 http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PPTV.th" group-title="TV Digital"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
