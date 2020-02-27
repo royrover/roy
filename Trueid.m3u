@@ -157,3 +157,131 @@ http://cdn856.stm.trueid.net/live3/007_th_m_high_tidapp.smil/playlist.m3u8
 http://cdn856.stm.trueid.net/live3/101_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/01393493-1e29-4eb5-869b-1bd3e60b7b76.png",Cartoon Network
 http://cdn856.stm.trueid.net/live2/192_th_m_high_tidapp.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/epl-1.png",True Premiere 1
+http://103.208.24.234:1935/thaisport/epl-1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/epl-2.png",TruePremiere 2
+http://103.208.24.234:1935/thaisport/epl-2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/epl-3.png",TruePremiere 3
+http://103.208.24.234:1935/thaisport/epl-3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/epl-4.png",TruePremiere 4
+http://103.208.24.234:1935/thaisport/epl-4.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/epl-5.png",TruePremiere 5
+http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/epl-bein1.png",Bein Sports 1
+https://live.we-play.tv:443/live/bein1/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/epl-bein2.png",Bein Sports 2
+https://live.we-play.tv:443/live/bein2/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-tsport1.png",True Sport HD1
+https://live.we-play.tv:443/live/thd1/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-tsport2.png",True Sport HD2
+https://live.we-play.tv:443/live/thd2/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-tsport3.png",True Sport HD3
+https://live.we-play.tv:443/live/thd3/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-tsport2.png",True Sport 2
+https://live.we-play.tv:443/live/tsp2/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-tsport5.png",True Sport 5
+https://live.we-play.tv:443/live/tsp5/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-tsport6.png",True Sport 6
+https://live.we-play.tv:443/live/tsp6/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-tsport7.png",True Sport 7
+https://live.we-play.tv:443/live/tsp7/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-tennis.png",True Tennis HD
+https://live.we-play.tv:443/live/tennis/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-golf.png",Golf Channel
+https://live.we-play.tv:443/live/golf/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-nba.png",NBA HD
+https://live.we-play.tv:443/live/nba/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 tvg-id="foxsports.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport1.png",FOX SPORTS 1 TH
+http://160.119.77.50/iptv/hd-foxsports1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="foxsport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2 TH
+http://160.119.77.50/iptv/sd-foxsports2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="foxsport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3 TH
+http://160.119.77.50/iptv/sd-foxsports3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="foxsports.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport1.png",FOX SPORTS 1 EN
+http://160.119.77.50/iptv/hd-foxsports1eng.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="foxsport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2 EN
+http://160.119.77.50/iptv/hd-foxsports2eng.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="foxsport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3 EN
+http://160.119.77.50/iptv/hd-foxsports3eng.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/020818015218fox.png",Fox Sports1 NL
+https://live.we-play.tv:443/live/fox1nl/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/020818015250fox2.png",Fox Sports2 NL
+https://live.we-play.tv:443/live/fox2nl/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/020818015309fox3.png",Fox Sports3 NL
+https://live.we-play.tv:443/live/fox3nl/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/020818015328fox4.png",Fox Sports4 NL
+https://live.we-play.tv:443/live/fox4nl/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-skynetsportshd.png",Skynet Sport HD
+https://live.we-play.tv:443/live/outdoor/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-skynetsportsplus.png",Skynet Sport Plus
+https://live.we-play.tv:443/live/skynetplus/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-skynetsports1.png",Skynet Sport 1
+https://live.we-play.tv:443/live/skynet1/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-skynetsports2.png",Skynet Sport 2
+https://live.we-play.tv:443/live/skynet2/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-skynetsports3.png",Skynet Sport 3
+https://live.we-play.tv:443/live/skynet3/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-skynetsports4.png",Skynet Sport 4
+https://live.we-play.tv:443/live/skynet4/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-skynetsports5.png",Skynet Sport 5
+https://live.we-play.tv:443/live/skynet5/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-skynetsports6.png",Skynet Sport 6
+https://live.we-play.tv:443/live/skynet6/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro1.png",Astro Super Sport1
+https://live.we-play.tv:443/live/astro1/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro2.png",Astro Super Sport2
+https://live.we-play.tv:443/live/astro2/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro3.png",Astro Super Sport3
+https://live.we-play.tv:443/live/astro3/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro4.png",Astro Super Sport4
+https://live.we-play.tv:443/live/astro4/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://hytham.net/logo/Arena%20Sport%201.png",Arena Sports1
+https://live.we-play.tv:443/live/arenasport1/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://hytham.net/logo/Arena%20Sport%202.png",Arena Sports2
+https://live.we-play.tv:443/live/arenasport2/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://hytham.net/logo/Arena%20Sport%203.png",Arena Sports3
+https://live.we-play.tv:443/live/arenasport3/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://hytham.net/logo/Arena%20Sport%204.png",Arena Sports4
+https://live.we-play.tv:443/live/arenasport4/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-fightsports.png",Fight Sports
+https://live.we-play.tv:443/live/fight/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/wwe.jpg",WWE 
+https://live.we-play.tv:443/live/wwe/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/uk-mutv.png",MUTV
+https://live.we-play.tv:443/live/mutv/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/uk-lfctv.png",LFCTV
+https://live.we-play.tv:443/live/lfctv/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.tededsport.com/wp-content/uploads/2019/09/sporttv1.png",Sport TV1
+https://live.we-play.tv:443/live/sporttv1/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.tededsport.com/wp-content/uploads/2019/09/sporttv2.png",Sport TV2
+https://live.we-play.tv:443/live/sporttv2/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.tededsport.com/wp-content/uploads/2019/09/sporttv3.png",Sport TV3
+https://live.we-play.tv:443/live/sporttv3/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.tededsport.com/wp-content/uploads/2019/09/sporttv4.png",Sport TV4
+https://live.we-play.tv:443/live/sporttv4/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.tededsport.com/wp-content/uploads/2019/09/btsport1.png",BT Sport1
+https://live.we-play.tv:443/live/btsport1/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.tededsport.com/wp-content/uploads/2019/09/btsport2.png",BT Sport2
+https://live.we-play.tv:443/live/btsport2/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.tededsport.com/wp-content/uploads/2019/09/btsport3.png",BT Sport3
+https://live.we-play.tv:443/live/btsport3/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-bein1.png",Bein Sport 1 Arab
+https://live.we-play.tv:443/live/bein1inter/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-bein2.png",Bein Sport 2 Arab
+https://live.we-play.tv:443/live/bein2inter/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-bein3.png",Bein Sport 3 Arab
+https://live.we-play.tv:443/live/bein3inter/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-bein4.png",Bein Sport 4 Arab
+https://live.we-play.tv:443/live/bein4inter/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-bein5.png",Bein Sport 5 Arab
+https://live.we-play.tv:443/live/bein5inter/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/usa-nfl.jpg",NFL
+https://live.we-play.tv:443/live/nfl/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/nbcsn.jpg",NBCSN 
+https://live.we-play.tv:443/live/nbcsn/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-espn.png",ESPN
+https://live.we-play.tv:443/live/espn/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-eurosport.png",Eurosports
+https://live.we-play.tv:443/live/eurosport/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
