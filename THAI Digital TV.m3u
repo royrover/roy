@@ -90,7 +90,7 @@ http://cdn856.stm.trueid.net/live1/222_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO HD
 http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO
-https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
+https://live.we-play.tv:443/live/red/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO HITS
 https://www.doofree88.com/streaming/sd-moviehits_480/index.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO SIGNATURE
@@ -335,7 +335,7 @@ http://160.119.77.50/iptv/sd-tsport7.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="truetennis.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tennis.png",Tennis HD
 http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=""group-title="Sports"tvg-logo="https://teevee-hd.com/img/golf.png",Golf channel
+#EXTINF:-1 tvg-id=""group-title="Sports"tvg-logo="https://teevee-hd.com/img/golf.png",Golf Channel
 http://160.119.77.50/iptv/hd-golf.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="foxsports.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport1.png",FOX SPORTS 1 TH
 http://160.119.77.50/iptv/hd-foxsports1.stream/playlist.m3u8
@@ -435,9 +435,6 @@ http://160.119.77.50/iptv/rs-arena2.stream/playlist.m3u8
 http://160.119.77.50/iptv/rs-arena3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/rs-arena4.png",Arena4
 http://160.119.77.50/iptv/rs-arena4.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/rs-arena5.png",Arena5
-http://160.119.77.50/iptv/rs-arena5.stream/playlist.m3u8
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png",Bein Sport 1 France
 http://160.119.77.50/iptv/fr-bein1hd.stream/playlist.m3u8
@@ -445,40 +442,27 @@ http://160.119.77.50/iptv/fr-bein1hd.stream/playlist.m3u8
 http://160.119.77.50/iptv/fr-bein2hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png",Bein Sport 3 France
 http://160.119.77.50/iptv/fr-bein3hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein1.png",BEIN1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein1.png",BEIN 01
 http://160.119.77.50/iptv/hd-bein1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein2.png",BEIN2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein2.png",BEIN 02
 http://160.119.77.50/iptv/hd-bein2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein3.png",BEIN3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein3.png",BEIN 03
 http://160.119.77.50/iptv/hd-bein3.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein4.png",BEIN4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein4.png",BEIN 04
 http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein5.png",BEIN5
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein5.png",BEIN 05
 http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein6.png",BEIN6
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein6.png",BEIN 06
 http://160.119.77.50/iptv/hd-bein6.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein7.png",BEIN7
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein7.png",BEIN 07
 http://160.119.77.50/iptv/hd-bein7.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein8.png",BEIN8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein8.png",BEIN 08
 http://160.119.77.50/iptv/hd-bein8.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein9.png",BEIN9
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein9.png",BEIN 09
 http://160.119.77.50/iptv/hd-bein9.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein10.png",BEIN10
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein10.png",BEIN 10
 http://160.119.77.50/iptv/hd-bein10.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSports11.qa" tvg-logo="http://logo.ddnb.tn/logochanel/512.png" group-title="Sports",Bein 11 HD
-http:\\iptvpro.premium-itv.com:8789\ahmed\1234\24977
-#EXTINF:-1 tvg-id="beINSports12.qa" tvg-logo="http://logo.ddnb.tn/logochanel/513.png" group-title="Sports",Bein 12 HD
-http:\\skdn.redi-vo.com\iptv\ch513?code=103131497823984&key=55186
-#EXTINF:-1 tvg-id="beINSports13.qa" tvg-logo="http://logo.ddnb.tn/logochanel/514.png" group-title="Sports",Bein 13 HD
-http:\\iptvpro.premium-itv.com:8789\ahmed\1234\21202
-#EXTINF:-1 tvg-id="beINSports14.qa" tvg-logo="http://logo.ddnb.tn/logochanel/515.png" group-title="Sports",Bein 14 HD
-http:\\iptvpro.premium-itv.com:8789\ahmed\1234\21201
-#EXTINF:-1 tvg-id="beINSports15.qa" tvg-logo="http://logo.ddnb.tn/logochanel/516.png" group-title="Sports",Bein 15 HD
-http:\\iptvpro.premium-itv.com:8789\ahmed\1234\21200
-#EXTINF:-1 tvg-id="beINSports16.qa" tvg-logo="http://logo.ddnb.tn/logochanel/517.png" group-title="Sports",Bein 16 HD
-http:\\iptvpro.premium-itv.com:8789\ahmed\1234\21199
-
-#EXTINF:-1 tvg-id=""group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/522.png",BeInSport NBA HD
+#EXTINF:-1 tvg-id=""group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/522.png",BEIN NBA HD
 http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
 
 
