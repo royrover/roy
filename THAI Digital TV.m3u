@@ -267,6 +267,36 @@ https://edge1a.v2h-cdn.com/appt3/five.stream_720p/chunklist_w1616935929.m3u8
 #EXTINF:-1 group-title="Music"tvg-logo="http://thaiip.tv/tvlogo2/hmong.png",MVTV Hmong
 https://edge1a.v2h-cdn.com/appt7/MHONG.stream_360p/chunklist_w839479703.m3u8
 
+
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://www.adintrend.tv/images/radio/94x.jpg",Chill FM
+http://real4.atimemedia.com/chill
+#EXTINF:-1group-title="Radio" tvg-logo="http://image.free.in.th/v/2013/ij/180713075126.gif",GREENWAVE
+http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Radio"tvg-logo="https://www.adintrend.tv/images/radio/96x.jpg",96Sport radio
+http://110.164.48.215:8000/smmradio
+#EXTINF:-1 group-title="Radio"tvg-logo="https://www.adintrend.tv/images/radio/93x.jpg",Cool 93FM
+http://111.223.51.7:8100/;stream/1    
+#EXTINF:-1 group-title="Radio"tvg-logo="https://www.adintrend.tv/images/radio/105.5x.jpg",Eazy fm
+https://wzedge1.becteroradio.com/Eazy/Eazy-Listen-High/chunklist_w1159801034.m3u8
+#EXTINF:-1 group-title="Radio"tvg-logo="https://www.adintrend.tv/images/radio/95x.jpg",Fm 95 looktung        
+https://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/chunklist_w2109631206.m3u8
+#EXTINF:-1 group-title="Radio"tvg-logo="https://www.adintrend.tv/images/radio/95.5x.jpg",Virgin Hitz
+https://wzedge1.becteroradio.com/Hitz/Hitz-Listen-High/chunklist_w1373688195.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/99x.jpg",fm99 Active Radio
+https://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/chunklist_w1668071839.m3u8
+#EXTINF:-1 group-title="Radio"tvg-logo="https://www.adintrend.tv/images/radio/96.5x.jpg",96.5 คลื่นความคิด
+https://mcotdigital-9ksau4.cdn.byteark.com/RadioLive/smil:fm965_live.smil/chunklist_w673711091_b500000.m3u8
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/97.5x.jpg",97.5 FM Seed FM
+https://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/chunklist_w1644975532.m3u8
+#EXTINF:-1 group-title="Radio"tvg-logo="https://www.adintrend.tv/images/radio/100x.jpg",จส.100 (js100)
+http://112.121.151.133:8184/;&type=mp3
+#EXTINF:-1 group-title="Radio"tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/met.png",met107
+https://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/chunklist_w136409516.m3u8
+#EXTINF:-1 group-title="Radio"tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mitikao905.png",มิติข่าว 90.5
+http://live3.smartbomb.co.th:8624/stream/1/
+
+
+
 #EXTINF: -1 tvg-id="" group-title="KIDS"tvg-logo="https://imgur.com/axvewxY.png", Animax
 http://kodinew.dyndns.tv:9981/stream/channelid/1468536448?ticket=CC482188B4B4C1206C0F6217AA212075E0CE7775&profile=pass
 #EXTINF:-1 tvg-id="cartoonnetwork.th"group-title="KIDS"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK 
