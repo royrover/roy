@@ -177,11 +177,13 @@ https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 #EXTINF:-1 tvg-id="discovery.th"group-title="Documentary"tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY EN
 http://160.119.77.50/iptv/hd-discoveryeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="trueexploresci.th"group-title="Documentary"tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",TRUE EXPLORE SCI
-http://kodinew.dyndns.tv:9981/stream/channelid/1208956943?ticket=4BAA06DD175728F80AA7ABAD51843049F9D013AC&profile=pass
+http://cdn856.stm.trueid.net/live4/061_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/88fdbeeb-ffbb-477f-aa10-299fde2a3707.png",True Explore Life
+http://cdn856.stm.trueid.net/live4/060_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Documentary"tvg-logo="https://teevee-hd.com/img/natwild.png",NATGEO WILD 
-http://kodinew.dyndns.tv:9981/stream/channelid/1234553645?ticket=E88E0D7658780EEF7B4E8DA933543751AC5AD92D&profile=pass
+http://cdn856.stm.trueid.net/live3/058_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.th"group-title="Documentary"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC 
-http://kodinew.dyndns.tv:9981/stream/channelid/714600999?ticket=0956E947452A09CA4CC085EEDE4BC6E42E18D07B&profile=pass
+http://cdn856.stm.trueid.net/live2/116_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Documentary"tvg-logo="https://teevee-hd.com/img/natpeople.png",NATGEO PEOPLE
 http://kodinew.dyndns.tv:9981/stream/channelid/1741038590?ticket=EF94AC301FE7E1965BA7982010C04AA4D6A362BE&profile=pass
 #EXTINF:-1 tvg-id="animalplanet.th"group-title="Documentary"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
@@ -190,6 +192,7 @@ http://ktuiptvapp.com/movietset/liveTv/sport/animalplanetworldhdeng.m3u8
 https://live.we-play.tv:443/live/samruajlok/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbcearth.th"group-title="Documentary"tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BCC EARTH
 http://kodinew.dyndns.tv:9981/stream/channelid/814866876?ticket=40434F7E9307FC44E03BA98C5D897021DABF3D91&profile=pass
+
 #EXTINF:-1 group-title="Music"tvg-logo="https://teevee-hd.com/img/mtvlive.png",MTV LIVE
 http://kodinew.dyndns.tv:9981/stream/channelid/859415194?ticket=B94F022535096FDA0AD42C8281373F3FDBD042FC&profile=pass
 #EXTINF:-1 group-title="Music"tvg-logo="https://teevee-hd.com/img/mtvchina.png",MTV China
@@ -210,6 +213,8 @@ https://edge1a.v2h-cdn.com/appt7/MVTV.stream_720p/chunklist_w1224574036.m3u8
 https://edge1a.v2h-cdn.com/appt3/five.stream_720p/chunklist_w1616935929.m3u8
 #EXTINF:-1 group-title="Music"tvg-logo="http://thaiip.tv/tvlogo2/hmong.png",MVTV Hmong
 https://edge1a.v2h-cdn.com/appt7/MHONG.stream_360p/chunklist_w839479703.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",True Music HD
+http://cdn856.stm.trueid.net/live2/159_th_m_high_tidapp.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Radio"  tvg-logo="https://www.adintrend.tv/images/radio/94x.jpg",Chill FM
