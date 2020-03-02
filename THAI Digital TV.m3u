@@ -86,7 +86,7 @@ http://cdn856.stm.trueid.net/live4/211_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/paramount.png",Paramount CHANNEL
 http://cdn856.stm.trueid.net/live1/222_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO HD
-http://ktu.ktuiptvapp.com/livetv/ktuiptv-2229.m3u8
+http://103.22.181.99:8081/youlike/hbohd/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO
 https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO HITS
@@ -258,7 +258,6 @@ http://cdn856.stm.trueid.net/live3/101_th_m_high_tidapp.smil/playlist.m3u8
 http://160.119.77.50/iptv/sd-disney.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.th"group-title="KIDS"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
 http://160.119.77.50/iptv/hd-disneyxd.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="KIDS"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick jr TH
 http://160.119.77.50/iptv/sd-nickjr.stream/playlist.m3u8
 
