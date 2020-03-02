@@ -177,7 +177,7 @@ https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 #EXTINF:-1 tvg-id="discovery.th"group-title="Documentary"tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY EN
 http://160.119.77.50/iptv/hd-discoveryeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="trueexploresci.th"group-title="Documentary"tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",TRUE EXPLORE SCI
-https://www.doofree88.com/streaming/sd-expsci_480/index.m3u8
+http://kodinew.dyndns.tv:9981/stream/channelid/1208956943?ticket=4BAA06DD175728F80AA7ABAD51843049F9D013AC&profile=pass
 #EXTINF:-1 tvg-id=""group-title="Documentary"tvg-logo="https://teevee-hd.com/img/natwild.png",NATGEO WILD 
 http://kodinew.dyndns.tv:9981/stream/channelid/1234553645?ticket=E88E0D7658780EEF7B4E8DA933543751AC5AD92D&profile=pass
 #EXTINF:-1 tvg-id="NationalGeographic.th"group-title="Documentary"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC 
@@ -189,8 +189,7 @@ http://ktuiptvapp.com/movietset/liveTv/sport/animalplanetworldhdeng.m3u8
 #EXTINF:-1 tvg-id=""group-title="Documentary"tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg",SAMRUJLOK
 https://live.we-play.tv:443/live/samruajlok/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbcearth.th"group-title="Documentary"tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BCC EARTH
-https://www.doofree88.com/streaming/sd-bbcearth_720/index.m3u8
-
+http://kodinew.dyndns.tv:9981/stream/channelid/814866876?ticket=40434F7E9307FC44E03BA98C5D897021DABF3D91&profile=pass
 #EXTINF:-1 group-title="Music"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlNaYvbFEBe_CRIweJ-EXZXOZh-4gQVL4nDh-Gc2hIq4Uocj6ZSg&s",MTV MUSIC
 https://www.doofree88.com/streaming/sd-mtvasia_480/index.m3u8
 #EXTINF:-1 group-title="Music"tvg-logo="https://teevee-hd.com/img/mtvlive.png",MTV LIVE
@@ -223,7 +222,7 @@ http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
 http://110.164.48.215:8000/smmradio
 #EXTINF:-1 group-title="Radio"tvg-logo="https://www.adintrend.tv/images/radio/93x.jpg",Cool 93FM
 http://111.223.51.7:8100/;stream/1    
-#EXTINF:-1 group-title="Radio"tvg-logo="https://www.adintrend.tv/images/radio/105.5x.jpg",Eazy fm
+#EXTINF:-1 group-title="Radio"tvg-logo="https://www.adintrend.tv/images/radio/105.5x.jpg",Eazy FM
 https://wzedge1.becteroradio.com/Eazy/Eazy-Listen-High/chunklist_w1159801034.m3u8
 #EXTINF:-1 group-title="Radio"tvg-logo="https://www.adintrend.tv/images/radio/95x.jpg",Fm 95 looktung        
 https://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/chunklist_w2109631206.m3u8
@@ -231,15 +230,15 @@ https://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/chunkli
 https://wzedge1.becteroradio.com/Hitz/Hitz-Listen-High/chunklist_w1373688195.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/99x.jpg",fm99 Active Radio
 https://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/chunklist_w1668071839.m3u8
-#EXTINF:-1 group-title="Radio"tvg-logo="https://www.adintrend.tv/images/radio/96.5x.jpg",96.5 คลื่นความคิด
+#EXTINF:-1 group-title="Radio"tvg-logo="https://www.adintrend.tv/images/radio/96.5x.jpg",96.5 FM
 https://mcotdigital-9ksau4.cdn.byteark.com/RadioLive/smil:fm965_live.smil/chunklist_w673711091_b500000.m3u8
 #EXTINF:-1 group-title="Radio"tvg-logo="https://www.adintrend.tv/images/radio/97.5x.jpg",97.5 FM Seed FM
 https://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/chunklist_w1644975532.m3u8
-#EXTINF:-1 group-title="Radio"tvg-logo="https://www.adintrend.tv/images/radio/100x.jpg",จส.100 (js100)
+#EXTINF:-1 group-title="Radio"tvg-logo="https://www.adintrend.tv/images/radio/100x.jpg",JS.100 (js100)
 http://112.121.151.133:8184/;&type=mp3
 #EXTINF:-1 group-title="Radio"tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/met.png",met107
 https://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/chunklist_w136409516.m3u8
-#EXTINF:-1 group-title="Radio"tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mitikao905.png",มิติข่าว 90.5
+#EXTINF:-1 group-title="Radio"tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mitikao905.png",mitikao 90.5
 http://live3.smartbomb.co.th:8624/stream/1/
 
 
