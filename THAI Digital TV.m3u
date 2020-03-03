@@ -79,8 +79,14 @@ http://cdn856.stm.trueid.net/live3/027_th_m_high_tidapp.smil/playlist.m3u8
 http://host4.dynns.com/stream/1e2041858ca543fa90ec95d28197e907.m3u8
 #EXTINF:-1 group-title="News"tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/5/NHK_WORLD_TV_LOGO_highres.jpg",NHK WORLD TV
 http://cdn856.stm.trueid.net/live4/211_th_m_high_tidapp.smil/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/622f7e14-4624-4454-a63f-0bd428c399b3.png",Russia Today
+http://cdn856.stm.trueid.net/live4/ca03_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/20757db0-4fb8-47ac-b112-e25ec5194084.png",Aljazeera News
+http://cdn856.stm.trueid.net/live4/o002_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/6f61f5c9-06af-4ae8-aefb-e7dccc73d2de.png",Australia Network
+http://cdn856.stm.trueid.net/live3/d24_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/f17c0c12-d66b-439e-b983-c3f7e0556518.png",BBC World News
+http://cdn856.stm.trueid.net/live1/193_th_m_high_tidapp.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/paramount.png",Paramount CHANNEL
@@ -197,6 +203,8 @@ https://live.we-play.tv:443/live/samruajlok/playlist.m3u8|Referer==https://www.w
 #EXTINF:-1 tvg-id="bbcearth.th"group-title="Documentary"tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BCC EARTH
 http://kodinew.dyndns.tv:9981/stream/channelid/814866876?ticket=40434F7E9307FC44E03BA98C5D897021DABF3D91&profile=pass
 
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",True Music HD
+http://cdn856.stm.trueid.net/live2/159_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music"tvg-logo="https://teevee-hd.com/img/mtvlive.png",MTV LIVE
 http://kodinew.dyndns.tv:9981/stream/channelid/859415194?ticket=B94F022535096FDA0AD42C8281373F3FDBD042FC&profile=pass
 #EXTINF:-1 group-title="Music"tvg-logo="https://teevee-hd.com/img/mtvchina.png",MTV China
