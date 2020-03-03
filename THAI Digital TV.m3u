@@ -103,9 +103,9 @@ http://tvla.xyz:80/Vuu0PTAm2/952YKbq8zd/1385929
 http://www.livedoomovies.com/02_HBOFamily_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Warner.th"group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
 http://cdn856.stm.trueid.net/live1/225_th_m_high_tidapp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TrueFilm.th"group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm hd 1
+#EXTINF:-1 tvg-id="TrueFilm.th"group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 1
 http://www.livedoomovies.com/02_TrueFilmHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TrueFilm2.th"group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm hd 2
+#EXTINF:-1 tvg-id="TrueFilm2.th"group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 2
 http://www.livedoomovies.com/02_TrueFilmHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2018/07/24/deaa6fbe-f139-40a9-925d-3c3ecdda15b2.jpg",True Thai Film
 http://cdn856.stm.trueid.net/live4/094_th_m_high_tidapp.smil/playlist.m3u8
@@ -173,6 +173,19 @@ http://27.254.130.61/live01/ch19.m3u8?p=st
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w501711662.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://static10.tgstat.ru/channels/_0/09/095c5346dea8fd055e86c3f04e9b5453.jpg",ZEE CINEMA
 http://kodinew.dyndns.tv:9981/stream/channelid/1809014838?ticket=F3D66A03B22ABB2A4372580F69E0DF6C31AAB2F2&profile=pass
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/52a5ede1-c512-4d3f-8f3b-be98eab041f2.png",True Thaithai
+http://cdn856.stm.trueid.net/live4/109_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",Mangkorn
+http://cdn856.stm.trueid.net/live4/o020_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",Lao Star
+http://cdn856.stm.trueid.net/live3/o062_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/4f31e906-6569-4cf0-a447-7f6438fda36b.png",MRTV4
+http://cdn856.stm.trueid.net/live4/o043_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/0c30b192-953b-49b9-a9bf-a4c6e3e71de3.png",True Shopping
+http://cdn856.stm.trueid.net/live3/218_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/28/a9490c72-7387-4409-b5a8-80db28585ca4.png",True Select
+http://cdn856.stm.trueid.net/live4/127_th_m_high_tidapp.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="historychannel.th"group-title="KNOLEDGE"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY TH
 http://cdn856.stm.trueid.net/live2/141_th_m_high_tidapp.smil/playlist.m3u8
@@ -229,8 +242,6 @@ https://edge1a.v2h-cdn.com/appt7/MVTV.stream_720p/chunklist_w1224574036.m3u8
 https://edge1a.v2h-cdn.com/appt3/five.stream_720p/chunklist_w1616935929.m3u8
 #EXTINF:-1 group-title="Music"tvg-logo="http://thaiip.tv/tvlogo2/hmong.png",MVTV Hmong
 https://edge1a.v2h-cdn.com/appt7/MHONG.stream_360p/chunklist_w839479703.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",True Music HD
-http://cdn856.stm.trueid.net/live2/159_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music"tvg-logo="https://inchincloser.files.wordpress.com/2012/04/zee-apac.jpg",ZEE TV
 http://kodinew.dyndns.tv:9981/stream/channelid/945789723?ticket=70FB8EA62FDCD8F90C999DAA960FE597957A41D4&profile=pass
 #EXTINF:-1 group-title="Music"tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/images/channel/2014/06/11/zing1_0.jpg",ZING
