@@ -165,7 +165,8 @@ http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv29_mono29/playlist.
 http://27.254.130.61/live01/ch19.m3u8?p=st
 #EXTINF:-1 group-title="Entertainment"tvg-logo="http://thaiip.tv/tvlogo2/monoplus.png",Monoplus
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w501711662.m3u8
-
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://static10.tgstat.ru/channels/_0/09/095c5346dea8fd055e86c3f04e9b5453.jpg",ZEE CINEMA
+http://kodinew.dyndns.tv:9981/stream/channelid/1809014838?ticket=F3D66A03B22ABB2A4372580F69E0DF6C31AAB2F2&profile=pass
 
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Documentary"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY TH
 http://cdn856.stm.trueid.net/live2/141_th_m_high_tidapp.smil/playlist.m3u8
@@ -218,6 +219,12 @@ https://edge1a.v2h-cdn.com/appt3/five.stream_720p/chunklist_w1616935929.m3u8
 https://edge1a.v2h-cdn.com/appt7/MHONG.stream_360p/chunklist_w839479703.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",True Music HD
 http://cdn856.stm.trueid.net/live2/159_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music"tvg-logo="https://inchincloser.files.wordpress.com/2012/04/zee-apac.jpg",ZEE TV
+http://kodinew.dyndns.tv:9981/stream/channelid/945789723?ticket=70FB8EA62FDCD8F90C999DAA960FE597957A41D4&profile=pass
+#EXTINF:-1 group-title="Music"tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/images/channel/2014/06/11/zing1_0.jpg",ZING
+http://kodinew.dyndns.tv:9981/stream/channelid/417735839?ticket=A8BD3CE4B249000F301E6E10C50877703FE48194&profile=pass
+ 
+
 
 
 #EXTINF:-1 group-title="Radio"  tvg-logo="https://www.adintrend.tv/images/radio/94x.jpg",Chill FM
