@@ -216,7 +216,7 @@ http://kodinew.dyndns.tv:9981/stream/channelid/1741038590?ticket=EF94AC301FE7E19
 #EXTINF:-1 tvg-id="animalplanet.th"group-title="KNOLEDGE"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
 http://ktuiptvapp.com/movietset/liveTv/sport/animalplanetworldhdeng.m3u8
 #EXTINF:-1 tvg-id=""group-title="KNOLEDGE"tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg",SAMRUJLOK
-https://live.we-play.tv:443/live/samruajlok/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbcearth.th"group-title="KNOLEDGE"tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BCC EARTH
 http://kodinew.dyndns.tv:9981/stream/channelid/814866876?ticket=40434F7E9307FC44E03BA98C5D897021DABF3D91&profile=pass
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NfWLZQf1/harimau.jpg" group-title="KNOLEDGE",BLUE ANT EXTREME
@@ -282,7 +282,7 @@ http://live3.smartbomb.co.th:8624/stream/1/
 
 
 
-#EXTINF: -1 tvg-id="" group-title="KIDS"tvg-logo="https://imgur.com/axvewxY.png", Animax
+#EXTINF: -1 tvg-id="" group-title="KIDS"tvg-logo="https://imgur.com/axvewxY.png",Animax
 http://kodinew.dyndns.tv:9981/stream/channelid/1468536448?ticket=CC482188B4B4C1206C0F6217AA212075E0CE7775&profile=pass
 #EXTINF:-1 tvg-id="cartoonnetwork.th"group-title="KIDS"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK 
 http://cdn856.stm.trueid.net/live2/192_th_m_high_tidapp.smil/playlist.m3u8
@@ -295,7 +295,7 @@ http://cdn856.stm.trueid.net/live3/007_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.th"group-title="KIDS"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
 http://160.119.77.50/iptv/sd-disney.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.th"group-title="KIDS"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
-https://43.228.85.11:443/live/disneyxd/chunks.m3u8
+http://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KIDS"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick jr TH
 http://160.119.77.50/iptv/sd-nickjr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="KIDS" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/d258b502-1da6-445b-bd8f-4304c7ff232e.png",Ja Ting Ja TV
@@ -483,25 +483,25 @@ http://160.119.77.50/iptv/fr-bein2hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png",Bein Sport 3 France
 http://160.119.77.50/iptv/fr-bein3hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein1.png",BEIN 01
-http://160.119.77.50/iptv/hd-bein1.stream/playlist.m3u8
+http://skdn.redi-vo.com/iptv/ch111?code=103131497823984&key=54576
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein2.png",BEIN 02
-http://160.119.77.50/iptv/hd-bein2.stream/playlist.m3u8
+http://skdn.redi-vo.com/iptv/ch112?code=103131497823984&key=46098
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein3.png",BEIN 03
-http://160.119.77.50/iptv/hd-bein3.stream/playlist.m3u8
+http://skdn.redi-vo.com/iptv/ch113?code=103131497823984&key=39255
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein4.png",BEIN 04
-http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
+http://skdn.redi-vo.com/iptv/ch114?code=103131497823984&key=46165
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein5.png",BEIN 05
-http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
+http://skdn.redi-vo.com/iptv/ch115?code=103131497823984&key=45992
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein6.png",BEIN 06
-http://160.119.77.50/iptv/hd-bein6.stream/playlist.m3u8
+http://skdn.redi-vo.com/iptv/ch116?code=103131497823984&key=57392
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein7.png",BEIN 07
-http://160.119.77.50/iptv/hd-bein7.stream/playlist.m3u8
+http://skdn.redi-vo.com/iptv/ch117?code=103131497823984&key=58844
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein8.png",BEIN 08
-http://160.119.77.50/iptv/hd-bein8.stream/playlist.m3u8
+http://skdn.redi-vo.com/iptv/ch118?code=103131497823984&key=43336
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein9.png",BEIN 09
-http://160.119.77.50/iptv/hd-bein9.stream/playlist.m3u8
+http://skdn.redi-vo.com/iptv/ch510?code=103131497823984&key=27398
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein10.png",BEIN 10
-http://160.119.77.50/iptv/hd-bein10.stream/playlist.m3u8
+http://skdn.redi-vo.com/iptv/ch511?code=103131497823984&key=51278
 
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/eMmVP1ikvEycNby151z.jpg",Batman v Superman: Dawn of Justice (2016) 
