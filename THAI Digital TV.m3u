@@ -68,6 +68,8 @@ http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1 gtvg-id=""group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/voicetv.png",Voice TV
 https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1 gtvg-id=""group-title="Digital TV"tvg-logo="http://thumbnail.instardara.com/channel/RamaCh.jpg",RAMA CHANNEL
+http://cdn856.stm.trueid.net/live4/128_th_m_high_tidapp.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="News"tvg-logo="https://i.pinimg.com/originals/f5/80/f4/f580f4edf6ee9834e16ff9b74da51760.png",CNN
 http://cdn856.stm.trueid.net/live1/001_th_m_high_tidapp.smil/playlist.m3u8
