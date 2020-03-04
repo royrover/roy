@@ -291,8 +291,8 @@ http://cdn856.stm.trueid.net/live3/007_th_m_high_tidapp.smil/playlist.m3u8
 http://160.119.77.50/iptv/sd-disney.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.th"group-title="KIDS"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
 http://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="KIDS"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick jr TH
-http://160.119.77.50/iptv/sd-nickjr.stream/playlist.m3u8
+#EXTINF:-1 group-title="KIDS"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick jr 
+http://kodinew.dyndns.tv:9981/stream/channelid/1858501640?ticket=11C8837D6BF1FA72314270CB00B69D095D728515&profile=pass
 #EXTINF:-1 tvg-id="" group-title="KIDS" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/d258b502-1da6-445b-bd8f-4304c7ff232e.png",Ja Ting Ja TV
 http://cdn856.stm.trueid.net/live3/o014_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://x1.cdn.broiptv.online/img/nickelodeon.png" group-title="KIDS",Nickelodeon
@@ -493,7 +493,20 @@ http://skdn.redi-vo.com/iptv/ch516?code=103131497823984&key=27664
 http://skdn.redi-vo.com/iptv/ch517?code=103131497823984&key=27619
 #EXTINF:0 group-title="Sports"tvg-logo="https://www.gpshop.es/112-large_default/llavero-con-logo-motogp.jpg",Moto GP  
 http://skdn.redi-vo.com/iptv/ch1284?code=138137164006399&key=11345
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-skynetsports1.png" group-title="Sports", Skynetsport1
+http://kodinew.dyndns.tv:9981/stream/channelid/1015761856?ticket=D41FFD74B40A950B68E01280C753604FC2CC6DDD&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-skynetsports2.png" group-title="Sports", Skynetsport2
+http://kodinew.dyndns.tv:9981/stream/channelid/546990357?ticket=8BA63512ABDFA7387E3DFCDE69CB7583689950FC&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-skynetsports3.png" group-title="Sports", Skynetsport3
+http://kodinew.dyndns.tv:9981/stream/channelid/298311909?ticket=A7E1B178319347B0932F5C05716CB129C8EE7241&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-skynetsports4.png" group-title="Sports", Skynetsport4
+http://kodinew.dyndns.tv:9981/stream/channelid/2037822099?ticket=EB96F0DAF40E3723A1A465BB1391DCA36FB4D26A&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-skynetsports5.png" group-title="Sports", Skynetsport5
+http://kodinew.dyndns.tv:9981/stream/channelid/1011251771?ticket=BD610E3274E9B6DB0C446CC8533022C31D37A76E&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-skynetsports6.png" group-title="Sports", Skynetsport6
+http://kodinew.dyndns.tv:9981/stream/channelid/1392129078?ticket=5BE23EA4AE9F957567BC73EFF272FA72DBAE92E9&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-skynetsportshd.png" group-title="Sports", Skynetsport HD
+http://kodinew.dyndns.tv:9981/stream/channelid/1344798345?ticket=2E80FD216798AF798987794BAA73FF18909F9780&profile=pass
 
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/eMmVP1ikvEycNby151z.jpg",Batman v Superman: Dawn of Justice (2016) 
