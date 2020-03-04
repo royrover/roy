@@ -211,12 +211,13 @@ http://kodinew.dyndns.tv:9981/stream/channelid/1741038590?ticket=EF94AC301FE7E19
 #EXTINF:-1 tvg-id="animalplanet.th"group-title="KNOWLEDGE"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
 http://ktuiptvapp.com/movietset/liveTv/sport/animalplanetworldhdeng.m3u8
 #EXTINF:-1 tvg-id=""group-title="KNOWLEDGE"tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg",SAMRUJLOK
-https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-id="bbcearth.th"group-title="KNOWLEDGE"tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BCC EARTH
 http://kodinew.dyndns.tv:9981/stream/channelid/814866876?ticket=40434F7E9307FC44E03BA98C5D897021DABF3D91&profile=pass
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NfWLZQf1/harimau.jpg" group-title="KNOWLEDGE",BLUE ANT EXTREME
 http://cdn856.stm.trueid.net/live1/208_th_m_high_tidapp.smil/playlist.m3u8
-
+https://live.we-play.tv:443/live/samruajlok/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",True Music HD
 http://cdn856.stm.trueid.net/live2/159_th_m_high_tidapp.smil/playlist.m3u8
@@ -292,7 +293,8 @@ http://160.119.77.50/iptv/sd-disney.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.th"group-title="KIDS"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
 http://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KIDS"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick jr 
-http://kodinew.dyndns.tv:9981/stream/channelid/1858501640?ticket=11C8837D6BF1FA72314270CB00B69D095D728515&profile=pass
+http://iliketot.dyndns.tv/2b72986be9314c139db95f6098d1c413.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+
 #EXTINF:-1 tvg-id="" group-title="KIDS" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/d258b502-1da6-445b-bd8f-4304c7ff232e.png",Ja Ting Ja TV
 http://cdn856.stm.trueid.net/live3/o014_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://x1.cdn.broiptv.online/img/nickelodeon.png" group-title="KIDS",Nickelodeon
@@ -303,7 +305,7 @@ http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2Vy
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="KIDS",哈哈炫动
 http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
- #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="KIDS",卡酷少儿
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="KIDS",卡酷少儿
 http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 group-title="KIDS"tvg-logo="https://www.doohdbox.com/assets/201707071723021769536352.jpg",CARTOON CLUB
 http://cdn856.stm.trueid.net/live3/143_th_m_high_tidapp.smil/playlist.m3u8
