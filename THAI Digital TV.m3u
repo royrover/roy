@@ -101,7 +101,7 @@ https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO SIGNATURE
 https://www.livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.logolynx.com/images/logolynx/s_c3/c3433a5f5e4e14e7b7517b44f5a9ce7c.png",HBO FAMILY
-http://www.livedoomovies.com/02_HBOFamily_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="Warner.th"group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
 http://cdn856.stm.trueid.net/live1/225_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueFilm.th"group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 1
@@ -182,6 +182,8 @@ http://cdn856.stm.trueid.net/live3/218_th_m_high_tidapp.smil/playlist.m3u8
 http://cdn856.stm.trueid.net/live4/127_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ed57b046d1e80602992684d85adc104b" group-title="Entertainment" tvg-logo="https://image.winudf.com/v2/image/Y29tLm15YW5tYXJtb3ZpZXMuaW5mb19zY3JlZW5fMF8xNTM0OTUxMTEzXzA5Nw/screen-0.jpg?fakeurl=1&type=.jpg",MYANMAR MOVIES
 http://kodinew.dyndns.tv:9981/stream/channelid/1185961965?ticket=B40686A7E223465B8D75108008EA5EA48F992473&profile=pass
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-cinemax.png",Cinemax HD
+http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
 
 
 
@@ -287,7 +289,7 @@ http://cdn856.stm.trueid.net/live2/034_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",True Spark Play 
 http://cdn856.stm.trueid.net/live3/007_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
-http://160.119.77.50/iptv/sd-disney.stream/playlist.m3u8
+http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
 http://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick jr 
@@ -362,15 +364,15 @@ http://160.119.77.50/iptv/hd-golf.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="foxsports.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport1.png",FOX SPORTS 1 
 http://160.119.77.50/iptv/hd-foxsports1eng.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="foxsport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2 
-http://160.119.77.50/iptv/hd-foxsports2eng.stream/playlist.m3u8
+http://160.119.77.50/iptv/sd-foxsports2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="foxsport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3 
-http://160.119.77.50/iptv/hd-foxsports3eng.stream/playlist.m3u8
+http://160.119.77.50/iptv/sd-foxsports3.stream/playlist.m3u8
 
 
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/smmtv.png",SMM TV
 http://iliketot.dyndns.tv/48cac6380caf4f078eafccc63804ac23.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1 group-title="Sports"tvg-logo="https://www.dooMovies-hd.com/assets/img/ch_logo/nfl-network.gif",NFL
+#EXTINF:-1 group-title="Sports"tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/nfl-network.jpg",NFL
 http:\\vvn.neoredi.com\iptv\ch3517?code=138137164006399&key=50778
 #EXTINF:-1 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",SPORTTV 1
 http://skdn.redi-vo.com/iptv/ch2123?code=138137164006399&key=48317
