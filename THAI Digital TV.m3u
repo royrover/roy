@@ -291,7 +291,7 @@ http://cdn856.stm.trueid.net/live3/007_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
 http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
-http://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick jr 
 http://iliketot.dyndns.tv/2b72986be9314c139db95f6098d1c413.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 
@@ -317,6 +317,11 @@ http://kodinew.dyndns.tv:9981/stream/channelid/94197710?ticket=C77BC0A9020CD1271
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/TomandJerryTitleCardc.jpg",TOM & JERRY
 http://rayito-tv.xyz:41001/Santiago/1234/23632
+#EXTINF:-1 group-title="Kids"tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_KartoonFunTime.jpg",Kartoon Fun Time
+https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Kids"tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_Cartoons_4U-1.jpg",Cartoons 4U
+https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
+
 
 
 
