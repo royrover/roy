@@ -71,6 +71,7 @@ https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 #EXTINF:-1 gtvg-id=""group-title="Digital TV"tvg-logo="http://thumbnail.instardara.com/channel/RamaCh.jpg",RAMA CHANNEL
 http://cdn856.stm.trueid.net/live4/128_th_m_high_tidapp.smil/playlist.m3u8
 
+
 #EXTINF:-1 group-title="News World"tvg-logo="https://i.pinimg.com/originals/f5/80/f4/f580f4edf6ee9834e16ff9b74da51760.png",CNN
 http://cdn856.stm.trueid.net/live1/001_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png",FRANCE24
@@ -218,6 +219,8 @@ http://ktuiptvapp.com/movietset/liveTv/sport/animalplanetworldhdeng.m3u8
 http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NfWLZQf1/harimau.jpg" group-title="Knowledge",BLUE ANT EXTREME
 http://cdn856.stm.trueid.net/live1/208_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://www.dlit.ac.th/pages/library/images/TruePlookpanya.jpg",True Pookpanya
+http://160.119.77.50/iptv/sd-tppy.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",True Music HD
 http://cdn856.stm.trueid.net/live2/159_th_m_high_tidapp.smil/playlist.m3u8
@@ -316,7 +319,7 @@ http://kodinew.dyndns.tv:9981/stream/channelid/94197710?ticket=C77BC0A9020CD1271
 #EXTINF:-1 tvg-id="DisneyJr.th"group-title="Kids"tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/TomandJerryTitleCardc.jpg",TOM & JERRY
-http://rayito-tv.xyz:41001/Santiago/1234/23632
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:-1 group-title="Kids"tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_KartoonFunTime.jpg",Kartoon Fun Time
 https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_Cartoons_4U-1.jpg",Cartoons 4U
