@@ -68,8 +68,6 @@ http://cdn856.stm.trueid.net/live3/d11_th_m_high_tidapp.smil/playlist.m3u8
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1 gtvg-id=""group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/voicetv.png",Voice TV
 https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
-#EXTINF:-1 gtvg-id=""group-title="Digital TV"tvg-logo="http://thumbnail.instardara.com/channel/RamaCh.jpg",RAMA CHANNEL
-http://cdn856.stm.trueid.net/live4/128_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/14/c299963d-be47-4241-816e-9e1713ba3715.png",TNN16 HD
 http://cdn856.stm.trueid.net/live2/135_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f1b957db-b175-45fc-ab2b-60150f9c570a.png",TNN2
@@ -226,6 +224,8 @@ http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
 http://cdn856.stm.trueid.net/live1/208_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="http://www.dlit.ac.th/pages/library/images/TruePlookpanya.jpg",True Pookpanya
 http://160.119.77.50/iptv/sd-tppy.stream/playlist.m3u8
+#EXTINF:-1 gtvg-id=""group-title="Knowledge"tvg-logo="http://thumbnail.instardara.com/channel/RamaCh.jpg",RAMA CHANNEL
+http://cdn856.stm.trueid.net/live4/128_th_m_high_tidapp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",True Music HD
 http://cdn856.stm.trueid.net/live2/159_th_m_high_tidapp.smil/playlist.m3u8
