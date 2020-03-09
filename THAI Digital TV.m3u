@@ -705,6 +705,9 @@ http://180.183.122.138:8096/emby/videos/8707/stream.mkv?DeviceId=48140c6933aa50f
 #EXTINF:-1 group-title="Animation"tvg-logo="https://image.tmdb.org/t/p/w500/eVBH2nDYbLWiUXYotADRAWK6sm6.jpg",Shrek 2 (2004)
 http://180.183.122.138:8096/emby/videos/8708/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=518da976d1f0e966a1d08e2161eaab4f&Static=true&PlaySessionId=21bfe44b7d464975b0d1c58c302853c1&api_key=cb65b3c81379485daa3888f9c03e58c7
 
+#EXTINF:-1 group-title="Animation"tvg-logo="https://image.tmdb.org/t/p/w500/eVBH2nDYbLWiUXYotADRAWK6sm6.jpg",Shrek the Third (2007)
+http://180.183.122.138:8096/emby/videos/8710/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=ba49cf8eb52e3db043239626736f1538&Static=true&PlaySessionId=79913d2570324b6e941303f8acc68bb2&api_key=cb65b3c81379485daa3888f9c03e58c7
+
 #EXTINF:-1 group-title="Animation"tvg-logo="https://i.imgur.com/VbzB3xL.jpg",Monkey King Hero Is Back (2015)
 http://191.96.77.236/video/2018/Monkey.King.Hero.Is.Back.2015.1080p.TH-4K.mp4/playlist.m3u8
 
@@ -732,3 +735,6 @@ http://180.183.122.138:8096/emby/videos/6700/stream.mkv?DeviceId=48140c6933aa50f
 http://180.183.122.138:8096/emby/videos/6705/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=6bccab8a38b4dba82dd8ec2c9deb580f&Static=true&PlaySessionId=e1e248c0449f4468bd61f44c21af8165&api_key=cb65b3c81379485daa3888f9c03e58c7
 #EXTINF:-1 group-title="Animation"tvg-logo="https://videoondemand.co.za/wp-content/uploads/2016/10/Sinbad-Legend-of-the-Seven-Seas-2003-poster.png",Sinbad : Legend of the Seven Seas (2003)
 http://180.183.122.138:8096/emby/videos/8732/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=c79d2cb8edfa83a8d2f47909fcf26c3d&Static=true&PlaySessionId=2cabfa59faf34f5c8afb7290362068b4&api_key=cb65b3c81379485daa3888f9c03e58c7
+
+#EXTINF:-1 group-title="Animation"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Kungfupanda.jpg/220px-Kungfupanda.jpg",Kung Fu Panda (2008)
+http://180.183.122.138:8096/emby/videos/7067/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=c1ea70cfea1dc103a95aeb6a8140d566&Static=true&PlaySessionId=aecd3d685b094b87a6318cd441b4974f&api_key=cb65b3c81379485daa3888f9c03e58c7
