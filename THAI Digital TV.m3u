@@ -500,7 +500,7 @@ http://skdn.redi-vo.com/iptv/ch514?code=103131497823984&key=40006
 http://skdn.redi-vo.com/iptv/ch515?code=103131497823984&key=18634
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/516.png",BEIN 15 
-http://skdn.redi-vo.com/iptv/ch516?code=103131497823984&key=27664
+http:\\vvn.neoredi.com\iptv\ch516?code=1501309316704233&key=27664
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/517.png",BEIN 16  
 http://skdn.redi-vo.com/iptv/ch517?code=103131497823984&key=27619
@@ -610,6 +610,13 @@ http://191.96.77.23:443/movie/bluray/transformers-3-th-en-1280p.mp4/index.m3u8
 http://191.96.77.23:443/movie/bluray2016/Transformers-Age-of-Extinction-2014-th-en-1080p.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://movie2z.com/imgmovie/06-07-47-14pm38.jpg",Transformers 5 The Last Knight (2017) 
 http://191.96.77.23:443/movie/bluray2016/Transformers-The-Last-Knight-2017-Bluray-1080p.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://i.pinimg.com/originals/53/0a/a7/530aa762cb834bad5f6f8f07925f6d91.jpg",Jeremiah Johnson (1972)
+
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_CR0,0,693,1000_AL_.jpg",Lawrence of Arabia (1962)
+http://8b0009ffe8ed.sn.mynetname.net:8096/emby/videos/7145/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=d5e9a524cc83218e6235ae51f8f7c699&Static=true&PlaySessionId=2cb4a5ee55324221872d011094a36e38&api_key=cb65b3c81379485daa3888f9c03e58c7
+
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.doofree88.com/storage/images/2019/8/0fttf4BgiQHFToLTJPcNWiQ0lOHN9kk8dxzCtbSg.jpg",Aladdin (2019)
 http://191.96.77.236/video/2019/Aladdin.2019.1080p.BrRip.th-4K.mp4/chunk.m3u8
