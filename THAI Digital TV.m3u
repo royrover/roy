@@ -695,6 +695,7 @@ http://180.183.122.138:8096/emby/videos/7604/stream.mkv?DeviceId=48140c6933aa50f
 http://180.183.122.138:8096/emby/videos/7606/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=70caed2cddea7e8debd40d4c646fa626&Static=true&PlaySessionId=65401a18745742c783c0e4a1159b356a&api_key=cb65b3c81379485daa3888f9c03e58c7
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/44PuWciKafKVNANmxsQ.jpg",THE PRINCESS AND THE FROG (2009) 
+http://180.183.122.138:8096/emby/videos/8223/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=464f20256e2d3f8665e3701896f3fb68&Static=true&PlaySessionId=aea5879e37ed4cc08715dc7c66871df6&api_key=cb65b3c81379485daa3888f9c03e58c7
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://www.freemoviesth.com/wp-content/uploads/2020/03/MV5BZTg4MDZkYWUtNDQwYS00NjI3LTgzMjctMGZmNmE1NTJiOGM3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",Pokemon: Mewtwo Strikes Back - Evolution (2019)
 https://cdn.jebriko.ru/vod/disk3/movies/qqwerty.mp4
@@ -731,10 +732,18 @@ http://180.183.122.138:8096/emby/videos/6144/stream.mkv?DeviceId=48140c6933aa50f
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://i.pinimg.com/originals/28/a6/d8/28a6d8aa1125733200bc1dbc8ae6954a.jpg",Ice Age (2002)
 http://180.183.122.138:8096/emby/videos/6700/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=cd61c34df6bb7a48b795d471e6569ff5&Static=true&PlaySessionId=8e838d471cf8463c9455c1289e2775ac&api_key=cb65b3c81379485daa3888f9c03e58c7
-#EXTINF:-1 group-title="Animation"tvg-logo="https://image.tmdb.org/t/p/original/3dtrOoVYlK46m3wnA0DFPUefsFw.jpg",Ice Age 2:The Meltdown (2006)
+
+#EXTINF:-1 group-title="Animation"tvg-logo="https://image.tmdb.org/t/p/original/3dtrOoVYlK46m3wnA0DFPUefsFw.jpg",Ice Age 2 : The Meltdown (2006)
 http://180.183.122.138:8096/emby/videos/6705/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=6bccab8a38b4dba82dd8ec2c9deb580f&Static=true&PlaySessionId=e1e248c0449f4468bd61f44c21af8165&api_key=cb65b3c81379485daa3888f9c03e58c7
+
+#EXTINF:-1 group-title="Animation"tvg-logo="https://i.webch7.com/images/3df082a4f246550996204465d8adfe47/76iceage3.jpg",Ice Age 3 : Dawn Of The Dinosaurs (2009)
+http://180.183.122.138:8096/emby/videos/6704/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=219ef32f38ee5d2d237f8bef95cf820b&Static=true&PlaySessionId=76e9ccd6c6d44a00a87bd38c382ca980&api_key=cb65b3c81379485daa3888f9c03e58c7
+
 #EXTINF:-1 group-title="Animation"tvg-logo="https://videoondemand.co.za/wp-content/uploads/2016/10/Sinbad-Legend-of-the-Seven-Seas-2003-poster.png",Sinbad : Legend of the Seven Seas (2003)
 http://180.183.122.138:8096/emby/videos/8732/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=c79d2cb8edfa83a8d2f47909fcf26c3d&Static=true&PlaySessionId=2cabfa59faf34f5c8afb7290362068b4&api_key=cb65b3c81379485daa3888f9c03e58c7
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Kungfupanda.jpg/220px-Kungfupanda.jpg",Kung Fu Panda (2008)
 http://180.183.122.138:8096/emby/videos/7067/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=c1ea70cfea1dc103a95aeb6a8140d566&Static=true&PlaySessionId=aecd3d685b094b87a6318cd441b4974f&api_key=cb65b3c81379485daa3888f9c03e58c7
+
+#EXTINF:-1 group-title="Animation"tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/3991105fb0c51f9b99a8247dc3d6fdc3.jpg",Kung Fu Panda 2 (2011)
+http://180.183.122.138:8096/emby/videos/7068/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=4b2934c41ad752b6bdb537610488d30c&Static=true&PlaySessionId=12366369910a44108bf569bfec7b06a0&api_key=cb65b3c81379485daa3888f9c03e58c7
