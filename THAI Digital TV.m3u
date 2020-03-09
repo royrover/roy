@@ -698,8 +698,11 @@ http://180.183.122.138:8096/emby/videos/7604/stream.mkv?DeviceId=48140c6933aa50f
 #EXTINF:-1 group-title="Animation"tvg-logo="https://www.freemoviesth.com/wp-content/uploads/2020/03/MV5BZTg4MDZkYWUtNDQwYS00NjI3LTgzMjctMGZmNmE1NTJiOGM3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",Pokemon: Mewtwo Strikes Back - Evolution (2019)
 https://cdn.jebriko.ru/vod/disk3/movies/qqwerty.mp4
 
+#EXTINF:-1 group-title="Animation"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/gpxAaq02Dh07SJkacEp.jpg",Shrek 1 (2001)
+http://180.183.122.138:8096/emby/videos/8707/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=49b46cff33721b0accf5ac60cbc2a2f6&Static=true&PlaySessionId=d644db4064064cfa8438ae6341ff7ef4&api_key=cb65b3c81379485daa3888f9c03e58c7
+
 #EXTINF:-1 group-title="Animation"tvg-logo="https://image.tmdb.org/t/p/w500/eVBH2nDYbLWiUXYotADRAWK6sm6.jpg",Shrek 2 (2004)
-https://cdn.jebriko.ru/vod/disk3/movies/shek2r.mp4
+http://180.183.122.138:8096/emby/videos/8708/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=518da976d1f0e966a1d08e2161eaab4f&Static=true&PlaySessionId=21bfe44b7d464975b0d1c58c302853c1&api_key=cb65b3c81379485daa3888f9c03e58c7
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://i.imgur.com/VbzB3xL.jpg",Monkey King Hero Is Back (2015)
 http://191.96.77.236/video/2018/Monkey.King.Hero.Is.Back.2015.1080p.TH-4K.mp4/playlist.m3u8
@@ -713,5 +716,17 @@ http://180.183.122.138:8096/emby/videos/116237/stream.mkv?DeviceId=48140c6933aa5
 #EXTINF:-1 group-title="Animation"tvg-logo="https://pbs.twimg.com/media/DMuev4TUIAImtmo.jpg",Cinderella (1950)
 http://180.183.122.138:8096/emby/videos/116502/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=34036f97361ff1422a2568252a805176&Static=true&PlaySessionId=b55a664558a14d8894470dbcc1c75762&api_key=cb65b3c81379485daa3888f9c03e58c7
 
+#EXTINF:-1 group-title="Animation"tvg-logo="https://dunnung.com/wp-content/uploads/2019/11/10-2.jpg",Cinderella II: Dreams Come True (2002)
+http://180.183.122.138:8096/emby/videos/116503/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=e26b85c57162409c9d3528911d1208e1&Static=true&PlaySessionId=49da3ebe6f5745c787b661eda8e0da01&api_key=cb65b3c81379485daa3888f9c03e58c7
+
 #EXTINF:-1 group-title="Animation"tvg-logo="https://img.trd.cm/tools/r/409/480/das/img-lib/spd_2012051795730_b.jpg",Dinosaur (2000)
 http://180.183.122.138:8096/emby/videos/5612/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=c36f41785f365a9914314ed9cfaadbe8&Static=true&PlaySessionId=6d87f72e055a475f9e4ccf3a8e24f9a2&api_key=cb65b3c81379485daa3888f9c03e58c7
+
+#EXTINF:-1 group-title="Animation"tvg-logo="https://www.appletreebsd.com/wp-content/uploads/2018/07/7-Film-Kartun-yang-Cocok-Ditonton-Bersama-Anak-Ketika-Liburan-Tiba-5.jpg",Finding Nemo (2003)
+http://180.183.122.138:8096/emby/videos/6144/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=5d5c9e66a8899c5cb2b2f80606334135&Static=true&PlaySessionId=49afb629ec9e4b428af2db6614d3ab07&api_key=cb65b3c81379485daa3888f9c03e58c7
+
+#EXTINF:-1 group-title="Animation"tvg-logo="https://i.pinimg.com/originals/28/a6/d8/28a6d8aa1125733200bc1dbc8ae6954a.jpg",Ice Age (2002)
+http://180.183.122.138:8096/emby/videos/6700/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=cd61c34df6bb7a48b795d471e6569ff5&Static=true&PlaySessionId=8e838d471cf8463c9455c1289e2775ac&api_key=cb65b3c81379485daa3888f9c03e58c7
+
+#EXTINF:-1 group-title="Animation"tvg-logo="https://videoondemand.co.za/wp-content/uploads/2016/10/Sinbad-Legend-of-the-Seven-Seas-2003-poster.png",Sinbad : Legend of the Seven Seas (2003)
+http://180.183.122.138:8096/emby/videos/8732/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=c79d2cb8edfa83a8d2f47909fcf26c3d&Static=true&PlaySessionId=2cabfa59faf34f5c8afb7290362068b4&api_key=cb65b3c81379485daa3888f9c03e58c7
