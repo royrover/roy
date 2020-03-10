@@ -180,6 +180,11 @@ http://kodinew.dyndns.tv:9981/stream/channelid/1185961965?ticket=B40686A7E223465
 https://tv4.chang55.com/live2/tv4ch32.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://p7.hiclipart.com/preview/259/793/158/universal-channel-television-channel-television-show-nbcuniversal-international-networks-chanel-thumbnail.jpg",Universal TH
 https://tv4.chang55.com/live2/tv4ch43.stream/chunks.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",Movie 1HD
+http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",Movie 2HD
+http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",Lao Star
 http://cdn856.stm.trueid.net/live3/o062_th_m_high_tidapp.smil/playlist.m3u8
@@ -205,7 +210,7 @@ http://cdn856.stm.trueid.net/live1/163_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="history2.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2 UK
 http://160.119.77.50/iptv/uk-history2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY TH
-https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+https://tv4.chang55.com/live2/tv4ch36.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="discovery.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY EN
 http://160.119.77.50/iptv/hd-discoveryeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="trueexploresci.th"group-title="Knowledge"tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",TRUE EXPLORE SCI
@@ -359,6 +364,13 @@ http://103.208.24.234:1935/thaisport/epl-4.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sports",Premier HD5 BKP 
 http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8
 
+#EXTINF:-1 group-title="Sports"tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/13/cd083b90-4e15-11ea-b7f0-270d555231ee_320.png",TOYOTA E LEAGUE
+https://cdn116.stm.trueid.net/live5/ev05_w_auto_tidapp.smil/chunklist_w1709073596_b2537779_vdo_sltha_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=39032189&mpass=52HYV3472y%2BZHSXh7rhadpBFOD4fOmWqKpqbpijpqU16AUXHyXZnvQzSEgpBaMeNlOqwGbbmv5gEEloFNsLmMdu3%2BwFZtsxZz%2FaJajeJsYGV35Nq%2B1seAEek%2FI3B9lM2Ojp4XHeGPQ8ihGUVxDnNmGKT&appid=trueid&type=live&visitor=web&uid=39032189&mpass=52HYV3472y%2BZHSXh7rhadpBFOD4fOmWqKpqbpijpqU16AUXHyXZnvQzSEgpBaMeNlOqwGbbmv5gEEloFNsLmMdu3%2BwFZtsxZz%2FaJajeJsYGV35Nq%2B1seAEek%2FI3B9lM2Ojp4XHeGPQ8ihGUVxDnNmGKT
+
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://www.doohdbox.com/assets/20200109132203797568789.jpg",ID Station
+https://cdn116.stm.trueid.net/live6/he001_w_auto_tidapp.smil/chunklist_w1650328721_b2537779_vdo_sltha_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=39032189&mpass=c69o9o9tRuOe0DsozQpdSTrU%2BhfMJHy98f5COJv0DHI6uSp1kPxMc4tbPNDdvOGb7rY%2Fg9AT5b7X52rtZxhPYJjmjahuhIlMMiiIUszhmd8RNNHryDvKWglJSzraDObVOjoh0bV%2FCd7XN%2FdvIlTLcEpg&appid=trueid&type=live&visitor=web&uid=39032189&mpass=c69o9o9tRuOe0DsozQpdSTrU%2BhfMJHy98f5COJv0DHI6uSp1kPxMc4tbPNDdvOGb7rY%2Fg9AT5b7X52rtZxhPYJjmjahuhIlMMiiIUszhmd8RNNHryDvKWglJSzraDObVOjoh0bV%2FCd7XN%2FdvIlTLcEpg&1
+
 #EXTINF:-1 tvg-id="TrueSport1.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd1.png",TRUESPORT HD
 http://160.119.77.50/iptv/hd-tsport1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd2.png",TRUESPORT HD2
@@ -387,8 +399,6 @@ http://160.119.77.50/iptv/hd-foxsports1.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-foxsports2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="foxsport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3 
 http://160.119.77.50/iptv/sd-foxsports3.stream/playlist.m3u8
-
-
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/smmtv.png",SMM TV
 http://iliketot.dyndns.tv/48cac6380caf4f078eafccc63804ac23.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
