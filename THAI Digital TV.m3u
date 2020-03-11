@@ -145,7 +145,7 @@ http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxlife.png",Fox Life HD
 http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill
-http://iliketot.dyndns.tv/c316ed9333e54442b25077f0bb3cc269.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/scm.jpg",Star Chinese Moviess
 http://160.119.77.50/iptv/hd-starchinese.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/StarPlus_logo.jpg/220px-StarPlus_logo.jpg",Star Plus
@@ -182,7 +182,8 @@ https://tv4.chang55.com/live2/tv4ch32.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-moviehits.png",Movie Hit
 http://103.120.113.90:1935/psilive3a/MOVIE_HITS_61.stream_360p/playlist.m3u8
-
+#EXTINF:0 group-title="Cinema"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/KIX_Logo_2014.jpg",KIX
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/kixhd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",Lao Star
@@ -200,6 +201,8 @@ http://cdn856.stm.trueid.net/live4/109_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/21/a870a651-9595-4921-bc41-7ba39d7067a3.png",Super Bunteung
 http://cdn856.stm.trueid.net/live3/108_th_m_high_tidapp.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-logo="https://cms.dmpcdn.com/livetv/2018/07/24/afc3d514-fba5-4da4-8220-6123412da728.jpg",True X-zyte 
+http://cdn856.stm.trueid.net/live2/034_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY TH
 http://cdn856.stm.trueid.net/live2/141_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY EH
@@ -301,8 +304,6 @@ http://kodinew.dyndns.tv:9981/stream/channelid/1468536448?ticket=CC482188B4B4C12
 http://cdn856.stm.trueid.net/live2/192_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSparkJump.th"group-title="Kids"tvg-logo="https://i.pinimg.com/474x/42/b0/a5/42b0a53eedfd1b9d18f1931635de29ca.jpg",TRUE SPARK JUMP
 http://cdn856.stm.trueid.net/live3/101_th_m_high_tidapp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-logo="https://cms.dmpcdn.com/livetv/2018/07/24/afc3d514-fba5-4da4-8220-6123412da728.jpg",True X-zyte 
-http://cdn856.stm.trueid.net/live2/034_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",True Spark Play 
 http://cdn856.stm.trueid.net/live3/007_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
@@ -330,7 +331,7 @@ http://cdn856.stm.trueid.net/live3/143_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg",GANG CARTOON
 http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",BOOMERANG
-http://kodinew.dyndns.tv:9981/stream/channelid/94197710?ticket=C77BC0A9020CD127190A7C1723791155EC9BA88C&profile=pass
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/boomerang.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.th"group-title="Kids"tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/TomandJerryTitleCardc.jpg",TOM & JERRY
@@ -364,11 +365,10 @@ https://tv4.chang55.com/live2/tv4ch13.stream/chunks.m3u8
 http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/13/cd083b90-4e15-11ea-b7f0-270d555231ee_320.png",TOYOTA E LEAGUE
-https://cdn116.stm.trueid.net/live5/ev05_w_auto_tidapp.smil/chunklist_w1709073596_b2537779_vdo_sltha_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=39032189&mpass=52HYV3472y%2BZHSXh7rhadpBFOD4fOmWqKpqbpijpqU16AUXHyXZnvQzSEgpBaMeNlOqwGbbmv5gEEloFNsLmMdu3%2BwFZtsxZz%2FaJajeJsYGV35Nq%2B1seAEek%2FI3B9lM2Ojp4XHeGPQ8ihGUVxDnNmGKT&appid=trueid&type=live&visitor=web&uid=39032189&mpass=52HYV3472y%2BZHSXh7rhadpBFOD4fOmWqKpqbpijpqU16AUXHyXZnvQzSEgpBaMeNlOqwGbbmv5gEEloFNsLmMdu3%2BwFZtsxZz%2FaJajeJsYGV35Nq%2B1seAEek%2FI3B9lM2Ojp4XHeGPQ8ihGUVxDnNmGKT
+
 
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doohdbox.com/assets/20200109132203797568789.jpg",ID Station
-https://cdn116.stm.trueid.net/live6/he001_w_auto_tidapp.smil/chunklist_w1650328721_b2537779_vdo_sltha_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=39032189&mpass=c69o9o9tRuOe0DsozQpdSTrU%2BhfMJHy98f5COJv0DHI6uSp1kPxMc4tbPNDdvOGb7rY%2Fg9AT5b7X52rtZxhPYJjmjahuhIlMMiiIUszhmd8RNNHryDvKWglJSzraDObVOjoh0bV%2FCd7XN%2FdvIlTLcEpg&appid=trueid&type=live&visitor=web&uid=39032189&mpass=c69o9o9tRuOe0DsozQpdSTrU%2BhfMJHy98f5COJv0DHI6uSp1kPxMc4tbPNDdvOGb7rY%2Fg9AT5b7X52rtZxhPYJjmjahuhIlMMiiIUszhmd8RNNHryDvKWglJSzraDObVOjoh0bV%2FCd7XN%2FdvIlTLcEpg&1
 
 #EXTINF:-1 tvg-id="TrueSport1.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd1.png",TRUESPORT HD
 http://160.119.77.50/iptv/hd-tsport1.stream/playlist.m3u8
@@ -443,7 +443,7 @@ http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/de-skybundesliga.png",Sky Bundesliga
-http://160.119.77.50/iptv/de-skybundesliga.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/765357041653276672/Y649c6qX_400x400.jpg" group-title="Sports",SPORTSMAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8 
@@ -527,8 +527,6 @@ http:\\vvn.neoredi.com\iptv\ch516?code=1501309316704233&key=27664
 http://skdn.redi-vo.com/iptv/ch517?code=103131497823984&key=27619
 #EXTINF:0 group-title="Sports"tvg-logo="https://www.gpshop.es/112-large_default/llavero-con-logo-motogp.jpg",Moto GP 
 
-#EXTINF:0 group-title="Sports"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/KIX_Logo_2014.jpg",KIX
-http://iliketot.dyndns.tv/e584e0adae6440eab366f5fe3a824f91.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-skynetsports1.png" group-title="Sports",Skynetsport1
 http://kodinew.dyndns.tv:9981/stream/channelid/1015761856?ticket=D41FFD74B40A950B68E01280C753604FC2CC6DDD&profile=pass
