@@ -374,6 +374,7 @@ http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8
 #EXTINF:0 group-title="Sports"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/KIX_Logo_2014.jpg",KIX
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/kixhd/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doohdbox.com/assets/20200109132203797568789.jpg",ID Station
+http://cdn130.stm.trueid.net:80/live6/he001_th_m_high_tidapp.smil/chunklist_b2603315_slth.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=riB1ilI3bng70hiOZx6JcPr%2BcX%2Fs%2BmyZ05nYa9KhHlYoUXkaa45L%2BvpSTreE0ztNX8kmbOk%2FCCrG8nXgH9vlNJTqtfmUumLncEnHE2Mt1pg6Oh38iq9VcTORCCwYJ7FCR%2B0
 
 #EXTINF:-1 tvg-id="TrueSport1.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd1.png",TRUESPORT HD
 http://160.119.77.50/iptv/hd-tsport1.stream/playlist.m3u8
@@ -733,13 +734,16 @@ http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.Amazing.Spider.Ma
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917501.jpg",The Amazing Spider Man 2 (2014)
 http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Amazing.Spider-Man.2.2014.4K.TH.mp4/index.m3u8
 
-#EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1497173648.jpg",X-men Days Of Future Past (2014)
+#EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1497173648.jpg",X-men: Days Of Future Past (2014)
 http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_X-men.Days.Of.Future.Past.2014.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo=""https://www.hd2liveplus.com/uploads/categories/categories_1494866612.jpg",X-Men: Apocalypse (2016 
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_X-Men.Apocalypse.2016.TH.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/5474.jpg",12 Rounds (2009)
 http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_12.Rounds.1.2009.TH.mp4/index.m3u8
 
-#EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1519214702.jpg",Thor Ragnarok (2017)
+#EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1519214702.jpg",Thor: Ragnarok (2017)
 http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Thor.Ragnarok.2017.FullHD.TH.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1518777044.jpg",WONDER WOMEN (2017)
@@ -848,3 +852,6 @@ http://180.183.122.138:8096/emby/videos/7068/stream.mkv?DeviceId=48140c6933aa50f
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://f.ptcdn.info/700/040/000/o3mgiohtbAkvMowXHNp-o.jpg",Kung Fu Panda 3 (2016)
 http://180.183.122.138:8096/emby/videos/7069/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=0ff03ff63ffc1134798c94ed5398ce25&Static=true&PlaySessionId=afbd4c6762894b1c97ca61c2104802c3&api_key=cb65b3c81379485daa3888f9c03e58c7
+
+#EXTINF:-1 group-title="Animation"tvg-logo="https://movie150.com/wp-content/uploads/2020/02/Frozen-1-350x520.jpg",Frozen (2013)
+http://191.96.77.13:22095/movie/bluray/frozen-th-en-1280p.mp4/index.m3u8
