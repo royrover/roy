@@ -1,6 +1,6 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 10.03.2020", Last Update: 10.03.2020
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 12.03.2020", Last Update: 12.03.2020
 http://tiny.cc/d69fjz
 #EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
 http://cdn856.stm.trueid.net/live1/c03_th_m_high_tidapp.smil/playlist.m3u8
@@ -98,6 +98,10 @@ http://cdn856.stm.trueid.net/live4/ca03_th_m_high_tidapp.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://pbs.twimg.com/profile_images/947316656480518144/FEiA6XmM.jpg",Blue Ant Entertainment HD
 http://cdn856.stm.trueid.net/live2/177_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/NfWLZQf1/harimau.jpg" group-title="Cinema",BLUE ANT EXTREME
+http://cdn856.stm.trueid.net/live1/208_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://cms.dmpcdn.com/livetv/2018/07/24/afc3d514-fba5-4da4-8220-6123412da728.jpg",True X-zyte 
+http://cdn856.stm.trueid.net/live2/034_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/paramount.png",Paramount CHANNEL
 http://cdn856.stm.trueid.net/live1/222_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO HD
@@ -182,8 +186,7 @@ https://tv4.chang55.com/live2/tv4ch32.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-moviehits.png",Movie Hit
 http://103.120.113.90:1935/psilive3a/MOVIE_HITS_61.stream_360p/playlist.m3u8
-#EXTINF:0 group-title="Cinema"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/KIX_Logo_2014.jpg",KIX
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/kixhd/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",Lao Star
@@ -201,8 +204,7 @@ http://cdn856.stm.trueid.net/live4/109_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/21/a870a651-9595-4921-bc41-7ba39d7067a3.png",Super Bunteung
 http://cdn856.stm.trueid.net/live3/108_th_m_high_tidapp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-logo="https://cms.dmpcdn.com/livetv/2018/07/24/afc3d514-fba5-4da4-8220-6123412da728.jpg",True X-zyte 
-http://cdn856.stm.trueid.net/live2/034_th_m_high_tidapp.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY TH
 http://cdn856.stm.trueid.net/live2/141_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY EH
@@ -226,15 +228,13 @@ http://cdn856.stm.trueid.net/live2/116_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC EN
 http://iliketot.dyndns.tv/850a8ca433184938bfaeaf770abc5d7a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/natpeople.png",NATGEO PEOPLE
-http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="animalplanet.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
 https://tv4.chang55.com/live2/tv4ch89.stream/chunks.m3u8
 #EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg",SAMRUJLOK
 https://www.livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbcearth.th"group-title="Knowledge"tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BCC EARTH
 http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/NfWLZQf1/harimau.jpg" group-title="Knowledge",BLUE ANT EXTREME
-http://cdn856.stm.trueid.net/live1/208_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="http://www.dlit.ac.th/pages/library/images/TruePlookpanya.jpg",True Pookpanya
 http://cdn856.stm.trueid.net/live2/139_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 gtvg-id=""group-title="Knowledge"tvg-logo="http://thumbnail.instardara.com/channel/RamaCh.jpg",RAMA CHANNEL
@@ -366,7 +366,8 @@ http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/13/cd083b90-4e15-11ea-b7f0-270d555231ee_320.png",TOYOTA E LEAGUE
 
 
-
+#EXTINF:0 group-title="Sports"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/KIX_Logo_2014.jpg",KIX
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/kixhd/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doohdbox.com/assets/20200109132203797568789.jpg",ID Station
 
 #EXTINF:-1 tvg-id="TrueSport1.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd1.png",TRUESPORT HD
@@ -777,7 +778,7 @@ http://180.183.122.138:8096/emby/videos/6703/stream.mkv?DeviceId=48140c6933aa50f
 http://180.183.122.138:8096/emby/videos/8732/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=c79d2cb8edfa83a8d2f47909fcf26c3d&Static=true&PlaySessionId=2cabfa59faf34f5c8afb7290362068b4&api_key=cb65b3c81379485daa3888f9c03e58c7
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Kungfupanda.jpg/220px-Kungfupanda.jpg",Kung Fu Panda (2008)
-http://18https://cdn.badroids.is/vod/disk2/movies/kgfpd1.mp4
+https://cdn.badroids.is/vod/disk2/movies/kgfpd1.mp4
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/3991105fb0c51f9b99a8247dc3d6fdc3.jpg",Kung Fu Panda 2 (2011)
 http://180.183.122.138:8096/emby/videos/7068/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=4b2934c41ad752b6bdb537610488d30c&Static=true&PlaySessionId=12366369910a44108bf569bfec7b06a0&api_key=cb65b3c81379485daa3888f9c03e58c7
