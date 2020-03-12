@@ -469,7 +469,7 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1202558122998546432/mqL9eCZZ_400x400.jpg" group-title="Sports",UK LFC TV
 http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-chelseatv.png",UK Chealsea TV
-http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-mutv.png",UK MU TV
 http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNQGv_3ehrYRwcONHlmcRtoHmfuF-ZQo0ub_9cOdnvUgeqdMz&s" group-title="Sports",RED BULL TV
@@ -697,7 +697,7 @@ http://191.96.77.23:443/movie/2017/Indiana.Jones.And.The.Last.Crusade.1989.1080p
 #EXTINF:-1 group-title="Movies"tvg-logo="https://movie2z.com/imgmovie/29-02-37-17am706.jpg",Indiana Jones 4 and the Kingdom of the Crystal Skull (2008)
 http://191.96.77.23:443/movie/2017/Indiana.Jones.and.The.Kingdom.of.the.Crystal.Skull.2008.1080p.TH.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/5W04Z6ZIoXMX2pHMP7V.jpg",SHOOOTER (2007)
-https://cdn.livedoomovies.com/hls/20e56cb8e99d3cbbce42312c26936744/20e56cb8e99d3cbbce42312c26936744.m3u8
+https://www.037hd.com/movie/900856.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/AR7OrBwGDThJPHWmzH9.jpg",San Andreas (2015)
 http://191.96.77.22:3095/movie/dbnew/San.andreas.2015.dub.mp4/index.m3u8
@@ -717,7 +717,7 @@ http://191.96.77.236/video/264_thai_ok/Sniper.Ghost.Shooter.2016.1080p.264.thai.
 https://cdn.badroids.is/vod/disk3/movies/sutek.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/hUefKrxR4IOaZiEg4ZD.jpg",Jack the Giant Slayer (2013) 
-http://180.183.122.138:8096/emby/videos/136523/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=9607ffca8d10f5c50ba47b672abb20dd&Static=true&PlaySessionId=0567efafa6c946949068886120ae8734&api_key=cb65b3c81379485daa3888f9c03e58c7
+https://www.037hd.com/movie/903841.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1521027422.jpg",Jumanji Welcome to the Jungle (2017)
 http://191.96.77.236/video/2018/Jumanji.Welcome.to.the.Jungle.2017.1080p.BDRip.TH.BD-4K.mp4/playlist.m3u8
@@ -786,76 +786,78 @@ http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.great.wall.201
 http://cdn-vod.kodi-live.com/hls/content/storage4/disk5/MovieUpdate/Jurassic.world.fallen.kingdom.2018.z1.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://ae01.alicdn.com/kf/HTB1u2UeKpXXXXaKXFXXq6xXFXXXj/Saving-Private-Ryan-Spielberg-Tom-Hanks-Vintage-Retro-DIY-Wall.jpg",Saving Private Ryan (1998)
-http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Saving_Private_Ryan_th.mp4/playlist.m3u8
+https://www.037hd.com/movie/902809.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/05/Behind-Enemy-Lines-2001-%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81.png",Behind Enemy Lines (2001)
-http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Behind_Enemy_Lines_1_th.MP4/playlist.m3u8
+https://www.037hd.com/movie/903569.mp4
  
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.thmovieshd.com/wp-content/uploads/2018/04/Behind-Enemy-Lines-%E0%B8%9A%E0%B8%B5%E0%B9%84%E0%B8%AE%E0%B8%94%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B8%AA%E0%B9%8C-%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81-400x594.jpg",Behind Enemy Lines 2: Axis of Evil (2006)
-http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Behind_Enemy_Lines_2_th.MP4/playlist.m3u8
+https://www.037hd.com/movie/901866.mp4
  
 #EXTINF:-1 group-title="Movies"tvg-logo="https://topicstock.pantip.com/chalermthai/topicstock/2011/04/A10479937/A10479937-16.jpg",Behind Enemy Lines 3: Colombia (2009)
-http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Behind_Enemy_Lines_3_th.MP4/playlist.m3u8
+https://www.037hd.com/movie/901503.mp4
  
 #EXTINF:-1 group-title="Movies"tvg-logo="https://1.bp.blogspot.com/-65rPcK-zMrI/VEirWyGBb2I/AAAAAAAAAWA/eDIyA-ZelEk/s1600/Seal%2BTeam%2BEight%2BBehind%2BEnemy%2BLines.jpg",Behind Enemy Lines 4: Seal Team Eight (2014)
-http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Behind_Enemy_Lines_4_th.MP4/playlist.m3u8
+https://www.037hd.com/movie/900845.mp4
  
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/60kby94vmDfhktKcXCq.jpg",HITMAN AGENT 47 (2015) 
-http://107.150.51.251/disk3/Hitman%20Agent%2047%20%282015%29%20%20%2047%20-%20%20%20%20HD%20%20%20.mp4
+https://www.037hd.com/movie/900276.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.new-mastermovie.com/wp-content/uploads/2016/08/Ben-Hur-2016-%E0%B9%80%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%AE%E0%B8%AD%E0%B8%A3%E0%B9%8C-2.jpg",BEN-HUR (2016) 
-http://107.150.51.251/disk3/BEN-HUR2016.MP4
+https://www.037hd.com/movie/905012.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.nung2hd.com/wp-content/uploads/2018/02/Black-Panther-2018.jpg',Black Panther (2018)
-http://178.128.80.12/videos/zhoamrkp9fyabgxr3mmasq35go.mp4
+https://www.037hd.com/movie/908665.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://s.isanook.com/mv/0/ui/4/20208/16405_002.jpg",2012 (2009)
 http://191.96.77.23:443/movie/bluray2016/2012-2009-Bluray-1080p.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://3.bp.blogspot.com/-hs83FY2wYeY/We10LxwXMcI/AAAAAAAAEUk/6IBzMTWB2IotMYOTZwLXNFTlXr8k2EP3ACLcBGAs/s1600/016.jpg",King Naresuan 1 (2007)
-http://191.96.38.38/hls/content/nss1/vod/th00175-720p.mp4/index.m3u8
+https://www.037hd.com/movie/900729.mp4
  
 #EXTINF:-1 group-title="Movies"tvg-logo="https://1.bp.blogspot.com/-Ipf6p5kHF5c/We10L3l9vRI/AAAAAAAAEUo/d-4mGfZzSQIyOEBCDbeChJMcGzym_3REgCLcBGAs/s1600/017.jpg",King Naresuan 2 (2007)
-http://191.96.38.38/hls/content/nss1/vod/th00174-720p.mp4/index.m3u8
+https://www.037hd.com/movie/900733.mp4
  
 #EXTINF:-1 group-title="Movies"tvg-logo="https://4.bp.blogspot.com/-KvDcIUIRk2Q/We10MBnQeEI/AAAAAAAAEUs/lKGt7whPG6IieSFKP7tGkRNzkCgT44QEQCLcBGAs/s1600/018.jpg",King Naresuan 3 (2011)
-http://191.96.38.38/hls/content/nss1/vod/th00173-720p.mp4/index.m3u8
+https://www.037hd.com/movie/900734.mp4
  
 #EXTINF:-1 group-title="Movies"tvg-logo="https://3.bp.blogspot.com/-VHLoIc88pvU/We10MBOGpOI/AAAAAAAAEUw/vlj9yEBdukMhh5XAAVK7uATIWxjOOuj_gCLcBGAs/s1600/019.jpg",King Naresuan 4 (2011)
-http://191.96.38.38/hls/content/nss1/vod/th00172-720p.mp4/index.m3u8
+https://www.037hd.com/movie/900728.mp4
  
 #EXTINF:-1 group-title="Movies"tvg-logo="https://1.bp.blogspot.com/-gZKH_l_5RG4/We10MZN6zDI/AAAAAAAAEU0/TalOclsNKA4Hmh90oE5q_xwo1i1KPCXGwCLcBGAs/s1600/020.jpg",King Naresuan 5 (2014)
-http://191.96.38.38/hls/content/nss1/vod/th00171-720p.mp4/index.m3u8
+https://www.037hd.com/movie/900731.mp4
  
 #EXTINF:-1 group-title="Movies"tvg-logo="https://movie2z.com/imgmovie/03-10-33-08pm157.jpg",King Naresuan 6 (2015)
-http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/king_naresuan_6.MP4/playlist.m3u8
+https://www.037hd.com/movie/900761.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.freemoviesth.com/wp-content/uploads/2019/11/Pearl-Harbor.jpg",Pearl Harbor (2001)
-http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Pearl_Harbor_th.mp4/playlist.m3u8
+https://www.037hd.com/movie/900966.mp4
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://037-hd.com/wp-content/uploads/2019/02/Alita-Battle-Angel-2019.jpg",Alita : Battle Angle (2019)
 http://191.96.77.22:3095/movie2/2019/Alita.Battle.Angel.2019.1080p.TH.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/QfMZOx4bE9KSNQ4ZliN.jpg",Mulan I (1998) 
-http://180.183.122.138:8096/emby/videos/7604/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=7c211b111eb1452fd57ae95cc293ff50&Static=true&PlaySessionId=342112bb268a46a2b3e3412ca945dfb3&api_key=cb65b3c81379485daa3888f9c03e58c7
-
+https://www.037hd.com/movie/903703.mp4
 #EXTINF:-1 group-title="Animation"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/QwL0iHEHgFR1i7v5Qjg.jpg",Mulan II (2004) 
-http://180.183.122.138:8096/emby/videos/7606/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=70caed2cddea7e8debd40d4c646fa626&Static=true&PlaySessionId=65401a18745742c783c0e4a1159b356a&api_key=cb65b3c81379485daa3888f9c03e58c7
+https://www.037hd.com/movie/903702.mp4
 
-#EXTINF:-1 group-title="Animation"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/44PuWciKafKVNANmxsQ.jpg",THE PRINCESS AND THE FROG (2009) 
-http://180.183.122.138:8096/emby/videos/8223/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=464f20256e2d3f8665e3701896f3fb68&Static=true&PlaySessionId=aea5879e37ed4cc08715dc7c66871df6&api_key=cb65b3c81379485daa3888f9c03e58c7
+#EXTINF:-1 group-title="Animation"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/44PuWciKafKVNANmxsQ.jpg",The Princess and the Frog (2009)
+https://www.037hd.com/movie/902735.mp4
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://www.freemoviesth.com/wp-content/uploads/2020/03/MV5BZTg4MDZkYWUtNDQwYS00NjI3LTgzMjctMGZmNmE1NTJiOGM3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",Pokemon: Mewtwo Strikes Back - Evolution (2019)
 https://cdn.jebriko.ru/vod/disk3/movies/qqwerty.mp4
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/gpxAaq02Dh07SJkacEp.jpg",Shrek 1 (2001)
-http://180.183.122.138:8096/emby/videos/8707/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=49b46cff33721b0accf5ac60cbc2a2f6&Static=true&PlaySessionId=d644db4064064cfa8438ae6341ff7ef4&api_key=cb65b3c81379485daa3888f9c03e58c7
+https://www.037hd.com/movie/901022.mp4
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://image.tmdb.org/t/p/w500/eVBH2nDYbLWiUXYotADRAWK6sm6.jpg",Shrek 2 (2004)
-http://180.183.122.138:8096/emby/videos/8708/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=518da976d1f0e966a1d08e2161eaab4f&Static=true&PlaySessionId=21bfe44b7d464975b0d1c58c302853c1&api_key=cb65b3c81379485daa3888f9c03e58c7
+https://www.037hd.com/movie/901023.mp4
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/0/01/Shrek_the_third_ver2.jpg/220px-Shrek_the_third_ver2.jpg",Shrek the Third (2007)
-http://180.183.122.138:8096/emby/videos/8710/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=ba49cf8eb52e3db043239626736f1538&Static=true&PlaySessionId=79913d2570324b6e941303f8acc68bb2&api_key=cb65b3c81379485daa3888f9c03e58c7
+https://www.037hd.com/movie/901021.mp4
+
+#EXTINF:-1 group-title="Animation"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81fPM736iOL._SY445_.jpg",Shrek 4 Forever After (2010)
+https://www.037hd.com/movie/901025.mp4
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://i.imgur.com/VbzB3xL.jpg",Monkey King Hero Is Back (2015)
 http://191.96.77.236/video/2018/Monkey.King.Hero.Is.Back.2015.1080p.TH-4K.mp4/playlist.m3u8
