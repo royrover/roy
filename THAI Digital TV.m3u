@@ -186,7 +186,12 @@ https://tv4.chang55.com/live2/tv4ch32.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-moviehits.png",Movie Hit
 http://103.120.113.90:1935/psilive3a/MOVIE_HITS_61.stream_360p/playlist.m3u8
-
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",Movies 1
+http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",Movies 2
+http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg",Movies 3
+http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",Lao Star
@@ -664,7 +669,7 @@ http://191.96.77.23:443/movie/2017/Indiana.Jones.And.The.Last.Crusade.1989.1080p
 #EXTINF:-1 group-title="Movies"tvg-logo="https://movie2z.com/imgmovie/29-02-37-17am706.jpg",Indiana Jones 4 and the Kingdom of the Crystal Skull (2008)
 http://191.96.77.23:443/movie/2017/Indiana.Jones.and.The.Kingdom.of.the.Crystal.Skull.2008.1080p.TH.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/5W04Z6ZIoXMX2pHMP7V.jpg",SHOOOTER (2007)
-http://180.183.122.138:8096/emby/videos/8698/stream.mkv?DeviceId=48140c6933aa50fe&MediaSourceId=ae16b4a94027842dfeef47fbe5bc5535&Static=true&PlaySessionId=0af5a41e76774f25918ca6e24660bf72&api_key=cb65b3c81379485daa3888f9c03e58c7
+https://104.31.12.163/hls/20e56cb8e99d3cbbce42312c26936744/20e56cb8e99d3cbbce42312c26936744.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/AR7OrBwGDThJPHWmzH9.jpg",San Andreas (2015)
 http://191.96.77.22:3095/movie/dbnew/San.andreas.2015.dub.mp4/index.m3u8
