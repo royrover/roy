@@ -137,11 +137,11 @@ http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxFamilyMovies.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxfamily.png",FOX FAMILY HD
 http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxThai.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxthai.png",FOX THAI TH
-http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
+http://27.254.149.109:8081/tumlive/fox/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxThai.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxthai.png",FOX THAI EN
 http://iliketot.dyndns.tv/d0bfb50bee3741a09c53f8099a64ad52.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime TH
-http://iliketot.dyndns.tv/48773319e9324602b258e3f1d33ec111.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+http://27.254.149.109:8081/tumlive/Foxcrime/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime EN
 http://iliketot.dyndns.tv/48773319e9324602b258e3f1d33ec111.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/fxhd.png",FX HD 
@@ -215,7 +215,7 @@ http://cdn856.stm.trueid.net/live2/141_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY EH
 http://160.119.77.50/iptv/hd-historyeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="history2.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
-http://cdn856.stm.trueid.net/live1/163_th_m_high_tidapp.smil/playlist.m3u8
+http://27.254.149.109:8081/tumlive/H2/playlist.m3u8
 #EXTINF:-1 tvg-id="history2.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2 UK
 http://160.119.77.50/iptv/uk-history2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY TH
@@ -721,6 +721,9 @@ https://cdn.badroids.is/vod/disk3/movies/sutek.mp4
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/hUefKrxR4IOaZiEg4ZD.jpg",Jack the Giant Slayer (2013) 
 https://www.037hd.com/movie/903841.mp4
 
+#EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866593.jpg",Warcraft (2016)
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Warcraft.2016.TH.mp4/index.m3u8
+ 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1521027422.jpg",Jumanji Welcome to the Jungle (2017)
 http://191.96.77.236/video/2018/Jumanji.Welcome.to.the.Jungle.2017.1080p.BDRip.TH.BD-4K.mp4/playlist.m3u8
 
@@ -739,8 +742,11 @@ http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Amazing.Spider-M
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1497173648.jpg",X-men: Days Of Future Past (2014)
 http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_X-men.Days.Of.Future.Past.2014.4K.TH.mp4/index.m3u8
 
-#EXTINF:-1 group-title="Movies"tvg-logo=""https://images-na.ssl-images-amazon.com/images/I/91gOTFbc6VL._SL1500_.jpg",X-Men: Apocalypse (2016) 
+#EXTINF:-1 group-title="Movies"tvg-logo=""https://f.ptcdn.info/334/037/000/nxphorbbrO4yNb7bBhp-o.jpg",X-Men: Apocalypse (2016) 
 http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_X-Men.Apocalypse.2016.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875139.jpg",Guardians Of The Galaxy (2014)
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Guardians.Of.The.Galaxy.2014.4k.TH.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/5474.jpg",12 Rounds (2009)
 http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_12.Rounds.1.2009.TH.mp4/index.m3u8
