@@ -87,10 +87,12 @@ http://host4.dynns.com/stream/1e2041858ca543fa90ec95d28197e907.m3u8
 http://160.119.77.50/iptv/sd-nhkworld.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/622f7e14-4624-4454-a63f-0bd428c399b3.png",Russia Today
 
+#EXTINF:-1 group-title="News World" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-cnbc.png",CNBC
+http://160.119.77.50/iptv/sd-cnbc.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/20757db0-4fb8-47ac-b112-e25ec5194084.png",Aljazeera News
 http://160.119.77.50/iptv/uk-aljazeera.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/6f61f5c9-06af-4ae8-aefb-e7dccc73d2de.png",Australia Network
-http://cdn856.stm.trueid.net/live3/d24_th_m_high_tidapp.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/f17c0c12-d66b-439e-b983-c3f7e0556518.png",BBC World News
 http://160.119.77.50/iptv/hd-bbcworldnews.stream/playlist.m3u8
 
@@ -98,11 +100,11 @@ http://160.119.77.50/iptv/hd-bbcworldnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://pbs.twimg.com/profile_images/947316656480518144/FEiA6XmM.jpg",Blue Ant Entertainment HD
 http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NfWLZQf1/harimau.jpg" group-title="Cinema",BLUE ANT EXTREME
-http://cdn856.stm.trueid.net/live1/208_th_m_high_tidapp.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://cms.dmpcdn.com/livetv/2018/07/24/afc3d514-fba5-4da4-8220-6123412da728.jpg",True X-zyte 
 http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/paramount.png",Paramount CHANNEL
-http://cdn856.stm.trueid.net/live1/222_th_m_high_tidapp.smil/playlist.m3u8
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/paramountchannel/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO HD
 http://103.22.181.99:8081/youlike/hbohd/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO
@@ -114,13 +116,13 @@ https://www.livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.logolynx.com/images/logolynx/s_c3/c3433a5f5e4e14e7b7517b44f5a9ce7c.png",HBO FAMILY
 https://tv4.chang55.com/live2/tv4ch81.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Warner.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
-http://cdn856.stm.trueid.net/live1/225_th_m_high_tidapp.smil/playlist.m3u8
+http://160.119.77.50/iptv/hd-warnertv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueFilm.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 1
 https://cdn-laos.workpoint.news/hd-tfilm_720/index.m3u8
 #EXTINF:-1 tvg-id="TrueFilm2.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 2
 https://cdn-laos.workpoint.news/hd-tfilm2_720/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://cms.dmpcdn.com/livetv/2018/07/24/deaa6fbe-f139-40a9-925d-3c3ecdda15b2.jpg",True Thai Film
-http://cdn856.stm.trueid.net/live4/094_th_m_high_tidapp.smil/playlist.m3u8
+http://160.119.77.50/iptv/sd-thaifilm.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueFilmAsia.th"group-title="Cinema"tvg-logo="https://www.goal2sport.com/wp-content/uploads/2018/06/TRUEFILMASIA-360x270.png",Truefilm ASIA
 http://160.119.77.50/iptv/sd-filmasia.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-asian.png",True Asian Series HD
@@ -158,9 +160,9 @@ http://iliketot.dyndns.tv/53c2bf7e52a44fd8b6df7f9e83891bbc.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://imgcloud.fwiptv.cc/postor/20190218201201images.jpg",Cool Channel
 http://iliketot.dyndns.tv/205930751d5743e2be719ed1dff8970f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/201707082147541150565441.jpg",Zeenung
-http://cdn856.stm.trueid.net/live4/sc001_th_m_high_tidapp.smil/playlist.m3u8
+http://103.120.113.90:1935/psilive3a/ZeeNung.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/201804041103021708743536.jpg",CCM
-http://cdn856.stm.trueid.net/live4/224_th_m_high_tidapp.smil/playlist.m3u8
+http://160.119.77.50/iptv/sd-celestial.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="http://image.free.in.th/v/2013/ic/180708120008.jpg",Channel8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDbB3UAsXsmSKrVeR-7UMIo2UCzSHx5mgJGSzsu6A90OgtMEQm&s",JKN
@@ -198,7 +200,7 @@ http://cdn856.stm.trueid.net/live3/o062_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/4f31e906-6569-4cf0-a447-7f6438fda36b.png",MRTV4
 http://cdn856.stm.trueid.net/live4/o043_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/0c30b192-953b-49b9-a9bf-a4c6e3e71de3.png",True Shopping
-http://cdn856.stm.trueid.net/live3/218_th_m_high_tidapp.smil/playlist.m3u8
+http://103.120.113.90:1935/psilive2a/TimeTV.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/28/a9490c72-7387-4409-b5a8-80db28585ca4.png",True Select
 http://cdn856.stm.trueid.net/live4/127_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="http://image.free.in.th/v/2013/il/180806015437.jpg",Thai CCTV
@@ -206,7 +208,7 @@ http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/52a5ede1-c512-4d3f-8f3b-be98eab041f2.png",True Thaithai
 http://cdn856.stm.trueid.net/live4/109_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/21/a870a651-9595-4921-bc41-7ba39d7067a3.png",Super Bunteung
-http://cdn856.stm.trueid.net/live3/108_th_m_high_tidapp.smil/playlist.m3u8
+http://160.119.77.50/iptv/sd-sbt.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY TH
@@ -246,7 +248,7 @@ http://160.119.77.50/iptv/sd-rama.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",True Music HD
-http://cdn856.stm.trueid.net/live2/159_th_m_high_tidapp.smil/playlist.m3u8
+http://160.119.77.50/iptv/sd-tmusic.stream/playlist.m3u8
 #EXTINF:-1 group-title="Music"tvg-logo="https://teevee-hd.com/img/mtvlive.png",MTV LIVE
 http://kodinew.dyndns.tv:9981/stream/channelid/859415194?ticket=B94F022535096FDA0AD42C8281373F3FDBD042FC&profile=pass
 #EXTINF:-1 group-title="Music"tvg-logo="https://teevee-hd.com/img/mtvchina.png",MTV China
@@ -319,7 +321,7 @@ http://iliketot.dyndns.tv/2b72986be9314c139db95f6098d1c413.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick jr EN
 http://iliketot.dyndns.tv/09fffe8d426745689f60cbc24da1bb49.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/d258b502-1da6-445b-bd8f-4304c7ff232e.png",Ja Ting Ja TV
-http://cdn856.stm.trueid.net/live3/o014_th_m_high_tidapp.smil/playlist.m3u8
+http://103.120.113.90:1935/psilive3a/JaTingJa.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://x1.cdn.broiptv.online/img/nickelodeon.png" group-title="Kids",Nickelodeon
 http://kodinew.dyndns.tv:9981/stream/channelid/414376583?ticket=3828CE1DBBF260ADE1F00BAAC37E22A6DBAF6E73&profile=pass
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/babytv.png",Baby TV
