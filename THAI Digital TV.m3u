@@ -83,8 +83,8 @@ http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://images.mi.tv/channels/pe_cctv-4_m.png",CCTV4 
 http://cdn.iiptv.ml/live3/027_th_m_high_tidapp.smil/playlist.m3u8
-#EXTINF:-1 group-title="News World"tvg-logo="https://cdn.britannica.com/25/153125-050-5F58855D/logo-Fox-News-Channel.jpg",Fox News TH
-
+#EXTINF:-1 group-title="News World"tvg-logo="https://cdn.britannica.com/25/153125-050-5F58855D/logo-Fox-News-Channel.jpg",Fox News 
+http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/5/NHK_WORLD_TV_LOGO_highres.jpg",NHK WORLD TV
 http://cdn.iiptv.ml/live4/211_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/622f7e14-4624-4454-a63f-0bd428c399b3.png",Russia Today
@@ -108,7 +108,7 @@ http://cdn.iiptv.ml/live2/034_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/paramount.png",Paramount CHANNEL
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/paramountchannel/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO HD
-http://103.22.181.99:8081/youlike/hbohd/playlist.m3u8
+http://newhdtv.myddns.me:8081/youlike/hbohd/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO
 https://tv4.chang55.com/live2/tv4ch47.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO HITS
@@ -120,7 +120,7 @@ https://tv4.chang55.com/live2/tv4ch81.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Warner.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
 http://cdn.iiptv.ml/live1/225_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueFilm.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 1
-https://tv4.chang55.com/live2/tv4ch93.stream/chunks.m3u8
+http://160.119.77.50/iptv/hd-tfilm.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueFilm2.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 2
 https://cdn-laos.workpoint.news/hd-tfilm2_720/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://cms.dmpcdn.com/livetv/2018/07/24/deaa6fbe-f139-40a9-925d-3c3ecdda15b2.jpg",True Thai Film
@@ -146,11 +146,10 @@ http://iliketot.dyndns.tv/d0bfb50bee3741a09c53f8099a64ad52.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime TH
 http://27.254.149.109:8081/tumlive/Foxcrime/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime EN
-http://iliketot.dyndns.tv/48773319e9324602b258e3f1d33ec111.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+http://160.119.77.50/iptv/hd-foxcrimeeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/fxhd.png",FX HD 
-http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
-#EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxlife.png",Fox Life HD
-http://27.254.149.109:8081/tumlive/Foxlife/playlist.m3u8
+http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
+http://160.119.77.50/iptv/hd-foxlife.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/scm.jpg",Star Chinese Moviess
@@ -195,6 +194,8 @@ http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
 http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg",Movies 3
 http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2Ftvb321.jpg",TVB
+http://160.119.77.50/iptv/sd-tvb.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",Lao Star
@@ -348,9 +349,9 @@ http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
 http://cdn.iiptv.ml/live3/143_th_m_high_tidapp.smil/playlist.m3u8
 http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",BOOMERANG
-http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/boomerang.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.th"group-title="Kids"tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+https://tv4.chang55.com/live2/tv4ch30.stream/chunks.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/TomandJerryTitleCardc.jpg",TOM & JERRY
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:-1 group-title="Kids"tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_KartoonFunTime.jpg",Kartoon Fun Time
