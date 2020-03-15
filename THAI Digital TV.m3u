@@ -1,6 +1,6 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 14.03.2020", Last Update: 14.03.2020
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 15.03.2020", Last Update: 15.03.2020
 http://tiny.cc/d69fjz
 #EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
 http://cdn.iiptv.ml/live1/c03_th_m_high_tidapp.smil/playlist.m3u8
@@ -149,6 +149,7 @@ http://27.254.149.109:8081/tumlive/Foxcrime/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/fxhd.png",FX 
 http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/fxhd.png",Foxlife
 http://160.119.77.50/iptv/hd-foxlife.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
@@ -182,7 +183,7 @@ http://kodinew.dyndns.tv:9981/stream/channelid/1809014838?ticket=F3D66A03B22ABB2
 http://cdn.iiptv.ml/live4/o020_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ed57b046d1e80602992684d85adc104b" group-title="Cinema" tvg-logo="https://image.winudf.com/v2/image/Y29tLm15YW5tYXJtb3ZpZXMuaW5mb19zY3JlZW5fMF8xNTM0OTUxMTEzXzA5Nw/screen-0.jpg?fakeurl=1&type=.jpg",MYANMAR MOVIES
 http://kodinew.dyndns.tv:9981/stream/channelid/1185961965?ticket=B40686A7E223465B8D75108008EA5EA48F992473&profile=pass
-#EXTINF:-1 group-title="Cinema" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-cinemax.png",Cinemax HD
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-cinemax.png",Cinemax 
 https://tv4.chang55.com/live2/tv4ch32.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://p7.hiclipart.com/preview/259/793/158/universal-channel-television-channel-television-show-nbcuniversal-international-networks-chanel-thumbnail.jpg",Universal TH
 https://tv4.chang55.com/live2/tv4ch43.stream/chunks.m3u8
