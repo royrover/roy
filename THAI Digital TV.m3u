@@ -35,7 +35,7 @@ http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD BKP
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PPTV.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
-http://cdn.iiptv.ml/live1/da7_th_m_high_tidapp.smil/playlist.m3u8
+http://160.119.77.50/iptv/hd-pptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PPTV.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD BKP
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/thaipbs.png",ThaiPBS HD
@@ -82,21 +82,21 @@ http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png",FRANCE24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://images.mi.tv/channels/pe_cctv-4_m.png",CCTV4 
-http://cdn.iiptv.ml/live3/027_th_m_high_tidapp.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="News World"tvg-logo="https://cdn.britannica.com/25/153125-050-5F58855D/logo-Fox-News-Channel.jpg",Fox News 
 https://cdn-laos.workpoint.news/sd-foxnews_720/index.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/5/NHK_WORLD_TV_LOGO_highres.jpg",NHK WORLD TV
-http://cdn.iiptv.ml/live4/211_th_m_high_tidapp.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/622f7e14-4624-4454-a63f-0bd428c399b3.png",Russia Today
-http://cdn.iiptv.ml/live4/ca03_th_m_high_tidapp.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="News World" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-cnbc.png",CNBC
 http://160.119.77.50/iptv/sd-cnbc.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/20757db0-4fb8-47ac-b112-e25ec5194084.png",Aljazeera News
 http://160.119.77.50/iptv/uk-aljazeera.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/6f61f5c9-06af-4ae8-aefb-e7dccc73d2de.png",Australia Network
-http://cdn.iiptv.ml/live3/d24_th_m_high_tidapp.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/f17c0c12-d66b-439e-b983-c3f7e0556518.png",BBC World News
-http://cdn.iiptv.ml/live1/193_th_m_high_tidapp.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://pbs.twimg.com/profile_images/947316656480518144/FEiA6XmM.jpg",Blue Ant Entertainment HD
@@ -192,9 +192,9 @@ http://103.120.113.90:1935/psilive3a/MOVIE_HITS_61.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",Movies 1
 http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",Movies 2
-https://lives1.nungbox.com/thairestr/movie2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDM6NTU6MDcgQU0maGFzaF92YWx1ZT1mL1FVVG4veFdQRXlZZjFIQVo3YjJBPT0mdmFsaWRtaW51dGVzPTYw
+http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg",Movies 3
-https://lives1.nungbox.com/threstr/movie4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDQ6MTM6MjMgQU0maGFzaF92YWx1ZT16Tm9kakZIZzlBbzhTSkd2NGZaWldnPT0mdmFsaWRtaW51dGVzPTYw
+http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2Ftvb321.jpg",TVB
 http://160.119.77.50/iptv/sd-tvb.stream/playlist.m3u8
 
