@@ -112,9 +112,9 @@ http://newhdtv.myddns.me:8081/youlike/hbohd/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO
 https://tv4.chang55.com/live2/tv4ch47.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO HITS
-
+https://live.we-play.tv/app/hbo-hits/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO SIGNATURE
-
+https://live.we-play.tv/app/hbo-sig/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.logolynx.com/images/logolynx/s_c3/c3433a5f5e4e14e7b7517b44f5a9ce7c.png",HBO FAMILY
 https://tv4.chang55.com/live2/tv4ch81.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Warner.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
@@ -548,6 +548,14 @@ http://sansat.net:25461/12Xaman07124/FBrssgdJD3/5241
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/517.png",BEIN 16  
 
 #EXTINF:0 group-title="Sports"tvg-logo="https://www.gpshop.es/112-large_default/llavero-con-logo-motogp.jpg",Moto GP 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Astro_Supersport_new.png/revision/latest/scale-to-width-down/340?cb=20180622074357",astro1
+https://live.we-play.tv/app/astro1/playlist.m3u8  
+#EXTINF:-1 group-title="Sports" tvg-logo="https://1.bp.blogspot.com/_Qg6J04XZhR4/SwSWVYbJbSI/AAAAAAAAKaU/tWlyGSLweWo/s400/supersport2_rev.jpg",astro2
+https://live.we-play.tv/app/astro2/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest/scale-to-width-down/340?cb=20180622075715",astro3
+https://live.we-play.tv/app/astro3/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Astro_Supersport_4.png/revision/latest?cb=20180622080025",astro4
+https://live.we-play.tv/app/astro4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-skynetsports1.png" group-title="Sports",Skynetsport1
