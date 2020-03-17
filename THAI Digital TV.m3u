@@ -147,7 +147,7 @@ http://27.254.149.109:8081/tumlive/Foxcrime/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime EN
 
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/fxhd.png",FX 
-http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://i.ibb.co/mFLvyP3/images-1.png",Foxlife
 http://160.119.77.50/iptv/hd-foxlife.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill
@@ -288,8 +288,6 @@ http://kodinew.dyndns.tv:9981/stream/channelid/945789723?ticket=70FB8EA62FDCD8F9
 http://kodinew.dyndns.tv:9981/stream/channelid/417735839?ticket=A8BD3CE4B249000F301E6E10C50877703FE48194&profile=pass
  
 
-
-
 #EXTINF:-1 group-title="Radio"  tvg-logo="https://www.adintrend.tv/images/radio/94x.jpg",Chill FM
 http://real4.atimemedia.com/chill
 #EXTINF:-1group-title="Radio" tvg-logo="http://image.free.in.th/v/2013/ij/180713075126.gif",GREENWAVE
@@ -360,7 +358,6 @@ https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?fluxustv.m3u8
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
 
 
-
 #EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sports",Premier HD1 
 http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sports",Premier HD2 
@@ -383,6 +380,7 @@ https://tumlive109.dvrdns.org:30443/tumlive/TFBHD4/chunks.m3u8
 http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/13/cd083b90-4e15-11ea-b7f0-270d555231ee_320.png",TOYOTA E LEAGUE
+https://cdn777.stm.trueid.net/live5/ev05_th_m_high_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&uid=18986332&mpass=gG41wfJ7eD8bz3rp3elMUmIKVipOy6m9WkjyJl%2FqB%2FCjF24AJ36HVzpp4Cat2t0SAmm3X5I6484r8THjwXHE1FeiyKPVbtAAsl50jcTwijiEA%2Fbd0nUUwL2UiNR9dL35Ojr2qZvkZ3Wq2YS4H2Tk02hN
 
 
 #EXTINF:0 group-title="Sports"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/KIX_Logo_2014.jpg",KIX
