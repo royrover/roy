@@ -102,11 +102,11 @@ http://cdn150.stm.trueid.net/live3/d24_th_m_high_tidapp.smil/playlist.m3u8
 http://cdn150.stm.trueid.net/live1/193_th_m_high_tidapp.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",Blue Ant Entertainment HD
-http://cdn150.stm.trueid.net/live2/177_th_m_high_tidapp.smil/playlist.m3u8
+http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/rtl_extreme.png",BLUE ANT EXTREME
 http://cdn150.stm.trueid.net/live1/208_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://teevee-hd.com/img/truexzyte.png",True X-zyte 
-http://cdn150.stm.trueid.net/live2/034_th_m_high_tidapp.smil/playlist.m3u8
+http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/paramount.png",Paramount CHANNEL
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/paramountchannel/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO 
@@ -150,7 +150,7 @@ http://160.119.77.50/iptv/hd-tfilm.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueFilm2.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 2
 https://cdn-laos.workpoint.news/hd-tfilm2_720/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truethaifilm.png",True Thai Film
-http://cdn.iiptv.ml/live4/094_th_m_high_tidapp.smil/playlist.m3u8
+http://160.119.77.50/iptv/sd-thaifilm.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueFilmAsia.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmasia.png",Truefilm ASIA
 http://160.119.77.50/iptv/sd-filmasia.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/trueasian.png",True Asian Series HD
