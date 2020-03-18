@@ -119,20 +119,6 @@ https://live.we-play.tv/app/hbo-hits/playlist.m3u8
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/513.ts
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO FAMILY
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/512.ts
-#EXTINF:-1 tvg-id="Warner.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
-http://cdn150.stm.trueid.net/live1/225_th_m_high_tidapp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TrueFilm.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 1
-http://160.119.77.50/iptv/hd-tfilm.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TrueFilm2.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 2
-https://cdn-laos.workpoint.news/hd-tfilm2_720/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truethaifilm.png",True Thai Film
-http://cdn.iiptv.ml/live4/094_th_m_high_tidapp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TrueFilmAsia.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmasia.png",Truefilm ASIA
-http://160.119.77.50/iptv/sd-filmasia.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/trueasian.png",True Asian Series HD
-http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="axn.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/axn.png",AXN 
-http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxActionMovies.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION EN
 
 #EXTINF:-1 tvg-id="FoxActionMovies.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION 
@@ -155,6 +141,23 @@ http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-foxlife.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
+#EXTINF:-1 tvg-id="Warner.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
+http://160.119.77.50/iptv/hd-warnertv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/universal.png",Universal TH
+https://tv4.chang55.com/live2/tv4ch43.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TrueFilm.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 1
+http://160.119.77.50/iptv/hd-tfilm.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueFilm2.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 2
+https://cdn-laos.workpoint.news/hd-tfilm2_720/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truethaifilm.png",True Thai Film
+http://cdn.iiptv.ml/live4/094_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueFilmAsia.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmasia.png",Truefilm ASIA
+http://160.119.77.50/iptv/sd-filmasia.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/trueasian.png",True Asian Series HD
+http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="axn.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/axn.png",AXN 
+http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://i.ibb.co/zhWLf85/scmlegend.png",Star Chinese Moviess
 http://160.119.77.50/iptv/hd-starchinese.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://i.ibb.co/jMd85dV/StarPlus.png",Star Plus
@@ -187,8 +190,6 @@ http://cdn150.stm.trueid.net/live4/o020_th_m_high_tidapp.smil/playlist.m3u8
 http://kodinew.dyndns.tv:9981/stream/channelid/1185961965?ticket=B40686A7E223465B8D75108008EA5EA48F992473&profile=pass
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax 
 https://tv4.chang55.com/live2/tv4ch32.stream/chunks.m3u8
-#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/universal.png",Universal TH
-https://tv4.chang55.com/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truemoviehits.png",True Movie Hit
 http://103.120.113.90:1935/psilive3a/MOVIE_HITS_61.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",Movies 1
