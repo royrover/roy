@@ -85,9 +85,9 @@ http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/france24.png",FRANCE24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/cctv4.png",CCTV4 
-http://cdn150.stm.trueid.net/live3/027_th_m_high_tidapp.smil/playlist.m3u8
+https://www.livedoomovies.com/02_CCTV4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/foxnews.png",Fox News 
-https://cdn-laos.workpoint.news/sd-foxnews_720/index.m3u8
+https://www.livedoomovies.com/02_Fox_News_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/nhkworld.png",NHK WORLD TV
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/622f7e14-4624-4454-a63f-0bd428c399b3.png",Russia Today
@@ -101,6 +101,9 @@ http://cdn150.stm.trueid.net/live3/d24_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://teevee-hd.com/img/bbc.png",BBC World News
 http://cdn150.stm.trueid.net/live1/193_th_m_high_tidapp.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="axn.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/axn.png",AXN 
+http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",Blue Ant Entertainment HD
 http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/rtl_extreme.png",BLUE ANT EXTREME
@@ -155,9 +158,6 @@ http://160.119.77.50/iptv/sd-thaifilm.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-filmasia.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/trueasian.png",True Asian Series HD
 http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="axn.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/axn.png",AXN 
-http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://i.ibb.co/zhWLf85/scmlegend.png",Star Chinese Moviess
 http://160.119.77.50/iptv/hd-starchinese.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://i.ibb.co/jMd85dV/StarPlus.png",Star Plus
@@ -415,11 +415,11 @@ http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Sports"tvg-logo="https://teevee-hd.com/img/golf.png",Golf Channel
 http://160.119.77.50/iptv/hd-golf.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="foxsports.th"group-title="Sports"tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport1.png",FOX SPORTS 1 
-http://160.119.77.50/iptv/hd-foxsports1.stream/playlist.m3u8
+http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 #EXTINF:-1 tvg-id="foxsport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2 
-http://160.119.77.50/iptv/sd-foxsports2.stream/playlist.m3u8
+http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 #EXTINF:-1 tvg-id="foxsport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3 
-http://160.119.77.50/iptv/sd-foxsports3.stream/playlist.m3u8
+http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/smmtv.png",SMM TV
 http://cdn.iiptv.ml/live3/o031_th_m_high_tidapp.smil/playlist.m3u8
