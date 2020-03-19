@@ -1,0 +1,42 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch5.png",001 TV5 HD 
+http://160.119.77.50/iptv/hd-ch5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/nbt.png",002 NBT
+http://160.119.77.50/iptv/sd-nbt.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/thaipbs.png",003 Thai PBS 
+http://160.119.77.50/iptv/hd-tpbs.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://f.ptcdn.info/890/024/000/1414325308-o.png",010 TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/tnn.png",016 TNN24 
+http://160.119.77.50/iptv/sd-tnn24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/newtv.png",018 NEW TV
+http://160.119.77.50/iptv/sd-new.stream/playlist.m3u8
+#EXTINF:-1 gtvg-id=""group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/voicetv.png",021 Voice TV
+https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/nation.png",NATION TV
+http://160.119.77.50/iptv/sd-nation.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Workpoint.th"group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",023 WORKPOINT 
+http://160.119.77.50/iptv/hd-workpoint.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="true4U.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/true4u.png",024 True4U
+http://160.119.77.50/iptv/sd-24u.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GMM25.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/gmm.png",025 GMM Channel
+http://160.119.77.50/iptv/sd-gmmchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="channel8.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch8.png",027 CH8
+http://stream.rs.co.th/ch8-hi/index.m3u8
+#EXTINF:-1 tvg-id="Mono29.th" group-title="Cinema"tvg-logo="https://teevee-hd.com/img/mono29.png",029 Mono29
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mcot.png",030 MCOT HD
+http://160.119.77.50/iptv/hd-mcot.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/onehd.png",031 ONE 
+http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Thairath.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/thairath.png",032 Thairath TV
+http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",033 CH3 HD
+http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/amarin.png",034 Amarin TV HD
+http://160.119.77.50/iptv/hd-amarin.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="channel7.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch7.png",035 CH7 HD             	
+http://160.119.77.50/iptv/hd-ch7.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PPTV.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/pptv.png",036 PPTV HD
+http://160.119.77.50/iptv/hd-pptv.stream/playlist.m3u8
