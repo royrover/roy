@@ -141,7 +141,8 @@ http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-nhkworld.stream/playlist.m3u8
 #http://iliketot.dyndns.tv/cd25fccffa6f4a2f8d7190d3e8907440.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/622f7e14-4624-4454-a63f-0bd428c399b3.png",Russia Today
-http://178.196.237.240:3000/play/xxRussiaTodayxx
+https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
+#http://178.196.237.240:3000/play/xxRussiaTodayxx
 #EXTINF:-1 group-title="News World" tvg-logo="https://teevee-hd.com/img/cnbc.png",CNBC
 http://160.119.77.50/iptv/sd-cnbc.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://teevee-hd.com/img/aljazeera.png",Aljazeera News
