@@ -88,6 +88,7 @@ http://160.119.77.50/iptv/sd-gmmchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="channel8.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
 http://stream.rs.co.th/ch8-hi/index.m3u8
 #http://live.pjmcdn.info/live/CH8.stream/playlist.m3u8
+#http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv27_ch8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNN24.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN24
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv16_tnn24/playlist.m3u8
@@ -101,9 +102,11 @@ http://160.119.77.50/iptv/sd-nation.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/newtv.png",NEW TV
 http://160.119.77.50/iptv/sd-new.stream/playlist.m3u8
 #http://live.pjmcdn.info/live/New-TV.stream/playlist.m3u8
+#http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://f.ptcdn.info/890/024/000/1414325308-o.png",TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv10_tptv/playlist.m3u8
 
 #EXTINF:-1 gtvg-id=""group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/voicetv.png",Voice TV
 https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
