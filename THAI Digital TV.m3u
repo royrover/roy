@@ -112,7 +112,7 @@ http://49.231.66.85:1935/live/tptv/playlist.m3u8
 https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f1b957db-b175-45fc-ab2b-60150f9c570a.png",TNN2
-http://160.119.77.50/iptv/sd-tnn2.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-tnn2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/news1.png",New1
 https://server1.streamssl.com/stream/news1_hi.m3u8
