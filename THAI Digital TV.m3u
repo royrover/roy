@@ -159,9 +159,10 @@ http://iliketot.dyndns.tv/31b003ab7e7749a798fe00424e3dd9ff.m3u8?wmsAuthSign=c2Vy
 
 #EXTINF:-1 tvg-id="axn.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/axn.png",AXN 
 http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",Blue Ant Entertainment HD
+#https://tv4.chang55.com/live2/tv4ch73.stream/chunks.m3uแปด
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",Blue Ant Entertainment 
 http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/rtl_extreme.png",BLUE ANT EXTREME
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/rtl_extreme.png",Blue Ant Extreme
 #http://cdn150.stm.trueid.net/live1/208_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://teevee-hd.com/img/truexzyte.png",True X-zyte 
 http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
@@ -215,6 +216,7 @@ http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thrilllhd/playlist.
 #http://iliketot.dyndns.tv/c316ed9333e54442b25077f0bb3cc269.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="Warner.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
 http://160.119.77.50/iptv/hd-warnertv.stream/playlist.m3u8
+#https://tv4.chang55.com/live2/tv4ch91.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/universal.png",Universal TH
 #https://tv4.chang55.com/live2/tv4ch42.stream/playlist.m3u8
 https://tv4.chang55.com/live2/tv4ch43.stream/chunks.m3u8
