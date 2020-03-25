@@ -1,6 +1,6 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 25.03.2020", Last Update: 25.03.2020
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 24.03.2020", Last Update: 24.03.2020
 http://tiny.cc/d69fjz
 #EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
 http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
@@ -158,56 +158,46 @@ http://160.119.77.50/iptv/hd-bbcworldnews.stream/playlist.m3u8
 https://youtu.be/9Auq9mYxFEE
 #http://iliketot.dyndns.tv/31b003ab7e7749a798fe00424e3dd9ff.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
+
 #EXTINF:-1 tvg-id="axn.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/axn.png",AXN 
 http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/axn/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch73.stream/chunks.m3uแปด
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",Blue Ant Entertainment 
 http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/blue-ent/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/rtl_extreme.png",Blue Ant Extreme
-https://iptv-kovid-19.tk/we-play/live/blue-ext/playlist.m3u8
 #http://cdn150.stm.trueid.net/live1/208_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://teevee-hd.com/img/truexzyte.png",True X-zyte 
-#http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
-https://iptv-kovid-19.tk/we-play/live/xzyte/playlist.m3u8
+http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch81.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/paramount.png",Paramount CHANNEL
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/paramountchannel/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/paramount/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO 
-#https://tv4.chang55.com/live2/tv4ch79.stream/playlist.m3u8
-https://tv4.chang55.com/live2/tv4ch25.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/hbo-hd/playlist.m3u8
+https://tv4.chang55.com/live2/tv4ch79.stream/playlist.m3u8
+#https://tv4.chang55.com/live2/tv4ch25.stream/playlist.m3u8
 #http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO
 https://tv4.chang55.com/live2/tv4ch47.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/red/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO HITS
-#https://iptv-kovid-19.tk/we-play/live/hbo-hits/playlist.m3u8
+
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO SIGNATURE
-#https://iptv-kovid-19.tk/we-play/live/hbo-sig/playlist.m3u8
+
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO FAMILY
-#https://iptv-kovid-19.tk/we-play/live/hbo-fam/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FoxActionMovies.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION EN
 
 #EXTINF:-1 tvg-id="FoxActionMovies.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION MOVIES
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/fox-action/playlist.m3u8
 #https://tv4.chang55.com/live/tot11.stream/playlist.m3u8
 #http://iliketot.dyndns.tv/6744e98748214c32912a46d1c7277d55.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="FoxMovies.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",FOX MOVIES 
 https://tv4.chang55.com/live2/tv4ch82.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/fox-movies/playlist.m3u8
 #http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch26.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxFamilyMovies.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxfamily.png",FOX FAMILY MOVIES
 https://tv4.chang55.com/live/tot10.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/fox-fam/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxThai.th"group-title="Cinema"tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxthai.png",FOX THAI 
 http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/foxth/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch87.stream/chunks.m3u8
 #https://tv4.chang55.com/live/tot14.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxThai.th"group-title="Cinema"tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxthai.png",FOX THAI EN
@@ -216,50 +206,39 @@ http://iliketot.dyndns.tv/d0bfb50bee3741a09c53f8099a64ad52.m3u8?wmsAuthSign=c2Vy
 https://tv4.chang55.com/live2/tv4ch50.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxcrime.png",FOXCRIME
 https://tv4.chang55.com/live/tot03.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/fox-crime/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/Foxcrime/playlist.m3u8
 #http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxcrime.png",FOXCRIME EN
-http://iliketot.dyndns.tv/48773319e9324602b258e3f1d33ec111.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#http://iliketot.dyndns.tv/48773319e9324602b258e3f1d33ec111.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/fxhd.png",FX 
 https://tv4.chang55.com/live/tot13.stream/playlist.m3u8
 #http://160.119.77.50/iptv/hd-foxlife.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/fxhd/playlist.m3u8
 #http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://i.ibb.co/mFLvyP3/images-1.png",FOX Life
+#EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://i.ibb.co/mFLvyP3/images-1.png",FOXlife
 http://160.119.77.50/iptv/hd-foxlife.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/fox-life/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/Thrill/playlist.m3u8
 #http://iliketot.dyndns.tv/c316ed9333e54442b25077f0bb3cc269.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="Warner.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
-#https://iptv-kovid-19.tk/we-play/live/warner/playlist.m3u8
 http://160.119.77.50/iptv/hd-warnertv.stream/playlist.m3u8
-#http:\\iptvactivador.online:25461\gratism3ugeren\xtreamtvgratis\72
 #https://tv4.chang55.com/live2/tv4ch91.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/universal.png",Universal TH
 #https://tv4.chang55.com/live2/tv4ch42.stream/playlist.m3u8
 https://tv4.chang55.com/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="TrueFilm.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 
 http://160.119.77.50/iptv/hd-tfilm.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/truefilmhd/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch93.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="TrueFilm2.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 2
-#https://cdn-laos.workpoint.news/hd-tfilm2_720/index.m3u8
-https://iptv-kovid-19.tk/we-play/live/truefilmhd2/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-tfilm2_720/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truethaifilm.png",True Thai Film
 http://160.119.77.50/iptv/sd-thaifilm.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/truethaifilm/playlist.m3u8 
 #EXTINF:-1 tvg-id="TrueFilmAsia.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmasia.png",Truefilm ASIA
 http://160.119.77.50/iptv/sd-filmasia.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/truefilmasia/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/trueasian.png",True Asian Series HD
 http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/trueasianhd/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://i.ibb.co/zhWLf85/scmlegend.png",Star Chinese Moviess
 http://160.119.77.50/iptv/hd-starchinese.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/chinesemovies/playlist.m3u8 
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://i.ibb.co/jMd85dV/StarPlus.png",Star Plus
 
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://i.ibb.co/GpGgQ0s/Star-Gold.png",Star Gold
@@ -269,7 +248,6 @@ http://iliketot.dyndns.tv/205930751d5743e2be719ed1dff8970f.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/201707082147541150565441.jpg",Zeenung
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/classicmovies.png",CCM
-#https://iptv-kovid-19.tk/we-play/live/ccm/playlist.m3u8
 http://160.119.77.50/iptv/sd-celestial.stream/playlist.m3u8
 #http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://i.ibb.co/7tkcdKg/channel8.png",Channel 8
@@ -293,11 +271,9 @@ https://www.livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
 http://kodinew.dyndns.tv:9981/stream/channelid/1185961965?ticket=B40686A7E223465B8D75108008EA5EA48F992473&profile=pass
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax 
 https://tv4.chang55.com/live2/tv4ch32.stream/chunks.m3u8
-#https://iptv-kovid-19.tk/we-play/live/cinemax/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truemoviehits.png",True Movie Hit
 http://103.120.113.90:1935/psilive3a/MOVIE_HITS_61.stream_360p/playlist.m3u8
 #http://160.119.77.50/iptv/sd-moviehits.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/true-movie-hits/playlist.m3u8 
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",Movies 1
 https://tv4.chang55.com/live2/tv4ch90.stream/chunks.m3u8
 #http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
@@ -326,36 +302,28 @@ http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/21/a870a651-9595-4921-bc41-7ba39d7067a3.png",Super Bunteung
 #http://cdn150.stm.trueid.net/live3/108_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truemusic.png",True Music HD
-https://iptv-kovid-19.tk/we-play/live/truemusic/playlist.m3u8
 #http://cdn150.stm.trueid.net/live2/159_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/sabuydeetv.png",Sabaidee TV
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/sabaideetv.smil/playlist.m3u
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/fantv.png",Fan TV
 http://iliketot.dyndns.tv/345a4277dd864037b6b4fb5a562af59c.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://f.ptcdn.info/485/048/000/ojil57uuk1bVedlgGr3-o.jpg",KBS WORLD HD
-http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/kbs/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY TH
 https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
-#https://iptv-kovid-19.tk/we-play/live/history/playlist.m3u8
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY EH
 http://160.119.77.50/iptv/hd-historyeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://presentationarchive.com/discoveryhistory/sting-b.jpg",DISCOVERY HISTORY 
 http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="history2.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
-https://iptv-kovid-19.tk/we-play/live/h2/playlist.m3u8
-#https://tv4.chang55.com/live2/tv4ch19.stream/playlist.m3u8
+https://tv4.chang55.com/live2/tv4ch19.stream/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/H2/playlist.m3u8
 #EXTINF:-1 tvg-id="history2.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2 UK
 http://160.119.77.50/iptv/uk-history2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/discovery.png",Discovery TH
-https://iptv-kovid-19.tk/we-play/live/discovery/playlist.m3u8
-#https://tv4.chang55.com/live2/tv4ch36.stream/chunks.m3u8
+https://tv4.chang55.com/live2/tv4ch36.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="discovery.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/discoveyasiax.png",DiscoveryAsia 
-#http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
-https://iptv-kovid-19.tk/we-play/live/disasia/playlist.m3u8
+http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch92.stream/playlist.m3u8
 #http://27.254.149.109:8081/live/discovery.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch16.stream/playlist.m3u8
@@ -368,7 +336,6 @@ http://160.119.77.50/iptv/sd-explife.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC TH
 http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/natgeo/playlist.m3u8
 #https://tv4.chang55.com/live/tot05.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC EN
 http://iliketot.dyndns.tv/850a8ca433184938bfaeaf770abc5d7a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
@@ -376,18 +343,15 @@ http://iliketot.dyndns.tv/850a8ca433184938bfaeaf770abc5d7a.m3u8?wmsAuthSign=c2Vy
 https://tv4.chang55.com/live/tot07.stream/playlist.m3u8
 #http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/natwild.png",NAT GEO WILD
-#https://tv4.chang55.com/live/tot06.stream/playlist.m3u8
-https://iptv-kovid-19.tk/we-play/live/natwild/playlist.m3u8
+https://tv4.chang55.com/live/tot06.stream/playlist.m3u8
 #http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="animalplanet.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
 https://tv4.chang55.com/live2/tv4ch37.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/animalplanet/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch89.stream/chunks.m3u8
 #EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/samrujrok.png",SAMRUJLOK
-https://iptv-kovid-19.tk/we-play/live/samruajlok/playlist.m3u8
+https://live.we-play.tv/app/samruajlok/playlist.m3u8
 #EXTINF:-1 tvg-id="bbcearth.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/bbcearth.png",BBC EARTH
 http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/bbc-earth/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch41.stream/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="http://www.dlit.ac.th/pages/library/images/TruePlookpanya.jpg",True Pookpanya
 http://160.119.77.50/iptv/sd-tppy.stream/playlist.m3u8
@@ -426,7 +390,8 @@ https://edge1a.v2h-cdn.com/appt7/MHONG.stream_360p/chunklist_w839479703.m3u8
 http://kodinew.dyndns.tv:9981/stream/channelid/945789723?ticket=70FB8EA62FDCD8F90C999DAA960FE597957A41D4&profile=pass
 #EXTINF:-1 group-title="Music"tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/images/channel/2014/06/11/zing1_0.jpg",ZING
 http://kodinew.dyndns.tv:9981/stream/channelid/417735839?ticket=A8BD3CE4B249000F301E6E10C50877703FE48194&profile=pass
-
+#EXTINF:-1 group-title="Music"tvg-logo="https://f.ptcdn.info/485/048/000/ojil57uuk1bVedlgGr3-o.jpg",KBS WORLD HD
+http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
 
  
 
@@ -459,26 +424,20 @@ http://live3.smartbomb.co.th:8624/stream/1/
 
 #EXTINF: -1 tvg-id="" group-title="Kids"tvg-logo="https://imgur.com/axvewxY.png",Animax
 http://203.154.243.31:8081/live/animax/index.m3u8
-#https://iptv-kovid-19.tk/we-play/live/animax/playlist.m3u8
 #http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK 
 https://tv4.chang55.com/live2/tv4ch20.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/cnhd/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/cartoon_network/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSparkJump.th"group-title="Kids"tvg-logo="https://i.pinimg.com/474x/42/b0/a5/42b0a53eedfd1b9d18f1931635de29ca.jpg",TRUE SPARK JUMP
 http://160.119.77.50/iptv/sd-sparkjump.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/sparkjump/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",True Spark Play 
 http://160.119.77.50/iptv/sd-sparkplay.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
 http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/disneych/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
 http://160.119.77.50/iptv/hd-disneyxd.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/disneyxd/playlist.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick jr 
 http://160.119.77.50/iptv/sd-nickjr.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/nickjr/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/Nick/playlist.m3u8
 #http://iliketot.dyndns.tv/09fffe8d426745689f60cbc24da1bb49.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/d258b502-1da6-445b-bd8f-4304c7ff232e.png",Ja Ting Ja TV
@@ -486,8 +445,7 @@ http://103.120.113.90:1935/psilive3a/JaTingJa.stream_360p/playlist.m3u8
 #http://cdn150.stm.trueid.net/live3/o014_th_m_high_tidapp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://x1.cdn.broiptv.online/img/nickelodeon.png" group-title="Kids",Nickelodeon
-https://iptv-kovid-19.tk/we-play/live/nickelodeon/playlist.m3u8
-#http://kodinew.dyndns.tv:9981/stream/channelid/414376583?ticket=3828CE1DBBF260ADE1F00BAAC37E22A6DBAF6E73&profile=pass
+http://kodinew.dyndns.tv:9981/stream/channelid/414376583?ticket=3828CE1DBBF260ADE1F00BAAC37E22A6DBAF6E73&profile=pass
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/babytv.png",Baby TV
 http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 group-title="Kids" tvg-logo="https://imgcloud.fwiptv.cc/postor/2019032506051812377635_206785022990745_2323450990199693871_o.jpg",MIAO MI
@@ -501,10 +459,8 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",BOOMERANG
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/boomerang.smil/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/boomerang/playlist.m3u8 
 #EXTINF:-1 tvg-id="DisneyJr.th"group-title="Kids"tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",Disney Junior
 https://tv4.chang55.com/live2/tv4ch30.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/disneyjr/playlist.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/TomandJerryTitleCardc.jpg",TOM & JERRY
 http:\\aldirect.hls.huya.com\huyalive\94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_KartoonFunTime.jpg",Kartoon Fun Time
@@ -516,24 +472,19 @@ https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title="Sports",Premier HD1 
 http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
 #https://tumlive109.dvrdns.org:30443/tumlive/TFBHD1/chunks.m3u8
-#https://iptv-kovid-19.tk/we-play/live/true-epl-1/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title="Sports",Premier HD2 
 http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/tpf2/playlist.m3u8
 #https://tumlive109.dvrdns.org:30443/tumlive/TFBHD2/chunks.m3u8
 #https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title="Sports",Premier HD3 
 http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/tpf3/playlist.m3u8
 #https://tumlive109.dvrdns.org:30443/tumlive/TFBHD3/chunks.m3u8
 #https://tv4.chang55.com/live2/tv4ch12.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title="Sports",Premier HD4 
 https://tv4.chang55.com/live2/tv4ch13.stream/chunks.m3u8
-#https://iptv-kovid-19.tk/we-play/live/tpf4/playlist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title="Sports",Premier HD5 
 http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/tpf5/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch14.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title="Sports",Premier HD1 BKP      
 http://103.208.24.234:1935/thaisport/epl-1.stream/chunklist.m3u8
@@ -555,47 +506,39 @@ https://tv4.chang55.com/live/tot08.stream/playlist.m3u8
 #http://210.210.155.35/uq2663/h/h07/01.m3u8
 #http://iliketot.dyndns.tv/e584e0adae6440eab366f5fe3a824f91.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doohdbox.com/assets/20200109132203797568789.jpg",ID Station
-#https://iptv-kovid-19.tk/we-play/live/idstation/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="TrueSport1.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd1.png",TRUESPORT HD
 http://160.119.77.50/iptv/hd-tsport1.stream/playlist.m3u8
 #http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
 #https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
-#https://iptv-kovid-19.tk/we-play/live/thd1/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd2.png",TRUESPORT HD2
 http://160.119.77.50/iptv/hd-tsport2.stream/playlist.m3u8
 #http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
 #https://tv4.chang55.com/live2/tv4ch15.stream/chunks.m3u8
-#https://iptv-kovid-19.tk/we-play/live/thd2/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd3.png",TRUESPORT HD3
 http://160.119.77.50/iptv/hd-tsport3.stream/playlist.m3u8
 #http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
 #https://tv4.chang55.com/live2/tv4ch17.stream/chunks.m3u8
-#https://iptv-kovid-19.tk/we-play/live/thd3/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd4.png",TRUESPORT HD4
 http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
 #http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TrueSport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp2.png",TRUE SPORT 2
 https://tv4.chang55.com/live2/tv4ch83.stream/chunks.m3u8
 #http://103.208.24.234:1935/thaisport/sd-tsport2.stream/chunklist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/tsp2/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport5.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp5.png",TRUE SPORT 5
 https://tv4.chang55.com/live2/tv4ch84.stream/chunks.m3u8
-#https://iptv-kovid-19.tk/we-play/live/tsp5/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport6.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp6.png",TRUE SPORT 6
 https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
-#https://iptv-kovid-19.tk/we-play/live/tsp6/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport7.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp7.png",TRUE SPORT 7
 https://tv4.chang55.com/live2/tv4ch86.stream/chunks.m3u8
 #http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/tsp7/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/nba.png",NBA TV
 #http://103.208.24.234:1935/thaisport/hd-nba.stream/chunklist.m3u8
 https://tv4.chang55.com/live2/tv4ch23.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="truetennis.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tennis.png",Tennis HD
 #http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
 https://tv4.chang55.com/live2/tv4ch22.stream/chunks.m3u8
-#https://iptv-kovid-19.tk/we-play/live/tennis/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Sports"tvg-logo="https://teevee-hd.com/img/golf.png",Golf Channel
 http://160.119.77.50/iptv/hd-golf.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch08.stream/chunks.m3u8
@@ -619,19 +562,14 @@ http://160.119.77.50/iptv/sd-foxsports3.stream/playlist.m3u8
 https://cdn-laos.workpoint.news/sd-smmtv_480/index.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/nfl.png",NFL Network
 https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
-#https://iptv-kovid-19.tk/we-play/live/nfl/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",SPORTTV 1
-#http://goodmans.click:8080/gm17/eyoLkpRyx8/7302
-https://iptv-kovid-19.tk/we-play/live/sporttv1/playlist.m3u8
+http://goodmans.click:8080/gm17/eyoLkpRyx8/7302
 #EXTINF:-1 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",SPORTTV 2
-#http://goodmans.click:8080/gm17/eyoLkpRyx8/7305
-https://iptv-kovid-19.tk/we-play/live/sporttv2/playlist.m3u8
+http://goodmans.click:8080/gm17/eyoLkpRyx8/7305
 #EXTINF:-1 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",SPORTTV 3
-#http://goodmans.click:8080/gm17/eyoLkpRyx8/7308
-https://iptv-kovid-19.tk/we-play/live/sporttv3/playlist.m3u8
+http://goodmans.click:8080/gm17/eyoLkpRyx8/7308
 #EXTINF:-1 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",SPORTTV 4
-#http://goodmans.click:8080/gm17/eyoLkpRyx8/7311
-https://iptv-kovid-19.tk/we-play/live/sporttv4/playlist.m3u8
+http://goodmans.click:8080/gm17/eyoLkpRyx8/7311
 #EXTINF:-1 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",SPORTTV 5
 http://goodmans.click:8080/gm17/eyoLkpRyx8/7314
 
@@ -665,18 +603,14 @@ http://yourdnshere.xyz:83/live/Kericage/6824106935/376291.m3u8
 http://yourdnshere.xyz:83/live/Kericage/6824106935/195544.m3u8
 #http://panelstreams.com:826/flusspanprojmw2020/80das0g8980/108865
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/btsport1.png",BTSPORT 1
-#https://iptv-kovid-19.tk/we-play/live/btsport1/playlist.m3u8
 #http:\\4kiptv.top:25461\pXE6plswg1\1sWoC3GO8z\2889
 http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/btsport1.png",BTSPORT 2
-#https://iptv-kovid-19.tk/we-play/live/btsport2/playlist.m3u8
 http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
 #http:\\4kiptv.top:25461\pXE6plswg1\1sWoC3GO8z\2890
-#https://iptv-kovid-19.tk/we-play/live/btsport3/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/btsport1.png",BTSPORT 3
 http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
 #http:\\4kiptv.top:25461\pXE6plswg1\1sWoC3GO8z\2891
-#https://iptv-kovid-19.tk/we-play/live/btsport3/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/de-skybundesliga.png",Sky Bundesliga
 
@@ -698,30 +632,24 @@ https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?rizkizakaria-Real-Madrid-TVEN-join-telegram=@iptvondemand
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/lfctv.png",UK LFC TV
 http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/lfctv/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/chelseatv.png",UK Chealsea TV
 http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/mutv.png",UK MU TV
 http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNQGv_3ehrYRwcONHlmcRtoHmfuF-ZQo0ub_9cOdnvUgeqdMz&s" group-title="Sports",RED BULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/services/img/SkySportsPremierLeague_201708" group-title="Sports",Sky Sports Premier League HD
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZI6mDfzF9OkrNzANQ2UBvXOZJfwVIE_6Fe0n4zq48fsou-2a6HA&s" group-title="Sports",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8  
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport1serbia.png",Arena Sports1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport1serbia.png",Arena1
 http://160.119.77.50/iptv/rs-arena1.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/arenasport1/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport2serbia.png",Arena Sports2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport2serbia.png",Arena2
 http://160.119.77.50/iptv/rs-arena2.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/arenasport2/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport3serbia.png",Arena Sports3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport3serbia.png",Arena3
 http://160.119.77.50/iptv/rs-arena3.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/arenasport3/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport4serbia.png",Arena Sports4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport4serbia.png",Arena4
 http://160.119.77.50/iptv/rs-arena4.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/arenasport4/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png",Bein Sport 1 France
 http://panelstreams.com:826/flusspanprojmw2020/80das0g8980/108874
@@ -734,16 +662,14 @@ http://panelstreams.com:826/flusspanprojmw2020/80das0g8980/108873
 #http://160.119.77.50/iptv/fr-bein3hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",BEIN 01
 https://tv4.chang55.com/live2/tv4ch96.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/bein1/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",BEIN 02
 https://tv4.chang55.com/live2/tv4ch95.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/bein2/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein3.png",BEIN 03
 http://160.119.77.50/iptv/hd-bein3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein4.png",BEIN 04
-https://iptv-kovid-19.tk/we-play/live/bein4inter/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein5.png",BEIN 05
 http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein6.png",BEIN 06
@@ -777,39 +703,34 @@ http://4kiptv.top:25461/pXE6plswg1/1sWoC3GO8z/14943
 #EXTINF:0 group-title="Sports"tvg-logo="https://www.gpshop.es/112-large_default/llavero-con-logo-motogp.jpg",Moto GP 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro1.png",Astro1
-https://iptv-kovid-19.tk/we-play/live/astro1/playlist.m3u8  
+  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro2.png",Astro2
-https://iptv-kovid-19.tk/we-play/live/astro2/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro3.png",Astro3
-https://iptv-kovid-19.tk/we-play/live/astro3/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro4.png",Astro4
-https://iptv-kovid-19.tk/we-play/live/astro4/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport1.png",Skynetsport1
 http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
 #http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch02.stream/chunks.m3u8
-#https://iptv-kovid-19.tk/we-play/live/skynet1/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport2.png",Skynetsport2
 http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
 #http://160.119.77.50/iptv/sd-skynetsports2.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch03.stream/chunks.m3u8
-#https://iptv-kovid-19.tk/we-play/live/skynet2/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport3.png",Skynetsport3
 http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
 #http://160.119.77.50/iptv/sd-skynetsports3.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch04.stream/chunks.m3u8
-#https://iptv-kovid-19.tk/we-play/live/skynet3/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport4.png",Skynetsport4
 http://27.254.149.109:8081/tumlive/SKYNET4/playlist.m3u8
 #http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch05.stream/chunks.m3u8
-#https://iptv-kovid-19.tk/we-play/live/skynet4/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport5.png",Skynetsport5
 http://27.254.149.109:8081/tumlive/SKYNET5/playlist.m3u8
 #http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch06.stream/chunks.m3u8
-#https://iptv-kovid-19.tk/we-play/live/skynet5/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport6.png",Skynetsport6
 http://27.254.149.109:8081/tumlive/SKYNET6/playlist.m3u8
 #http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
@@ -817,41 +738,27 @@ http://27.254.149.109:8081/tumlive/SKYNET6/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport.png",Skynetsport HD
 https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
 #http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
-#https://iptv-kovid-19.tk/we-play/live/outdoor/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869682.jpg",The Fast and the Furious 1 (2001)
-http://191.96.77.23:443/movie/bluray2016/The-Fast-and-the-Furious-2001-th-en-1080p.mp4/index.m3u8
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.2001.TH.4K.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869791.jpg",The Fast and the Furious 2 (2003)
-http://191.96.77.23:443/movie/bluray2016/2-Fast-2-Furious-2003-th-en-1080p.mp4/index.m3u8
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.2.TH.4K.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869925.jpg",The Fast and the Furious 3 (2006)
-http://191.96.77.23:443/movie/bluray2016/The-Fast-and-the-Furious-Tokyo-Drift-2006-th-en-1080p.mp4/index.m3u8
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.3.TH.4K.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494873172.jpg",The Fast and the Furious 4 (2009)
-http://191.96.77.23:443/movie/bluray2016/The-Fast-and-the-Furious-2009-th-en-1080p.mp4/index.m3u8
-
-#EXTINF:-1 group-title="Movies"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/06/Fast-and-Furious-5-2011-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-5.png",The Fast and the Furious 5 (2011)
-http://191.96.77.23:443/movie/bluray2016/Fast-Five-2011-th-en-1080p.mp4/index.m3u8
-
-#EXTINF:-1 group-title="Movies"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/06/Fast-And-Furious-6-2013-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-6.png",The Fast and the Furious 6 (2013)
-http://191.96.77.23:443/movie2/bluray2018/Fast.and.Furious.6.Extended.Cut.2013.BluRay.4K.TH.mp4/index.m3u8
-
-#EXTINF:-1 group-title="Movies"tvg-logo="https://www.movie-th.com/wp-content/uploads/2019/08/p10679969_v_v8_av.jpg",The Fast and the Furious 7 (2015)
-http://191.96.77.23:443/movie2/bluray2018/Fast-and-Furious-7-2015-4K-2160p-EXTENDED.mp4/index.m3u8
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.4.TH.4K.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1507717967.jpg",The Fast and the Furious 8 (2017)
 http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.fate.of.the.furious.2017.4K.TH.mp4/index.m3u8
 
-#EXTINF:-1 group-title="Movies"tvg-logo="https://honknews.com/wp-content/uploads/2020/01/22ede24a9e80bd9369fe2a872f938601.jpg",The Fast and the Furious 9 (2020)
-
-
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1vY7BkFDdL._SY445_.jpg",King Arthur: Legend of the Sword (2017)
 http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_King-arthur-legend-of-the-sword-2017.4K.TH.mp4/index.m3u8
 
-#EXTINF:-1 group-title="Movies"tvg-logo="https://www.matichon.co.th/wp-content/uploads/2016/11/Screen_Shot_2016-07-15_at_3.40.37_AM_3.png",Doctor Strange (2016)
+#EXTINF:-1 group-title="Movies"tvg-logo=https://www.hd2liveplus.com/uploads/categories/categories_1513154577.jpg",Doctor Strange (2016)
 http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Doctor%20Strange%202016%204k.TH.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://037-hd.com/wp-content/uploads/2019/03/unnamed-692x1024.jpg",Captain Marvel (2019) 
@@ -886,100 +793,69 @@ http://cdn-vod.kodi-live.com/hls/content/nss2/vod/TH_0513761_1080p.mp4/index.m3u
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://i.ytimg.com/vi/5qsFoAsHA7M/hqdefault.jpg",Pirates of the Caribbean 1: The Curse Of The Black Pearl (2003) 
 http://191.96.77.23:443/movie/bluray2016/Pirates-of-the-Caribbean-Curse-of-the-Black-Pearl-2003-Bluray-1080p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/L39HqYDqZE1xh49T6yj.jpg",Pirates of the Caribbean 2: Dead Man's Chest (2006)
 http://191.96.77.23:443/movie/bluray2016/Pirates-of-the-Caribbean-Dead-Mans-Chest-2006-Bluray-1080p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/KR9cFSZAHEt7z3LwIr2.jpeg",Pirates of the Caribbean 3: At World's End (2007) 
 http://191.96.77.23:443/movie/bluray2016/Pirates-of-the-Caribbean-At-World-s-End-2007-Bluray-1080p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/VyB1vc9mQJFPLhEWABf.jpg",Pirates of the Caribbean 4: On Stranger Tides (2011)
 http://191.96.77.23:443/movie/bluray2016/Pirates-of-the-Caribbean-On-Stranger-Tides-2011-Bluray-1080p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://lu-en-cdn.kinepolis.com/en/sites/kinepolis.lu.en/files/styles/kinepolis_filter_movie_poster/public/posters/POTC5_Comato_Poster_VO.jpg",Pirates of the Caribbean 5: Dead Men Tell No Tales (2017)
 http://191.96.77.23:443/movie/bluray2016/Pirates-of-the-Caribbean-Dead-Men-Tell-No-Tales-2017-Bluray-1080p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/MVB4P8Xs9KOnkMuwJhb.jpg",Speed 1 (1994) 
 http://191.96.77.23:443/movie/bluray2016/Speed-1994-TH-EN-1080p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/OZjzY7G7UavIN2XPqeT.jpg",Speed 2 Cruise Control (1997) 
 http://191.96.77.23:443/movie/bluray2016/Speed-2-1997-TH-EN-1080p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://037-hd.com/wp-content/uploads/2019/10/Terminator-6-Dark-Fate-%E0%B8%85%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81-6-%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%8A%E0%B8%B0%E0%B8%95%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%81-2019.jpg",Terminator 6 Dark Fate (2019)
 http://160.119.77.233/hls/content/nss4/vod/TH_0529134_720p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/12/Bumblebee-2018-%E0%B8%9A%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9A%E0%B8%B5.jpg",Bumblebee (2018)
 http://191.96.77.236/video/2018/Bumblebee.2018.1080p.IMAX.THBD-4K.mp4/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/dXIMVvXwxQ2WNj6qfWU.jpg",The Bourne Ultimatum (2007)
 http://191.96.77.13:22095/movie/2017/The.Bourne.Ultimatum.2007.1080p.TH.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/jU4A6MEWDUoBi7KHp6Y.jpg",The Bourne Supremacy (2004) 
 http://191.96.77.13:22095/movie/2017/The.Bourne.Supremacy.2004.1080p.TH.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/qTKXavNPPKbotk9p1JR.jpg",The Bourne Identity (2002) 
 http://191.96.77.13:22095/movie/2017/The.Bourne.Identity.2002.1080p.TH.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/07/Avatar-2009.jpg",Avatar (2009)
 http://191.96.77.13:22095/movie2/2015/avatar_2009_hdth.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/32d9c24af1d850a70f4bbda3e99f5a98.jpg",Rampage (2018)
 http://191.96.77.236/video/2018/Rampage.2018.1080p.THBD-4K.mp4/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875993.jpg",Mad Max Fury Road (2015)
 http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Mad.Max.Fury.Road.2015.4K.TH.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.movie356hd.com/wp-content/uploads/2019/11/4-2.jpg",Midway (2019) 
 http://191.96.77.236/video/2019/Midway.2019.1080p.brrip.th-4K.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies"tvg-logo="https://static1.squarespace.com/static/521dec4de4b0912f523f3b56/5878e7dd2994ca1c5915eaf2/5d449d8de841e20001ec75dd/1564778592644/Hobbs-Shaw-poster.jpg",Fast & Furious Presents Hobbs And Shaw (2019) 
+#EXTINF:-1 group-title="Movies"tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/08/Fast-Furious-Presents-Hobbs-Shaw-2019.jpg",Fast & Furious Presents Hobbs And Shaw (2019) 
 http://191.96.77.236/video/movie_sound2019/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.WEBDL.SUBTHT-4K.mp4/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://037-hdd.com/wp-content/uploads/2019/09/Deadpool-%E0%B9%80%E0%B8%94%E0%B8%94%E0%B8%9E%E0%B8%B9%E0%B8%A5.jpg",Deadpool 1 (2016) 
 http://191.96.77.23:443/movie/bluray2016/Deadpool-2016-th-en-1080p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/05/Deadpool-2-2018-%E0%B9%80%E0%B8%94%E0%B8%94%E0%B8%9E%E0%B8%B9%E0%B8%A5-2.png",Deadpool 2 (2018) 
 http://191.96.77.236/video/2018/Deadpool.2.2018.Super.Duper.Cut.1080p.SUBBD-4K.mp4/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/47a90g2IOKcR618GjkX.jpg",Ong Bak 1 (2003)
 http://191.96.77.236/video/264_thai_ok/ong.Bak.1.2003.264.thai.mp4/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://upload.wikimedia.org/wikipedia/th/7/78/Ongbak2_poster_teaser.jpg",Ong Bak 2 (2008)
 http://191.96.77.236/video/264_thai_ok/ong.Bak.2.2008.264.thai.mp4/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/tdQFO9ntDz4dGSsCHvj.jpg",Ong Bak 3 (2010)
 http://191.96.77.236/video/264_thai_ok/ong.Bak.3.2010.264.thai.mp4/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/12/Aquaman-2018.jpg",Aquaman (2018)
 http://191.96.77.236/video/2018/Aquaman.2018.bluray.1080p.imax.hq.SUBBD-4K.mp4/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bc4a15e3-f308-44fe-a54d-59301f00a4bb/daitnqp-9a0a81fb-d037-45fb-923c-979b6561d61b.png",World War Z (2013)
 https://cdn.movietok.is/vod/disk3/movies/warzz3.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/3iGOWKCmMkwUMbLkiyW.jpg",Transporter 1 (2002)
 http://191.96.77.23:443/movie/bluray2016/Transporter-2002-th-en-1080p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/ruH1UFEw0uLsVPkB4CM.jpg",Transporter 2 (2005)
 http://191.96.77.23:443/movie/bluray2016/Transporter-2-2005-th-en-1080p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/oDxn4QGQnxNYgVmbSh3.jpg",Transporter 3 (2008)
 http://191.96.77.23:443/movie/bluray2016/Transporter-3-2008-th-en-1080p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/rq1w8n711nR6pD5upJK.jpg",Transporter Refueled (2015)
 http://191.96.77.23:443/movie/bluray/The Transporter Refueled (2015) th en 1080p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/XVm6M1yk7g00U5W0Egw.jpg",Transformers 1 (2007) 
 http://191.96.77.23:443/movie/bluray/transformers-1-th-en-1280p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/kzDNdEvMT76eKu08hwy.jpg",Transformers 2  Revenge of The Fallen (2009) 
 http://191.96.77.23:443/movie/bluray2016/Transformers-Revenge-of-the-Fallen-2009-th-en-1080p-fw.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://movie2z.com/imgmovie/06-07-51-00pm39.jpg",Transformers 3 Dark of the Moon (2011) 
 http://191.96.77.23:443/movie/bluray/transformers-3-th-en-1280p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/9nX4Dsjj1htVLOjPxBq.jpg",Transformers 4 Age of Extinction (2014)
 http://191.96.77.23:443/movie/bluray2016/Transformers-Age-of-Extinction-2014-th-en-1080p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://movie2z.com/imgmovie/06-07-47-14pm38.jpg",Transformers 5 The Last Knight (2017) 
 http://191.96.77.23:443/movie/bluray2016/Transformers-The-Last-Knight-2017-Bluray-1080p.mp4/index.m3u8
 
@@ -1007,40 +883,29 @@ https://www.037hd.com/movie/912448.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/QBDiEUPptr1t4suxWcx.jpg",Indiana Jones 1 and the Raiders of the Lost Ark (1981) 
 http://191.96.77.23:443/movie/bluray2016/Indiana-Jones-and-the-Raiders-of-the-Lost-Ark-1981-Bluray-1080p.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/txVEKtch92WrgxMchtv.jpg",Indiana Jones 2 and Temple of Doom (1984) 
 http://191.96.77.23:443/movie/2017/Indiana.Jones.And.The.Temple.Of.Doom.1984.1080p.TH.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/Q5V8QExEYwdloJnNDkN.jpg",Indiana Jones 3 and the Last Crusade (1989) 
 http://191.96.77.23:443/movie/2017/Indiana.Jones.And.The.Last.Crusade.1989.1080p.TH.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://movie2z.com/imgmovie/29-02-37-17am706.jpg",Indiana Jones 4 and the Kingdom of the Crystal Skull (2008)
 http://191.96.77.23:443/movie/2017/Indiana.Jones.and.The.Kingdom.of.the.Crystal.Skull.2008.1080p.TH.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/5W04Z6ZIoXMX2pHMP7V.jpg",SHOOOTER (2007)
 https://www.037hd.com/movie/900856.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/AR7OrBwGDThJPHWmzH9.jpg",San Andreas (2015)
 http://191.96.77.22:3095/movie/dbnew/San.andreas.2015.dub.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/vKAWc1IbxBr7N1cS94Y.jpg",Sniper 1 (1993)
 https://cdn.badroids.is/vod/disk2/movies/sprgst.mp4
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/A4rS3ud6geCojNxDf1K.jpg",Sniper 2 (2003)
 https://www.037hd.com/movie/904869.mp4
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/7zlg4fSxOQK3tQHrCk7.jpg",Sniper 3 (2004)
 https://www.037hd.com/movie/904870.mp4
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/ElOv1irWFKt8wVmif2k.jpeg",Sniper 4 Reloaded (2011)
 https://www.037hd.com/movie/904871.mp4
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2019/11/SniperLegacy.jpg",Sniper 5 Legacy (2014)
 http://191.96.77.236/video/264_thai_ok/Sniper.V.Legacy.2014.1080p.5.1.doly.264.thai.mp4/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/CoTjH1vgoYc0xDHosbs.jpg",Sniper 6 Ghost Shooter (2016)
 http://191.96.77.236/video/264_thai_ok/Sniper.Ghost.Shooter.2016.1080p.264.thai.mp4/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/46MAx3E36JPLqZaN3jx.jpg",Sniper 7 Ultimate Kill (2017)
 https://cdn.badroids.is/vod/disk3/movies/sutek.mp4
 
@@ -1068,7 +933,7 @@ https://www.037hd.com/movie/900726.mp4
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1497173648.jpg",X-men: Days Of Future Past (2014)
 https://www.037hd.com/movie/900830.mp4
 
-#EXTINF:-1 group-title="Movies"tvg-logo="https://jediyuth.files.wordpress.com/2016/05/x-men-apocalypse-end-credit.jpg",X-Men: Apocalypse (2016) 
+#EXTINF:-1 group-title="Movies"tvg-logo=""https://f.ptcdn.info/334/037/000/nxphorbbrO4yNb7bBhp-o.jpg",X-Men: Apocalypse (2016) 
 https://www.037hd.com/movie/904056.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875139.jpg",Guardians Of The Galaxy (2014)
@@ -1149,7 +1014,7 @@ https://cdn5.cdn9x.com/k0v6kkuh/1080p.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://s.isanook.com/mv/0/ui/4/20208/16405_002.jpg",2012 (2009)
 http://191.96.77.23:443/movie/bluray2016/2012-2009-Bluray-1080p.mp4/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ytimg.com/vi/4Il8RBmw8Qg/hqdefault.jpg",Primal (2019)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://doonungdee.online/cover/1578457305.png",Primal (2019)
 https://cdn5.cdn9x.com/cuj7val1/720p.m3u8
  
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doonungdee.online/cover/1578540536.png",Fighting with My Family (2019)
