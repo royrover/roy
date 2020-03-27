@@ -1,8 +1,8 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 26.03.2020", Last Update: 26.03.2020
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 27.03.2020", Last Update: 27.03.2020
 http://tiny.cc/d69fjz
-#EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD-TH
+#EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
 http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
 #http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8
 #http://103.120.113.90:1935/psilive1a/3HD.stream/playlist.m3u8
@@ -10,7 +10,7 @@ http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
 #http://livesport2018.dyndns.tv:1935/trans/3hd-1080p/chunklist.m3u8
 #https://iptv-kovid-19.tk/we-play/live/ch3hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch5.png",CH 5-TH
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD 
 http://160.119.77.50/iptv/hd-ch5.stream/playlist.m3u8
 #http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
 #http://103.120.113.90:1935/psilive1a/5HD.stream/playlist.m3u8
@@ -18,7 +18,7 @@ http://160.119.77.50/iptv/hd-ch5.stream/playlist.m3u8
 #http://iliketot.dyndns.tv/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #https://iptv-kovid-19.tk/we-play/live/ch5hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="channel7.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD-TH       	
+#EXTINF:-1 tvg-id="channel7.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD             	
 http://160.119.77.50/iptv/hd-ch7.stream/playlist.m3u8
 #http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
 #http://livesport2018.dyndns.tv:1935/trans/7hd-1080p/chunklist.m3u8
@@ -220,7 +220,7 @@ https://iptv-kovid-19.tk/we-play/live/fox-movies/playlist.m3u8
 https://tv4.chang55.com/live/tot10.stream/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
 #https://iptv-kovid-19.tk/we-play/live/fox-fam/playlist.m3u8
-#EXTINF:-1 tvg-id="http://www.tvsmagazine.com"group-title="Cinema"tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxthai.png",FOX THAI-TH
+#EXTINF:-1 tvg-id="FoxThai.th"group-title="Cinema"tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxthai.png",FOX THAI 
 http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch87.stream/chunks.m3u8
 #https://tv4.chang55.com/live/tot14.stream/playlist.m3u8
