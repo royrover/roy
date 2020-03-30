@@ -1,6 +1,6 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 27.03.2020", Last Update: 27.03.2020
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 30.03.2020", Last Update: 30.03.2020
 http://tiny.cc/d69fjz
 http://epg.streamstv.me/epg/guide-thailand.xml
 
@@ -713,16 +713,16 @@ http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZI6mDfzF9OkrNzANQ2UBvXOZJfwVIE_6Fe0n4zq48fsou-2a6HA&s" group-title="Sports",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport1serbia.png",Arena1
-https://iptv-kovid-19.tk/we-play/live/astro4/playlist.m3u8
+#https://iptv-kovid-19.tk/we-play/live/astro4/playlist.m3u8
 #http://160.119.77.50/iptv/rs-arena1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport2serbia.png",Arena2
-https://iptv-kovid-19.tk/we-play/live/astro2/playlist.m3u8
+#https://iptv-kovid-19.tk/we-play/live/astro2/playlist.m3u8
 #http://160.119.77.50/iptv/rs-arena2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport3serbia.png",Arena3
-https://iptv-kovid-19.tk/we-play/live/astro3/playlist.m3u8
+#https://iptv-kovid-19.tk/we-play/live/astro3/playlist.m3u8
 #http://160.119.77.50/iptv/rs-arena3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport4serbia.png",Arena4
-https://iptv-kovid-19.tk/we-play/live/astro4/playlist.m3u8
+#https://iptv-kovid-19.tk/we-play/live/astro4/playlist.m3u8
 #http://160.119.77.50/iptv/rs-arena4.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png",Bein Sport 1 France
@@ -951,8 +951,18 @@ http://191.96.77.23:443/movie/bluray2016/Transformers-Age-of-Extinction-2014-th-
 #EXTINF:-1 group-title="Movies"tvg-logo="https://movie2z.com/imgmovie/06-07-47-14pm38.jpg",Transformers 5 The Last Knight (2017) 
 http://191.96.77.23:443/movie/bluray2016/Transformers-The-Last-Knight-2017-Bluray-1080p.mp4/index.m3u8
 
-#EXTINF:-1 group-title="Movies"tvg-logo="https://i.pinimg.com/originals/53/0a/a7/530aa762cb834bad5f6f8f07925f6d91.jpg",Jeremiah Johnson (1972)
-
+#EXTINF:-1 group-title="Movies"tvg-logo="https://www.biggmovienow.com/wp-content/uploads/2019/11/Mission-Impossible-1.jpg",Mission: Impossible 1 (1996)
+http://ktuiptvapp.com/movietset/movie/4k/2009/mission-impossible-1.m3u8
+#EXTINF:-1 group-title="Movies"tvg-logo="https://www.biggmovienow.com/wp-content/uploads/2019/11/Mission-Impossible-2.jpg",Mission: Impossible 2 (2000)
+http://ktuiptvapp.com/movietset/movie/4k/2009/Mission-Impossible-2.m3u8
+#EXTINF:-1 group-title="Movies"tvg-logo="https://cy.lnwfile.com/slvp2u.jpg",Mission: Impossible 3 (2006)
+http://ktuiptvapp.com/movietset/movie/4k/2009/mission-impossible-3.m3u8
+#EXTINF:-1 group-title="Movies"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/Mission-Impossible-4-Ghost-Protocol-2011-%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-4-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2.png",Mission: Impossible 4 (2011)
+http://191.96.77.22:3095/movie/2016/Mission-Impossible-Ghost-Protocol-2011_HDTH.mp4/index.m3u8
+#EXTINF:-1 group-title="Movies"tvg-logo="https://moviefinfin.com/images/movie/gO7alSozSBIYvUiukC9RLM2uG6S3VTi%E0%B8%A1%E0%B8%B4%E0%B8%8A5.jpg",Mission: Impossible 5 (2015)
+http://191.96.77.22:3095/movie/bluray/Mission.Impossible.Rogue.Nation.2015.1080p.mp4/index.m3u8
+#EXTINF:-1 group-title="Movies"tvg-logo="https://nungdung.com/wp-content/uploads/2020/02/Mission-Impossible-6.jpg",Mission: Impossible 6 (2018)
+http://ktuiptvapp.com/movietset/movie/4k/2009/mission-impossible-6.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_CR0,0,693,1000_AL_.jpg",Lawrence of Arabia (1962)
 https://www.037hd.com/movie/905148.mp4
@@ -1347,7 +1357,6 @@ https://cdn5.cdn9x.com/efaltkde/1080p.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doonungdee.online/cover/1583638241.png",Spenser Confidential (2020) 
 https://cdn5.cdn9x.com/avn77um2/1080p.m3u8
-
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doonungdee.online/cover/1584245349.jpg",ดิว ไปด้วยกันนะ Dew (2019)
 https://cdn5.cdn9x.com/8e4u2jen/1080p.m3u8
