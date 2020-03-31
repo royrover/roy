@@ -142,8 +142,9 @@ https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/ch
 #EXTINF:-1 group-title="News World"tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg TV Asia (HK)
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/cnn.png",CNN
-http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
-#https://tv4.chang55.com/live2/tv4ch27.stream/playlist.m3u8
+#http://62.210.246.131:25461/live/gxfgss/HHVVPP/28799.ts?token=HhVYAkpZQF8XUlAKBwAIUQNQBA8GAAEEUgoNUlVSAlZVDlEGDgNWAVMTThtFQ0pVUlk6X1QaWVNdBQFaG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQBRXBsSE1BVQF8XAFYPDgAaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCQkCFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcDDgYLFhg=
+#http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
+https://tv4.chang55.com/live2/tv4ch27.stream/playlist.m3u8
 #https://iptv-kovid-19.tk/we-play/live/cnn/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/france24.png",FRANCE24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
@@ -472,7 +473,7 @@ http://203.154.243.31:8081/live/animax/index.m3u8
 #https://iptv-kovid-19.tk/we-play/live/animax/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://pbs.twimg.com/profile_images/879999440546709504/3PZeJfmI.jpg",Aniplus
 #https://iptv-kovid-19.tk/we-play/live/aniplus/playlist.m3u8
-#http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
+http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/babytv.png",Baby TV
 http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 group-title="Kids"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",BOOMERANG
@@ -713,16 +714,16 @@ http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZI6mDfzF9OkrNzANQ2UBvXOZJfwVIE_6Fe0n4zq48fsou-2a6HA&s" group-title="Sports",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport1serbia.png",Arena1
-#https://iptv-kovid-19.tk/we-play/live/astro4/playlist.m3u8
+https://iptv-kovid-19.tk/we-play/live/astro4/playlist.m3u8
 #http://160.119.77.50/iptv/rs-arena1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport2serbia.png",Arena2
-#https://iptv-kovid-19.tk/we-play/live/astro2/playlist.m3u8
+https://iptv-kovid-19.tk/we-play/live/astro2/playlist.m3u8
 #http://160.119.77.50/iptv/rs-arena2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport3serbia.png",Arena3
-#https://iptv-kovid-19.tk/we-play/live/astro3/playlist.m3u8
+https://iptv-kovid-19.tk/we-play/live/astro3/playlist.m3u8
 #http://160.119.77.50/iptv/rs-arena3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport4serbia.png",Arena4
-#https://iptv-kovid-19.tk/we-play/live/astro4/playlist.m3u8
+https://iptv-kovid-19.tk/we-play/live/astro4/playlist.m3u8
 #http://160.119.77.50/iptv/rs-arena4.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png",Bein Sport 1 France
