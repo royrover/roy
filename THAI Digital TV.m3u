@@ -141,6 +141,8 @@ https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/ch
 
 #EXTINF:-1 group-title="News World"tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg TV Asia (HK)
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" group-title="News World",BBC 1
+http://160.119.77.50/iptv/uk-bbc1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/cnn.png",CNN
 #http://62.210.246.131:25461/live/gxfgss/HHVVPP/28799.ts?token=HhVYAkpZQF8XUlAKBwAIUQNQBA8GAAEEUgoNUlVSAlZVDlEGDgNWAVMTThtFQ0pVUlk6X1QaWVNdBQFaG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQBRXBsSE1BVQF8XAFYPDgAaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCQkCFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcDDgYLFhg=
 #http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
@@ -151,6 +153,10 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/cctv4.png",CCTV4 
 http://61.58.60.230:9319/live/220.m3u8
 #http://iliketot.dyndns.tv/5289381709e64f8db14a4ed75ab2b59f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/DeutscheWelleEn.de.png" group-title="News World",Deutsche Welle (English)
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/ru/Euronews.ru.png" group-title="News World",Euronews HD
+http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/foxnews.png",Fox News 
 http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/nhkworld.png",NHK WORLD TV
@@ -253,6 +259,7 @@ https://live.we-play.tv/android/hbo-sig/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO FAMILY
 https://live.we-play.tv/android/hbo-fam/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/JKN.png",JKN
+http://103.120.113.90:1935/psilive3a/JKN.stream_360p/playlist.m3u8
 http://iliketot.dyndns.tv/fc8195dc989240348772d00dd9eba3d0.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",Mangkorn
 #https://www.livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
@@ -326,7 +333,8 @@ http://160.119.77.50/iptv/hd-warnertv.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch91.stream/chunks.m3u8
 #https://live.we-play.tv/android/warner/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/201707082147541150565441.jpg",Zeenung
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
+#http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
+http://103.120.113.90:1935/psilive3a/ZeeNung.stream_360p/playlist.m3u8
 #http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://static10.tgstat.ru/channels/_0/09/095c5346dea8fd055e86c3f04e9b5453.jpg",ZEE CINEMA
 #http://kodinew.dyndns.tv:9981/stream/channelid/1809014838?ticket=F3D66A03B22ABB2A4372580F69E0DF6C31AAB2F2&profile=pass
@@ -496,6 +504,10 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 https://tv4.chang55.com/live2/tv4ch20.stream/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/cartoon_network/playlist.m3u8
 #https://live.we-play.tv/android/cnhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Cartoonito.uk.png" group-title="Kids",Cartoonito
+http://160.119.77.50/iptv/uk-cartoonito.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/Cbeebies.au.png" group-title="Kids",Cbeebies
+http://160.119.77.50/iptv/uk-cbeebieshd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
 http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
 #https://live.we-play.tv/android/disneych/playlist.m3u8
@@ -572,6 +584,12 @@ http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/13/cd083b90-4e15-11ea-b7f0-270d555231ee_320.png",TOYOTA E LEAGUE
 
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Sports",NBC Golf
+http://160.119.77.50/iptv/hd-golfeng.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="Sports",Sky Sports Golf
+http://160.119.77.50/iptv/uk-skysports-golf.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Motor Sports",Sky Sports F1
+http://160.119.77.50/iptv/uk-skysports-f1.stream/playlist.m3u8
 
 
 #EXTINF:0 group-title="Sports"tvg-logo="https://teevee-hd.com/img/kix.png",KIX
@@ -631,10 +649,12 @@ http://160.119.77.50/iptv/hd-foxsports1.stream/playlist.m3u8
 #http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
 #https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="foxsport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2 
+#http://160.119.77.50/iptv/hd-foxsports2eng.stream/playlist.m3u8
 http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 #http://iliketot.dyndns.tv/1fd48f2cd616439ca4162478e572d681.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="foxsport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3 
-http://160.119.77.50/iptv/sd-foxsports3.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-foxsports3.stream/playlist.m3u8
+http://160.119.77.50/iptv/hd-foxsports3eng.stream/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 #http://iliketot.dyndns.tv/b254601a75724ad79e2633f3d307e331.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
@@ -658,6 +678,21 @@ https://live.we-play.tv/android/sporttv4/playlist.m3u8
 #http://goodmans.click:8080/gm17/eyoLkpRyx8/7311
 #EXTINF:-1 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",SPORTTV 5
 #http://goodmans.click:8080/gm17/eyoLkpRyx8/7314
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qr00OWI.png" group-title="Sports",Super Sports 1
+http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/SuperSport2.al.png" group-title="Sports",Super Sports 2
+http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/SuperSport3.al.png" group-title="Sports",Super Sports 3
+http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/SuperSport4.al.png" group-title="Sports",Super Sports 4
+http://84.22.33.210/ss4.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/SuperSport5.al.png" group-title="Sports",Super Sports 5
+http://84.22.33.210/ss5.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media02.statarea.com/images/tv/570.png" group-title="Sports",Super Sports 6
+http://84.22.33.210/ss6.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/SuperSport%207.png" group-title="Sports",Super Sports 7
+http://84.22.33.210/ss7.ott/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/255.png",RMC Sport 1 HD
 
@@ -800,6 +835,18 @@ https://live.we-play.tv/android/astro2/playlist.m3u8
 https://live.we-play.tv/android/astro3/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro4.png",Astro4
 https://live.we-play.tv/android/astro4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Sports",Eurosport 1
+http://160.119.77.50/iptv/uk-eurosport.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Sports",Eurosport 2
+http://160.119.77.50/iptv/uk-eurosport2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="Sports",Sky Sports News
+http://160.119.77.50/iptv/uk-skysports-news.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="Sports",Sky Sports Action
+http://160.119.77.50/iptv/uk-skysports-action.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="Sports",Sky Sports Arena
+http://160.119.77.50/iptv/uk-skysports-arena.stream/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport1.png",Skynetsport1
 http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
