@@ -414,7 +414,7 @@ https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY EH
 http://160.119.77.50/iptv/hd-historyeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://presentationarchive.com/discoveryhistory/sting-b.jpg",DISCOVERY HISTORY 
-http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
+#http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="history2.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
 https://tv4.chang55.com/live2/tv4ch19.stream/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/H2/playlist.m3u8
@@ -451,9 +451,9 @@ https://tv4.chang55.com/live/tot06.stream/playlist.m3u8
 #https://live.we-play.tv/android/natwild/playlist.m3u8
 #http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="animalplanet.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
-https://tv4.chang55.com/live2/tv4ch37.stream/playlist.m3u8
+#https://tv4.chang55.com/live2/tv4ch37.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch89.stream/chunks.m3u8
-#https://live.we-play.tv/android/animalplanet/playlist.m3u8
+https://live.we-play.tv/android/animalplanet/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/samrujrok.png",SAMRUJLOK
 https://live.we-play.tv/android/samruajlok/playlist.m3u8
 #EXTINF:-1 tvg-id="bbcearth.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/bbcearth.png",BBC EARTH
