@@ -102,9 +102,9 @@ http://160.119.77.50/iptv/hd-tpbs.stream/playlist.m3u8
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="Workpoint.th"group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT TV
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
+#http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch63.stream/chunks.m3u8
-#http://27.254.130.56:80/live01/ch7.m3u8
+http://27.254.130.56:80/live01/ch7.m3u8
 #https://live.we-play.tv/android/workpoint/playlist.m3u8
 
 #EXTINF:-1 tvg-id="true4U.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/true4u.png",True4U
