@@ -10,10 +10,10 @@ http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/3HD/playlist.m3u8
 #https://live.we-play.tv/android/ch3hd/playlist.m3u8
 #https://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v1a1/mono.m3u8
-#http://103.120.113.90:1935/psilive1a/3HD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 FHD
-http://livesport2018.dyndns.tv:1935/trans/3hd-1080p/chunklist.m3u8
+#http://livesport2018.dyndns.tv:1935/trans/3hd-1080p/chunklist.m3u8
+http://103.120.113.90:1935/psilive1a/3HD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD 
 http://160.119.77.50/iptv/hd-ch5.stream/playlist.m3u8
@@ -31,12 +31,12 @@ http://160.119.77.50/iptv/hd-ch7.stream/playlist.m3u8
 #http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
 #http://1419021143.rsc.cdn77.org/LS-50041-SIN-21/tracks-v1a1/mono.m3u8
 #http://27.254.130.56:80/live01/ch1.m3u8
-#http://103.120.113.90:1935/psilive1a/7HD.stream/playlist.m3u8
 #https://live.we-play.tv/android/ch7hd/playlist.m3u8
 #http://iliketot.dyndns.tv/ddfa47e726444446864b14e0e819fdde.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
 #EXTINF:-1 tvg-id="channel7.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch7.png",7 FHD  
-http://livesport2018.dyndns.tv:1935/trans/7hd-1080p/chunklist.m3u8
+#http://livesport2018.dyndns.tv:1935/trans/7hd-1080p/chunklist.m3u8
+http://103.120.113.90:1935/psilive1a/7HD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT 
 http://160.119.77.50/iptv/hd-mcot.stream/playlist.m3u8
@@ -66,23 +66,30 @@ http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/amarin.png",Amarin TV 
 http://160.119.77.50/iptv/hd-amarin.stream/playlist.m3u8
 #http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
-#http://103.120.113.90:1935/psilive1a/AmarinHD.stream/playlist.m3u8
 #https://live.we-play.tv/android/amarintv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/amarin.png",Amarin TV FHD
+http://103.120.113.90:1935/psilive1a/AmarinHD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE 
 http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8
 #http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
-#http://103.120.113.90:1935/psilive1a/OneHD.stream/playlist.m3u8
 #https://live.we-play.tv/android/one31/playlist.m3u8
 #http://27.254.130.56:80/live01/ch10.m3u8
 #http://iliketot.dyndns.tv/7e069540a35942e89245865a84add64a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE FHD
+http://103.120.113.90:1935/psilive1a/OneHD.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="PPTV.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
 http://160.119.77.50/iptv/hd-pptv.stream/playlist.m3u8
 #http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
 #http://27.254.130.56:80/live01/ch2.m3u8
-#http://103.120.113.90:1935/psilive1a/PPTV.stream/playlist.m3u8
 #http://iliketot.dyndns.tv/623d009180394c528880c14e2254452a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 tvg-id="PPTV.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV FHD
+http://103.120.113.90:1935/psilive1a/PPTV.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/thaipbs.png",Thai PBS 
 http://160.119.77.50/iptv/hd-tpbs.stream/playlist.m3u8
