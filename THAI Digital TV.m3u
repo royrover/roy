@@ -22,6 +22,7 @@ http://160.119.77.50/iptv/hd-ch5.stream/playlist.m3u8
 #http://27.254.130.56:80/live01/ch6.m3u8
 #http://iliketot.dyndns.tv/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #https://live.we-play.tv/android/live/ch5hd/playlist.m3u8
+#https://tc-live1.sanook.com/live/22302_ch5.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch5.png",5 FHD 
 http://103.120.113.90:1935/psilive1a/5HD.stream/playlist.m3u8
@@ -32,6 +33,7 @@ http://160.119.77.50/iptv/hd-ch7.stream/playlist.m3u8
 #http://1419021143.rsc.cdn77.org/LS-50041-SIN-21/tracks-v1a1/mono.m3u8
 #http://27.254.130.56:80/live01/ch1.m3u8
 #https://live.we-play.tv/android/ch7hd/playlist.m3u8
+#https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
 #http://iliketot.dyndns.tv/ddfa47e726444446864b14e0e819fdde.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
 #EXTINF:-1 tvg-id="channel7.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch7.png",7 FHD  
@@ -47,12 +49,14 @@ http://160.119.77.50/iptv/hd-mcot.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT FHD
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
+#http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
 http://160.119.77.50/iptv/sd-nbt.stream/playlist.m3u8
 #http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
 #http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 #http://27.254.130.56:80/live01/ch4.m3u8
+#http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Thairath.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/thairath.png",Thairat TV
 http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8
@@ -67,6 +71,7 @@ http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-amarin.stream/playlist.m3u8
 #http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
 #https://live.we-play.tv/android/amarintv/playlist.m3u8
+#http://103.75.201.3:1935/live/ama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/amarin.png",Amarin TV FHD
 http://103.120.113.90:1935/psilive1a/AmarinHD.stream/playlist.m3u8
@@ -80,6 +85,7 @@ http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE FHD
 http://103.120.113.90:1935/psilive1a/OneHD.stream/playlist.m3u8
+#http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="PPTV.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
@@ -104,13 +110,15 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="Workpoint.th"group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT TV
 #http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch63.stream/chunks.m3u8
-http://27.254.130.56:80/live01/ch7.m3u8
+#http://27.254.130.56:80/live01/ch7.m3u8
 #https://live.we-play.tv/android/workpoint/playlist.m3u8
+http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
 
 #EXTINF:-1 tvg-id="true4U.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/true4u.png",True4U
 http://160.119.77.50/iptv/sd-24u.stream/playlist.m3u8
 #http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv24_true4u/playlist.m3u8
 #https://live.we-play.tv/android/true4u/playlist.m3u8
+#http://live.pjmcdn.info/live/True4U.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GMM25.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM Channel
 http://160.119.77.50/iptv/sd-gmmchannel.stream/playlist.m3u8
@@ -126,6 +134,7 @@ http://stream.rs.co.th/ch8-hi/index.m3u8
 #EXTINF:-1 tvg-id="TNN24.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN16
 #http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv16_tnn24/playlist.m3u8
 http://27.254.130.56:80/live01/ch5.m3u8
+#http://160.119.77.50/iptv/sd-tnn24.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/nation.png",NATION TV
 http://160.119.77.50/iptv/sd-nation.stream/playlist.m3u8
@@ -226,6 +235,7 @@ http://160.119.77.50/iptv/sd-celestial.stream/playlist.m3u8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax 
 https://tv4.chang55.com/live2/tv4ch32.stream/chunks.m3u8
+#http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
 #https://live.we-play.tv/android/cinemax/playlist.m3u8
 
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://imgcloud.fwiptv.cc/postor/20190218201201images.jpg",Cool Channel
@@ -266,7 +276,7 @@ http://160.119.77.50/iptv/hd-foxlife.stream/playlist.m3u8
 #https://live.we-play.tv/android/fox-life/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/fxhd.png",FX 
 https://tv4.chang55.com/live/tot13.stream/playlist.m3u8
-#http://160.119.77.50/iptv/hd-foxlife.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 #https://live.we-play.tv/android/fxhd/playlist.m3u8
 #http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="FoxThai.th"group-title="Cinema"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Sony_gem_asia.png",GEM
