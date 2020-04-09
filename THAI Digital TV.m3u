@@ -710,7 +710,7 @@ http://160.119.77.50/iptv/hd-foxsports3eng.stream/playlist.m3u8
 #http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/smmtv.png",SMM TV
-https://cdn-laos.workpoint.news/sd-smmtv_480/index.m3u8
+#https://cdn-laos.workpoint.news/sd-smmtv_480/index.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/nfl.png",NFL Network
 https://live.we-play.tv/android/nfl/playlist.m3u8
 #https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
@@ -753,22 +753,22 @@ http://84.22.33.210/ss7.ott/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/340.png",BeInSport Max 4
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/341.png",BeInSport Max 5
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376295.m3u8
+#http://yourdnshere.xyz:83/live/Kericage/6824106935/376295.m3u8
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/342.png",BeInSport Max 6
-http://yourdnshere.xyz:83/live/Kericage/6824106935/195546.m3u8
+#http://yourdnshere.xyz:83/live/Kericage/6824106935/195546.m3u8
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/343.png",BeInSport Max 7
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376293.m3u8
+#http://yourdnshere.xyz:83/live/Kericage/6824106935/376293.m3u8
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/344.png",BeInSport Max 8
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376292.m3u8
+#http://yourdnshere.xyz:83/live/Kericage/6824106935/376292.m3u8
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/345.png",BeInSport Max 9
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376291.m3u8
+#http://yourdnshere.xyz:83/live/Kericage/6824106935/376291.m3u8
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/346.png",BeInSport Max 10
-http://yourdnshere.xyz:83/live/Kericage/6824106935/195544.m3u8
+#http://yourdnshere.xyz:83/live/Kericage/6824106935/195544.m3u8
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/btsport1.png",BTSPORT 1
 http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
