@@ -318,7 +318,7 @@ https://tv4.chang55.com/live2/tv4ch90.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",Movies 2
 http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg",Movies 3
-#http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
+http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ed57b046d1e80602992684d85adc104b" group-title="Cinema" tvg-logo="https://image.winudf.com/v2/image/Y29tLm15YW5tYXJtb3ZpZXMuaW5mb19zY3JlZW5fMF8xNTM0OTUxMTEzXzA5Nw/screen-0.jpg?fakeurl=1&type=.jpg",MYANMAR MOVIES
 #http://kodinew.dyndns.tv:9981/stream/channelid/1185961965?ticket=B40686A7E223465B8D75108008EA5EA48F992473&profile=pass
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/paramount.png",Paramount CHANNEL
@@ -408,15 +408,17 @@ http://206.189.150.220:8081/freelive-edge/_definst_/fantv.smil/playlist.m3u8
 #http://160.119.77.50/iptv/sd-tmusic.stream/playlist.m3u8
 https://live.we-play.tv/android/kbs/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/mtvlive.png",MTV LIVE
-http://kodinew.dyndns.tv:9981/stream/channelid/859415194?ticket=B94F022535096FDA0AD42C8281373F3FDBD042FC&profile=pass
+http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
+#http://kodinew.dyndns.tv:9981/stream/channelid/859415194?ticket=B94F022535096FDA0AD42C8281373F3FDBD042FC&profile=pass
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/mtvchina.png",MTV China
 http://kodinew.dyndns.tv:9981/stream/channelid/1466028033?ticket=F2B53C40DC4B8C5D46807AA5EE680D59AF69C802&profile=pass
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/mtvasia.png",MTV ASIA
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+http://160.119.77.50/iptv/sd-mtvasia.stream/playlist.m3u8
+#http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://imgcloud.fwiptv.cc/postor/20180914183340TMG.jpg",Sangjun TV
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/sangjun.smil/playlist.m3u8
+#http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/sangjun.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181006131528tinti.jpg",SBOBET9TH
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
+#http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="http://image.free.in.th/v/2013/ij/180713075126.gif",GREENWAVE
 http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="http://thaiip.tv/tvlogo2/mvtv.png" ,MVTV
@@ -426,16 +428,16 @@ https://edge1a.v2h-cdn.com/appt3/five.stream_720p/chunklist_w1616935929.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="http://thaiip.tv/tvlogo2/hmong.png",MVTV Hmong
 https://edge1a.v2h-cdn.com/appt7/MHONG.stream_360p/chunklist_w839479703.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://inchincloser.files.wordpress.com/2012/04/zee-apac.jpg",ZEE TV
-http://kodinew.dyndns.tv:9981/stream/channelid/945789723?ticket=70FB8EA62FDCD8F90C999DAA960FE597957A41D4&profile=pass
+#http://kodinew.dyndns.tv:9981/stream/channelid/945789723?ticket=70FB8EA62FDCD8F90C999DAA960FE597957A41D4&profile=pass
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/images/channel/2014/06/11/zing1_0.jpg",ZING
-http://kodinew.dyndns.tv:9981/stream/channelid/417735839?ticket=A8BD3CE4B249000F301E6E10C50877703FE48194&profile=pass
+#http://kodinew.dyndns.tv:9981/stream/channelid/417735839?ticket=A8BD3CE4B249000F301E6E10C50877703FE48194&profile=pass
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://f.ptcdn.info/485/048/000/ojil57uuk1bVedlgGr3-o.jpg",KBS WORLD HD
 #https://cdn780.stm.trueid.net/live2/142_w_auto_tidapp.smil/chunklist_w1079232538_b2537779_vo_slkor_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=73301911&mpass=nhaku4FlWIVmJkptF4n3kmCJndjRdFmC%2BExgDS6fqqZnpIRvLYWZBfL3hf6ahQP%2BHjD5GZfGtbtbzwrZ6L7fe1MGmraqlGzJQf9HrYr3fsiABNlMjN%2BJL%2BY21gHnYMclOjq%2FwWQLSRWANQY2lK5pk7%2B2
 http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://static.iptv-epg.com/kr/JTBC.kr.png",JTBC
 #https://www.youtube.com/watch?v=tZYWafqHJAg
-https://www.youtube.com/watch?v=74qYqxK95VU
-#http://121.159.183.222:9981/stream/channelid/215643962
+#https://www.youtube.com/watch?v=74qYqxK95VU
+http://121.159.183.222:9981/stream/channelid/215643962
 
 
 
