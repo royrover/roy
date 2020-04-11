@@ -188,8 +188,8 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 http://61.58.60.230:9319/live/220.m3u8
 #http://iliketot.dyndns.tv/5289381709e64f8db14a4ed75ab2b59f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/DeutscheWelleEn.de.png" group-title="News World",Deutsche Welle (English)
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/ru/Euronews.ru.png" group-title="News World",Euronews HD
 #http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
 http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
@@ -1280,6 +1280,21 @@ http://191.96.77.23:443/movie/dbnew/hit/the.chronicles.of.narnia.2.dub.mp4/index
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/LV9FBIqNjwcrri5f9rk.jpg",Narnia 3 (2010)
 http://191.96.77.23:443/movie/dbnew/hit/the.chronicles.of.narnia.3.dub.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://www.movie-th.com/wp-content/uploads/2019/08/p170620_v_v8_al.jpg",Iron Man 1 (2008)
+http://http://191.96.77.23:443/movie/bluray2016/Iron-Man-2008-th-en-1080p.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://www.movie-th.com/wp-content/uploads/2019/08/p3546118_v_v8_af.jpg",Iron Man 2 (2010)
+http://http://191.96.77.23:443/movie/bluray2016/Iron-Man-2-2010-th-en-1080p.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://www.movie-th.com/wp-content/uploads/2019/08/p9259486_v_v8_aw.jpg",Iron Man 3 (2013)
+http://http://191.96.77.23:443/movie/bluray2016/Iron-Man-3-2013-th-en-1080p.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://1.bp.blogspot.com/-DXt-bYX-F84/XVDh6Z4cAAI/AAAAAAAAGYM/FkAWDhFt04Mdc5ZqMlqEKyi9-0S6Csv1QCLcBGAs/s1600/Ghost%2BRider%2BDuology%2B%25282007-2011%2529%2B%2540%2BNeverdieMyfriends.blogspot.com.jpg",Ghost Rider 1 (2007)
+http://http://191.96.77.23:443/movie/2017/Ghost.Rider.2007.1080p.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://www.livehd5.com/media/k2/items/cache/621af29360685f88fae4c26f96ed9d8c_XL.jpg",Ghost Rider 2 (2011)
+http://http://191.96.77.23:443/movie/2017/Ghost.Rider.Spirit.of.Vengeance.2011.TH.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://ufa365movie.com/wp-content/uploads/2020/01/1-9.jpg",Dolittle (2020)
 http://media2.nungbox.com/media5//media5/0/0/4/134851/134851.mp4
