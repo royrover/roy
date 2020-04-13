@@ -171,8 +171,8 @@ https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/ch
 
 
 #EXTINF:-1 group-title="News World"tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg TV Asia (HK)
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#http://160.119.77.50/iptv/sd-bloomberg.stream/playlist.m3u8
+#http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+http://160.119.77.50/iptv/sd-bloomberg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" group-title="News World",BBC 1
 #http://160.119.77.50/iptv/uk-bbc1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/cnn.png",CNN
@@ -416,6 +416,7 @@ http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
 #http://kodinew.dyndns.tv:9981/stream/channelid/859415194?ticket=B94F022535096FDA0AD42C8281373F3FDBD042FC&profile=pass
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/mtvchina.png",MTV China
 #http://kodinew.dyndns.tv:9981/stream/channelid/1466028033?ticket=F2B53C40DC4B8C5D46807AA5EE680D59AF69C802&profile=pass
+#http://160.119.77.50/iptv/sd-mtvchina.stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/mtvasia.png",MTV ASIA
 http://160.119.77.50/iptv/sd-mtvasia.stream/playlist.m3u8
 #http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
@@ -818,6 +819,7 @@ http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/chelseatv/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/mutv.png",UK MU TV
 #http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
+http://streaming-fast.com/covid19_live/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNQGv_3ehrYRwcONHlmcRtoHmfuF-ZQo0ub_9cOdnvUgeqdMz&s" group-title="Sports",RED BULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/services/img/SkySportsPremierLeague_201708" group-title="Sports",Sky Sports Premier League HD
