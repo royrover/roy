@@ -189,10 +189,10 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #https://cdn778.stm.trueid.net/live3/027_w_auto_tidapp.smil/chunklist_w1709039182_b2077081_vo_slchi_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=73301911&mpass=YT7kPBjAVrZMG5Nacqt6KbjMxOQy%2BFNpiSslUcshlSJCamBxpenpues4BMlP4zbPa3d8EW97BcXvdmVevruYdxmleRSzocSMR6JexJC9Z5S3cExoK1aSMCCRwn4Ctzl9OjrkCAYneouUAhwplpZCZube
 http://61.58.60.230:9319/live/220.m3u8
 #http://iliketot.dyndns.tv/5289381709e64f8db14a4ed75ab2b59f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/DeutscheWelleEn.de.png" group-title="News World",Deutsche Welle (English)
+#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/DW.png" group-title="News World",Deutsche Welle (English)
 #https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/ru/Euronews.ru.png" group-title="News World",Euronews HD
+#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/euronews.png" group-title="News World",Euronews HD
 http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
 #http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/foxnews.png",Fox News 
@@ -201,7 +201,7 @@ http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-nhkworld.stream/playlist.m3u8
 #https://live.we-play.tv/android/nhk/playlist.m3u8 
 #http://iliketot.dyndns.tv/cd25fccffa6f4a2f8d7190d3e8907440.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/622f7e14-4624-4454-a63f-0bd428c399b3.png",Russia Today
+#EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="http://www.totiptv.com/Product/Channel/images/rt_b.png",RT TV
 https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
 #http://178.196.237.240:3000/play/xxRussiaTodayxx
 #EXTINF:-1 group-title="News World" tvg-logo="https://teevee-hd.com/img/cnbc.png",CNBC
@@ -244,7 +244,7 @@ http://live.9koh.com:8000/live/a-play/stream/39.m3u8
 #http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
 #https://live.we-play.tv/android/cinemax/playlist.m3u8
 
-#EXTINF:-1 group-title="Cinema"tvg-logo="https://imgcloud.fwiptv.cc/postor/20190218201201images.jpg",Cool Channel
+#EXTINF:-1 group-title="Cinema"tvg-logo="http://www.totiptv.com/Product/Channel/images/COOL.png",Cool Channel
 #http://iliketot.dyndns.tv/205930751d5743e2be719ed1dff8970f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
 #EXTINF:-1 tvg-id="FoxActionMovies.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION EN
@@ -313,13 +313,13 @@ https://live.we-play.tv/android/hi-def1/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/JKN.png",JKN
 http://103.120.113.90:1935/psilive3a/JKN.stream_360p/playlist.m3u8
 #http://iliketot.dyndns.tv/fc8195dc989240348772d00dd9eba3d0.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",Mangkorn
+#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="http://www.totiptv.com/Product/Channel/images/MANGORN.png",Mangkorn
 #https://www.livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
 http://103.120.113.90:1935/psilive3a/Mangorn.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/mchannel.png",M Channel
 http://206.189.150.220:8081/freelive-edge/_definst_/mchannel.smil/playlist.m3u8
 #http://27.254.142.207:8080/live/web.m3u8
-#EXTINF:-1 group-title="Cinema"tvg-logo="https://i.imgur.com/EqTTEyu.png",Mix Major
+#EXTINF:-1 group-title="Cinema"tvg-logo="http://www.totiptv.com/Product/Channel/images/MajorMIX.png",Major Mix 
 https://edge1a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w670261144.m3u8
 #http://iliketot.dyndns.tv/ab6acb38607a4aff9dc773a6772c91fc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/monoplus.png",Monoplus
