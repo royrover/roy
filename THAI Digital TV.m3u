@@ -857,7 +857,7 @@ http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/chelseatv/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/mutv.png",UK MU TV
 #http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
-http://streaming-fast.com/covid19_live/mutv/playlist.m3u8
+#http://streaming-fast.com/covid19_live/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNQGv_3ehrYRwcONHlmcRtoHmfuF-ZQo0ub_9cOdnvUgeqdMz&s" group-title="Sports",RED BULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/services/img/SkySportsPremierLeague_201708" group-title="Sports",Sky Sports Premier League HD
@@ -885,13 +885,13 @@ http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png",Bein Sport 3 France
 #http://160.119.77.50/iptv/fr-bein3hd.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/beinsport2fr/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",BEIN 01
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",Bein Sport 1
 #https://tv4.chang55.com/live2/tv4ch96.stream/playlist.m3u8
 #http://103.208.24.234:1935/thaisport/epl-bein1.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein1/playlist.m3u8
 https://live.we-play.tv/android/bein1/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",BEIN 02
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",Bein Sport 2
 #https://tv4.chang55.com/live2/tv4ch95.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein2/playlist.m3u8
 #http://103.208.24.234:1935/thaisport/epl-bein2.stream/playlist.m3u8
@@ -946,9 +946,9 @@ https://live.we-play.tv/android/astro3/playlist.m3u8
 https://live.we-play.tv/android/astro4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Sports",Eurosport 1
-http://160.119.77.50/iptv/uk-eurosport.stream/playlist.m3u8
+#http://160.119.77.50/iptv/uk-eurosport.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Sports",Eurosport 2
-http://160.119.77.50/iptv/uk-eurosport2.stream/playlist.m3u8
+#http://160.119.77.50/iptv/uk-eurosport2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="Sports",Sky Sports News
 http://160.119.77.50/iptv/uk-skysports-news.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="Sports",Sky Sports Action
