@@ -366,7 +366,7 @@ https://live.we-play.tv/android/truefilmhd/playlist.m3u8
 https://cdn-laos.workpoint.news/hd-tfilm2_720/index.m3u8
 #https://live.we-play.tv/android/truefilmhd2/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueFilmAsia.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmasia.png",Truefilm ASIA
-http://160.119.77.50/iptv/sd-filmasia.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-filmasia.stream/playlist.m3u8
 #https://live.we-play.tv/android/truefilmasia/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/trueasian.png",True Asian Series HD
 http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
@@ -861,7 +861,7 @@ http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNQGv_3ehrYRwcONHlmcRtoHmfuF-ZQo0ub_9cOdnvUgeqdMz&s" group-title="Sports",RED BULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/services/img/SkySportsPremierLeague_201708" group-title="Sports",Sky Sports Premier League HD
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZI6mDfzF9OkrNzANQ2UBvXOZJfwVIE_6Fe0n4zq48fsou-2a6HA&s" group-title="Sports",TVRI SPORT
 #http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport1serbia.png",Arena1
