@@ -301,18 +301,23 @@ https://tv4.chang55.com/live/tot13.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO 
 https://tv4.chang55.com/live2/tv4ch79.stream/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/37.m3u8
+#https://livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #https://tv4.chang55.com/live2/tv4ch25.stream/playlist.m3u8
 #http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 #https://live.we-play.tv/android/hbo-hd/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO
 https://live.we-play.tv/android/red/playlist.m3u8
+#https://livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 #https://tv4.chang55.com/live2/tv4ch47.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO HITS
 https://live.we-play.tv/android/hbo-hits/playlist.m3u8
+#https://livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO Signature
 https://live.we-play.tv/android/hbo-sig/playlist.m3u8
+#https://livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO family
 https://live.we-play.tv/android/hbo-fam/playlist.m3u8
+#https://livedoomovies.com/02_HBOFamily_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg",Hi-DeF1
 https://live.we-play.tv/android/hi-def1/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/JKN.png",JKN
@@ -395,6 +400,7 @@ http://160.119.77.50/iptv/hd-warnertv.stream/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/38.m3u8
 #https://tv4.chang55.com/live2/tv4ch91.stream/chunks.m3u8
 #https://live.we-play.tv/android/warner/playlist.m3u8
+#https://livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/201707082147541150565441.jpg",Zeenung
 http://206.189.150.220:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
 #http://103.120.113.90:1935/psilive3a/ZeeNung.stream_360p/playlist.m3u8
@@ -481,6 +487,7 @@ https://tv4.chang55.com/live2/tv4ch19.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/discovery.png",Discovery TH
 #https://tv4.chang55.com/live2/tv4ch36.stream/chunks.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/33.m3u8
+#https://livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 https://live.we-play.tv/android/discovery/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/discoveyasiax.png",DiscoveryAsia 
 http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
@@ -578,6 +585,7 @@ http://202.183.247.206:9981/stream/channelid/1889318275?ticket=BA0F28565BE4A31CC
 #EXTINF:-1 group-title="Kids"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",BOOMERANG
 #http://27.254.130.64/live01/ch18.m3u8?p=K
 #http://live.9koh.com:8000/live/a-play/stream/25.m3u8
+#http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 http://206.189.150.220:8081/freelive-edge/_definst_/boomerang.smil/playlist.m3u8
 #https://free2.fwstream.com:1215/freelive-edge/_definst_/boomerang/chunklist.m3u8
 #https://live.we-play.tv/android/boomerang/playlist.m3u8
@@ -937,13 +945,13 @@ https://live.we-play.tv/android/bein1/playlist.m3u8
 #EXTINF:0 group-title="Sports"tvg-logo="https://www.gpshop.es/112-large_default/llavero-con-logo-motogp.jpg",Moto GP 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro1.png",Astro1
-https://live.we-play.tv/android/astro1/playlist.m3u8
+#https://live.we-play.tv/android/astro1/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro2.png",Astro2
-https://live.we-play.tv/android/astro2/playlist.m3u8
+#https://live.we-play.tv/android/astro2/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro3.png",Astro3
-https://live.we-play.tv/android/astro3/playlist.m3u8
+#https://live.we-play.tv/android/astro3/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro4.png",Astro4
-https://live.we-play.tv/android/astro4/playlist.m3u8
+#https://live.we-play.tv/android/astro4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Sports",Eurosport 1
 #http://160.119.77.50/iptv/uk-eurosport.stream/playlist.m3u8
