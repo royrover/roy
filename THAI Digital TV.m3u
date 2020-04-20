@@ -242,7 +242,7 @@ https://live.we-play.tv/android/blue-ext/playlist.m3u8
 http://160.119.77.50/iptv/sd-celestial.stream/playlist.m3u8
 #https://live.we-play.tv/android/ccm/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="http://thumbnail.instardara.com/channel/ThaiTV8.jpg",Channel 8
-http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax 
 #https://tv4.chang55.com/live2/tv4ch32.stream/chunks.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/39.m3u8
@@ -568,11 +568,11 @@ https://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/chunkl
 #EXTINF:-1 group-title="Radio"tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mitikao905.png",mitikao 90.5
 http://live3.smartbomb.co.th:8624/stream/1/
 
-#EXTINF: -1 tvg-id="" group-title="Kids"tvg-logo="https://www.doohdbox.com/assets/201709011724551611250121.jpg",Animax
+#EXTINF: -1 tvg-id="" group-title="Kids"tvg-logo="https://teevee-hd.com/img/animax.png",Animax
 http://203.154.243.31:8081/live/animax/index.m3u8
 #https://live.we-play.tv/android/animax/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/1468536448?ticket=CC482188B4B4C1206C0F6217AA212075E0CE7775&profile=pass
-#EXTINF:-1 group-title="Kids" tvg-logo="http://pbs.twimg.com/profile_images/879999440546709504/3PZeJfmI.jpg",Aniplus
+#EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/aniplus.png",Aniplus
 https://live.we-play.tv/android/aniplus/playlist.m3u8
 #http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/babytv.png",Baby TV
@@ -582,7 +582,7 @@ https://live.we-play.tv/android/aniplus/playlist.m3u8
 http://202.183.247.206:9981/stream/channelid/1889318275?ticket=BA0F28565BE4A31CC0B61F345E997F7FCB4F990E&profile=pass
 #http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
-#EXTINF:-1 group-title="Kids"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",BOOMERANG
+#EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/boomerang.png",BOOMERANG
 #http://27.254.130.64/live01/ch18.m3u8?p=K
 #http://live.9koh.com:8000/live/a-play/stream/25.m3u8
 #http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
@@ -625,12 +625,12 @@ http://160.119.77.50/iptv/sd-nickjr.stream/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/Nick/playlist.m3u8
 #https://live.we-play.tv/android/nickjr/playlist.m3u8
 #http://iliketot.dyndns.tv/09fffe8d426745689f60cbc24da1bb49.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA=
-#EXTINF:-1 tvg-id="" tvg-logo="https://x1.cdn.broiptv.online/img/nickelodeon.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-logo="https://teevee-hd.com/img/nickelodeon.png" group-title="Kids",Nickelodeon
 #https://live.we-play.tv/android/nickelodeon/playlist.m3u8
 http://kodinew.dyndns.tv:9981/stream/channelid/414376583?ticket=3828CE1DBBF260ADE1F00BAAC37E22A6DBAF6E73&profile=pass
 #EXTINF:-1 group-title="Kids" tvg-logo="https://imgcloud.fwiptv.cc/postor/2019032506051812377635_206785022990745_2323450990199693871_o.jpg",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:-1 tvg-id="DisneyJr.th"group-title="Kids"tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJr.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disneyj.png",Disney Junior
 https://tv4.chang55.com/live2/tv4ch30.stream/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/27.m3u8
 #https://live.we-play.tv/android/disneyjr/playlist.m3u8
