@@ -178,10 +178,10 @@ https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/ch
 
 
 
-#EXTINF:-1 group-title="News World"tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg TV Asia (HK)
+#EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/bloombergtv.png",Bloomberg TV
 #http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 http://160.119.77.50/iptv/sd-bloomberg.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" group-title="News World",BBC 1
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/bbc.png" group-title="News World",BBC 1
 #http://160.119.77.50/iptv/uk-bbc1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/cnn.png",CNN
 #http://62.210.246.131:25461/live/gxfgss/HHVVPP/28799.ts?token=HhVYAkpZQF8XUlAKBwAIUQNQBA8GAAEEUgoNUlVSAlZVDlEGDgNWAVMTThtFQ0pVUlk6X1QaWVNdBQFaG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQBRXBsSE1BVQF8XAFYPDgAaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCQkCFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcDDgYLFhg=
@@ -197,7 +197,7 @@ http://61.58.60.230:9319/live/220.m3u8
 #EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/DW.png" group-title="News World",Deutsche Welle (English)
 #https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/euronews.png" group-title="News World",Euronews HD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/euronews.png" group-title="News World",Euronews HD
 #http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
 http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/foxnews.png",Fox News 
@@ -219,7 +219,7 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://teevee-hd.com/img/bbc.png",BBC World News
 http://160.119.77.50/iptv/hd-bbcworldnews.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch28.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/4176VIeeBaL.png",Sky News
+#EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://teevee-hd.com/img/skynews.png",Sky News
 http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
 #https://www.youtube.com/watch?v=9Auq9mYxFEE
 #https://youtu.be/9Auq9mYxFEE
@@ -296,7 +296,7 @@ https://tv4.chang55.com/live/tot13.stream/playlist.m3u8
 #http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 #https://live.we-play.tv/android/fxhd/playlist.m3u8
 #http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1 tvg-id="FoxThai.th"group-title="Cinema"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Sony_gem_asia.png",GEM
+#EXTINF:-1 tvg-id="FoxThai.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/sonygem.png",GEM
 #https://tv4.chang55.com/live2/tv4ch50.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO 
 #https://tv4.chang55.com/live2/tv4ch79.stream/playlist.m3u8
@@ -460,7 +460,7 @@ https://edge1a.v2h-cdn.com/appt7/MHONG.stream_360p/chunklist_w839479703.m3u8
 #http://kodinew.dyndns.tv:9981/stream/channelid/945789723?ticket=70FB8EA62FDCD8F90C999DAA960FE597957A41D4&profile=pass
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/images/channel/2014/06/11/zing1_0.jpg",ZING
 #http://kodinew.dyndns.tv:9981/stream/channelid/417735839?ticket=A8BD3CE4B249000F301E6E10C50877703FE48194&profile=pass
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://f.ptcdn.info/485/048/000/ojil57uuk1bVedlgGr3-o.jpg",KBS WORLD HD
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/kbs.png",KBS WORLD HD
 #https://cdn780.stm.trueid.net/live2/142_w_auto_tidapp.smil/chunklist_w1079232538_b2537779_vo_slkor_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=73301911&mpass=nhaku4FlWIVmJkptF4n3kmCJndjRdFmC%2BExgDS6fqqZnpIRvLYWZBfL3hf6ahQP%2BHjD5GZfGtbtbzwrZ6L7fe1MGmraqlGzJQf9HrYr3fsiABNlMjN%2BJL%2BY21gHnYMclOjq%2FwWQLSRWANQY2lK5pk7%2B2
 http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://static.iptv-epg.com/kr/JTBC.kr.png",JTBC
