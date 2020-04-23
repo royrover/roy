@@ -131,6 +131,9 @@ http://160.119.77.50/iptv/sd-gmmchannel.stream/playlist.m3u8
 #http://27.254.130.56:80/live01/ch11.m3u8
 #https://live.we-play.tv/android/gmm25/playlist.m3u8
 
+#EXTINF:-1 tvg-id="channel8.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch2.png",CH2
+http://stream.rs.co.th/ch2-hi/index.m3u8
+
 #EXTINF:-1 tvg-id="channel8.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
 http://stream.rs.co.th/ch8-hi/index.m3u8
 #https://free2.fwstream.com:1215/freelive-edge/_definst_/ch8.smil/chunklist_.m3u8
