@@ -228,7 +228,60 @@ http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
 #https://youtu.be/9Auq9mYxFEE
 #http://iliketot.dyndns.tv/31b003ab7e7749a798fe00424e3dd9ff.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
-
+#EXTINF:-1 group-title="Education‎"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png",DLTV1
+http://dltv-live-edge.catcdn.cloud/playlist/dltv01.m3u8
+ 
+#EXTINF:-1 group-title="Education‎"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-02.png",DLTV2
+http://dltv-live-edge.catcdn.cloud/playlist/dltv02.m3u8
+ 
+#EXTINF:-1 group-title="Education‎"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-03.png",DLTV3
+http://dltv-live-edge.catcdn.cloud/playlist/dltv03.m3u8
+ 
+#EXTINF:-1 group-title="Education‎"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-04.png",DLTV4
+http://dltv-live-edge.catcdn.cloud/playlist/dltv04.m3u8
+ 
+#EXTINF:-1 group-title="Education‎"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-05.png",DLTV5
+http://dltv-live-edge.catcdn.cloud/playlist/dltv05.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Education‎"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-06.png",DLTV6
+http://dltv-live-edge.catcdn.cloud/playlist/dltv06.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Education‎"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-07.png",DLTV7
+http://dltv-live-edge.catcdn.cloud/playlist/dltv07.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Education‎"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-08.png",DLTV8
+http://dltv-live-edge.catcdn.cloud/playlist/dltv08.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Education‎"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-09.png",DLTV9
+http://dltv-live-edge.catcdn.cloud/playlist/dltv09.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Education‎"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png",DLTV10
+http://dltv-live-edge.catcdn.cloud/playlist/dltv10.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Education‎"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png",DLTV11
+http://dltv-live-edge.catcdn.cloud/playlist/dltv11.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Education‎"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-12.png",DLTV12
+http://dltv-live-edge.catcdn.cloud/playlist/dltv12.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Education‎"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-13.png",DLTV13
+http://dltv-live-edge.catcdn.cloud/playlist/dltv13.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Education‎"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-14.png",DLTV14
+http://dltv-live-edge.catcdn.cloud/playlist/dltv14.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Education‎"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png",DLTV15
+http://dltv-live-edge.catcdn.cloud/playlist/dltv15.m3u8
 
 #EXTINF:-1 tvg-id="axn.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/axn.png",AXN 
 http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
@@ -241,6 +294,8 @@ http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/rtl_extreme.png",Blue Ant Extreme
 #https://live.we-play.tv/android/blue-ext/playlist.m3u8
 #http://cdn150.stm.trueid.net/live1/208_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/20170709090502720443899.jpg",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/classicmovies.png",CCM
 http://160.119.77.50/iptv/sd-celestial.stream/playlist.m3u8
 #https://live.we-play.tv/android/ccm/playlist.m3u8
@@ -331,6 +386,7 @@ http://103.120.113.90:1935/psilive3a/JKN.stream_360p/playlist.m3u8
 http://103.120.113.90:1935/psilive3a/Mangorn.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/mchannel.png",M Channel
 http://206.189.150.220:8081/freelive-edge/_definst_/mchannel.smil/playlist.m3u8
+#http://livefreebl-2.ddns.net:8081/freelive-edge/_definst_/mchannel.smil/playlist.m3u8
 #http://27.254.142.207:8080/live/web.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="http://www.totiptv.com/Product/Channel/images/MajorMIX.png",Major Mix 
 https://edge1a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w670261144.m3u8
