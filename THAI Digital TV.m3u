@@ -1,6 +1,6 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 23.04.2020", Last Update: 23.04.2020
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 27.04.2020", Last Update: 27.04.2020
 http://tiny.cc/d69fjz
 
 #EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
@@ -306,8 +306,8 @@ http://160.119.77.50/iptv/sd-celestial.stream/playlist.m3u8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax 
 #https://tv4.chang55.com/live2/tv4ch32.stream/chunks.m3u8
-#http://live.9koh.com:8000/live/a-play/stream/39.m3u8
-http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
+http://live.9koh.com:8000/live/a-play/stream/39.m3u8
+#http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
 #https://live.we-play.tv/android/cinemax/playlist.m3u8
 
 #EXTINF:-1 group-title="Cinema"tvg-logo="http://www.totiptv.com/Product/Channel/images/COOL.png",Cool Channel
@@ -316,9 +316,9 @@ http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxActionMovies.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION EN
 
 #EXTINF:-1 tvg-id="FoxActionMovies.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION MOVIES
-http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 #http://fw02.livem3u8.me.totiptv.com:80/live/206105b34a1c44b886c6cd3c59105803.m3u8?bitrate=1500&code=0195b19a29adfb850f522eb4c37588e3
-#https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
+https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/43.m3u8
 #https://tv4.chang55.com/live/tot11.stream/playlist.m3u8
 #https://live.we-play.tv/android/fox-action/playlist.m3u8
