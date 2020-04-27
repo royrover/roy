@@ -333,6 +333,7 @@ http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxMovies.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",FOX MOVIES 
 #https://tv4.chang55.com/live2/tv4ch82.stream/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/42.m3u8
+#http://202.183.247.206:9981/stream/channelid/514119238?ticket=CD26AEA100992C19E29B9EEE70CCC0A4A38AAD09&profile=pass
 #http://202.183.247.206:9981/stream/channelid/1301016442?ticket=3FF88899D9A0F491FB9FA317BD8C771B7D5F8E8A&profile=pass
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch26.stream/playlist.m3u8
@@ -830,17 +831,18 @@ http://160.119.77.50/iptv/hd-golf.stream/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/GCT/playlist.m3u8
 #EXTINF:-1 tvg-id="foxsports.th"group-title="Sports"tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport1.png",FOX SPORTS HD
 #http://160.119.77.50/iptv/hd-foxsports1.stream/playlist.m3u8
-http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8#
+#http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 #http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
 #https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
+http://202.183.247.206:9981/stream/channelid/28624870?ticket=50CC255F652CF4ACE715016079737E2BADA710AC&profile=pass
 #EXTINF:-1 tvg-id="foxsport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2 
 #http://160.119.77.50/iptv/hd-foxsports2eng.stream/playlist.m3u8
 http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 #http://iliketot.dyndns.tv/1fd48f2cd616439ca4162478e572d681.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="foxsport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3 
 #http://160.119.77.50/iptv/sd-foxsports3.stream/playlist.m3u8
-http://160.119.77.50/iptv/hd-foxsports3eng.stream/playlist.m3u8
-#http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
+#http://160.119.77.50/iptv/hd-foxsports3eng.stream/playlist.m3u8
+http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 #http://iliketot.dyndns.tv/b254601a75724ad79e2633f3d307e331.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
 
