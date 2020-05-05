@@ -340,10 +340,12 @@ http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/514119238?ticket=CD26AEA100992C19E29B9EEE70CCC0A4A38AAD09&profile=pass
 #http://202.183.247.206:9981/stream/channelid/1301016442?ticket=3FF88899D9A0F491FB9FA317BD8C771B7D5F8E8A&profile=pass
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+#https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #https://tv4.chang55.com/live2/tv4ch26.stream/playlist.m3u8
 #https://live.we-play.tv/android/fox-movies/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxThai.th"group-title="Cinema"tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxthai.png",FOX ไทย 
-http://27.254.149.109:8081/tumlive/fox/playlist.m3u8
+#http://27.254.149.109:8081/tumlive/fox/playlist.m3u8
+https://livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 #http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/45.m3u8
 #https://tv4.chang55.com/live2/tv4ch87.stream/chunks.m3u8
@@ -357,6 +359,7 @@ http://27.254.149.109:8081/tumlive/fox/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/46.m3u8
 #http://202.183.247.206:9981/stream/channelid/155474488?ticket=A4B467026CBB183A14ECE02DDD0F190DF2A6BAEB&profile=pass
 http://27.254.149.109:8081/tumlive/Foxcrime/playlist.m3u8
+#https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 #https://live.we-play.tv/android/fox-crime/playlist.m3u8
 #http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxcrime.png",FOXCRIME EN
@@ -388,7 +391,8 @@ http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 #https://live.we-play.tv/android/hbo-hd/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO
 #https://live.we-play.tv/android/red/playlist.m3u8
-http://202.183.247.206:9981/stream/channelid/1404760996?ticket=AC999B2B4BD785D76148BB8C15F8521B9F73037C&profile=pass
+https://livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
+#http://202.183.247.206:9981/stream/channelid/1404760996?ticket=AC999B2B4BD785D76148BB8C15F8521B9F73037C&profile=pass
 #https://livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 #https://tv4.chang55.com/live2/tv4ch47.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO HITS
@@ -559,6 +563,7 @@ http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY TH
 #https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/30.m3u8
+https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 #https://live.we-play.tv/android/history/playlist.m3u8
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY EH
 http://160.119.77.50/iptv/hd-historyeng.stream/playlist.m3u8
@@ -592,6 +597,7 @@ http://160.119.77.50/iptv/sd-explife.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/natgeo.png",NAT GEOGRAPHIC 
 http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8
+#https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/34.m3u8
 #https://tv4.chang55.com/live/tot05.stream/playlist.m3u8
 #https://live.we-play.tv/android/natgeo/playlist.m3u8
@@ -1231,16 +1237,20 @@ http://191.96.77.23:443/movie/bluray2016/Transporter-3-2008-th-en-1080p.mp4/inde
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/rq1w8n711nR6pD5upJK.jpg",Transporter Refueled (2015)
 http://191.96.77.23:443/movie/bluray/The Transporter Refueled (2015) th en 1080p.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/XVm6M1yk7g00U5W0Egw.jpg",Transformers 1 (2007) 
-http://191.96.77.23:443/movie/bluray/transformers-1-th-en-1280p.mp4/index.m3u8
+#http://191.96.77.23:443/movie/bluray/transformers-1-th-en-1280p.mp4/index.m3u8
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Transformers.2007.4K.2160p.TH.mp4
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/kzDNdEvMT76eKu08hwy.jpg",Transformers 2  Revenge of The Fallen (2009) 
-http://191.96.77.23:443/movie/bluray2016/Transformers-Revenge-of-the-Fallen-2009-th-en-1080p-fw.mp4/index.m3u8
+https://4kmovie2.cloud-streaming.com/content/Transformers2.2009.mkv
+#http://191.96.77.23:443/movie/bluray2016/Transformers-Revenge-of-the-Fallen-2009-th-en-1080p-fw.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://movie2z.com/imgmovie/06-07-51-00pm39.jpg",Transformers 3 Dark of the Moon (2011) 
-http://191.96.77.23:443/movie/bluray/transformers-3-th-en-1280p.mp4/index.m3u8
+#http://191.96.77.23:443/movie/bluray/transformers-3-th-en-1280p.mp4/index.m3u8
+https://4kmovie2.cloud-streaming.com/content/Transformers.Dark.of.the.Moon.2011.mkv
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/9nX4Dsjj1htVLOjPxBq.jpg",Transformers 4 Age of Extinction (2014)
-http://191.96.77.23:443/movie/bluray2016/Transformers-Age-of-Extinction-2014-th-en-1080p.mp4/index.m3u8
+#http://191.96.77.23:443/movie/bluray2016/Transformers-Age-of-Extinction-2014-th-en-1080p.mp4/index.m3u8
+https://4kmovie2.cloud-streaming.com/content/Transformers.4.2014.mkv
 #EXTINF:-1 group-title="Movies"tvg-logo="https://movie2z.com/imgmovie/06-07-47-14pm38.jpg",Transformers 5 The Last Knight (2017) 
-http://191.96.77.23:443/movie/bluray2016/Transformers-The-Last-Knight-2017-Bluray-1080p.mp4/index.m3u8
-
+#http://191.96.77.23:443/movie/bluray2016/Transformers-The-Last-Knight-2017-Bluray-1080p.mp4/index.m3u8
+https://4kmovie2.cloud-streaming.com/content/Transformers.The.Last.Knight.2017.mkv
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.biggmovienow.com/wp-content/uploads/2019/11/Mission-Impossible-1.jpg",Mission: Impossible 1 (1996)
 http://ktuiptvapp.com/movietset/movie/4k/2009/mission-impossible-1.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.biggmovienow.com/wp-content/uploads/2019/11/Mission-Impossible-2.jpg",Mission: Impossible 2 (2000)
