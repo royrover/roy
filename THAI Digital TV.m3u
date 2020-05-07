@@ -341,7 +341,7 @@ https://tv4.chang55.com:446/live2/tv4ch82.stream/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/1301016442?ticket=3FF88899D9A0F491FB9FA317BD8C771B7D5F8E8A&profile=pass
 #http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 #https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
-#https://tv4.chang55.com/live2/tv4ch26.stream/playlist.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch26.stream/playlist.m3u8
 #https://live.we-play.tv/android/fox-movies/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxThai.th"group-title="Cinema"tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxthai.png",FOX ไทย 
 #http://27.254.149.109:8081/tumlive/fox/playlist.m3u8
@@ -379,7 +379,7 @@ https://tv4.chang55.com:446/live/tot13.stream/playlist.m3u8
 #https://live.we-play.tv/android/fxhd/playlist.m3u8
 #http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="FoxThai.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/sonygem.png",GEM
-#https://tv4.chang55.com/live2/tv4ch50.stream/playlist.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch50.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO 
 https://tv4.chang55.com:446/live2/tv4ch79.stream/playlist.m3u8
 #https://live.we-play.tv/live/hbo-hd/chunks.m3u8?nimblesessionid=38844052&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIwIDEwOjI2OjEyIEFNJmhhc2hfdmFsdWU9bys4VG41d0VhWmlWWjRIQ2pEejJXUT09JnZhbGlkbWludXRlcz0yMA==
@@ -793,9 +793,6 @@ http://160.119.77.50/iptv/hd-golfeng.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-skysports-golf.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Sports",Sky Sports F1
 http://160.119.77.50/iptv/uk-skysports-f1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports"tvg-logo="https://siamrath.co.th/files/styles/1140/public/img/20190407/47fcc4af3794b010aad3caa8b1d79b3f758884b26e14ea8d6239ee89d612bf1b.jpg",โปรแกรมบอล
-#https://chklive.com/
-
 
 #EXTINF:0 group-title="Sports"tvg-logo="https://teevee-hd.com/img/kix.png",KIX
 https://tv4.chang55.com:446/live/tot08.stream/playlist.m3u8
