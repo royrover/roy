@@ -1,6 +1,6 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 27.04.2020", Last Update: 27.04.2020
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 07.05.2020", Last Update: 07.05.2020
 http://tiny.cc/d69fjz
 
 #EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
@@ -698,6 +698,8 @@ https://tv4.chang55.com:446/live2/tv4ch20.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/Cbeebies.au.png" group-title="Kids",Cbeebies
 #http://51.52.156.22:8888/http/003
 http://160.119.77.50/iptv/uk-cbeebieshd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.th"group-title="Kids"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids
+http://streamidvo.multitvsolution.in/live/DiscoveryKidsEng-a/p4.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
 http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
 #https://live.we-play.tv/android/disneych/playlist.m3u8
@@ -729,6 +731,7 @@ https://tv4.chang55.com:446/live2/tv4ch30.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_KartoonFunTime.jpg",Kartoon Fun Time
 #https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/TomandJerryTitleCardc.jpg",TOM & JERRY
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 https://www.youtube.com/watch?v=BRkQ-ZGiNbc
 #http:\\aldirect.hls.huya.com\huyalive\94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="TrueSparkJump.th"group-title="Kids"tvg-logo="https://i.pinimg.com/474x/42/b0/a5/42b0a53eedfd1b9d18f1931635de29ca.jpg",TRUE SPARK JUMP
@@ -1101,34 +1104,42 @@ https://tv4.chang55.com:446/live2/tv4ch01.stream/chunks.m3u8
 
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869682.jpg",The Fast and the Furious 1 (2001)
-http://191.96.77.23:443/movie/bluray2016/The-Fast-and-the-Furious-2001-th-en-1080p.mp4/index.m3u8
+#http://191.96.77.23:443/movie/bluray2016/The-Fast-and-the-Furious-2001-th-en-1080p.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/1-The.Fast.and.the.Furious.2001.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869791.jpg",The Fast and the Furious 2 (2003)
-http://191.96.77.23:443/movie/bluray2016/2-Fast-2-Furious-2003-th-en-1080p.mp4/index.m3u8
+#http://191.96.77.23:443/movie/bluray2016/2-Fast-2-Furious-2003-th-en-1080p.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/2-2.Fast.2.Furious.2003.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869925.jpg",The Fast and the Furious 3 (2006)
-http://191.96.77.23:443/movie/bluray2016/The-Fast-and-the-Furious-Tokyo-Drift-2006-th-en-1080p.mp4/index.m3u8
+#http://191.96.77.23:443/movie/bluray2016/The-Fast-and-the-Furious-Tokyo-Drift-2006-th-en-1080p.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/3-The.Fast.and.the.Furious.Tokyo.Drift.2006.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494873172.jpg",The Fast and the Furious 4 (2009)
-http://191.96.77.23:443/movie/bluray2016/The-Fast-and-the-Furious-2009-th-en-1080p.mp4/index.m3u8
+#http://191.96.77.23:443/movie/bluray2016/The-Fast-and-the-Furious-2009-th-en-1080p.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/The_Fast_and_the_Furious_2009.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/06/Fast-and-Furious-5-2011-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-5.png",The Fast and the Furious 5 (2011)
 http://191.96.77.23:443/movie/bluray2016/Fast-Five-2011-th-en-1080p.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/Fast_Five_2011.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/06/Fast-And-Furious-6-2013-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-6.png",The Fast and the Furious 6 (2013)
-http://191.96.77.23:443/movie2/bluray2018/Fast.and.Furious.6.Extended.Cut.2013.BluRay.4K.TH.mp4/index.m3u8
+#http://191.96.77.23:443/movie2/bluray2018/Fast.and.Furious.6.Extended.Cut.2013.BluRay.4K.TH.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/Fast_&_Furious_6_2013.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://s.isanook.com/mv/0/ud/9/49301/1.jpg",The Fast and the Furious 7 (2015)
-http://191.96.77.23:443/movie2/bluray2018/Fast-and-Furious-7-2015-4K-2160p-EXTENDED.mp4/index.m3u8
+#http://191.96.77.23:443/movie2/bluray2018/Fast-and-Furious-7-2015-4K-2160p-EXTENDED.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/Fast.and.Furious.7.2015.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1507717967.jpg",The Fast and the Furious 8 (2017)
-http://191.96.77.23:443/movie/bluray2016/Fast-and-Furious-8-2017-Bluray-1080p.mp4/index.m3u8
+#http://191.96.77.23:443/movie/bluray2016/Fast-and-Furious-8-2017-Bluray-1080p.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage1/movie2/movieupdate/The.Fate.Of.The.Furious.2017.th.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1vY7BkFDdL._SY445_.jpg",King Arthur: Legend of the Sword (2017)
-http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_King-arthur-legend-of-the-sword-2017.4K.TH.mp4/index.m3u8
+#http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_King-arthur-legend-of-the-sword-2017.4K.TH.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513154577.jpg",Doctor Strange (2016)
-http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Doctor%20Strange%202016%204k.TH.mp4/index.m3u8
+#http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Doctor%20Strange%202016%204k.TH.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://037-hd.com/wp-content/uploads/2019/03/unnamed-692x1024.jpg",Captain Marvel (2019) 
 http://191.96.77.236/video/2019/Captain.Marvel.2019.1080p.BrRip.TH.Final-4K.mp4/chunk.m3u8
@@ -1273,30 +1284,34 @@ http://191.96.77.236/video/2019/Aladdin.2019.1080p.BrRip.th-4K.mp4/chunk.m3u8
 https://cdn.doraino.to/vod/disk2/movies/im1ymj.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/olMudgm2kP01RHUJzKp.jpg",IP MAN 2 (2010) 
-https://www.037hd.com/movie/902896.mp4
+#https://www.037hd.com/movie/902896.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/Ypl657GUXb8emizb7kD.jpg",IP MAN 3 (2016) 
-https://cdn.doraino.to/vod/disk3/movies/impan3.mp4
+#https://cdn.doraino.to/vod/disk3/movies/impan3.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.new-movie-2020.com/wp-content/uploads/2020/01/Ip-Man-4-The-Finale-2020.jpg",IP MAN 4: The Finale (2020) 
-https://www.037hd.com/movie/912448.mp4
+#https://www.037hd.com/movie/912448.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://menunghd.com/wp-content/uploads/2019/09/1-114-402x603.jpg",Police Academy 1 (1984) 
-https://www.037hd.com/movie/901584.mp4
+#https://www.037hd.com/movie/901584.mp4
 #EXTINF:-1 group-title="Movies"tvg-logo="https://movie24.info/wp-content/uploads/2019/09/1-76.jpg",Police Academy 2 (1985)
-https://www.037hd.com/movie/901585.mp4
+#https://www.037hd.com/movie/901585.mp4
 #EXTINF:-1 group-title="Movies"tvg-logo="https://movie24.info/wp-content/uploads/2019/09/1-78.jpg",Police Academy 3 (1986)
-https://www.037hd.com/movie/900635.mp4
+#https://www.037hd.com/movie/900635.mp4
 
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/QBDiEUPptr1t4suxWcx.jpg",Indiana Jones 1 and the Raiders of the Lost Ark (1981) 
-http://191.96.77.23:443/movie/bluray2016/Indiana-Jones-and-the-Raiders-of-the-Lost-Ark-1981-Bluray-1080p.mp4/index.m3u8
+#http://191.96.77.23:443/movie/bluray2016/Indiana-Jones-and-the-Raiders-of-the-Lost-Ark-1981-Bluray-1080p.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage4/disk4/Movie Conlection/Indiana Jones and the Raiders of the Lost Ark 1981.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/txVEKtch92WrgxMchtv.jpg",Indiana Jones 2 and Temple of Doom (1984) 
-http://191.96.77.23:443/movie/2017/Indiana.Jones.And.The.Temple.Of.Doom.1984.1080p.TH.mp4/index.m3u8
+#http://191.96.77.23:443/movie/2017/Indiana.Jones.And.The.Temple.Of.Doom.1984.1080p.TH.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage4/disk4/Movie Conlection/Indiana Jones and the Temple of Doom 1984.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/Q5V8QExEYwdloJnNDkN.jpg",Indiana Jones 3 and the Last Crusade (1989) 
-http://191.96.77.23:443/movie/2017/Indiana.Jones.And.The.Last.Crusade.1989.1080p.TH.mp4/index.m3u8
+#http://191.96.77.23:443/movie/2017/Indiana.Jones.And.The.Last.Crusade.1989.1080p.TH.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage4/disk4/Movie Conlection/Indiana Jones and the Last Crusade 1989.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://movie2z.com/imgmovie/29-02-37-17am706.jpg",Indiana Jones 4 and the Kingdom of the Crystal Skull (2008)
-http://191.96.77.23:443/movie/2017/Indiana.Jones.and.The.Kingdom.of.the.Crystal.Skull.2008.1080p.TH.mp4/index.m3u8
+#http://191.96.77.23:443/movie/2017/Indiana.Jones.and.The.Kingdom.of.the.Crystal.Skull.2008.1080p.TH.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage4/disk4/Movie Conlection/Indiana Jones and the Kingdom of the Crystal Skull 2008.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/5W04Z6ZIoXMX2pHMP7V.jpg",Shooter(2007)
 https://www.037hd.com/movie/900856.mp4
