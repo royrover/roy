@@ -1,6 +1,6 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 09.05.2020", Last Update: 09.05.2020
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 12.05.2020", Last Update: 12.05.2020
 http://tiny.cc/d69fjz
 
 #EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
@@ -439,18 +439,18 @@ http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ed57b046d1e80602992684d85adc104b" group-title="Cinema" tvg-logo="https://image.winudf.com/v2/image/Y29tLm15YW5tYXJtb3ZpZXMuaW5mb19zY3JlZW5fMF8xNTM0OTUxMTEzXzA5Nw/screen-0.jpg?fakeurl=1&type=.jpg",MYANMAR MOVIES
 #http://kodinew.dyndns.tv:9981/stream/channelid/1185961965?ticket=B40686A7E223465B8D75108008EA5EA48F992473&profile=pass
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/paramount.png",Paramount CHANNEL
-http://206.189.150.220:8081/freelive-edge/_definst_/paramountchannel/playlist.m3u8
+#http://206.189.150.220:8081/freelive-edge/_definst_/paramountchannel/playlist.m3u8
 #https://live.we-play.tv/android/paramount/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://i.ibb.co/zhWLf85/scmlegend.png",Star Chinese Moviess
-http://160.119.77.50/iptv/hd-starchinese.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-starchinese.stream/playlist.m3u8
 #https://live.we-play.tv/android/chinesemovies/playlist.m3u8 
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://i.ibb.co/GpGgQ0s/Star-Gold.png",Star Gold
 
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://i.ibb.co/jMd85dV/StarPlus.png",Star Plus
 
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill
-http://206.189.150.220:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
-#http://27.254.149.109:8081/tumlive/Thrill/playlist.m3u8
+#http://206.189.150.220:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
+http://27.254.149.109:8081/tumlive/Thrill/playlist.m3u8
 #https://live.we-play.tv/android/thrill/playlist.m3u8 
 #http://iliketot.dyndns.tv/c316ed9333e54442b25077f0bb3cc269.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="TrueFilm.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 
@@ -492,8 +492,8 @@ https://tv4.chang55.com:446/live2/tv4ch91.stream/chunks.m3u8
 #https://live.we-play.tv/android/warner/playlist.m3u8
 #https://livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/201707082147541150565441.jpg",Zeenung
-http://206.189.150.220:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
-#http://103.120.113.90:1935/psilive3a/ZeeNung.stream_360p/playlist.m3u8
+#http://206.189.150.220:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
+http://103.120.113.90:1935/psilive3a/ZeeNung.stream_360p/playlist.m3u8
 #http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://static10.tgstat.ru/channels/_0/09/095c5346dea8fd055e86c3f04e9b5453.jpg",ZEE CINEMA
 #http://kodinew.dyndns.tv:9981/stream/channelid/1809014838?ticket=F3D66A03B22ABB2A4372580F69E0DF6C31AAB2F2&profile=pass
