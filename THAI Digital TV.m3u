@@ -232,60 +232,50 @@ http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
 #https://youtu.be/9Auq9mYxFEE
 #http://iliketot.dyndns.tv/31b003ab7e7749a798fe00424e3dd9ff.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
-#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV1
-http://dltv-live-edge.catcdn.cloud/playlist/dltv01.m3u8
- 
-#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV2
-http://dltv-live-edge.catcdn.cloud/playlist/dltv02.m3u8
- 
-#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV3
-http://dltv-live-edge.catcdn.cloud/playlist/dltv03.m3u8
- 
-#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV4
-http://dltv-live-edge.catcdn.cloud/playlist/dltv04.m3u8
- 
-#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV5
-http://dltv-live-edge.catcdn.cloud/playlist/dltv05.m3u8
- 
- 
-#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV6
-http://dltv-live-edge.catcdn.cloud/playlist/dltv06.m3u8
- 
- 
-#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg,DLTV7
-http://dltv-live-edge.catcdn.cloud/playlist/dltv07.m3u8
- 
- 
-#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV8
-http://dltv-live-edge.catcdn.cloud/playlist/dltv08.m3u8
- 
- 
-#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV9
-http://dltv-live-edge.catcdn.cloud/playlist/dltv09.m3u8
- 
- 
-#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV10
-http://dltv-live-edge.catcdn.cloud/playlist/dltv10.m3u8
- 
- 
-#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV11
-http://dltv-live-edge.catcdn.cloud/playlist/dltv11.m3u8
- 
- 
-#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV12
-http://dltv-live-edge.catcdn.cloud/playlist/dltv12.m3u8
- 
- 
-#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV13
-http://dltv-live-edge.catcdn.cloud/playlist/dltv13.m3u8
- 
- 
-#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV14
-http://dltv-live-edge.catcdn.cloud/playlist/dltv14.m3u8
- 
- 
-#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV15
-http://dltv-live-edge.catcdn.cloud/playlist/dltv15.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/10_channel_logo.png", อนุบาลศึกษาปีที่ 1
+https://dltv-live-edge.catcdn.cloud/dltv10_720p.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/11_channel_logo.png", อนุบาลศึกษาปีที่ 2
+https://dltv-live-edge.catcdn.cloud/dltv11_720p.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/12_channel_logo.png", อนุบาลศึกษาปีที่ 3
+https://dltv-live-edge.catcdn.cloud/dltv12_720p.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/01_channel_logo.png", ประถมศึกษาปีที่ 1
+https://dltv-live-edge.catcdn.cloud/dltv01_720p.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/02_channel_logo.png", ประถมศึกษาปีที่ 2
+https://dltv-live-edge.catcdn.cloud/dltv02_720p.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/03_channel_logo.png", ประถมศึกษาปีที่ 3
+https://dltv-live-edge.catcdn.cloud/dltv03_720p.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/04_channel_logo.png", ประถมศึกษาปีที่ 4
+https://dltv-live-edge.catcdn.cloud/dltv04_720p.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/05_channel_logo.png", ประถมศึกษาปีที่ 5
+https://dltv-live-edge.catcdn.cloud/dltv05_720p.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/06_channel_logo.png", ประถมศึกษาปีที่ 6
+https://dltv-live-edge.catcdn.cloud/dltv06_720p.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/07_channel_logo.png", มัธยมศึกษาปีที่ 1
+https://dltv-live-edge.catcdn.cloud/dltv07_720p.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/08_channel_logo.png", มัธยมศึกษาปีที่ 2
+https://dltv-live-edge.catcdn.cloud/dltv08_720p.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/09_channel_logo.png", มัธยมศึกษาปีที่ 3
+https://dltv-live-edge.catcdn.cloud/dltv09_720p.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/13_channel_logo.png", มัธยมศึกษาปีที่ 4
+https://dltv-live-edge.catcdn.cloud/dltv13_720p.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/14_channel_logo.png", มัธยมศึกษาปีที่ 5
+https://dltv-live-edge.catcdn.cloud/dltv14_720p.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv-edge.catcdn.cloud/upload/data/channels/15_channel_logo.png", มัธยมศึกษาปีที่ 6
+https://dltv-live-edge.catcdn.cloud/dltv15_720p.m3u8
 
 #EXTINF:-1 tvg-id="axn.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/axn.png",AXN 
 #http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
