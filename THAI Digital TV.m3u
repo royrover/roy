@@ -679,7 +679,6 @@ http://live3.smartbomb.co.th:8624/stream/1/
 http://202.183.247.206:9981/stream/channelid/1468536448?ticket=CC482188B4B4C1206C0F6217AA212075E0CE7775&profile=pass
 #EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/aniplus.png",Aniplus
 #https://live.we-play.tv/android/aniplus/playlist.m3u8
-#http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/babytv.png",Baby TV
 #http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #http://ms003.happytv.com.tw/live/babyMztT5DcwWEr1f/index.m3u8
@@ -987,16 +986,16 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZI6mDfzF9OkrNzANQ2UBvXOZJfwVIE_6Fe0n4zq48fsou-2a6HA&s" group-title="Sports",TVRI SPORT
 #http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport1serbia.png",Arena1
-http://160.119.77.50/iptv/rs-arena1.stream/playlist.m3u8
+#http://160.119.77.50/iptv/rs-arena1.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/arenasport1serbia/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport2serbia.png",Arena2
-http://160.119.77.50/iptv/rs-arena2.stream/playlist.m3u8
+#http://160.119.77.50/iptv/rs-arena2.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/arenasport2serbia/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport3serbia.png",Arena3
-http://160.119.77.50/iptv/rs-arena3.stream/playlist.m3u8
+#http://160.119.77.50/iptv/rs-arena3.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/arenasport3serbia/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport4serbia.png",Arena4
-http://160.119.77.50/iptv/rs-arena4.stream/playlist.m3u8
+#http://160.119.77.50/iptv/rs-arena4.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/arenasport4serbia/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png",Bein Sport 1 France
