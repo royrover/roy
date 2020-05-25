@@ -1060,10 +1060,10 @@ http://103.208.24.234:1935/thaisport/epl-bein2.stream/playlist.m3u8
 https://strm.yandex.ru/kal/motosport/motosport0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro1.png",Astro1
 #https://live.we-play.tv/android/astro1/playlist.m3u8
-https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
+#https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro2.png",Astro2
 #https://live.we-play.tv/android/astro2/playlist.m3u8
-https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
+#https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro3.png",Astro3
 #https://live.we-play.tv/android/astro3/playlist.m3u8
 https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
@@ -1116,6 +1116,7 @@ https://tv4.chang55.com:446/live2/tv4ch01.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869682.jpg",The Fast and the Furious 1 (2001)
 #http://191.96.77.23:443/movie/bluray2016/The-Fast-and-the-Furious-2001-th-en-1080p.mp4/index.m3u8
 http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/1-The.Fast.and.the.Furious.2001.mp4/index.m3u8
+
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869791.jpg",The Fast and the Furious 2 (2003)
 #http://191.96.77.23:443/movie/bluray2016/2-Fast-2-Furious-2003-th-en-1080p.mp4/index.m3u8
@@ -1838,11 +1839,14 @@ http://191.96.77.23:443/movie2/old/disk2/thai_thebodyguard.mp4/index.m3u8
 http://191.96.77.23:443/movie2/old/disk2/thai_thebodyguard2.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.freemoviesth.com/wp-content/uploads/2019/11/Pearl-Harbor.jpg",Pearl Harbor (2001)
-https://www.037hd.com/movie/900966.mp4
+#https://www.037hd.com/movie/900966.mp4
+https://lb1.one3up.com/playlist/316349e3345c58f724559da37cdc09c4/1590370134971.m3u8
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://037-hd.com/wp-content/uploads/2019/02/Alita-Battle-Angel-2019.jpg",Alita : Battle Angle (2019)
 #http://191.96.77.22:3095/movie2/2019/Alita.Battle.Angel.2019.1080p.TH.mp4/index.m3u8
-https://www.037hd.com/movie/911135.mp4
+#https://www.037hd.com/movie/911135.mp4
+https://lb1.one3up.com/playlist/ccefcf939390ea807b5f513667caef83/1590369857126.m3u8
+#https://cdn4.cdn9x.com/cnj6hbf4/1080p.m3u8
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/QfMZOx4bE9KSNQ4ZliN.jpg",Mulan I (1998) 
 https://www.037hd.com/movie/903703.mp4
@@ -1860,10 +1864,12 @@ https://cdn175.cloud-streaming.com/4k/atmos/Up.2009.mkv
 https://cdn.jebriko.ru/vod/disk3/movies/qqwerty.mp4
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/gpxAaq02Dh07SJkacEp.jpg",Shrek 1 (2001)
-https://www.037hd.com/movie/901022.mp4
+#https://www.037hd.com/movie/901022.mp4
+http://cdn-vod.kodi-live.com/hls/content/storage4/disk4/Cartoon/Shrek.2001.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://image.tmdb.org/t/p/w500/eVBH2nDYbLWiUXYotADRAWK6sm6.jpg",Shrek 2 (2004)
-https://www.037hd.com/movie/901023.mp4
+#https://www.037hd.com/movie/901023.mp4
+http://cdn-vod.kodi-live.com/hls/content/storage4/disk4/Cartoon/Shrek.2.2004.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/0/01/Shrek_the_third_ver2.jpg/220px-Shrek_the_third_ver2.jpg",Shrek the Third (2007)
 https://www.037hd.com/movie/901021.mp4
@@ -1872,10 +1878,12 @@ https://www.037hd.com/movie/901021.mp4
 https://www.037hd.com/movie/901025.mp4
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://upload.wikimedia.org/wikipedia/th/5/56/%E0%B9%82%E0%B8%9B%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C_9_%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B2.jpg",9 Satra (2018)
-https://www.037hd.com/movie/909783.mp4
+#https://www.037hd.com/movie/909783.mp4
+http://cdn-vod.kodi-live.com/hls/content/nss4/vod/TH_0526715_720p.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://i.imgur.com/VbzB3xL.jpg",Monkey King Hero Is Back (2015)
-http://191.96.77.236/video/2018/Monkey.King.Hero.Is.Back.2015.1080p.TH-4K.mp4/playlist.m3u8
+#http://191.96.77.236/video/2018/Monkey.King.Hero.Is.Back.2015.1080p.TH-4K.mp4/playlist.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage2/movie1/Vol2/MovieUpdate/Monkey.king.hero.is.back.2017.th.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://sites.google.com/site/kartundisniy/_/rsrc/1391441999078/disneyanimastudio/snowwhite/spd_20120229104021_b.JPG",Snow White and the Seven Dwarfs (1937)
 https://www.037hd.com/movie/908214.mp4
@@ -1926,7 +1934,8 @@ https://www.037hd.com/movie/900717.mp4
 https://www.037hd.com/movie/900714.mp4
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://f.ptcdn.info/700/040/000/o3mgiohtbAkvMowXHNp-o.jpg",Kung Fu Panda 3 (2016)
-http://191.96.77.22:3095/movie/2016/Kung.fu.panda.3.2016.1080p.TH.mp4/index.m3u8
+#http://191.96.77.22:3095/movie/2016/Kung.fu.panda.3.2016.1080p.TH.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage3/movie/Movie Conlection/Kung.fu.panda.3.2016-1.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://movie150.com/wp-content/uploads/2020/02/Frozen-1-350x520.jpg",Frozen (2013)
 https://www.037hd.com/movie/903086.mp4
@@ -1944,7 +1953,8 @@ https://cdn4.cdn9x.com/1ugpasbj/1080p.m3u8
 #EXTINF:-1 group-title="Animation" tvg-logo="https://doonungdee.online/cover/1576245050.png",The Angry Birds Movie 2 (2019)
 https://cdn5.cdn9x.com/6s6gii2u/1080p.m3u8
 
-
+#EXTINF:-1 group-title="Animation" tvg-logo="https://policenewsvarieties.com/wp-content/uploads/2019/07/4CF8CDD7-9826-4BE0-937A-AAC1F1B253BD.jpeg",The Lion King (2019)
+https://cdn5.cdn9x.com/d3dcvnuj/720p.m3u8
 
 
 
