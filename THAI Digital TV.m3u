@@ -396,9 +396,7 @@ https://tv4.chang55.com:446/live/tot13.stream/playlist.m3u8
 #http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="FoxThai.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/sonygem.png",GEM
 http://203.150.107.30:8081/tested2iptv/I1_hboHD/playlist.m3u8
-#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO TH
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO EN
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO 
 #https://tv4.chang55.com:446/live2/tv4ch79.stream/playlist.m3u8
 #https://live.we-play.tv/live/hbo-hd/chunks.m3u8?nimblesessionid=38844052&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIwIDEwOjI2OjEyIEFNJmhhc2hfdmFsdWU9bys4VG41d0VhWmlWWjRIQ2pEejJXUT09JnZhbGlkbWludXRlcz0yMA==
 #http://live.9koh.com:8000/live/a-play/stream/37.m3u8
@@ -407,10 +405,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch25.stream/playlist.m3u8
 #http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 #https://live.we-play.tv/android/hbo-hd/playlist.m3u8
-#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO TH
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO EN
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO 
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #https://live.we-play.tv/android/red/playlist.m3u8
 #https://livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 #http://202.183.247.206:9981/stream/channelid/1404760996?ticket=AC999B2B4BD785D76148BB8C15F8521B9F73037C&profile=pass
@@ -1176,30 +1172,40 @@ http://cdn-vod.kodi-live.com/hls/content/storage1/movie2/movieupdate/The.Fate.Of
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513154577.jpg",Doctor Strange (2016)
 #http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Doctor%20Strange%202016%204k.TH.mp4/index.m3u8
+https://cdn175.cloud-streaming.com/4k/atmos/Doctor.Strange.2016.mkv
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://037-hd.com/wp-content/uploads/2019/03/unnamed-692x1024.jpg",Captain Marvel (2019) 
 http://191.96.77.236/video/2019/Captain.Marvel.2019.1080p.BrRip.TH.Final-4K.mp4/chunk.m3u8
+#http://191.96.77.198:8081/4kmovie/h/Captain.Marvel.2019.2160p.mkv
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.thmovieshd.com/wp-content/uploads/2019/08/Angel-Has-Fallen-2019.jpg",Angel Has Fallen (2019)
-http://191.96.77.13:22095/movie2/2019/Angel.Has.Fallen.2019.1080p.EN.mp4/index.m3u8
+#http://191.96.77.13:22095/movie2/2019/Angel.Has.Fallen.2019.1080p.EN.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/nss4/vod/TH_0533715_720p.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/eMmVP1ikvEycNby151z.jpg",Batman v Superman: Dawn of Justice (2016) 
-http://191.96.77.23:443/movie/bluray2016/Batman.v.Superman.Dawn.of.Justice.2016.Extended.Cut.2160p.BluRay.TH.mp4/index.m3u8
+#http://191.96.77.23:443/movie/bluray2016/Batman.v.Superman.Dawn.of.Justice.2016.Extended.Cut.2160p.BluRay.TH.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage4/disk5/MovieUpdate/Batman.v.superman.dawn.of.justice.2016-1.mp4/index.m3u8
 
-#EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2020/01/Bad-Boys-1995.jpg",Bad Boys (1995) 
-http://191.96.77.23:443/movie/bluray2016/Bad-Boys-1995-TH-EN-1080p.mp4/index.m3u8
+#EXTINF:-1 group-title="Movies"tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video/v4/7f/b7/41/7fb741ac-7cdf-b0a7-75e9-d2b510d1cdf0/bad_boys_1995_800x1200.jpg/268x0w.jpg",Bad Boys (1995) 
+#http://191.96.77.23:443/movie/bluray2016/Bad-Boys-1995-TH-EN-1080p.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage4/disk4/Movie%20Conlection/Bad.Boys.1995.mp4/index.m3u8
+
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2020/01/Bad-Boys-for-Life-2020.jpg",Bad Boys II (2003) 
-http://191.96.77.23:443/movie/bluray2016/Bad-Boys-2-2003-TH-EN-1080p.mp4/index.m3u8
+#http://191.96.77.23:443/movie/bluray2016/Bad-Boys-2-2003-TH-EN-1080p.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage4/disk4/Movie%20Conlection/Bad.Boys.II.2003.mp4/index.m3u8
+
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doonungdee.online/cover/1584596877.jpg",Bad Boys For Life (2020) 
-https://cdn5.cdn9x.com/6miv525c/1080p.m3u8
+#https://cdn5.cdn9x.com/6miv525c/1080p.m3u8
+http://cdn-vod.kodi-live.com/hls/content/nss4/vod/TH_0533408_720p.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDM1MDhjNjEtYTMzYS00YWQyLThjZTQtNmI0NjE3NzliYjAyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",The Postman (1997) 
-https://www.037hd.com/movie/904857.mp4
+#https://www.037hd.com/movie/904857.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867575.jpg",Captain America Civil War (2016)
-http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Captain.America.Civil.War.TH.mp4/index.m3u8
+#http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Captain.America.Civil.War.TH.mp4/index.m3u8
+http://191.96.77.198:8081/4kmovie/h/captain.america.civil.war.2016.mkv
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/xVLXBod8IiFrUipLu6R.jpg",The Avengers 1 (2012)  
 #http://191.96.77.23:443/movie/bluray2016/The-Avengers-2012-Bluray-1080p.mp4/index.m3u8
@@ -1232,9 +1238,11 @@ http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/Pirate
 #http://191.96.77.23:443/movie/bluray2016/Pirates-of-the-Caribbean-Dead-Men-Tell-No-Tales-2017-Bluray-1080p.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/MVB4P8Xs9KOnkMuwJhb.jpg",Speed 1 (1994) 
-http://191.96.77.23:443/movie/bluray2016/Speed-1994-TH-EN-1080p.mp4/index.m3u8
+#http://191.96.77.23:443/movie/bluray2016/Speed-1994-TH-EN-1080p.mp4/index.m3u8
+https://cdn4.cdn9x.com/8ak9g3ju/1080p.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/OZjzY7G7UavIN2XPqeT.jpg",Speed 2 Cruise Control (1997) 
-http://191.96.77.23:443/movie/bluray2016/Speed-2-1997-TH-EN-1080p.mp4/index.m3u8
+#http://191.96.77.23:443/movie/bluray2016/Speed-2-1997-TH-EN-1080p.mp4/index.m3u8
+https://cdn4.cdn9x.com/ofl2fij4/1080p.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.thmovieshd.com/wp-content/uploads/2018/04/The-Terminator-1-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81-2029-%E0%B8%A0%E0%B8%B2%E0%B8%84-1-e1523258172108.jpg",The Terminator (1984)
 #http://191.96.77.23:443/movie2/2018/The.Terminator.1984.720p.TH.mp4/index.m3u8
@@ -1267,12 +1275,13 @@ http://cdn-vod.kodi-live.com/hls/content/storage4/disk4/Movie Conlection/The.Bou
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/07/Avatar-2009.jpg",Avatar (2009)
 #https://www.037hd.com/movie/911214.mp4
 #http://191.96.77.13:22095/movie2/2015/avatar_2009_hdth.mp4/index.m3u8
-https://glus-st.mthcdn.com/stream/video02/2018/01/11/1515662135/1515662135_720.mp4
+#https://glus-st.mthcdn.com/stream/video02/2018/01/11/1515662135/1515662135_720.mp4
 http://43.255.241.165:1935/4k/avartar-th.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/32d9c24af1d850a70f4bbda3e99f5a98.jpg",Rampage (2018)
-http://191.96.77.236/video/2018/Rampage.2018.1080p.THBD-4K.mp4/playlist.m3u8
+#http://191.96.77.236/video/2018/Rampage.2018.1080p.THBD-4K.mp4/playlist.m3u8
+https://cdn5.cdn9x.com/dsjg7ulm/1080p.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875993.jpg",Mad Max Fury Road (2015)
-http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Mad.Max.Fury.Road.2015.4K.TH.mp4/index.m3u8
+#http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Mad.Max.Fury.Road.2015.4K.TH.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.movie356hd.com/wp-content/uploads/2019/11/4-2.jpg",Midway (2019) 
 http://191.96.77.236/video/2019/Midway.2019.1080p.brrip.th-4K.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/08/Fast-Furious-Presents-Hobbs-Shaw-2019.jpg",Fast & Furious Presents Hobbs And Shaw (2019) 
