@@ -506,6 +506,36 @@ https://tv4.chang55.com:446/live2/tv4ch81.stream/chunks.m3u8
 #https://live.we-play.tv/android/xzyte/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/tvb.png",TVB HD
 https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 1
+http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 2
+http://27.254.149.109:8081/tumlive/ipmskyworldhd2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 3
+http://27.254.149.109:8081/tumlive/ipmskyworldhd3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 4
+http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 5
+https://tv4.chang55.com:446/live2/tv4ch90.stream/chunks.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 6
+http://27.254.149.109:8081/tumlive/movie1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 7
+http://27.254.149.109:8081/live/movie2.stream/chunks.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 8
+http://host4.dynns.com/wevelwe/97f3052bec96482584c5de84dda0d745.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 9
+http://203.154.243.31:8081/live/ping/index.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 10
+http://203.154.243.31:8081/live/h-channel/index.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 11
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 12
+http://host4.dynns.com/wevelwe/dcf0d550815947f3bacaf3521e118124.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 13
+http://aldirect.rtmp.huya.com:80/backsrc/43460312-43460312-186660618713956352-2847687638-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 14
+http://aldirect.rtmp.huya.com:80/backsrc/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 15
+http://aldirect.rtmp.huya.com:80/backsrc/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/universal.png",Universal TH
 https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Warner.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
@@ -517,6 +547,7 @@ https://tv4.chang55.com:446/live2/tv4ch91.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/201707082147541150565441.jpg",Zeenung
 #http://206.189.150.220:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
 #http://103.120.113.90:1935/psilive3a/ZeeNung.stream_360p/playlist.m3u8
+http://host4.dynns.com/wevelwe/dcf0d550815947f3bacaf3521e118124.m3u8
 #http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://static10.tgstat.ru/channels/_0/09/095c5346dea8fd055e86c3f04e9b5453.jpg",ZEE CINEMA
 #http://kodinew.dyndns.tv:9981/stream/channelid/1809014838?ticket=F3D66A03B22ABB2A4372580F69E0DF6C31AAB2F2&profile=pass
@@ -1872,7 +1903,11 @@ http://191.96.77.236/video/2019/Villains.2019.1080p.web.thm-4K.mp4/playlist.m3u8
 https://cdn-3.vip-streaming.com:30443/ssd/vod/movie-store/movie-1/Zombieland_Double_Tap_2019_th_1080p.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies_TH" tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/02/Bikeman-2018.jpg",Bikeman (2018)
-https://www.037hd.com/movie/910678.mp4
+#https://www.037hd.com/movie/910678.mp4
+http://cdn-vod.kodi-live.com/hls/content/nss1/vod/TH_0503976_720p.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movies_TH" tvg-logo="https://nungdeedee.com/uploads/images/exgdbmw9do0s84gc04.jpg",Bikeman 2 (2019)
+http://cdn-vod.kodi-live.com/hls/content/nss4/vod/TH_0538333_720p.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies_TH" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/1/1f/First_Love.jpg/220px-First_Love.jpg",A Little Thing Called Love (2010)
 https://www.037hd.com/movie/901082.mp4
