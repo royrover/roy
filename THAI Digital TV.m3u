@@ -1,6 +1,6 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 25.05.2020", Last Update: 25.05.2020
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 28.05.2020", Last Update: 28.05.2020
 http://tiny.cc/d69fjz
 #http://bit.ly/3d8o2Ue
 #https://iptv-kovid-19.tk/m3u/live/lol/lol.m3u
@@ -190,7 +190,7 @@ https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/ch
 #http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 http://160.119.77.50/iptv/sd-bloomberg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/bbc.png" group-title="News World",BBC 1
-#http://160.119.77.50/iptv/uk-bbc1hd.stream/playlist.m3u8
+http://160.119.77.50/iptv/uk-bbc1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/cnn.png",CNN
 #http://62.210.246.131:25461/live/gxfgss/HHVVPP/28799.ts?token=HhVYAkpZQF8XUlAKBwAIUQNQBA8GAAEEUgoNUlVSAlZVDlEGDgNWAVMTThtFQ0pVUlk6X1QaWVNdBQFaG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQBRXBsSE1BVQF8XAFYPDgAaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCQkCFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcDDgYLFhg=
 #http://202.183.247.206:9981/stream/channelid/1191319827?ticket=7C8C0E79DDE35691F1F3B9B6026919680728033B&profile=pass
@@ -1294,10 +1294,13 @@ http://cdn-vod.kodi-live.com/hls/content/storage3/movie/2015//Deadpool(2016)-1.m
 http://cdn-vod.kodi-live.com/hls/content/storage4/disk5/MovieUpdate/Deadpool.2.2018.th.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies_TH"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/47a90g2IOKcR618GjkX.jpg",Ong Bak 1 (2003)
 http://191.96.77.236/video/264_thai_ok/ong.Bak.1.2003.264.thai.mp4/playlist.m3u8
+#http://cdn-vod.kodi-live.com/hls/content/storage3/movie/thai/ong-bak-1.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies_TH"tvg-logo="https://upload.wikimedia.org/wikipedia/th/7/78/Ongbak2_poster_teaser.jpg",Ong Bak 2 (2008)
 http://191.96.77.236/video/264_thai_ok/ong.Bak.2.2008.264.thai.mp4/playlist.m3u8
+#http://43.255.241.165:1935/thai/Ong-Bak-3-Th.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movies_TH"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/tdQFO9ntDz4dGSsCHvj.jpg",Ong Bak 3 (2010)
 http://191.96.77.236/video/264_thai_ok/ong.Bak.3.2010.264.thai.mp4/playlist.m3u8
+#http://43.255.241.165:1935/thai/Ong-Bak-3-Th.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/12/Aquaman-2018.jpg",Aquaman (2018)
 http://191.96.77.236/video/2018/Aquaman.2018.bluray.1080p.imax.hq.SUBBD-4K.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bc4a15e3-f308-44fe-a54d-59301f00a4bb/daitnqp-9a0a81fb-d037-45fb-923c-979b6561d61b.png",World War Z (2013)
