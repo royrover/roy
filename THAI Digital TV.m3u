@@ -769,11 +769,11 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 #https://www.youtube.com/watch?v=BRkQ-ZGiNbc
 #http:\\aldirect.hls.huya.com\huyalive\94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="TrueSparkJump.th"group-title="Kids"tvg-logo="https://i.pinimg.com/474x/42/b0/a5/42b0a53eedfd1b9d18f1931635de29ca.jpg",TRUE SPARK JUMP
-#http://160.119.77.50/iptv/sd-sparkjump.stream/playlist.m3u8
+http://160.119.77.50/iptv/sd-sparkjump.stream/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/28.m3u8
 #https://live.we-play.tv/android/sparkjump/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",True Spark Play 
-#http://160.119.77.50/iptv/sd-sparkplay.stream/playlist.m3u8
+http://160.119.77.50/iptv/sd-sparkplay.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="Kids",哈哈炫动
 #http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="Kids",卡酷少儿
@@ -999,7 +999,7 @@ http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
 #http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/chelseatv/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/mutv.png",UK MU TV
-#http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
+http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNQGv_3ehrYRwcONHlmcRtoHmfuF-ZQo0ub_9cOdnvUgeqdMz&s" group-title="Sports",RED BULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -1029,11 +1029,11 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #http://160.119.77.50/iptv/fr-bein3hd.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/beinsport2fr/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",Bein Sport 1
-#https://tv4.chang55.com/live2/tv4ch96.stream/playlist.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch96.stream/playlist.m3u8
 http://103.208.24.234:1935/thaisport/epl-bein1.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein1/playlist.m3u8
 #https://live.we-play.tv/android/bein1/playlist.m3u8
-#https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch96.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",Bein Sport 2
 #https://tv4.chang55.com/live2/tv4ch95.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein2/playlist.m3u8
@@ -1287,9 +1287,11 @@ http://191.96.77.236/video/2019/Midway.2019.1080p.brrip.th-4K.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/08/Fast-Furious-Presents-Hobbs-Shaw-2019.jpg",Fast & Furious Presents Hobbs And Shaw (2019) 
 http://191.96.77.236/video/movie_sound2019/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.WEBDL.SUBTHT-4K.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://037-hdd.com/wp-content/uploads/2019/09/Deadpool-%E0%B9%80%E0%B8%94%E0%B8%94%E0%B8%9E%E0%B8%B9%E0%B8%A5.jpg",Deadpool 1 (2016) 
-http://191.96.77.23:443/movie/bluray2016/Deadpool-2016-th-en-1080p.mp4/index.m3u8
+#http://191.96.77.23:443/movie/bluray2016/Deadpool-2016-th-en-1080p.mp4/index.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage3/movie/2015//Deadpool(2016)-1.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/05/Deadpool-2-2018-%E0%B9%80%E0%B8%94%E0%B8%94%E0%B8%9E%E0%B8%B9%E0%B8%A5-2.png",Deadpool 2 (2018) 
-http://191.96.77.236/video/2018/Deadpool.2.2018.Super.Duper.Cut.1080p.SUBBD-4K.mp4/playlist.m3u8
+#http://191.96.77.236/video/2018/Deadpool.2.2018.Super.Duper.Cut.1080p.SUBBD-4K.mp4/playlist.m3u8
+http://cdn-vod.kodi-live.com/hls/content/storage4/disk5/MovieUpdate/Deadpool.2.2018.th.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies_TH"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/47a90g2IOKcR618GjkX.jpg",Ong Bak 1 (2003)
 http://191.96.77.236/video/264_thai_ok/ong.Bak.1.2003.264.thai.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movies_TH"tvg-logo="https://upload.wikimedia.org/wikipedia/th/7/78/Ongbak2_poster_teaser.jpg",Ong Bak 2 (2008)
