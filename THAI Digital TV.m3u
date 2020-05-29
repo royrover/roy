@@ -74,6 +74,7 @@ http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8
 #http://27.254.130.56:80/live01/ch9.m3u8
 #http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #http://live.thairath.co.th/trtv2/playlist.m3u8
+#http://host4.dynns.com/wevelwe/b1bc90419ccb4885bb0b544bb2b8ee83.m3u8
 #http://iliketot.dyndns.tv/b1bc90419ccb4885bb0b544bb2b8ee83.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
 #EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/amarin.png",Amarin TV 
@@ -1003,7 +1004,7 @@ http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/btsport1.png",BTSPORT 2
 #http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/btsport1.png",BTSPORT 3
-http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
+#http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/de-skybundesliga.png",Sky Bundesliga
@@ -1267,6 +1268,7 @@ http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/Pirate
 http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/Pirates.of.the.Caribbean.On.Stranger.Tides.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://lu-en-cdn.kinepolis.com/en/sites/kinepolis.lu.en/files/styles/kinepolis_filter_movie_poster/public/posters/POTC5_Comato_Poster_VO.jpg",Pirates of the Caribbean 5: Dead Men Tell No Tales (2017)
 #http://191.96.77.23:443/movie/bluray2016/Pirates-of-the-Caribbean-Dead-Men-Tell-No-Tales-2017-Bluray-1080p.mp4/index.m3u8
+https://lb1.one3up.com/playlist/d1bc69d30678f13e132e35ee2de2ce06/1590738597904.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/MVB4P8Xs9KOnkMuwJhb.jpg",Speed 1 (1994) 
 #http://191.96.77.23:443/movie/bluray2016/Speed-1994-TH-EN-1080p.mp4/index.m3u8
@@ -1378,7 +1380,8 @@ http://191.96.77.22:3095/movie/2016/Mission-Impossible-Ghost-Protocol-2011_HDTH.
 #EXTINF:-1 group-title="Movies"tvg-logo="https://moviefinfin.com/images/movie/gO7alSozSBIYvUiukC9RLM2uG6S3VTi%E0%B8%A1%E0%B8%B4%E0%B8%8A5.jpg",Mission: Impossible 5 (2015)
 http://191.96.77.22:3095/movie/bluray/Mission.Impossible.Rogue.Nation.2015.1080p.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://nungdung.com/wp-content/uploads/2020/02/Mission-Impossible-6.jpg",Mission: Impossible 6 (2018)
-http://ktuiptvapp.com/movietset/movie/4k/2009/mission-impossible-6.m3u8
+#http://ktuiptvapp.com/movietset/movie/4k/2009/mission-impossible-6.m3u8
+http://43.255.241.165:1935/4k/Mission-Impossible-Fallout-4k-Th.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_CR0,0,693,1000_AL_.jpg",Lawrence of Arabia (1962)
 #https://www.037hd.com/movie/905148.mp4
@@ -1400,6 +1403,7 @@ http://cdn-vod.kodi-live.com/hls/content/storage2/movie1/Vol3/Movie.Conlection/I
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.new-movie-2020.com/wp-content/uploads/2020/01/Ip-Man-4-The-Finale-2020.jpg",IP MAN 4: The Finale (2020) 
 #https://www.037hd.com/movie/912448.mp4
+http://cdn-vod.kodi-live.com/hls/content/nss4/vod/TH_0535767_720p.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://menunghd.com/wp-content/uploads/2019/09/1-114-402x603.jpg",Police Academy 1 (1984) 
 #https://www.037hd.com/movie/901584.mp4
