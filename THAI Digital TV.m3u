@@ -12,12 +12,11 @@ http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
 #https://live.we-play.tv/android/ch3hd/playlist.m3u8
 #https://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v1a1/mono.m3u8
 #https://tv4.chang55.com:446/live2/tvdch3xjp.stream/chunks.m3u8
-#http://202.183.247.206:9981/stream/channelid/468130614?ticket=11039491E1029B6E6EAB1F1F6FA5794F2ED5F2D4&profile=pass
-
 #EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 FHD
 #http://livesport2018.dyndns.tv:1935/trans/3hd-1080p/chunklist.m3u8
 #http://103.120.113.90:1935/psilive1a/3HD.stream/playlist.m3u8
-#http://202.183.247.206:9981/stream/channelid/468130614?ticket=11039491E1029B6E6EAB1F1F6FA5794F2ED5F2D4&profile=pass
+http://202.183.247.206:9981/stream/channelid/468130614?ticket=11039491E1029B6E6EAB1F1F6FA5794F2ED5F2D4&profile=pass
+
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD 
 http://160.119.77.50/iptv/hd-ch5.stream/playlist.m3u8
@@ -91,11 +90,12 @@ http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8
 #http://206.189.150.220:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
 #https://live.we-play.tv/android/one31/playlist.m3u8
 #http://27.254.130.56:80/live01/ch10.m3u8
+#http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
 #http://iliketot.dyndns.tv/7e069540a35942e89245865a84add64a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
 #EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE FHD
 #http://103.120.113.90:1935/psilive1a/OneHD.stream/playlist.m3u8
-#http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="PPTV.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
@@ -1325,6 +1325,7 @@ http://cdn-vod.kodi-live.com/hls/content/storage3/movie/2015//Deadpool(2016)-1.m
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/05/Deadpool-2-2018-%E0%B9%80%E0%B8%94%E0%B8%94%E0%B8%9E%E0%B8%B9%E0%B8%A5-2.png",Deadpool 2 (2018) 
 #http://191.96.77.236/video/2018/Deadpool.2.2018.Super.Duper.Cut.1080p.SUBBD-4K.mp4/playlist.m3u8
 http://cdn-vod.kodi-live.com/hls/content/storage4/disk5/MovieUpdate/Deadpool.2.2018.th.mp4/index.m3u8
+
 #EXTINF:-1 group-title="Movies_TH"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/47a90g2IOKcR618GjkX.jpg",Ong Bak 1 (2003)
 #http://191.96.77.236/video/264_thai_ok/ong.Bak.1.2003.264.thai.mp4/playlist.m3u8
 http://cdn-vod.kodi-live.com/hls/content/storage3/movie/thai/ong-bak-1.mp4/index.m3u8
@@ -1434,7 +1435,7 @@ http://cdn-vod.kodi-live.com/hls/content/storage2/movie1/Vol3/2015/Shooter.(2007
 http://191.96.77.23:443/movie/dbnew/hit/Knight.and.Day.2010.Extended.Cut.TH.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/AR7OrBwGDThJPHWmzH9.jpg",San Andreas (2015)
-http://191.96.77.22:3095/movie/dbnew/San.andreas.2015.dub.mp4/index.m3u8
+#http://191.96.77.22:3095/movie/dbnew/San.andreas.2015.dub.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/vKAWc1IbxBr7N1cS94Y.jpg",Sniper 1 (1993)
 #https://cdn.badroids.is/vod/disk2/movies/sprgst.mp4
 http://cdn-vod.kodi-live.com/hls/content/nss4/vod/TH_0535774_720p.mp4/index.m3u8
