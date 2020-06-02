@@ -1,6 +1,6 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 28.05.2020", Last Update: 28.05.2020
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 02.06.2020", Last Update: 02.06.2020
 http://tiny.cc/d69fjz
 #http://bit.ly/3d8o2Ue
 #https://iptv-kovid-19.tk/m3u/live/lol/lol.m3u
@@ -210,7 +210,7 @@ http://61.58.60.230:9319/live/220.m3u8
 http://27.254.149.109:8081/tumlive/DW/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/euronews.png" group-title="News World",Euronews HD
 #http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
-http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
+#http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/foxnews.png",Fox News 
 http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/nhkworld.png",NHK WORLD TV
@@ -231,8 +231,8 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1
 http://160.119.77.50/iptv/hd-bbcworldnews.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch28.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://teevee-hd.com/img/skynews.png",Sky News
-#http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
-https://www.youtube.com/watch?v=9Auq9mYxFEE
+http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
+#https://www.youtube.com/watch?v=9Auq9mYxFEE
 #https://youtu.be/9Auq9mYxFEE
 #http://iliketot.dyndns.tv/31b003ab7e7749a798fe00424e3dd9ff.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
@@ -568,7 +568,7 @@ http://103.120.113.90:1935/psilive2a/TimeTV.stream_360p/playlist.m3u8
 #http://cdn150.stm.trueid.net/live4/127_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="http://image.free.in.th/v/2013/il/180806015437.jpg",Thai CCTV
 #https://cdn780.stm.trueid.net/live3/o072_w_auto_tidapp.smil/chunklist_w2125937547_b2077081_vo_sltha_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=73301911&mpass=i8nlut8llBYIpUZUDoA3UybpCYFkyQs7MoeZiBV7xZYrguUhQ6ZuZ19N1IwWs9PmoVFQmpUJPCIFywi%2BAi7UsM4dskwcbNR4BZMfV72tjxpA16XQs098uIf4opBxHzeeOjpKhsWCR9dBuOYwpGS8faLD
-#http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
+http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/52a5ede1-c512-4d3f-8f3b-be98eab041f2.png",True Thaithai
 #http://cdn150.stm.trueid.net/live4/109_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/21/a870a651-9595-4921-bc41-7ba39d7067a3.png",Super Bunteung
