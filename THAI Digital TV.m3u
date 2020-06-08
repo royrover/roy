@@ -299,7 +299,6 @@ http://dltv-live-edge.catcdn.cloud/playlist/dltv15.m3u8
 
 #EXTINF:-1 tvg-id="axn.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/axn.png",AXN 
 http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
-#https://tv4.chang55.com:446/live2/tv4ch73.stream/chunks.m3u8
 #https://live.we-play.tv/android/axn/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/2008307457?ticket=138B68E21C924D5685B0D1B5092CBD8443EA6729&profile=pass
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",Blue Ant Entertainment 
@@ -1070,6 +1069,7 @@ http://103.208.24.234:1935/thaisport/epl-bein1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",Bein Sport 2
 #https://tv4.chang55.com/live2/tv4ch95.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein2/playlist.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch73.stream/chunks.m3u8
 http://103.208.24.234:1935/thaisport/epl-bein2.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
 #https://live.we-play.tv/android/bein2/playlist.m3u8
