@@ -1,6 +1,6 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 02.06.2020", Last Update: 02.06.2020
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 10.06.2020", Last Update: 10.06.2020
 http://tiny.cc/d69fjz
 #http://bit.ly/3d8o2Ue
 #https://iptv-kovid-19.tk/m3u/live/lol/lol.m3u
@@ -211,7 +211,7 @@ http://61.58.60.230:9319/live/220.m3u8
 http://27.254.149.109:8081/tumlive/DW/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/euronews.png" group-title="News World",Euronews HD
 #http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
-#http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
+http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/foxnews.png",Fox News 
 http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/nhkworld.png",NHK WORLD TV
@@ -451,9 +451,9 @@ https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/c
 #http://206.189.150.220:8081/freelive-edge/_definst_/monoplus.smil/playlist.m3u8
 #http://iliketot.dyndns.tv/9623847065ba466e90632cf686fade0b.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",Movies 1
-https://tv4.chang55.com:446/live2/tv4ch90.stream/chunks.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch90.stream/chunks.m3u8
 #https://iptv-kovid-19.tk/nungbox/live/moviehd-1_LVy/playlist.m3u8
-#http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
+http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",Movies 2
 #https://iptv-kovid-19.tk/nungbox/live/moviehd-2_ZLN/playlist.m3u8
 http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
@@ -507,8 +507,8 @@ http://27.254.149.109:8081/tumlive/MOVH/chunks.m3u8
 https://tv4.chang55.com:446/live2/tv4ch86.stream/chunks.m3u8
 #https://live.we-play.tv/android/truethaifilm/playlist.m3u8 
 #EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://teevee-hd.com/img/truexzyte.png",True X-zyte 
-#http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
-https://tv4.chang55.com:446/live2/tv4ch87.stream/chunks.m3u8
+http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch87.stream/chunks.m3u8
 #https://live.we-play.tv/android/xzyte/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/tvb.png",TVB HD
 https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
