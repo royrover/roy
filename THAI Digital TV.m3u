@@ -443,6 +443,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #https://live.we-play.tv/android/hbo-fam/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch50.stream/playlist.m3u8
 #https://livedoomovies.com/02_HBOFamily_720p/chunklist.m3u8
+https://tv4.chang55.com:446/live2/tv4ch50.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg",Hi-DeF1
 #https://live.we-play.tv/android/hi-def1/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/JKN.png",JKN
@@ -542,7 +543,7 @@ http://27.254.149.109:8081/tumlive/movie1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 7
 http://27.254.149.109:8081/live/movie2.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 8
-http://host4.dynns.com/wevelwe/97f3052bec96482584c5de84dda0d745.m3u8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 9
 http://203.154.243.31:8081/live/ping/index.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 10
@@ -550,11 +551,11 @@ http://203.154.243.31:8081/live/h-channel/index.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 11
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 12
-http://host4.dynns.com/wevelwe/dcf0d550815947f3bacaf3521e118124.m3u8
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 13
-http://aldirect.rtmp.huya.com:80/backsrc/43460312-43460312-186660618713956352-2847687638-10057-A-0-1.m3u8
+http://d34e90s3s13i7n.cloudfront.net:80/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 14
-http://aldirect.rtmp.huya.com:80/backsrc/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
+http://27.254.149.109:8081/tumlive/Sunmovie/chunks.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 15
 http://aldirect.rtmp.huya.com:80/backsrc/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/universal.png",Universal TH
