@@ -364,6 +364,7 @@ https://tv4.chang55.com:446/live2/tv4ch91.stream/chunks.m3u8
 #http://202.183.247.206:9981/stream/channelid/1301016442?ticket=3FF88899D9A0F491FB9FA317BD8C771B7D5F8E8A&profile=pass
 #http://202.183.247.206:9981/stream/channelid/2116884913?ticket=BEE9D02416C6F0A61796A7BFC80AFB19BE9F0C8C&profile=pass
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch90.stream/chunks.m3u8
 #https://livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch26.stream/playlist.m3u8
@@ -423,11 +424,11 @@ https://tv4.chang55.com:446/live2/tv4ch30.stream/playlist.m3u8
 #http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 #https://live.we-play.tv/android/hbo-hd/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #https://live.we-play.tv/android/red/playlist.m3u8
 #https://livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 #http://202.183.247.206:9981/stream/channelid/1404760996?ticket=AC999B2B4BD785D76148BB8C15F8521B9F73037C&profile=pass
-#https://tv4.chang55.com:446/live2/tv4ch47.stream/playlist.m3u8
+https://tv4.chang55.com:446/live2/tv4ch30.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO HITS
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://tv4.chang55.com:446/live2/tv4ch42.stream/playlist.m3u8
@@ -441,7 +442,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO family
 #https://live.we-play.tv/live/hbo-fam/chunks.m3u8?nimblesessionid=38843628&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIwIDEwOjIyOjU5IEFNJmhhc2hfdmFsdWU9TUNrc0dzMEwwRGhQaCtxNUFFUUtPZz09JnZhbGlkbWludXRlcz0yMA==
 #https://live.we-play.tv/android/hbo-fam/playlist.m3u8
-#https://tv4.chang55.com:446/live2/tv4ch50.stream/playlist.m3u8
 #https://livedoomovies.com/02_HBOFamily_720p/chunklist.m3u8
 https://tv4.chang55.com:446/live2/tv4ch50.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg",Hi-DeF1
@@ -465,12 +465,11 @@ https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/c
 #http://206.189.150.220:8081/freelive-edge/_definst_/monoplus.smil/playlist.m3u8
 #http://iliketot.dyndns.tv/9623847065ba466e90632cf686fade0b.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",Movies 1
-#https://tv4.chang55.com:446/live2/tv4ch90.stream/chunks.m3u8
 #https://iptv-kovid-19.tk/nungbox/live/moviehd-1_LVy/playlist.m3u8
 http://27.254.149.109:8081/tumlive/movie1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",Movies 2
 #https://iptv-kovid-19.tk/nungbox/live/moviehd-2_ZLN/playlist.m3u8
-http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
+#http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg",Movies 3
 #https://iptv-kovid-19.tk/nungbox/live/movie-hd3_jDg/playlist.m3u8
 #http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
