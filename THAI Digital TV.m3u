@@ -205,6 +205,7 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/cctv4.png",CCTV4 
 #https://cdn778.stm.trueid.net/live3/027_w_auto_tidapp.smil/chunklist_w1709039182_b2077081_vo_slchi_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=73301911&mpass=YT7kPBjAVrZMG5Nacqt6KbjMxOQy%2BFNpiSslUcshlSJCamBxpenpues4BMlP4zbPa3d8EW97BcXvdmVevruYdxmleRSzocSMR6JexJC9Z5S3cExoK1aSMCCRwn4Ctzl9OjrkCAYneouUAhwplpZCZube
 #http://61.58.60.230:9319/live/220.m3u8
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
 #http://iliketot.dyndns.tv/5289381709e64f8db14a4ed75ab2b59f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/DW.png" group-title="News World",Deutsche Welle (English)
 #https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
@@ -212,7 +213,7 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 http://27.254.149.109:8081/tumlive/DW/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/euronews.png" group-title="News World",Euronews HD
 #http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
-http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
+#http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/foxnews.png",Fox News 
 http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/nhkworld.png",NHK WORLD TV
@@ -324,10 +325,10 @@ http://160.119.77.50/iptv/sd-celestial.stream/playlist.m3u8
 #http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 https://cdn-th.login.in.th/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax 
-#https://tv4.chang55.com:446/live2/tv4ch32.stream/chunks.m3u8
+https://tv4.chang55.com:446/live2/tv4ch32.stream/chunks.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/39.m3u8
-http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
 #https://live.we-play.tv/android/cinemax/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/1038008298?ticket=C9855BB404178AC7EA56AD249729DB6F4FC89566&profile=pass
 
@@ -375,7 +376,8 @@ http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxThai.th"group-title="Cinema"tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxthai.png",FOX ไทย 
 #http://27.254.149.109:8081/tumlive/fox/playlist.m3u8
 #https://livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
-http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
+https://tv4.chang55.com:446/live2/tv4ch89.stream/chunks.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/45.m3u8
 #https://tv4.chang55.com:446/live/tot14.stream/playlist.m3u8
 #https://live.we-play.tv/android/foxth/playlist.m3u8
@@ -384,10 +386,11 @@ http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
 #http://host4.dynns.com/wevelwe/d0bfb50bee3741a09c53f8099a64ad52.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxcrime.png",FOXCRIME 
 #https://tv4.chang55.com:446/live/tot03.stream/playlist.m3u8
+http://160.119.77.50/iptv/hd-foxcrimeeng.stream/playlist.m3u8
 #http://host4.dynns.com/wevelwe/5028f7ff1d1b4d5f8189690233364737.m3u8
 #http://fw02.livem3u8.me.totiptv.com:80/live/48773319e9324602b258e3f1d33ec111.m3u8?bitrate=1500&code=940c8a7346fbf008945ba2aa4d1b3623
 #http://live.9koh.com:8000/live/a-play/stream/46.m3u8
-https://livedoomovies.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#https://livedoomovies.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
 #http://202.183.247.206:9981/stream/channelid/155474488?ticket=A4B467026CBB183A14ECE02DDD0F190DF2A6BAEB&profile=pass
 #http://27.254.149.109:8081/tumlive/Foxcrime/playlist.m3u8
 #https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
@@ -398,9 +401,9 @@ https://livedoomovies.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
 #http://iliketot.dyndns.tv/48773319e9324602b258e3f1d33ec111.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxlife.png",FOXlife
 #http://160.119.77.50/iptv/hd-foxlife.stream/playlist.m3u8
-#http://27.254.149.109:8081/tumlive/Foxlife/playlist.m3u8
+http://27.254.149.109:8081/tumlive/Foxlife/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch84.stream/chunks.m3u8
-http://202.183.247.206:9981/stream/channelid/828648700?ticket=B00B359E97613D1F08C93D56DD937A1E393B44D1&profile=pass
+#http://202.183.247.206:9981/stream/channelid/828648700?ticket=B00B359E97613D1F08C93D56DD937A1E393B44D1&profile=pass
 #http://fw02.livem3u8.me.totiptv.com:80/live/65f7358b813048a0898f5677e1793cf9.m3u8?bitrate=1500&code=dd56ff42b2cf4321a596ae82d595ac84
 #http://live.9koh.com:8000/live/a-play/stream/48.m3u8
 #https://live.we-play.tv/android/fox-life/playlist.m3u8
@@ -419,8 +422,8 @@ http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/37.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #https://livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-https://tv4.chang55.com:446/live2/tv4ch25.stream/playlist.m3u8
-#https://tv4.chang55.com:446/live2/tv4ch30.stream/playlist.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch25.stream/playlist.m3u8
+https://tv4.chang55.com:446/live2/tv4ch30.stream/playlist.m3u8
 #http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 #https://live.we-play.tv/android/hbo-hd/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO 
@@ -528,7 +531,7 @@ http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/tvb.png",TVB HD
 https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 1
-http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
+http://27.254.149.109:8081/tumlive/ipmskyworldhd1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 2
 http://27.254.149.109:8081/tumlive/ipmskyworldhd2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 3
@@ -540,7 +543,7 @@ https://tv4.chang55.com:446/live2/tv4ch90.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 6
 http://27.254.149.109:8081/tumlive/movie1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 7
-http://27.254.149.109:8081/live/movie2.stream/chunks.m3u8
+https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 9
@@ -554,9 +557,9 @@ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlis
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 13
 http://d34e90s3s13i7n.cloudfront.net:80/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 14
-http://27.254.149.109:8081/tumlive/Sunmovie/chunks.m3u8
+http://160.119.77.50/iptv/in-suntv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 15
-http://aldirect.rtmp.huya.com:80/backsrc/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.m3u8
+http://160.119.77.50/iptv/uk-cbsaction.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/universal.png",Universal TH
 https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Warner.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
