@@ -461,7 +461,8 @@ https://edge3a.v2h-cdn.com/INFO_T4/JKN.stream_720p/playlist.m3u8
 #http://livefreebl-2.ddns.net:8081/freelive-edge/_definst_/mchannel.smil/playlist.m3u8
 http://27.254.142.207:8080/live/web.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="http://www.totiptv.com/Product/Channel/images/MajorMIX.png",Major Mix 
-https://edge1a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w670261144.m3u8
+#https://edge1a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w670261144.m3u8
+https://cdn-laos.workpoint.news/sd-mixmajor_480/index.m3u8
 #http://iliketot.dyndns.tv/ab6acb38607a4aff9dc773a6772c91fc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/monoplus.png",Monoplus
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist_w678136079.m3u8
@@ -1201,36 +1202,48 @@ https://tv4.chang55.com:446/live2/tv4ch01.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869682.jpg",The Fast and the Furious 1 (2001)
 #http://191.96.77.23:443/movie/bluray2016/The-Fast-and-the-Furious-2001-th-en-1080p.mp4/index.m3u8
-http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/1-The.Fast.and.the.Furious.2001.mp4/index.m3u8
+#http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/1-The.Fast.and.the.Furious.2001.mp4/index.m3u8
+http://guru.smoothboxtv.com/newmovie2/14HlTLjA3xKYoaWmPyqM0_oCG4tVL4NWy.mp4
 
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869791.jpg",The Fast and the Furious 2 (2003)
 #http://191.96.77.23:443/movie/bluray2016/2-Fast-2-Furious-2003-th-en-1080p.mp4/index.m3u8
-http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/2-2.Fast.2.Furious.2003.mp4/index.m3u8
+#http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/2-2.Fast.2.Furious.2003.mp4/index.m3u8
+http://guru.smoothboxtv.com/newmovie2/13yP7KUVIjsVNVCJACQPLu271-O7kgtHa.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869925.jpg",The Fast and the Furious 3 (2006)
 #http://191.96.77.23:443/movie/bluray2016/The-Fast-and-the-Furious-Tokyo-Drift-2006-th-en-1080p.mp4/index.m3u8
-http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/3-The.Fast.and.the.Furious.Tokyo.Drift.2006.mp4/index.m3u8
+#http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/3-The.Fast.and.the.Furious.Tokyo.Drift.2006.mp4/index.m3u8
+https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-5/The_Fast_And_The_Furious_2006_th_1080p.mp4/chunk.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494873172.jpg",The Fast and the Furious 4 (2009)
 #http://191.96.77.23:443/movie/bluray2016/The-Fast-and-the-Furious-2009-th-en-1080p.mp4/index.m3u8
-http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/The_Fast_and_the_Furious_2009.mp4/index.m3u8
+#http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/The_Fast_and_the_Furious_2009.mp4/index.m3u8
+https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-5/The_Fast_And_The_Furious_2009_th_1080p.mp4/chunk.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/06/Fast-and-Furious-5-2011-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-5.png",The Fast and the Furious 5 (2011)
-http://191.96.77.23:443/movie/bluray2016/Fast-Five-2011-th-en-1080p.mp4/index.m3u8
-http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/Fast_Five_2011.mp4/index.m3u8
+#http://191.96.77.23:443/movie/bluray2016/Fast-Five-2011-th-en-1080p.mp4/index.m3u8
+#http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/Fast_Five_2011.mp4/index.m3u8
+https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-5/The_Fast_And_The_Furious_2011_th_1080p.mp4/chunk.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/06/Fast-And-Furious-6-2013-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-6.png",The Fast and the Furious 6 (2013)
 #http://191.96.77.23:443/movie2/bluray2018/Fast.and.Furious.6.Extended.Cut.2013.BluRay.4K.TH.mp4/index.m3u8
-http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/Fast_&_Furious_6_2013.mp4/index.m3u8
+#http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/Fast_&_Furious_6_2013.mp4/index.m3u8
+https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-5/The_Fast_And_The_Furious_2013_th_1080p.mp4/chunk.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://s.isanook.com/mv/0/ud/9/49301/1.jpg",The Fast and the Furious 7 (2015)
 #http://191.96.77.23:443/movie2/bluray2018/Fast-and-Furious-7-2015-4K-2160p-EXTENDED.mp4/index.m3u8
-http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/Fast.and.Furious.7.2015.mp4/index.m3u8
+#http://cdn-vod.kodi-live.com/hls/content/storage1/movie1/Movie Conlection/Fast.and.Furious.7.2015.mp4/index.m3u8
+https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-5/Fast-and-Furious-7-2015-Extended-th-en-1080p.mp4/chunk.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1507717967.jpg",The Fast and the Furious 8 (2017)
 #http://191.96.77.23:443/movie/bluray2016/Fast-and-Furious-8-2017-Bluray-1080p.mp4/index.m3u8
-http://cdn-vod.kodi-live.com/hls/content/storage1/movie2/movieupdate/The.Fate.Of.The.Furious.2017.th.mp4/index.m3u8
+#http://cdn-vod.kodi-live.com/hls/content/storage1/movie2/movieupdate/The.Fate.Of.The.Furious.2017.th.mp4/index.m3u8
+https://edge-cache-1.stream-cdn.com/hls/storage1/vod/th0000673-720p.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/08/Fast-Furious-Presents-Hobbs-Shaw-2019.jpg",Fast & Furious Presents Hobbs And Shaw (2019) 
+http://191.96.77.236/video/movie_sound2019/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.WEBDL.SUBTHT-4K.mp4/playlist.m3u8
+#https://edge-cache-1.stream-cdn.com/hls/storage1/vod/th0000081-1080p.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1vY7BkFDdL._SY445_.jpg",King Arthur: Legend of the Sword (2017)
 #http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_King-arthur-legend-of-the-sword-2017.4K.TH.mp4/index.m3u8
@@ -1350,8 +1363,7 @@ https://cdn5.cdn9x.com/dsjg7ulm/1080p.m3u8
 #http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Mad.Max.Fury.Road.2015.4K.TH.mp4/index.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.movie356hd.com/wp-content/uploads/2019/11/4-2.jpg",Midway (2019) 
 http://191.96.77.236/video/2019/Midway.2019.1080p.brrip.th-4K.mp4/playlist.m3u8
-#EXTINF:-1 group-title="Movies"tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/08/Fast-Furious-Presents-Hobbs-Shaw-2019.jpg",Fast & Furious Presents Hobbs And Shaw (2019) 
-http://191.96.77.236/video/movie_sound2019/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.WEBDL.SUBTHT-4K.mp4/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies"tvg-logo="https://037-hdd.com/wp-content/uploads/2019/09/Deadpool-%E0%B9%80%E0%B8%94%E0%B8%94%E0%B8%9E%E0%B8%B9%E0%B8%A5.jpg",Deadpool 1 (2016) 
 #http://191.96.77.23:443/movie/bluray2016/Deadpool-2016-th-en-1080p.mp4/index.m3u8
 http://cdn-vod.kodi-live.com/hls/content/storage3/movie/2015//Deadpool(2016)-1.mp4/index.m3u8
@@ -1992,8 +2004,9 @@ https://lb1.one3up.com/playlist/316349e3345c58f724559da37cdc09c4/1590370134971.m
 #EXTINF:-1 group-title="Animation"tvg-logo="https://www.gamemonday.com/wp-content/uploads/2019/01/Alita-312019-3.jpg",Alita : Battle Angle (2019)
 #http://191.96.77.22:3095/movie2/2019/Alita.Battle.Angel.2019.1080p.TH.mp4/index.m3u8
 #https://www.037hd.com/movie/911135.mp4
-https://lb1.one3up.com/playlist/ccefcf939390ea807b5f513667caef83/1590369857126.m3u8
+#https://lb1.one3up.com/playlist/ccefcf939390ea807b5f513667caef83/1590369857126.m3u8
 #https://cdn4.cdn9x.com/cnj6hbf4/1080p.m3u8
+http://guru2.smoothboxtv.com/newmovie3/1kkXBAO0TFt9LIZkF2VxlnM33vKpML1r7.mp4
 
 #EXTINF:-1 group-title="Animation"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/QfMZOx4bE9KSNQ4ZliN.jpg",Mulan I (1998) 
 https://www.037hd.com/movie/903703.mp4
@@ -2101,8 +2114,8 @@ https://cdn4.cdn9x.com/1ugpasbj/1080p.m3u8
 https://cdn5.cdn9x.com/6s6gii2u/1080p.m3u8
 
 #EXTINF:-1 group-title="Animation" tvg-logo="https://policenewsvarieties.com/wp-content/uploads/2019/07/4CF8CDD7-9826-4BE0-937A-AAC1F1B253BD.jpeg",The Lion King (2019)
-https://cdn5.cdn9x.com/d3dcvnuj/720p.m3u8
-
+#https://cdn5.cdn9x.com/d3dcvnuj/720p.m3u8
+https://edge-cache-1.stream-cdn.com/hls/storage1/vod/th0000023-1080p.mp4/index.m3u8
 
 
 
