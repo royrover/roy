@@ -179,6 +179,7 @@ https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/news1.png",New1
 https://server1.streamssl.com/stream/news1_hi.m3u8
+#http://news1.live14.com/stream/news1_hi.m3u8
 
 #EXTINF:-1 tvg-id="Mono29.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mono29.png",Mono29
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
@@ -726,6 +727,7 @@ http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
 http://203.154.243.32:8088/live/wanimal/index.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://vignette.wikia.nocookie.net/logos-3/images/2/24/Bbc_lifestyle.png",BBC Lifestyle
 http://27.254.149.109:8081/tumlive/BBCLifestyle/playlist.m3u8
+#http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Knowledge"tvg-logo="https://psisat.com/wp-content/uploads/2018/09/logo-psi2018.png",PSI
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
@@ -943,7 +945,8 @@ https://tv4.chang55.com:446/live2/tv4ch86.stream/chunks.m3u8
 #http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBATV.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/nba.png",NBA TV
 #http://103.208.24.234:1935/thaisport/hd-nba.stream/chunklist.m3u8
-https://tv4.chang55.com:446/live2/tv4ch23.stream/chunks.m3u8
+http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch23.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="truetennis.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tennis.png",Tennis HD
 #http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
 https://tv4.chang55.com:446/live2/tv4ch22.stream/chunks.m3u8
