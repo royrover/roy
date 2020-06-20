@@ -1,6 +1,6 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 18.06.2020", Last Update: 18.06.2020
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 20.06.2020", Last Update: 20.06.2020
 http://tiny.cc/d69fjz
 #http://bit.ly/3d8o2Ue
 #https://iptv-kovid-19.tk/m3u/live/lol/lol.m3u
@@ -65,7 +65,6 @@ http://160.119.77.50/iptv/sd-nbt.stream/playlist.m3u8
 #http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 #http://27.254.130.56:80/live01/ch4.m3u8
 #http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Thairath.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/thairath.png",Thairat TV
 http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8
@@ -669,9 +668,9 @@ https://tv4.chang55.com:446/live2/tv4ch79.stream/chunks.m3u8
 #https://livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 #https://live.we-play.tv/android/discovery/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/discoveyasiax.png",DiscoveryAsia 
-#http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
+http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/32.m3u8
-https://tv4.chang55.com:446/live2/tv4ch92.stream/playlist.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch92.stream/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/1815356007?ticket=9978B9833DEA4F92CB0575938D04A02D378BF961&profile=pass
 #http://27.254.149.109:8081/live/discovery.stream/chunks.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch16.stream/playlist.m3u8
@@ -707,8 +706,8 @@ http://160.119.77.50/iptv/hd-natgeowildeng.stream/playlist.m3u8
 #https://live.we-play.tv/android/natwild/playlist.m3u8
 #http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="animalplanet.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
-#https://tv4.chang55.com:446/live2/tv4ch37.stream/playlist.m3u8
-https://tv4.chang55.com:446/live2/tv4ch81.stream/chunks.m3u8
+https://tv4.chang55.com:446/live2/tv4ch37.stream/playlist.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch81.stream/chunks.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/35.m3u8
 #https://live.we-play.tv/android/animalplanet/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/838284507?ticket=A7B3102F99A8CA8A3C3E07555EFC764709960F8F&profile=pass
@@ -716,15 +715,14 @@ https://tv4.chang55.com:446/live2/tv4ch81.stream/chunks.m3u8
 #https://live.we-play.tv/android/samruajlok/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/36.m3u8
 #EXTINF:-1 tvg-id="bbcearth.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/bbcearth.png",BBC EARTH
-#http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
-https://tv4.chang55.com:446/live2/tv4ch41.stream/playlist.m3u8
+http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch41.stream/playlist.m3u8
 #https://live.we-play.tv/android/bbc-earth/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/814866876?ticket=40434F7E9307FC44E03BA98C5D897021DABF3D91&profile=pass
 #EXTINF:-1 group-title="Knowledge" tvg-logo="http://www.dlit.ac.th/pages/library/images/TruePlookpanya.jpg",True Pookpanya
 http://160.119.77.50/iptv/sd-tppy.stream/playlist.m3u8
 #EXTINF:-1 gtvg-id=""group-title="Knowledge"tvg-logo="http://thumbnail.instardara.com/channel/RamaCh.jpg",RAMA CHANNEL
-#http://160.119.77.50/iptv/sd-rama.stream/playlist.m3u8
-http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
+http://160.119.77.50/iptv/sd-rama.stream/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://pmcvariety.files.wordpress.com/2013/10/animalist-logo.jpg",World Animal
 http://203.154.243.32:8088/live/wanimal/index.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://vignette.wikia.nocookie.net/logos-3/images/2/24/Bbc_lifestyle.png",BBC Lifestyle
@@ -929,20 +927,19 @@ https://tv4.chang55.com:446/live2/tv4ch17.stream/chunks.m3u8
 #http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
 http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TrueSport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp2.png",TRUE SPORT 2
-https://tv4.chang55.com:446/live2/tv4ch83.stream/chunks.m3u8
-#http://103.208.24.234:1935/thaisport/sd-tsport2.stream/chunklist.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch83.stream/chunks.m3u8
+http://103.208.24.234:1935/thaisport/sd-tsport2.stream/chunklist.m3u8
 #https://live.we-play.tv/android/tsp2/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport5.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp5.png",TRUE SPORT 5
 #https://tv4.chang55.com:446/live2/tv4ch84.stream/chunks.m3u8
 #https://live.we-play.tv/android/tsp5/playlist.m3u8
 http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport6.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp6.png",TRUE SPORT 6
-https://tv4.chang55.com:446/live2/tv4ch85.stream/chunks.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch85.stream/chunks.m3u8
 #https://live.we-play.tv/android/tsp6/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport7.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp7.png",TRUE SPORT 7
-#http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
-https://tv4.chang55.com:446/live2/tv4ch86.stream/chunks.m3u8
+http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
 #https://live.we-play.tv/android/tsp7/playlist.m3u8
 #http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBATV.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/nba.png",NBA TV
@@ -1113,15 +1110,16 @@ http://103.208.24.234:1935/thaisport/epl-bein1.stream/playlist.m3u8
 http://103.208.24.234:1935/thaisport/epl-bein2.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
 #https://live.we-play.tv/android/bein2/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein3.png",BEIN 03
-#http://160.119.77.50/iptv/hd-bein3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein3.png",Bein Sport 3
+http://160.119.77.50/iptv/hd-bein3.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein3/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein4.png",BEIN 04
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein4.png",Bein Sport 4
 #http://streaming-fast.com/covid19_live/bein4/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein5.png",BEIN 05
+http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein5.png",Bein Sport 5
 http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein5/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein6.png",BEIN 06
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein6.png",Bein Sport 6
 #http://160.119.77.50/iptv/hd-bein6.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein6/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein7.png",BEIN 07
