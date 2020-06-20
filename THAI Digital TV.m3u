@@ -645,7 +645,6 @@ http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
 #http://121.159.183.222:9981/stream/channelid/215643962
 
 
-
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY TH
 https://tv4.chang55.com:446/live2/tv4ch21.stream/chunks.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/30.m3u8
@@ -1157,10 +1156,10 @@ https://strm.yandex.ru/kal/motosport/motosport0_169_720p.json/index-v1-a1.m3u8
 #https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro2.png",Astro2
 #https://live.we-play.tv/android/astro2/playlist.m3u8
-#https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
+https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro3.png",Astro3
 #https://live.we-play.tv/android/astro3/playlist.m3u8
-#https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
+https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro4.png",Astro4
 #https://live.we-play.tv/android/astro4/playlist.m3u8
 #https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
