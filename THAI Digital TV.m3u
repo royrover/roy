@@ -315,6 +315,12 @@ http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
 #http://cdn763.stm.trueid.net:80/live1/208_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=RO9g4qGZ%2FJkpP5riVg4GgSsZ1WDiwwgfdVABOkKGkICNIljUVug3Tz8kA1LGaO0tV4v7loMquzcjcyLvtPKypBw7x2DccfqxaHeqjPHwWLc6OviDrI6L6gCTYZMcyJNhAto5cjhqczhNVWtiMTE2bE51QT09JnZhbGlkbWludXRlcz0yMA==
 #https://live.we-play.tv/android/blue-ext/playlist.m3u8
 #http://cdn150.stm.trueid.net/live1/208_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://iptv.yesnet.tv/files/channels/1582180614936csneuropa.png",CBS europa
+http://160.119.77.50/iptv/uk-cbsaction.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://pbs.twimg.com/profile_images/854674078254411776/P_yzfBIn_400x400.jpg",CBS reality
+http://160.119.77.50/iptv/uk-cbsreality.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://pbs.twimg.com/profile_images/962987287951835138/wQcJbIhp_400x400.jpg",CBS Drama
+http://160.119.77.50/iptv/uk-cbsdrama.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/20170709090502720443899.jpg",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/classicmovies.png",CCM
