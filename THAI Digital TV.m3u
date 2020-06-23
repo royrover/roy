@@ -302,10 +302,10 @@ http://dltv-live-edge.catcdn.cloud/playlist/dltv14.m3u8
 http://dltv-live-edge.catcdn.cloud/playlist/dltv15.m3u8
 
 #EXTINF:-1 tvg-id="axn.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/axn.png",AXN 
-#http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
+http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
 #https://live.we-play.tv/android/axn/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch82.stream/chunks.m3u8
-https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+#https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 #http://202.183.247.206:9981/stream/channelid/2008307457?ticket=138B68E21C924D5685B0D1B5092CBD8443EA6729&profile=pass
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",Blue Ant Entertainment 
 #http://cdn104.stm.trueid.net:80/live2/177_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=3LSjyiCRgpDCJLLc%2BbKrqwLRflNsYe8wz0Xv4bqM7jpLKNKOteCGAljaqmk%2F5u8CyKpvFvMcWzSkidSUXNxXZfx2TFjcVTOrQW5LZbemFIQ6Oq0e9yV4y%2F099DM3rHrYeaAEdBZlhLUFcwb2dsMEFhUzhFYk0vZz09JnZhbGlkbWludXRlcz0yMA==
@@ -494,6 +494,11 @@ http://160.119.77.50/iptv/hd-starchinese.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://i.ibb.co/jMd85dV/StarPlus.png",Star Plus
 
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://www.img.in.th/images/af5817469475fcf89697fe39c5b905ab.jpg" alt="af5817469475fcf89697fe39c5b905ab.jpg",SERiES+HD
+http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://f.ptcdn.info/288/058/000/pavp0r3fv2XLVMHFZlf-o.jpg",SERIES CHANNEL
+http://203.154.243.31:8081/live/series/index.m3u8
+
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill
 #http://206.189.150.220:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
 http://27.254.149.109:8081/tumlive/Thrill/playlist.m3u8
@@ -512,8 +517,8 @@ http://27.254.149.109:8081/tumlive/FLA/chunks.m3u8
 #http://160.119.77.50/iptv/sd-filmasia.stream/playlist.m3u8
 #https://live.we-play.tv/android/truefilmasia/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/trueasian.png",True Asian Series HD
-http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
-#http://27.254.149.109:8081/tumlive/TrueAsiaHD/chunks.m3u8
+#http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
+http://27.254.149.109:8081/tumlive/TrueAsiaHD/chunks.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch94.stream/playlist.m3u8
 #https://live.we-play.tv/android/trueasianhd/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truemoviehits.png",True Movie Hit
@@ -532,7 +537,7 @@ http://27.254.149.109:8081/tumlive/TFLM/playlist.m3u8
 http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch87.stream/chunks.m3u8
 #https://live.we-play.tv/android/xzyte/playlist.m3u8
-#EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/tvb.png",TVB HD
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/tvb.png",TVB ไทย
 #http://160.119.77.50/iptv/sd-tvb.stream/playlist.m3u8
 https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg",TV CABLE 1
