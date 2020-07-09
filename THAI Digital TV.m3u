@@ -425,6 +425,7 @@ http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 #http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="FoxThai.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/sonygem.png",GEM
 #http://203.150.107.30:8081/tested2iptv/I1_hboHD/playlist.m3u8
+http://203.150.107.30:8081/tested2iptv/core207/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO 
 #https://live.we-play.tv/live/hbo-hd/chunks.m3u8?nimblesessionid=38844052&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIwIDEwOjI2OjEyIEFNJmhhc2hfdmFsdWU9bys4VG41d0VhWmlWWjRIQ2pEejJXUT09JnZhbGlkbWludXRlcz0yMA==
 #http://live.9koh.com:8000/live/a-play/stream/37.m3u8
@@ -483,7 +484,7 @@ http://27.254.149.109:8081/tumlive/movie1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",Movies 2
 #https://iptv-kovid-19.tk/nungbox/live/moviehd-2_ZLN/playlist.m3u8
 #http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
-https://tv4.chang55.com:446/live2/tv4ch94.stream/chunks.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch94.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg",Movies 3
 #https://iptv-kovid-19.tk/nungbox/live/movie-hd3_jDg/playlist.m3u8
 #http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
