@@ -120,9 +120,9 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="Workpoint.th"group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT TV
 #http://206.189.150.220:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch63.stream/chunks.m3u8
-#http://27.254.130.56:80/live01/ch7.m3u8
+http://27.254.130.56:80/live01/ch7.m3u8
 #https://live.we-play.tv/android/workpoint/playlist.m3u8
-http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
+#http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
 
 #EXTINF:-1 tvg-id="true4U.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/true4u.png",True4U
 http://160.119.77.50/iptv/sd-24u.stream/playlist.m3u8
@@ -166,7 +166,7 @@ http://160.119.77.50/iptv/sd-nation.stream/playlist.m3u8
 #http://206.189.150.220:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
 #https://edge3a.v2h-cdn.com/INFO_T1/NEW.stream_720p/playlist.m3u8
 #https://stream-04.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL5412_LlyKBOgu_vdoTwQkJP8)/dm/3/x7kx5i7/s/live-3.m3u8 
-https://stream-01.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL545HA1uKeNADCBikQQxKiZ40)/dm/3/x7kx5i7/s/live-4.m3u8
+#https://stream-01.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL545HA1uKeNADCBikQQxKiZ40)/dm/3/x7kx5i7/s/live-4.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://f.ptcdn.info/890/024/000/1414325308-o.png",TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
