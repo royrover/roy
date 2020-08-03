@@ -189,8 +189,8 @@ https://server1.streamssl.com/stream/news1_hi.m3u8
 #http://news1.live14.com/stream/news1_hi.m3u8
 
 #EXTINF:-1 tvg-id="Mono29.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mono29.png",Mono29
-#https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
-http://27.254.130.56:80/live01/ch3.m3u8
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#http://27.254.130.56:80/live01/ch3.m3u8
 #http://live.pjmcdn.info/live/mono29.stream/playlist.m3u8
 #https://live.we-play.tv/android/mono29/playlist.m3u8
 #http://iliketot.dyndns.tv/fd23603db67344c69a8304a2fca268cd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
@@ -199,14 +199,14 @@ http://27.254.130.56:80/live01/ch3.m3u8
 
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/bloombergtv.png",Bloomberg TV
 #http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-http://160.119.77.50/iptv/sd-bloomberg.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-bloomberg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/bbc.png" group-title="News World",BBC 1
-http://160.119.77.50/iptv/uk-bbc1hd.stream/playlist.m3u8
+#http://160.119.77.50/iptv/uk-bbc1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/cnn.png",CNN
 #http://62.210.246.131:25461/live/gxfgss/HHVVPP/28799.ts?token=HhVYAkpZQF8XUlAKBwAIUQNQBA8GAAEEUgoNUlVSAlZVDlEGDgNWAVMTThtFQ0pVUlk6X1QaWVNdBQFaG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQBRXBsSE1BVQF8XAFYPDgAaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCQkCFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcDDgYLFhg=
 #http://202.183.247.206:9981/stream/channelid/1191319827?ticket=7C8C0E79DDE35691F1F3B9B6026919680728033B&profile=pass
-#http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
-https://tv4.chang55.com:446/live2/tv4ch27.stream/playlist.m3u8
+http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch27.stream/playlist.m3u8
 #https://live.we-play.tv/android/cnn/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/france24.png",FRANCE24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
@@ -221,7 +221,7 @@ https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
 http://27.254.149.109:8081/tumlive/DW/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/euronews.png" group-title="News World",Euronews HD
 #http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
-#http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
+http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/foxnews.png",Fox News 
 http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/nhkworld.png",NHK WORLD TV
@@ -233,15 +233,15 @@ http://160.119.77.50/iptv/sd-nhkworld.stream/playlist.m3u8
 https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #http://178.196.237.240:3000/play/xxRussiaTodayxx
 #EXTINF:-1 group-title="News World" tvg-logo="https://teevee-hd.com/img/cnbc.png",CNBC
-http://160.119.77.50/iptv/sd-cnbc.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-cnbc.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://teevee-hd.com/img/aljazeera.png",Aljazeera News
-http://160.119.77.50/iptv/uk-aljazeera.stream/playlist.m3u8
-#https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#http://160.119.77.50/iptv/uk-aljazeera.stream/playlist.m3u8
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #http://iliketot.dyndns.tv/ea4c9d2666bc411d8e6777e8a1d2b747.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://image.roku.com/developer_channels/prod/576365b1deee1bbd799caae8c445a593bd07c5434b588f52d97c93c29c827297.png",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://teevee-hd.com/img/bbc.png",BBC World News
-http://160.119.77.50/iptv/hd-bbcworldnews.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-bbcworldnews.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch28.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://teevee-hd.com/img/skynews.png",Sky News
 http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
@@ -341,9 +341,9 @@ http://160.119.77.50/iptv/sd-celestial.stream/playlist.m3u8
 https://cdn-th.login.in.th/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax 
 #https://tv4.chang55.com:446/live2/tv4ch31.stream/chunks.m3u8
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/39.m3u8
-http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
 #https://live.we-play.tv/android/cinemax/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/1038008298?ticket=C9855BB404178AC7EA56AD249729DB6F4FC89566&profile=pass
 
@@ -573,7 +573,7 @@ http://27.254.149.109:8081/tumlive/ipmskyworldhd3.stream/chunks.m3u8
 http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/universal.png",Universal TH
-https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Warner.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
 http://160.119.77.50/iptv/hd-warnertv.stream/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/38.m3u8
@@ -583,7 +583,7 @@ http://160.119.77.50/iptv/hd-warnertv.stream/playlist.m3u8
 #https://livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/201707082147541150565441.jpg",Zeenung
 #http://206.189.150.220:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
-http://96.30.124.101:1935/psilive3a/ZeeNung.stream_360p/chunklist.m3u8
+#http://96.30.124.101:1935/psilive3a/ZeeNung.stream_360p/chunklist.m3u8
 #http://103.120.113.90:1935/psilive3a/ZeeNung.stream_360p/playlist.m3u8
 #http://host4.dynns.com/wevelwe/dcf0d550815947f3bacaf3521e118124.m3u8
 #http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
