@@ -387,6 +387,7 @@ http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/1301016442?ticket=3FF88899D9A0F491FB9FA317BD8C771B7D5F8E8A&profile=pass
 #http://202.183.247.206:9981/stream/channelid/2116884913?ticket=BEE9D02416C6F0A61796A7BFC80AFB19BE9F0C8C&profile=pass
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+#https://streaming.livescorethai.net/iptv/hd-foxpremium.stream/chunks.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch26.stream/chunks.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch90.stream/chunks.m3u8
 #https://livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
@@ -564,7 +565,7 @@ http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
 #https://live.we-play.tv/android/xzyte/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/tvb.png",TVB ไทย
 #http://160.119.77.50/iptv/sd-tvb.stream/playlist.m3u8
-https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
+#https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
 
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://i.pinimg.com/originals/35/2f/68/352f680fe1c6b90ca3f728038c05293f.png",tvN
 #http://cdn121.stm.trueid.net:80/live3/096_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=npMxHY2Z89nwqa3nAPeY6avhmvoOP85FQA2TphbWCXZ8dsqi5WpJcu%2BKnrFCK%2F%2FR7UccrKHF2xwIbNQ7vN0TC1k2yJSF0VFyp%2BCau5Ufx4k6Oo%2Bp3cZojzR5OwehJ0PWZkc
@@ -742,6 +743,7 @@ http://160.119.77.50/iptv/sd-rama.stream/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://pbs.twimg.com/profile_images/653546209488052224/iZA1Cnu-.png",BBC Lifestyle
 #http://27.254.149.109:8081/tumlive/BBCLifestyle/playlist.m3u8
 http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
+#https://streaming.livescorethai.net/iptv/sd-bbclifestyle.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Knowledge"tvg-logo="https://psisat.com/wp-content/uploads/2018/09/logo-psi2018.png",PSI
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
@@ -869,18 +871,21 @@ https://www.youtube.com/watch?v=Ue0xaq1Q-B4
 
 #EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title="Sports",Premier HD1 
 http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
+#https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8
 #https://tumlive109.dvrdns.org:30443/tumlive/TFBHD1/chunks.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch10.stream/chunks.m3u8
 #https://live.we-play.tv/android/true-epl-1/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/TFBHD1/chunks.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title="Sports",Premier HD2 
 http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
+#https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
 #https://tumlive109.dvrdns.org:30443/tumlive/TFBHD2/chunks.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch11.stream/chunks.m3u8
 #https://live.we-play.tv/android/tpf2/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/TFBHD2/chunks.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title="Sports",Premier HD3 
 http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
+#https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8
 #https://tumlive109.dvrdns.org:30443/tumlive/TFBHD3/chunks.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch12.stream/chunks.m3u8
 #https://live.we-play.tv/android/tpf3/playlist.m3u8
@@ -888,9 +893,11 @@ http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title="Sports",Premier HD4 
 #https://tv4.chang55.com:446/live2/tv4ch13.stream/chunks.m3u8
 #https://live.we-play.tv/android/tpf4/playlist.m3u8
+#https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8
 http://27.254.149.109:8081/tumlive/TFBHD4/chunks.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title="Sports",Premier HD5 
 http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
+#https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8
 #https://live.we-play.tv/android/tpf5/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch14.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title="Sports",Premier HD1 BKP      
