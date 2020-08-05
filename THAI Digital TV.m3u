@@ -1,6 +1,6 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 30.07.2020", Last Update: 30.07.2020
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 05.08.2020", Last Update: 05.08.2020
 http://tiny.cc/d69fjz
 #http://bit.ly/3d8o2Ue
 #https://iptv-kovid-19.tk/m3u/live/lol/lol.m3u
@@ -1133,20 +1133,16 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZI6mDfzF9OkrNzANQ2UBvXOZJfwVIE_6Fe0n4zq48fsou-2a6HA&s" group-title="Sports",TVRI SPORT
 #http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport1serbia.png",Arena1
-#http://160.119.77.50/iptv/rs-arena1.stream/playlist.m3u8
-https://vodcache.worldwidetv.club/root-c2/liveorigin/my-asp1hd_720/playlist.m3u8
+http://160.119.77.50/iptv/rs-arena1.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/arenasport1serbia/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport2serbia.png",Arena2
-#http://160.119.77.50/iptv/rs-arena2.stream/playlist.m3u8
-https://vodcache.worldwidetv.club/root-c2/liveorigin/my-asp2hd_720/playlist.m3u8
+http://160.119.77.50/iptv/rs-arena2.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/arenasport2serbia/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport3serbia.png",Arena3
-#http://160.119.77.50/iptv/rs-arena3.stream/playlist.m3u8
-https://vodcache.worldwidetv.club/root-c2/liveorigin/my-asp3hd_720/playlist.m3u8
+http://160.119.77.50/iptv/rs-arena3.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/arenasport3serbia/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport4serbia.png",Arena4
-#http://160.119.77.50/iptv/rs-arena4.stream/playlist.m3u8
-https://vodcache.worldwidetv.club/root-c2/liveorigin/my-asp4_720/playlist.m3u8
+http://160.119.77.50/iptv/rs-arena4.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/arenasport4serbia/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png",Bein Sport 1 France
@@ -1213,15 +1209,19 @@ https://strm.yandex.ru/kal/motosport/motosport0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro1.png",Astro1
 #https://live.we-play.tv/android/astro1/playlist.m3u8
 #https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin/my-asp1hd_720/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro2.png",Astro2
 #https://live.we-play.tv/android/astro2/playlist.m3u8
-https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
+#https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin/my-asp2hd_720/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro3.png",Astro3
 #https://live.we-play.tv/android/astro3/playlist.m3u8
-https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
+#https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin/my-asp3hd_720/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro4.png",Astro4
 #https://live.we-play.tv/android/astro4/playlist.m3u8
 #https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin/my-asp4_720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Sports",Eurosport 1
 http://160.119.77.50/iptv/uk-eurosport.stream/playlist.m3u8
