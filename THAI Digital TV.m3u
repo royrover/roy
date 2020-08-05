@@ -155,10 +155,10 @@ http://stream.rs.co.th/ch8-hi/index.m3u8
 #EXTINF:-1 tvg-id="TNN24.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN16
 #http://206.189.150.220:8081/freelive-edge/_definst_/dtv16_tnn24/playlist.m3u8
 #http://27.254.130.56:80/live01/ch5.m3u8
-http://27.254.130.64/live01/chsd_TNN_5.m3u8?p=st
+#http://27.254.130.64/live01/chsd_TNN_5.m3u8?p=st
 #http://streaming-fast.com/covid19_live/tnn/playlist.m3u8
 #http://160.119.77.50/iptv/sd-tnn24.stream/playlist.m3u8
-#http://27.254.149.109:8081/tumlive/TNN24/playlist.m3u8
+http://27.254.149.109:8081/tumlive/TNN24/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/nation.png",NATION TV
@@ -257,62 +257,77 @@ http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
 #EXTINF:-1 group-title="Education" tvg-logo="https://www2.chaiyaphum3.go.th/main/dltv/logo-channel-10.png", อนุบาลศึกษาปีที่ 1
 #https://dltv-live-edge.catcdn.cloud/dltv10_720p.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv010.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
 
 #EXTINF:-1 group-title="Education" tvg-logo="https://www2.chaiyaphum3.go.th/main/dltv/logo-channel-11.png", อนุบาลศึกษาปีที่ 2
 #https://dltv-live-edge.catcdn.cloud/dltv11_720p.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv011.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
 
 #EXTINF:-1 group-title="Education" tvg-logo="https://www2.chaiyaphum3.go.th/main/dltv/logo-channel-12.png", อนุบาลศึกษาปีที่ 3
 #https://dltv-live-edge.catcdn.cloud/dltv12_720p.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv012.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
 
 #EXTINF:-1 group-title="Education" tvg-logo="https://www2.chaiyaphum3.go.th/main/dltv/logo-channel-01.png", ประถมศึกษาปีที่ 1
 #https://dltv-live-edge.catcdn.cloud/dltv01_720p.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv01.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
 
 #EXTINF:-1 group-title="Education" tvg-logo="https://www2.chaiyaphum3.go.th/main/dltv/logo-channel-02.png", ประถมศึกษาปีที่ 2
 #https://dltv-live-edge.catcdn.cloud/dltv02_720p.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv02.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
 
 #EXTINF:-1 group-title="Education" tvg-logo="https://www2.chaiyaphum3.go.th/main/dltv/logo-channel-03.png", ประถมศึกษาปีที่ 3
 #https://dltv-live-edge.catcdn.cloud/dltv03_720p.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv03.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
 
 #EXTINF:-1 group-title="Education" tvg-logo="https://www2.chaiyaphum3.go.th/main/dltv/logo-channel-04.png", ประถมศึกษาปีที่ 4
 #https://dltv-live-edge.catcdn.cloud/dltv04_720p.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv04.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
 
 #EXTINF:-1 group-title="Education" tvg-logo="https://www2.chaiyaphum3.go.th/main/dltv/logo-channel-05.png", ประถมศึกษาปีที่ 5
 #https://dltv-live-edge.catcdn.cloud/dltv05_720p.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv05.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
 
 #EXTINF:-1 group-title="Education" tvg-logo="https://www2.chaiyaphum3.go.th/main/dltv/logo-channel-06.png", ประถมศึกษาปีที่ 6
 #https://dltv-live-edge.catcdn.cloud/dltv06_720p.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv06.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
 
 #EXTINF:-1 group-title="Education" tvg-logo="https://www2.chaiyaphum3.go.th/main/dltv/logo-channel-07.png", มัธยมศึกษาปีที่ 1
 #https://dltv-live-edge.catcdn.cloud/dltv07_720p.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv07.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
 
 #EXTINF:-1 group-title="Education" tvg-logo="https://www2.chaiyaphum3.go.th/main/dltv/logo-channel-08.png", มัธยมศึกษาปีที่ 2
 #https://dltv-live-edge.catcdn.cloud/dltv08_720p.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv08.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
 
 #EXTINF:-1 group-title="Education" tvg-logo="https://www2.chaiyaphum3.go.th/main/dltv/logo-channel-09.png", มัธยมศึกษาปีที่ 3
 #https://dltv-live-edge.catcdn.cloud/dltv09_720p.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv09.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
 
 #EXTINF:-1 group-title="Education" tvg-logo="https://www2.chaiyaphum3.go.th/main/dltv/logo-channel-13.png", มัธยมศึกษาปีที่ 4
 #https://dltv-live-edge.catcdn.cloud/dltv13_720p.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv13.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
 
 #EXTINF:-1 group-title="Education" tvg-logo="https://www2.chaiyaphum3.go.th/main/dltv/logo-channel-14.png", มัธยมศึกษาปีที่ 5
 #https://dltv-live-edge.catcdn.cloud/dltv14_720p.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv14.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
 
 #EXTINF:-1 group-title="Education" tvg-logo="https://www2.chaiyaphum3.go.th/main/dltv/logo-channel-15.png", มัธยมศึกษาปีที่ 6
 #https://dltv-live-edge.catcdn.cloud/dltv15_720p.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv15.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="axn.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/axn.png",AXN 
 http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
@@ -328,7 +343,8 @@ http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
 #http://cdn763.stm.trueid.net:80/live1/208_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=RO9g4qGZ%2FJkpP5riVg4GgSsZ1WDiwwgfdVABOkKGkICNIljUVug3Tz8kA1LGaO0tV4v7loMquzcjcyLvtPKypBw7x2DccfqxaHeqjPHwWLc6OviDrI6L6gCTYZMcyJNhAto5cjhqczhNVWtiMTE2bE51QT09JnZhbGlkbWludXRlcz0yMA==
 #https://live.we-play.tv/android/blue-ext/playlist.m3u8
 #http://cdn150.stm.trueid.net/live1/208_th_m_high_tidapp.smil/playlist.m3u8
-http://45.126.83.51/dr9445/h/h15/01.m3u8
+#http://45.126.83.51/dr9445/h/h15/01.m3u8
+https://mhd-01.ddns.net:30443/mdb_app/blue-ext/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://iptv.yesnet.tv/files/channels/1582180614936csneuropa.png",CBS europa
 #http://160.119.77.50/iptv/uk-cbsaction.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://pbs.twimg.com/profile_images/854674078254411776/P_yzfBIn_400x400.jpg",CBS reality
@@ -779,7 +795,7 @@ http://live3.smartbomb.co.th:8624/stream/1/
 #EXTINF: -1 tvg-id="" group-title="Kids"tvg-logo="https://teevee-hd.com/img/animax.png",Animax
 #http://203.154.243.31:8081/live/animax/index.m3u8
 #http://45.126.83.51/dr9445/h/h144/01.m3u8
-http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
+#http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #https://live.we-play.tv/android/animax/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/1468536448?ticket=CC482188B4B4C1206C0F6217AA212075E0CE7775&profile=pass
 #EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/aniplus.png",Aniplus
@@ -808,6 +824,7 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 #EXTINF:-1 tvg-id="cartoonnetwork.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK 
 #https://tv4.chang55.com:446/live2/tv4ch20.stream/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/19.m3u8
+#http://160.119.77.50/iptv/sd-cartoonnetworkeng.stream/playlist.m3u8
 http://27.254.149.109:8081/tumlive/cartoon_network/playlist.m3u8
 #https://live.we-play.tv/android/cnhd/playlist.m3u8
 #https://cdn-laos.workpoint.news/sd-cartoonnetwork_480/index.m3u8
@@ -1102,25 +1119,29 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZI6mDfzF9OkrNzANQ2UBvXOZJfwVIE_6Fe0n4zq48fsou-2a6HA&s" group-title="Sports",TVRI SPORT
 #http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport1serbia.png",Arena1
-http://160.119.77.50/iptv/rs-arena1.stream/playlist.m3u8
+#http://160.119.77.50/iptv/rs-arena1.stream/playlist.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin/my-asp1hd_720/playlist.m3u8
 #http://streaming-fast.com/covid19_live/arenasport1serbia/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport2serbia.png",Arena2
-http://160.119.77.50/iptv/rs-arena2.stream/playlist.m3u8
+#http://160.119.77.50/iptv/rs-arena2.stream/playlist.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin/my-asp2hd_720/playlist.m3u8
 #http://streaming-fast.com/covid19_live/arenasport2serbia/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport3serbia.png",Arena3
-http://160.119.77.50/iptv/rs-arena3.stream/playlist.m3u8
+#http://160.119.77.50/iptv/rs-arena3.stream/playlist.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin/my-asp3hd_720/playlist.m3u8
 #http://streaming-fast.com/covid19_live/arenasport3serbia/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport4serbia.png",Arena4
-http://160.119.77.50/iptv/rs-arena4.stream/playlist.m3u8
+#http://160.119.77.50/iptv/rs-arena4.stream/playlist.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin/my-asp4_720/playlist.m3u8
 #http://streaming-fast.com/covid19_live/arenasport4serbia/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png",Bein Sport 1 France
-http://160.119.77.50/iptv/fr-bein1hd.stream/playlist.m3u8
+#http://160.119.77.50/iptv/fr-bein1hd.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/beinsport1fr/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein2hd.png",Bein Sport 2 France
-http://160.119.77.50/iptv/fr-bein2hd.stream/playlist.m3u8
+#http://160.119.77.50/iptv/fr-bein2hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png",Bein Sport 3 France
-http://160.119.77.50/iptv/fr-bein3hd.stream/playlist.m3u8
+#http://160.119.77.50/iptv/fr-bein3hd.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/beinsport2fr/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",Bein Sport 1
 #https://tv4.chang55.com:446/live2/tv4ch96.stream/playlist.m3u8
