@@ -540,7 +540,7 @@ http://27.254.149.109:8081/tumlive/movie1.stream/playlist.m3u8
 #http://cdn103.stm.trueid.net:80/live1/222_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=Wjhcoc97ZymamQX%2FJ0VceaKoQx5vNma%2FpdK1O1JlcfdDAZGPqFz65rmLXEUBjGTriQXDmJT3639%2FMDkH3IGoK4FABB3TKDRE%2FpCrLvpGe5U6OmA8FhpBKPQv2T98UuZ8LPM
 #https://live.we-play.tv/android/paramount/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="http://image.free.in.th/v/2013/ip/200606054623.jpg",Skypremiere
-http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
+#http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://i.ibb.co/zhWLf85/scmlegend.png",Star Chinese Moviess
 http://160.119.77.50/iptv/hd-starchinese.stream/playlist.m3u8
 #https://live.we-play.tv/android/chinesemovies/playlist.m3u8 
@@ -551,7 +551,7 @@ http://160.119.77.50/iptv/hd-starchinese.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://www.img.in.th/images/af5817469475fcf89697fe39c5b905ab.jpg" alt="af5817469475fcf89697fe39c5b905ab.jpg",SERiES+HD
 http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://f.ptcdn.info/288/058/000/pavp0r3fv2XLVMHFZlf-o.jpg",SERIES CHANNEL
-http://203.154.243.31:8081/live/series/index.m3u8
+#http://203.154.243.31:8081/live/series/index.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill
 #http://206.189.150.220:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
