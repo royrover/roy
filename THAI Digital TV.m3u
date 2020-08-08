@@ -1014,14 +1014,14 @@ http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-tennis.stream/playlist.m3u8
 #https://live.we-play.tv/android/tennis/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Sports"tvg-logo="https://teevee-hd.com/img/golf.png",Golf Channel
-#http://160.119.77.50/iptv/hd-golf.stream/playlist.m3u8
+http://160.119.77.50/iptv/hd-golf.stream/playlist.m3u8
 https://tv4.chang55.com:446/live2/tv4ch08.stream/chunks.m3u8
 #http://103.208.24.234:1935/thaisport/hd-golf.stream/chunklist.m3u8
 #http://27.254.149.109:8081/tumlive/GCT/playlist.m3u8
 #EXTINF:-1 tvg-id="foxsports.th"group-title="Sports"tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport1.png",FOX SPORTS HD
-#http://160.119.77.50/iptv/hd-foxsports1.stream/playlist.m3u8
+http://160.119.77.50/iptv/hd-foxsports1.stream/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
-http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
+#http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch09.stream/chunks.m3u8
 #http://202.183.247.206:9981/stream/channelid/28624870?ticket=50CC255F652CF4ACE715016079737E2BADA710AC&profile=pass
 #EXTINF:-1 tvg-id="foxsport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2 
@@ -1152,12 +1152,12 @@ http://160.119.77.50/iptv/rs-arena4.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/arenasport4serbia/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png",Bein Sport 1 France
-#http://160.119.77.50/iptv/fr-bein1hd.stream/playlist.m3u8
+http://160.119.77.50/iptv/fr-bein1hd.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/beinsport1fr/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein2hd.png",Bein Sport 2 France
-#http://160.119.77.50/iptv/fr-bein2hd.stream/playlist.m3u8
+http://160.119.77.50/iptv/fr-bein2hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png",Bein Sport 3 France
-#http://160.119.77.50/iptv/fr-bein3hd.stream/playlist.m3u8
+http://160.119.77.50/iptv/fr-bein3hd.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/beinsport2fr/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",Bein Sport 1
 #https://tv4.chang55.com:446/live2/tv4ch96.stream/playlist.m3u8
@@ -1179,10 +1179,10 @@ http://160.119.77.50/iptv/hd-bein3.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein4/playlist.m3u8
 http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein5.png",Bein Sport 5
-http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein5/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein6.png",Bein Sport 6
-#http://160.119.77.50/iptv/hd-bein6.stream/playlist.m3u8
+http://160.119.77.50/iptv/hd-bein6.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein6/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein7.png",BEIN 07
 
