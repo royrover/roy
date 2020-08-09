@@ -1248,7 +1248,8 @@ http://160.119.77.50/iptv/uk-skysports-arena.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport1.png",Skynetsport1
 #http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
-http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
+http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch02.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport2.png",Skynetsport2
 #http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
