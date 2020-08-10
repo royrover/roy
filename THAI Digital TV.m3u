@@ -223,7 +223,8 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/cctv4.png",CCTV4 
 #https://cdn778.stm.trueid.net/live3/027_w_auto_tidapp.smil/chunklist_w1709039182_b2077081_vo_slchi_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=73301911&mpass=YT7kPBjAVrZMG5Nacqt6KbjMxOQy%2BFNpiSslUcshlSJCamBxpenpues4BMlP4zbPa3d8EW97BcXvdmVevruYdxmleRSzocSMR6JexJC9Z5S3cExoK1aSMCCRwn4Ctzl9OjrkCAYneouUAhwplpZCZube
 #http://61.58.60.230:9319/live/220.m3u8
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
+#https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
+http://160.119.77.50/iptv/sd-cctv4.stream/playlist.m3u8
 #http://iliketot.dyndns.tv/5289381709e64f8db14a4ed75ab2b59f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/DW.png" group-title="News World",Deutsche Welle (English)
 #https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
@@ -779,6 +780,7 @@ http://160.119.77.50/iptv/hd-natgeowildeng.stream/playlist.m3u8
 #http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="animalplanet.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
 #https://tv4.chang55.com:446/live2/tv4ch37.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-animalplanet.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch81.stream/chunks.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/35.m3u8
 #https://live.we-play.tv/android/animalplanet/playlist.m3u8
@@ -846,11 +848,13 @@ http://45.126.83.51/dr9445/h/h144/01.m3u8
 #http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #http://ms003.happytv.com.tw/live/babyMztT5DcwWEr1f/index.m3u8
 #http://livecdnh1.tvanywhere.ae/hls/baby/05.m3u8
-http://202.183.247.206:9981/stream/channelid/1889318275?ticket=BA0F28565BE4A31CC0B61F345E997F7FCB4F990E&profile=pass
+http://160.119.77.50/iptv/sd-babytv.stream/playlist.m3u8
+#ttp://202.183.247.206:9981/stream/channelid/1889318275?ticket=BA0F28565BE4A31CC0B61F345E997F7FCB4F990E&profile=pass
 #http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/boomerang.png",BOOMERANG
-http://27.254.130.64/live01/ch18.m3u8?p=K
+#http://27.254.130.64/live01/ch18.m3u8?p=K
+http://160.119.77.50/iptv/sd-boomerang.stream/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/25.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch74.stream/chunks.m3u8
 #http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
@@ -1192,12 +1196,14 @@ http://160.119.77.50/iptv/fr-bein3hd.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch96.stream/playlist.m3u8
 #http://103.208.24.234:1935/thaisport/epl-bein1.stream/playlist.m3u8
 http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
+#http://160.119.77.50/iptv/hd-bein1.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein1/playlist.m3u8
 #https://live.we-play.tv/android/bein1/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch96.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",Bein Sport 2
 #https://tv4.chang55.com/live2/tv4ch95.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein2/playlist.m3u8
+#http://160.119.77.50/iptv/hd-bein2.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch73.stream/chunks.m3u8
 http://103.208.24.234:1935/thaisport/epl-bein2.stream/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
@@ -1214,14 +1220,14 @@ http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein6.png",Bein Sport 6
 http://160.119.77.50/iptv/hd-bein6.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein6/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein7.png",BEIN 07
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein8.png",BEIN 08
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein9.png",BEIN 09
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein10.png",BEIN 10
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein7.png",Bein Sport 7
+http://160.119.77.50/iptv/hd-bein7.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein8.png",Bein Sport 8
+http://160.119.77.50/iptv/hd-bein8.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein9.png",Bein Sport 9
+http://160.119.77.50/iptv/hd-bein9.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein10.png",Bein Sport 10
+http://160.119.77.50/iptv/hd-bein10.stream/playlist.m3u8
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/512.png",BEIN 11 
 
