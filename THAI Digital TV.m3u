@@ -666,7 +666,8 @@ http://stream.rs.co.th/sbd-hi/index.m3u8
 #http://206.189.150.220:8081/freelive-edge/_definst_/sabaideetv.smil/playlist.m3u
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/fantv.png",Fan TV
 #http://206.189.150.220:8081/freelive-edge/_definst_/fantv.smil/playlist.m3u8
-https://edge4a.v2h-cdn.com/INFO_T4/FanTV.stream_720p/playlist.m3u8
+#https://edge4a.v2h-cdn.com/INFO_T4/FanTV.stream_720p/playlist.m3u8
+https://www.livedoomovies.com/02_FANMUSICHD_720p/chunklist.m3u8
 #http://iliketot.dyndns.tv/345a4277dd864037b6b4fb5a562af59c.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truemusic.png",True Music HD
 #http://160.119.77.50/iptv/sd-tmusic.stream/playlist.m3u8
@@ -674,8 +675,9 @@ https://edge4a.v2h-cdn.com/INFO_T4/FanTV.stream_720p/playlist.m3u8
 #http://host4.dynns.com/wevelwe/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
 http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
 #http://kodinew.dyndns.tv:9981/stream/channelid/859415194?ticket=B94F022535096FDA0AD42C8281373F3FDBD042FC&profile=pass
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://stopcyberbullyingday.org/wp-content/uploads/2016/01/MTV-logo.jpg",MTV 
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://stopcyberbullyingday.org/wp-content/uploads/2016/01/MTV-logo.jpg",MTV CHINA
+#http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-user-4pda-denms-ru-v1-a1
+http://160.119.77.50/iptv/sd-mtvchina.stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/mtvasia.png",MTV ASIA
 #http://host4.dynns.com/wevelwe/deb56e700dbc4d9ea5af08e9d300a675.m3u8
 http://160.119.77.50/iptv/sd-mtvasia.stream/playlist.m3u8
