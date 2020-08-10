@@ -1303,6 +1303,8 @@ http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u
 http://191.96.77.4/4kmovie/4K_holly_225_E/Ant-man.2015.4K.M.1080.mp4
 #EXTINF:-1 group-title="Movies"tvg-logo="https://m.media-amazon.com/images/I/911Gc+MRR1L._AC_SX354_SY510_FMwebp_QL65_.jpg",Ant-Man2 And The Wasp (2018)
 https://4kmovie2.cloud-streaming.com/content/Ant.Man.and.the.Wasp.2018.mkv
+#EXTINF:-1 group-title="Movies"tvg-logo="https://m.media-amazon.com/images/I/A1t7EBA+qvL._AC_SX354_SY510_FMwebp_QL65_.jpg",Aquaman (2018)
+https://4kmovie2.cloud-streaming.com/content/Aquaman.2018.mkv
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Oe3YGQhLL._AC_SL1500_.jpg",The Avengers1 (2012)
 #http://cdnstream1.podzone.net:443/bluray2/bluray2018/The-Avengers-2012-4K-2160p-DTS-HD-NEW.mp4
@@ -1317,7 +1319,8 @@ http://191.96.77.198:8081/4kmovie/i/Avengers.Endgame.2019.mkv
 
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/eMmVP1ikvEycNby151z.jpg",Batman v Superman: Dawn of Justice (2016)
-https://lb1.one3up.com/hls/f3cdc6c407edfbce1f423b8d3a6cb86a/f3cdc6c407edfbce1f423b8d3a6cb86a.m3u8
+#https://lb1.one3up.com/hls/f3cdc6c407edfbce1f423b8d3a6cb86a/f3cdc6c407edfbce1f423b8d3a6cb86a.m3u8
+https://4kmovie2.cloud-streaming.com/content/Batman.Superman.Dawn.of.Justice.2016.mkv
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://m.media-amazon.com/images/I/91LmsuoBOIL._AC_SX354_SY510_FMwebp_QL65_.jpg", Captain America1 The First Avenger (2011)
 https://4kmovie2.cloud-streaming.com/content/Captain.America.The.First.Avenger.mkv
@@ -1325,6 +1328,10 @@ https://4kmovie2.cloud-streaming.com/content/Captain.America.The.First.Avenger.m
 http://191.96.77.198:8081/4kmovie/h/Captain.America.The.Winter.Soldier.2014.mkv
 #EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91QeHriyBcL._SX600_.jpg",Captain America3 Civil War (2016)
 http://191.96.77.198:8081/4kmovie/h/captain.america.civil.war.2016.mkv
+#EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51bF2a%2BE4LL._AC_SL1500_.jpg",Captain Marvel (2019)
+http://191.96.77.198:8081/4kmovie/h/Captain.Marvel.2019.2160p.mkv
+#EXTINF:-1 group-title="Movies"tvg-logo="https://m.media-amazon.com/images/I/91BAMbEQHKL._AC_SX354_SY510_FMwebp_QL65_.jpg",Doctor Strange (2016)
+https://cdn175.cloud-streaming.com/4k/atmos/Doctor.Strange.2016.mkv
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869682.jpg",The Fast and the Furious 1 (2001)
 #http://191.96.77.23:443/movie/bluray2016/The-Fast-and-the-Furious-2001-th-en-1080p.mp4/index.m3u8
@@ -1372,6 +1379,14 @@ https://edge-cache-1.stream-cdn.com/hls/storage1/vod/th0000673-720p.mp4/index.m3
 #http://191.96.77.236/video/movie_sound2019/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.WEBDL.SUBTHT-4K.mp4/playlist.m3u8
 https://edge-cache-1.stream-cdn.com/hls/storage1/vod/th0000081-1080p.mp4/index.m3u8
 
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71%2BVwyzgaaL._AC_SL1500_.jpg",Iron Man1(2008)
+#http://cdnstream1.podzone.net:443/bluray2/bluray2018/Iron-Man-2008-4K-2160p.mp4
+https://lb1.one3up.com/hls/40f0e4999cf387de1b40da6cf563a811/40f0e4999cf387de1b40da6cf563a811.m3u8
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Lye5wWP6L._AC_SL1500_.jpg",Iron Man2(2010)
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/Iron-Man-2-2010-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71jCCBJAV-L._AC_SL1500_.jpg",Iron Man3(2013)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Iron.Man.3.2013.4K.1080p.TH.mp4
+
 #EXTINF:-1 group-title="Movies"tvg-logo="https://i.pinimg.com/474x/4c/d0/66/4cd066d31da3cad1a1e0eea30dda87b8.jpg",Justice League (2017)
 https://lb1.one3up.com/hls/a061c8f8ce4612406c2a8a923631247b/a061c8f8ce4612406c2a8a923631247b.m3u8
 
@@ -1402,6 +1417,16 @@ https://lb1.one3up.com/hls/b6f3d2a64bf533c236c69098199044e3/b6f3d2a64bf533c236c6
 #EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/915vKy4FdyL._AC_SL1500_.jpg",Spider Man3 (2007)
 #http://cdnstream1.podzone.net:443/bluray2/bluray2018/Spider-Man-3-2007-4K-2160p.mp4
 https://lb1.one3up.com/hls/4ae6915ed995e21f201da593404e9ca4/4ae6915ed995e21f201da593404e9ca4.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/8132WAye7mL._AC_SL1500_.jpg",The Amazing Spider-Man (2012)
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/The-Amazing-Spider-Man-2012-4K-2160p.mp4
+#EXTINF:-1 group-title="Movies"tvg-logo="https://f.ptcdn.info/162/026/000/1417541327-c43dee-o.jpg",The Amazing Spider-Man 2 (2014)
+https://lb1.one3up.com/hls/d50650ee55826b6405f9e7cc8466105e/d50650ee55826b6405f9e7cc8466105e.m3u8
+#EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81OaKpG2pYL._AC_SL1500_.jpg",Spider Man Homecoming (2017)
+#http://cdnstream1.podzone.net:443/bluray2/bluray2018/Spider-Man-Homecoming-2017-4K-2160p.mp4
+https://lb1.one3up.com/hls/576ca169ad8a2090576d0c46febfa82d/576ca169ad8a2090576d0c46febfa82d.m3u8
+#EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91LIALr0peL._AC_SL1500_.jpg",Spider-Man Far From Home(2019)
+https://lb1.one3up.com/hls/572219527521a910371d98c1b3ad321a/572219527521a910371d98c1b3ad321a.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://m.media-amazon.com/images/I/91AAWp-GlVL._AC_SX354_SY510_FMwebp_QL65_.jpg",Thor1 (2011)
 https://cdn175.cloud-streaming.com/4k/atmos/Thor.2011.mkv
