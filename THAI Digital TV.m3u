@@ -646,9 +646,10 @@ http://27.254.130.64/live99/46/zeenung.m3u8?p=st
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",Lao Star
 #http://cdn150.stm.trueid.net/live3/o062_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://mvtv.co.th/ios/icons/GIF/mvlao140x140.gif",MV Lao 
-https://edge1a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1701215916.m3u8
+#https://edge1a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1701215916.m3u8
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.onia.tv/files/picture/2019-12-05/tvchannel_2019-12-05-20-30-33_1.jpg",MVM
-https://edge4a.v2h-cdn.com/v2hlive4a/MVTV75.stream_720p/chunklist_w1105162032.m3u8
+#https://edge4a.v2h-cdn.com/v2hlive4a/MVTV75.stream_720p/chunklist_w1105162032.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/0c30b192-953b-49b9-a9bf-a4c6e3e71de3.png",True Shopping
 http://103.120.113.90:1935/psilive2a/TimeTV.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/28/a9490c72-7387-4409-b5a8-80db28585ca4.png",True Select
@@ -685,8 +686,9 @@ http://160.119.77.50/iptv/sd-mtvasia.stream/playlist.m3u8
 #http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="http://image.free.in.th/v/2013/ij/180713075126.gif",GREENWAVE
 http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="http://thaiip.tv/tvlogo2/mvtv.png" ,MVTV
+#EXTINF:-1 group-title="Entertainment"tvg-logo="http://thaiip.tv/tvlogo2/mvtv.png",MVTV
 #https://edge1a.v2h-cdn.com/appt7/MVTV.stream_720p/chunklist_w1224574036.m3u8
+https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="http://thaiip.tv/tvlogo2/five.png",MVTV Five Channel
 https://edge1a.v2h-cdn.com/appt3/five.stream_720p/chunklist_w1616935929.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="http://thaiip.tv/tvlogo2/hmong.png",MVTV Hmong
@@ -826,7 +828,7 @@ http://live3.smartbomb.co.th:8624/stream/1/
 
 #EXTINF: -1 tvg-id="" group-title="Kids"tvg-logo="https://teevee-hd.com/img/animax.png",Animax
 #http://203.154.243.31:8081/live/animax/index.m3u8
-#http://45.126.83.51/dr9445/h/h144/01.m3u8
+http://45.126.83.51/dr9445/h/h144/01.m3u8
 #http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #https://live.we-play.tv/android/animax/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/1468536448?ticket=CC482188B4B4C1206C0F6217AA212075E0CE7775&profile=pass
