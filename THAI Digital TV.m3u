@@ -264,6 +264,7 @@ http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv010.m3u8
 https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
 
+
 #EXTINF:-1 group-title="Education" tvg-logo="https://www2.chaiyaphum3.go.th/main/dltv/logo-channel-11.png", อนุบาลศึกษาปีที่ 2
 #https://dltv-live-edge.catcdn.cloud/dltv11_720p.m3u8
 #http://dltv-live-edge.catcdn.cloud/playlist/dltv011.m3u8
@@ -521,7 +522,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #http://livefreebl-2.ddns.net:8081/freelive-edge/_definst_/mchannel.smil/playlist.m3u8
 #http://27.254.142.207:8080/live/web.m3u8
 http://27.254.130.61/live01/ch19.m3u8?p=st
-http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
+#http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="http://www.totiptv.com/Product/Channel/images/MajorMIX.png",Mix Major 
 #https://edge1a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w670261144.m3u8
 https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist.m3u8
@@ -1295,9 +1296,11 @@ http://191.96.77.4/4kmovie/4K_holly_225_E/Ant-man.2015.4K.M.1080.mp4
 https://4kmovie2.cloud-streaming.com/content/Ant.Man.and.the.Wasp.2018.mkv
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Oe3YGQhLL._AC_SL1500_.jpg",The Avengers1(2012)
-http://cdnstream1.podzone.net:443/bluray2/bluray2018/The-Avengers-2012-4K-2160p-DTS-HD-NEW.mp4
+#http://cdnstream1.podzone.net:443/bluray2/bluray2018/The-Avengers-2012-4K-2160p-DTS-HD-NEW.mp4
+https://lb1.one3up.com/hls/61b0d1e1b33acd3a6b2b1b60baabe00e/61b0d1e1b33acd3a6b2b1b60baabe00e.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91S8HbxxbTL._SX600_.jpg",Avengers2 Age Of Ultron(2015)
-http://cdnstream1.podzone.net:443/bluray2/bluray2018/Avengers-Age-of-Ultron-2015-4K-2160p-DTS-HD-NEW.mp4
+#http://cdnstream1.podzone.net:443/bluray2/bluray2018/Avengers-Age-of-Ultron-2015-4K-2160p-DTS-HD-NEW.mp4
+https://lb1.one3up.com/hls/ce563b99f0743b3bf1682b3cff0ca2a4/ce563b99f0743b3bf1682b3cff0ca2a4.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://m.media-amazon.com/images/I/A1aHRPvn5JL._AC_SX354_SY510_FMwebp_QL65_.jpg",Avengers3 Infinity War(2018)
 https://4kmovie2.cloud-streaming.com/content/Avengers.Infinity.War.2018.mkv
 #EXTINF:-1 group-title="Movies"tvg-logo="https://m.media-amazon.com/images/I/91e9898R7QL._AC_SX354_SY510_FMwebp_QL65_.jpg",Avengers4 Endgame(2019)
