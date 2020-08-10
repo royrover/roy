@@ -608,6 +608,8 @@ http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
 #http://160.119.77.50/iptv/sd-tvb.stream/playlist.m3u8
 #https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/tvb.png",TVB Drama ไทย
+https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/chunklist_w1540067969.m3u8
 
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://i.pinimg.com/originals/35/2f/68/352f680fe1c6b90ca3f728038c05293f.png",tvN
 #http://cdn121.stm.trueid.net:80/live3/096_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=npMxHY2Z89nwqa3nAPeY6avhmvoOP85FQA2TphbWCXZ8dsqi5WpJcu%2BKnrFCK%2F%2FR7UccrKHF2xwIbNQ7vN0TC1k2yJSF0VFyp%2BCau5Ufx4k6Oo%2Bp3cZojzR5OwehJ0PWZkc
@@ -623,6 +625,8 @@ http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/universal.png",Universal TH
 #https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="http://image.free.in.th/v/2013/io/200530043232.jpg",Upmovie
+http://27.254.149.109:8081/tumlive/upmovie.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Warner.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
 #http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 http://160.119.77.50/iptv/hd-warnertv.stream/playlist.m3u8
@@ -650,6 +654,7 @@ http://27.254.130.64/live99/46/zeenung.m3u8?p=st
 https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.onia.tv/files/picture/2019-12-05/tvchannel_2019-12-05-20-30-33_1.jpg",MVM
 #https://edge4a.v2h-cdn.com/v2hlive4a/MVTV75.stream_720p/chunklist_w1105162032.m3u8
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2003331397.m3u
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/0c30b192-953b-49b9-a9bf-a4c6e3e71de3.png",True Shopping
 http://103.120.113.90:1935/psilive2a/TimeTV.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/28/a9490c72-7387-4409-b5a8-80db28585ca4.png",True Select
@@ -1387,6 +1392,13 @@ https://lb1.one3up.com/hls/0bf7527ac5d7b3c0d29dd9e7e629952d/0bf7527ac5d7b3c0d29d
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.freemoviesth.com/wp-content/uploads/2019/11/Pearl-Harbor.jpg",Pearl Harbor (2001)
 #https://www.037hd.com/movie/900966.mp4
 https://lb1.one3up.com/playlist/316349e3345c58f724559da37cdc09c4/1590370134971.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61XoqHVzG1L._AC_SL1500_.jpg",Spider Man1(2002)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Spider-Man-2002-4K-2160p.mp4
+#EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zcFC%2BLjfL._AC_SL1500_.jpg",Spider Man2(2004)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Spider-Man-2-2004-4K-2160p.mp4
+#EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/915vKy4FdyL._AC_SL1500_.jpg",Spider Man3(2007)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Spider-Man-3-2007-4K-2160p.mp4
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://m.media-amazon.com/images/I/91AAWp-GlVL._AC_SX354_SY510_FMwebp_QL65_.jpg",Thor1(2011)
 https://cdn175.cloud-streaming.com/4k/atmos/Thor.2011.mkv
