@@ -5,33 +5,50 @@ http://tiny.cc/lr3kkz
 
 #EXTM3U
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-ch3.png",CH3 HD
-https://www.we-play.tv/videos/digital-tv/ch3-hd/
+#https://www.we-play.tv/videos/digital-tv/ch3-hd/
+http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-ch5.png",CH5 HD
-https://www.we-play.tv/videos/digital-tv/ch5-hd/
+#https://www.we-play.tv/videos/digital-tv/ch5-hd/
+http://160.119.77.50/iptv/hd-ch5.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-ch7.png",CH7 HD
-https://www.we-play.tv/videos/digital-tv/ch7-hd/
+#https://www.we-play.tv/videos/digital-tv/ch7-hd/
+http://160.119.77.50/iptv/hd-ch7.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-mcot.png",MCOT HD
-https://www.we-play.tv/videos/digital-tv/mcot-hd/
+#https://www.we-play.tv/videos/digital-tv/mcot-hd/
+http://160.119.77.50/iptv/hd-mcot.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-tpbs.png",ThaiPBS HD
-https://www.we-play.tv/videos/digital-tv/thai-pbs/
+#https://www.we-play.tv/videos/digital-tv/thai-pbs/
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-thairath.png",Thairath HD
-https://www.we-play.tv/videos/digital-tv/%e0%b9%84%e0%b8%97%e0%b8%a2%e0%b8%a3%e0%b8%b1%e0%b8%90/
+#https://www.we-play.tv/videos/digital-tv/%e0%b9%84%e0%b8%97%e0%b8%a2%e0%b8%a3%e0%b8%b1%e0%b8%90/
+http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-pptv.png",PPTV HD
-https://www.we-play.tv/videos/digital-tv/pptv-hd/
+#https://www.we-play.tv/videos/digital-tv/pptv-hd/
+http://160.119.77.50/iptv/hd-pptv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-amarin.png",Amarin HD
-https://www.we-play.tv/videos/digital-tv/amarin-tv/
+#https://www.we-play.tv/videos/digital-tv/amarin-tv/
+http://160.119.77.50/iptv/hd-amarin.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-gmmone.png",ONE HD
-https://www.we-play.tv/videos/digital-tv/one-hd/
+#https://www.we-play.tv/videos/digital-tv/one-hd/
+http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-nation.png",Nation
-https://www.we-play.tv/videos/digital-tv/nationtv/
+#https://www.we-play.tv/videos/digital-tv/nationtv/
+https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
+#http://160.119.77.50/iptv/sd-nbt.stream/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/sd-nbt_720/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-mono.png",Mono29
-https://www.we-play.tv/videos/digital-tv/mono29/
+#https://www.we-play.tv/videos/digital-tv/mono29/
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-workpoint.png",Workpoint TV
-https://www.we-play.tv/videos/digital-tv/workpoint/
+#https://www.we-play.tv/videos/digital-tv/workpoint/
+http://dootvthai-hd.com/cmd/true/Workpointtv/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-24u.png",True4U
-https://www.we-play.tv/videos/digital-tv//true4u/
+#https://www.we-play.tv/videos/digital-tv//true4u/
+http://160.119.77.50/iptv/sd-24u.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-gmmchannel.png",GMM25
-https://www.we-play.tv/videos/digital-tv/gmm25/
+#https://www.we-play.tv/videos/digital-tv/gmm25/
+http://160.119.77.50/iptv/sd-gmmchannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/01/idstation.jpg",ID Station
 https://www.we-play.tv/videos/digital-tv//idstation/
 
