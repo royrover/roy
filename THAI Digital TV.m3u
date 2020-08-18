@@ -228,7 +228,9 @@ https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/news1.png",New1
 #https://server1.streamssl.com/stream/news1_hi.m3u8
-http://news1.live14.com/stream/news1_hi.m3u8
+#http://news1.live14.com/stream/news1_hi.m3u8
+https://server1.streamssl.com/stream/news1_hi.m3u8
+
 
 #EXTINF:-1 tvg-id="Mono29.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mono29.png",Mono29
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
@@ -915,6 +917,7 @@ http://160.119.77.50/iptv/sd-babytv.stream/playlist.m3u8
 #http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/boomerang.png",BOOMERANG
 #http://27.254.130.64/live01/ch18.m3u8?p=K
+#http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
 http://160.119.77.50/iptv/sd-boomerang.stream/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/25.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch74.stream/chunks.m3u8
