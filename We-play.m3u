@@ -1,11 +1,11 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- อัพเดทล่าสุด: 25.3.20", อัพเดทล่าสุด: 25.3.20
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- อัพเดทล่าสุด: 18.8.20", อัพเดทล่าสุด: 18.8.20
 http://tiny.cc/lr3kkz
 
 #EXTM3U
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-ch3.png",CH3 HD
-https://www.we-play.tv/videos/digital-tv/ch3hd/
+https://www.we-play.tv/videos/digital-tv/ch3-hd/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-ch5.png",CH5 HD
 https://www.we-play.tv/videos/digital-tv/ch5-hd/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-ch7.png",CH7 HD
@@ -17,23 +17,23 @@ https://www.we-play.tv/videos/digital-tv/thai-pbs/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-thairath.png",Thairath HD
 https://www.we-play.tv/videos/digital-tv/%e0%b9%84%e0%b8%97%e0%b8%a2%e0%b8%a3%e0%b8%b1%e0%b8%90/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-pptv.png",PPTV HD
-https://live.we-play.tv/android/pptv/playlist.m3u8
+https://www.we-play.tv/videos/digital-tv/pptv-hd/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-amarin.png",Amarin HD
-https://live.we-play.tv/android/amarintv/playlist.m3u8
+https://www.we-play.tv/videos/digital-tv/amarin-tv/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-gmmone.png",ONE HD
-https://live.we-play.tv/android/one31/playlist.m3u8
+https://www.we-play.tv/videos/digital-tv/one-hd/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-nation.png",Nation
-https://live.we-play.tv/android/nationtv/playlist.m3u8
+https://www.we-play.tv/videos/digital-tv/nationtv/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-mono.png",Mono29
-https://live.we-play.tv/android/mono29/playlist.m3u8
+https://www.we-play.tv/videos/digital-tv/mono29/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-workpoint.png",Workpoint TV
-https://live.we-play.tv/android/workpoint/playlist.m3u8
+https://www.we-play.tv/videos/digital-tv/workpoint/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-24u.png",True4U
-https://live.we-play.tv/android/true4u/playlist.m3u8
+https://www.we-play.tv/videos/digital-tv//true4u/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-gmmchannel.png",GMM25
-https://live.we-play.tv/android/gmm25/playlist.m3u8
+https://www.we-play.tv/videos/digital-tv/gmm25/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/01/idstation.jpg",ID Station
-https://live.we-play.tv/android/idstation/playlist.m3u8
+https://www.we-play.tv/videos/digital-tv//idstation/
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg",Hi-DeF1
 https://live.we-play.tv/android/hi-def1/playlist.m3u8
