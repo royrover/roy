@@ -255,6 +255,8 @@ http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
 #https://live.we-play.tv/android/cnn/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/france24.png",FRANCE24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1, group-title="News World" tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png", Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/cctv4.png",CCTV4 
 #https://cdn778.stm.trueid.net/live3/027_w_auto_tidapp.smil/chunklist_w1709039182_b2077081_vo_slchi_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=73301911&mpass=YT7kPBjAVrZMG5Nacqt6KbjMxOQy%2BFNpiSslUcshlSJCamBxpenpues4BMlP4zbPa3d8EW97BcXvdmVevruYdxmleRSzocSMR6JexJC9Z5S3cExoK1aSMCCRwn4Ctzl9OjrkCAYneouUAhwplpZCZube
 #http://61.58.60.230:9319/live/220.m3u8
@@ -265,6 +267,8 @@ http://160.119.77.50/iptv/sd-cctv4.stream/playlist.m3u8
 #https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 #http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 http://27.254.149.109:8081/tumlive/DW/playlist.m3u8
+#EXTINF:-1, group-title="News World" tvg-logo="https://www.doohdbox.com/assets/201708072112041744562745.jpg",CBS News
+https://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/euronews.png" group-title="News World",Euronews HD
 #http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
 http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
