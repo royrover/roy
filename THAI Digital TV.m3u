@@ -672,6 +672,19 @@ https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/tvb.png",TVB Drama ไทย
 #https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/chunklist_w1540067969.m3u8
 
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 1
+http://203.154.243.31:8081/live/izaahd/index.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 2
+http://203.154.243.31:8081/live/ping/index.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 3
+http://203.154.243.31:8081/live/h-channel/index.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 4
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 5
+http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w439724723.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 6
+http://d34e90s3s13i7n.cloudfront.net:80/hls/ch8ctv/master02.m3u8
+
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://i.pinimg.com/originals/35/2f/68/352f680fe1c6b90ca3f728038c05293f.png",tvN
 #http://cdn121.stm.trueid.net:80/live3/096_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=npMxHY2Z89nwqa3nAPeY6avhmvoOP85FQA2TphbWCXZ8dsqi5WpJcu%2BKnrFCK%2F%2FR7UccrKHF2xwIbNQ7vN0TC1k2yJSF0VFyp%2BCau5Ufx4k6Oo%2Bp3cZojzR5OwehJ0PWZkc
 
