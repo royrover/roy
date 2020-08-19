@@ -507,6 +507,12 @@ http://27.254.149.109:8081/tumlive/Foxlife/playlist.m3u8
 #https://live.we-play.tv/android/fox-life/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/and-flix-hd-logo.jpg",FlixHd
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://sv1.picz.in.th/images/2020/06/18/qyuaZW.png",FWMOV
+https://www.fwiptv.cc/player_demo.php?channel=89782
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://sv1.picz.in.th/images/2020/06/18/qyuvm1.png",FWSOV
+https://www.fwiptv.cc/player_demo.php?channel=89781
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://sv1.picz.in.th/images/2020/06/18/qyuIrf.png",FWTOON
+https://www.fwiptv.cc/player_demo.php?channel=89780
 #EXTINF:-1 tvg-id=""group-title="Cinema"tvg-logo="https://teevee-hd.com/img/fxhd.png",FX 
 #https://tv4.chang55.com:446/live/tot13.stream/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/1594718843?ticket=452F71C148445F407395BFC1D003D02F0A6A7B98&profile=pass
@@ -567,7 +573,8 @@ https://niklive.com/app-api-android/ktu/Jknchannel/playlist.m3u8
 #http://iliketot.dyndns.tv/fc8195dc989240348772d00dd9eba3d0.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="http://www.totiptv.com/Product/Channel/images/MANGORN.png",Mangkorn
 #https://www.livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
-https://niklive.com/app-api-android/ktu/Mangorn/playlist.m3u8
+#https://niklive.com/app-api-android/ktu/Mangorn/playlist.m3u8
+http://dootvthai-hd.com/cmd/api/true/Mangorn/playlist.m3u8
 #http://103.120.113.90:1935/psilive3a/Mangorn.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/mchannel.png",M Channel
 #http://206.189.150.220:8081/freelive-edge/_definst_/mchannel.smil/playlist.m3u8
@@ -737,6 +744,7 @@ http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
 #http://cdn150.stm.trueid.net/live4/109_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/21/a870a651-9595-4921-bc41-7ba39d7067a3.png",Super Bunteung
 #http://cdn150.stm.trueid.net/live3/108_th_m_high_tidapp.smil/playlist.m3u8
+http://dootvthai-hd.com/cmd/api/true/Super-entertain/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/sabuydeetv.png",Sabaidee TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
 #http://206.189.150.220:8081/freelive-edge/_definst_/sabaideetv.smil/playlist.m3u
@@ -876,7 +884,8 @@ http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://pbs.twimg.com/profile_images/924843911855476736/bf0a9z2U_400x400.jpg",True Pookpanya
 http://160.119.77.50/iptv/sd-tppy.stream/playlist.m3u8
 #EXTINF:-1 gtvg-id=""group-title="Knowledge"tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple1/v4/a5/f2/6c/a5f26cbd-d327-0c1d-bc30-eb8747c7d4fd/pr_source.png/246x0w.png",RAMA CHANNEL
-http://160.119.77.50/iptv/sd-rama.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-rama.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/api/true/RAMA-CHANNEL/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://pmcvariety.files.wordpress.com/2013/10/animalist-logo.jpg",World Animal
 #http://203.154.243.32:8088/live/wanimal/index.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://pbs.twimg.com/profile_images/653546209488052224/iZA1Cnu-.png",BBC Lifestyle
