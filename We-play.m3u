@@ -291,16 +291,20 @@ https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b
 #https://live.we-play.tv/android/disneyxd/playlist.m3u8
 https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81/disney-xd/
 #EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/disney.png",Disney Channel
-https://live.we-play.tv/android/disneych/playlist.m3u8
+#https://live.we-play.tv/android/disneych/playlist.m3u8
+http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/disneyj.png",Disney Junior
-https://live.we-play.tv/android/disneyjr/playlist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221226011/4.m3u8
+#https://live.we-play.tv/android/disneyjr/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/nickelodeon.png",Nickelodeon
 #https://live.we-play.tv/android/nickelodeon/playlist.m3u8
 https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81/nickelodeon/
 #EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick JR
-https://live.we-play.tv/android/nickjr/playlist.m3u8
+http://27.254.149.109:8081/tumlive/Nick/playlist.m3u8
+#https://live.we-play.tv/android/nickjr/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/jump.png",True Spark Jump
-https://live.we-play.tv/android/sparkjump/playlist.m3u8
+#https://live.we-play.tv/android/sparkjump/playlist.m3u8
+http://160.119.77.50/iptv/sd-sparkjump.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/animax.png",Animax
 #https://live.we-play.tv/android/animax/playlist.m3u8
 https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81/animax/
@@ -308,8 +312,8 @@ https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b
 #https://live.we-play.tv/android/aniplus/playlist.m3u8
 https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81/aniplus/
 #EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/boomerang.png",Boomerang 
-https://live.we-play.tv/android/boomerang/playlist.m3u8 
-
+#https://live.we-play.tv/android/boomerang/playlist.m3u8 
+http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
 
 #EXTINF:-1 group-title="News World" tvg-logo="https://teevee-hd.com/img/cnn.png",CNN 
 https://www.we-play.tv/videos/%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7/cnn/
@@ -341,7 +345,7 @@ http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/idstation.png",ID Station
 #https://www.we-play.tv/videos/digital-tv//idstation/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",True Premiere 1
-http://ip2121.com:8081/at1/ENG1/chunks.m3u8
+http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",TruePremiere 2
 http://ip2121.com:8081/at1/ENG2/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball3.png",TruePremiere 3
