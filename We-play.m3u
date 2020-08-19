@@ -79,6 +79,9 @@ https://www.we-play.tv/videos/tv-entertainment/red-by-hbo/
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/warner.png",Warner TV
 #https://live.we-play.tv/android/warner/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/warner-tv/
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/classicmovies.png",CCM
+#https://live.we-play.tv/android/ccm/playlist.m3u8
+https://www.we-play.tv/videos/tv-entertainment/ccm/
 
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/paramount.png",Paramount CHANNEL
 https://www.we-play.tv/videos/tv-entertainment/paramount-channel/
@@ -165,13 +168,11 @@ https://www.we-play.tv/videos/tv-entertainment/true-thai-film/
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/tvb.png",TVB ไทย
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-tmusic.png",True Music
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truemusic.png",True Music
 #https://live.we-play.tv/android/truemusic/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/true-music-hd/
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-kbsworld.png",KBS World
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/kbs.png",KBS World
 https://live.we-play.tv/android/kbs/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-celestial.png",Celestial Classic Movies
-https://live.we-play.tv/android/ccm/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/scm.jpg",Star Chinese Movies 
 https://live.we-play.tv/android/chinesemovies/playlist.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/thrill.jpg",Thrill 
@@ -179,7 +180,8 @@ https://live.we-play.tv/android/thrill/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.iptvhero.com/channel/sd-kix.png",Kix
 https://live.we-play.tv/android/kix/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-tvn.png",TVN
-https://live.we-play.tv/android/tvn/playlist.m3u8
+#https://live.we-play.tv/android/tvn/playlist.m3u8
+https://www.we-play.tv/videos/tv-entertainment/tvn/
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-xzyte.png",True X-ZYTE
 https://live.we-play.tv/android/xzyte/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/uk-foodnetwork.png",Food Network
