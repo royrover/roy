@@ -183,7 +183,7 @@ https://live.we-play.tv/android/chinesemovies/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill 
 #https://live.we-play.tv/android/thrill/playlist.m3u8 
 http://27.254.149.109:8081/tumlive/Thrill/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.iptvhero.com/channel/sd-kix.png",Kix
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/kix.png",Kix
 #https://live.we-play.tv/android/kix/playlist.m3u8
 http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/tvn.png",TVN
@@ -314,45 +314,22 @@ http://160.119.77.50/iptv/rs-arena2.stream/playlist.m3u8
 http://160.119.77.50/iptv/rs-arena3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport4serbia.png",Arena Sports4
 http://160.119.77.50/iptv/rs-arena4.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-fightsports.png",Fight Sports
-#https://live.we-play.tv/android/fight/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/wwe.jpg",WWE 
-#https://live.we-play.tv/android/wwe/playlist.m3u8 
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/mutv.png",MUTV
 http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/lfc.png",LFCTV
 http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.tededsport.com/wp-content/uploads/2019/09/sporttv1.png",Sport TV1
-https://live.we-play.tv/android/sporttv1/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.tededsport.com/wp-content/uploads/2019/09/sporttv2.png",Sport TV2
-https://live.we-play.tv/android/sporttv2/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.tededsport.com/wp-content/uploads/2019/09/sporttv3.png",Sport TV3
-https://live.we-play.tv/android/sporttv3/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.tededsport.com/wp-content/uploads/2019/09/sporttv4.png",Sport TV4
-https://live.we-play.tv/android/sporttv4/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.tededsport.com/wp-content/uploads/2019/09/btsport1.png",BT Sport1
-https://live.we-play.tv/android/btsport1/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.tededsport.com/wp-content/uploads/2019/09/btsport2.png",BT Sport2
-https://live.we-play.tv/android/btsport2/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.tededsport.com/wp-content/uploads/2019/09/btsport3.png",BT Sport3
-https://live.we-play.tv/android/btsport3/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-bein1.png",Bein Sport 1 Arab
-https://live.we-play.tv/android/bein1inter/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-bein2.png",Bein Sport 2 Arab
-https://live.we-play.tv/android/bein2inter/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-bein3.png",Bein Sport 3 Arab
-https://live.we-play.tv/android/bein3inter/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-bein4.png",Bein Sport 4 Arab
-https://live.we-play.tv/android/bein4inter/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-bein5.png",Bein Sport 5 Arab
-https://live.we-play.tv/android/bein5inter/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com/channel/usa-nfl.jpg",NFL
-https://live.we-play.tv/android/nfl/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/nbcsn.jpg",NBCSN 
-https://live.we-play.tv/android/nbcsn/playlist.m3u8 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-espn.png",ESPN
-https://live.we-play.tv/android/espn/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-eurosport.png",Eurosports
-https://live.we-play.tv/android/eurosport/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/chelseatv.png",UK Chealsea TV
+http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/btsport1.png",BTSPORT 1
+http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/btsport1.png",BTSPORT 2
+http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/btsport1.png",BTSPORT 3
+http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
+
+
+
  
 
