@@ -49,10 +49,9 @@ http://160.119.77.50/iptv/sd-24u.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GMM25.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
 #https://www.we-play.tv/videos/digital-tv/gmm25/
 http://160.119.77.50/iptv/sd-gmmchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/01/idstation.jpg",ID Station
-#https://www.we-play.tv/videos/digital-tv//idstation/
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-axn.png",AXN HD
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/axn.png",AXN HD
 #https://live.we-play.tv/android/axn/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/axn-hd/
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg",Hi-DeF1
@@ -229,6 +228,8 @@ https://www.we-play.tv/videos/%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7/nhk-world/
 #EXTINF:-1 group-title="News" tvg-logo="https://teevee-hd.com/img/cnn.png",CNN 
 https://www.we-play.tv/videos/%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7/cnn/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/idstation.png",ID Station
+#https://www.we-play.tv/videos/digital-tv//idstation/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",True Premiere 1
 http://ip2121.com:8081/at1/ENG1/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",TruePremiere 2
