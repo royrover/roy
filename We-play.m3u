@@ -1,6 +1,6 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- อัพเดทล่าสุด: 18.8.20", อัพเดทล่าสุด: 18.8.20
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- อัพเดทล่าสุด: 19.8.20", อัพเดทล่าสุด: 19.8.20
 http://tiny.cc/lr3kkz
 
 #EXTM3U
@@ -195,7 +195,7 @@ https://www.we-play.tv/videos/tv-entertainment/fox-crime-th/
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/foxlife.png",FOX Life
 #https://live.we-play.tv/android/fox-life/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/fox-life/
-#EXTINF:-1  tvg-id="" group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/fxhd.png",FX  HD
+#EXTINF:-1  tvg-id="" group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/fxhd.png",FX HD
 #https://live.we-play.tv/android/fxhd/playlist.m3u8
 #https://www.we-play.tv/videos/tv-entertainment/fxhd/
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://hitstv.com/assets/logo-HITSMOVIES.png",Hits Movies
@@ -206,8 +206,9 @@ http://dootvthai-hd.com/cmd/api/true/Jknchannel/playlist.m3u8
 http://27.254.130.61/live01/ch19.m3u8?p=st
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/history.png",History HD
+http://139.99.17.52:8081/liveorigin/hd-history_720/playlist.m3u8
 #https://live.we-play.tv/android/history/playlist.m3u8
-https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8
+#https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
 #https://live.we-play.tv/android/h2/playlist.m3u8
 https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/h2/
