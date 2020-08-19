@@ -144,9 +144,6 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/axn.png",AXN HD
 #https://live.we-play.tv/android/axn/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/axn-hd/
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg",Hi-DeF1
-#https://live.we-play.tv/android/hi-def1/playlist.m3u8
-#https://www.we-play.tv/videos/tv-entertainment/hi-def-1/
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax HD
 #https://live.we-play.tv/android/cinemax/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/cinemax/
@@ -253,9 +250,6 @@ http://27.254.149.109:8081/tumlive/FLA/chunks.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/trueasian.png",True Asian Series HD
 #https://live.we-play.tv/android/trueasianhd/playlist.m3u8
 http://27.254.149.109:8081/tumlive/TrueAsiaHD/chunks.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/true-series.jpg",True Series 
-https://live.we-play.tv/android/true-series/playlist.m3u8 
-https://www.we-play.tv/videos/tv-entertainment/true-asian-series-hd/
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truemoviehits.png",True Movie Hits 
 #https://live.we-play.tv/android/true-movie-hits/playlist.m3u8 
 http://27.254.149.109:8081/tumlive/MOVH/chunks.m3u8
