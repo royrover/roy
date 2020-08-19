@@ -344,15 +344,16 @@ http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/idstation.png",ID Station
 #https://www.we-play.tv/videos/digital-tv//idstation/
-#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title="Sports",True Premiere 1
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premiere 1
 http://103.208.24.234:1935/thaisport/epl-1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",TruePremiere 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premiere 2
 http://ip2121.com:8081/at1/ENG2/chunks.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball3.png",TruePremiere 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premiere 3
 http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball4.png",TruePremiere 4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball4.png",Premiere 4
 https://tumlive109.dvrdns.org:30443/tumlive/TFBHD4/chunks.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball5.png",TruePremiere 5
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premiere 5
 http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/bein1.png",Bein Sports 1
 http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
