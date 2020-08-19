@@ -52,102 +52,119 @@ http://160.119.77.50/iptv/sd-gmmchannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/01/idstation.jpg",ID Station
 #https://www.we-play.tv/videos/digital-tv//idstation/
 
-#EXTINF:-1 group-title="tv-entertainment" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg",Hi-DeF1
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-axn.png",AXN HD
+#https://live.we-play.tv/android/axn/playlist.m3u8
+https://www.we-play.tv/videos/tv-entertainment/axn-hd/
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg",Hi-DeF1
 #https://live.we-play.tv/android/hi-def1/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/hi-def-1/
-#EXTINF:-1 group-title="tv-entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-cinemax.png",Cinemax HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax HD
 #https://live.we-play.tv/android/cinemax/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/cinemax/
-#EXTINF:-1 group-title="tv-entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-hboeng.png",HBO HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO HD
 #https://live.we-play.tv/android/hbo-hd/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/hbo-hd/
-#EXTINF:-1 group-title="tv-entertainment" tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO Signature
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO Signature
 #https://live.we-play.tv/android/hbo-sig/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/hbo-signature/
-#EXTINF:-1 group-title="tv-entertainment" tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO Family
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO Family
 #https://live.we-play.tv/android/hbo-fam/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/hbo-family/
-#EXTINF:-1 group-title="tv-entertainment" tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hit.jpg",HBO Hits
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO Hits
 https://www.we-play.tv/videos/tv-entertainment/hbo-hit/
 #https://live.we-play.tv/android/hbo-hits/playlist.m3u8
-#EXTINF:-1 group-title="tv-entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-redalt.png",Red by HBO
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/red.png",Red by HBO
 #https://live.we-play.tv/android/red/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/red-by-hbo/
-#EXTINF:-1 group-title="tv-entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-warnertv.png",Warner TV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/warner.png",Warner TV
 #https://live.we-play.tv/android/warner/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/warner-tv/
 
-#EXTINF:-1 group-title="tv-entertainment"tvg-logo="https://teevee-hd.com/img/paramount.png",Paramount CHANNEL
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/paramount.png",Paramount CHANNEL
 https://www.we-play.tv/videos/tv-entertainment/paramount-channel/
-#EXTINF:-1 group-title="tv-entertainment" tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",Blue Ant Entertainment
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",Blue Ant Entertainment
 #https://live.we-play.tv/android/blue-ent/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/blueant-entertainment/
-#EXTINF:-1 group-title="tv-entertainment" tvg-logo="https://teevee-hd.com/img/rtl_extreme.png",Blue Ant Extreme
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/rtl_extreme.png",Blue Ant Extreme
 #https://live.we-play.tv/android/blue-ext/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/blueant-extreme/
-#EXTINF:-1 group-title="tv-entertainment" tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Fox Movies HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Fox Movies HD
 #https://live.we-play.tv/android/fox-movies/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/fox-movies-premium/
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://cdn.thf4k.com/5dac889c-941e-0a54-215d-e649bfa23bb4.png",Fox Action HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",Fox Action HD
 #https://live.we-play.tv/android/fox-action/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/fox-action-movies/
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.xtreme4k.com/channels/hd-foxfamily.png",Fox Family HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.xtreme4k.com/channels/hd-foxfamily.png",Fox Family HD
 #https://live.we-play.tv/android/fox-fam/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/fox-family-movies/
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-fox.png",Fox Thai
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/foxthai.png",Fox ไทย
 #https://live.we-play.tv/android/foxth/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/fox-%e0%b9%84%e0%b8%97%e0%b8%a2/
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-foxcrimeeng.png",Fox Crime
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime
 #https://live.we-play.tv/android/fox-crime/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/fox-crime-th/
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-foxlife.png",FOX Life
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-foxlife.png",FOX Life
 #https://live.we-play.tv/android/fox-life/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/fox-life/
-#EXTINF:-1  tvg-id="" group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-fxeng.png",FX  HD
-https://live.we-play.tv/android/fxhd/playlist.m3u8
+#EXTINF:-1  tvg-id="" group-title="Entertainment" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-fxeng.png",FX  HD
+#https://live.we-play.tv/android/fxhd/playlist.m3u8
+#https://www.we-play.tv/videos/tv-entertainment/fxhd/
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://hitstv.com/assets/logo-HITSMOVIES.png",Hits Movies
-#https://www.we-play.tv/videos/tv-entertainment/hits-movies/
-https://www.we-play.tv/videos/tv-entertainment/hits/
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-axn.png",AXN HD
-#https://live.we-play.tv/android/axn/playlist.m3u8
-https://www.we-play.tv/videos/tv-entertainment/axn-hd/
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-history.png",History HD
-https://live.we-play.tv/android/history/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-history2.png",H2
-https://live.we-play.tv/android/h2/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-natgeo.png",Nat Geographic HD
-https://live.we-play.tv/android/natgeo/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-natgeowildeng.png",Nat Geowild HD
+https://www.we-play.tv/videos/tv-entertainment/hits-movies/
+
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/history.png",History HD
+#https://live.we-play.tv/android/history/playlist.m3u8
+https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
+#https://live.we-play.tv/android/h2/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/h2/
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/natgeo.png",Nat Geographic HD
+#https://live.we-play.tv/android/natgeo/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/national-geographic/
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/natwild.png",Nat Geowild HD
 https://live.we-play.tv/android/natwild/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-natgeopeopleeng.png",Natgeo People HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/natpeople.png",Natgeo People HD
 https://live.we-play.tv/android/natpeople/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-animalplaneteng.png",Animal Planet
-https://live.we-play.tv/android/animalplanet/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/bbc-earth.jpg",BBC Earth HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/animalplanet.png",Animal Planet
+#https://live.we-play.tv/android/animalplanet/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/animal-planet/
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IB2/IB2_large.png",Outdoor Channel HD
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/outdoor-channel/
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/bbcearth.png",BBC Earth HD
 https://live.we-play.tv/android/bbc-earth/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/discovery-asia.jpg",Discovery Asia HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/discoveyasiax.png",Discovery Asia HD
 https://live.we-play.tv/android/disasia/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/discovery-1.jpg",Discovery HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/discovery.png",Discovery HD
 https://live.we-play.tv/android/discovery/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg",Samrojlok HD
-https://live.we-play.tv/android/samruajlok/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-tfilm.png",True Film HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/samrujrok.png",Samrojlok HD
+#https://live.we-play.tv/android/samruajlok/playlist.m3u8
+http://27.254.149.109:8081/tumlive/SamRujRok.stream/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/discovery.png",Discovery Channel
+https://live.we-play.tv/android/discovery/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/discoveyasiax.png",Discovery Asia HD
+https://live.we-play.tv/android/disasia/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truefilmhd.png",True Film HD
 #https://live.we-play.tv/android/truefilmhd/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/true-film-hd/
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-tfilm.png",True Film HD2
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truefilmhd.png",True Film HD2
 https://live.we-play.tv/android/truefilmhd2/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-filmasia.png",True Film Asia
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truefilmasia.png",True Film Asia
 https://live.we-play.tv/android/truefilmasia/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-asian.png",True Asian Series HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/trueasian.png",True Asian Series HD
 #https://live.we-play.tv/android/trueasianhd/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/true-series.jpg",True Series 
 https://live.we-play.tv/android/true-series/playlist.m3u8 
 https://www.we-play.tv/videos/tv-entertainment/true-asian-series-hd/
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/true-movie-hits.jpg",True Movie Hits 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truemoviehits.png",True Movie Hits 
 https://live.we-play.tv/android/true-movie-hits/playlist.m3u8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/truethaifilm.jpg",True Thai Film 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truethaifilm.png",True Thai Film 
 #https://live.we-play.tv/android/truethaifilm/playlist.m3u8 
 https://www.we-play.tv/videos/tv-entertainment/true-thai-film/
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/tvb.png",TVB ไทย
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-tmusic.png",True Music
 #https://live.we-play.tv/android/truemusic/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/true-music-hd/
@@ -163,15 +180,11 @@ https://live.we-play.tv/android/thrill/playlist.m3u8
 https://live.we-play.tv/android/kix/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-tvn.png",TVN
 https://live.we-play.tv/android/tvn/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/sd-discoveryeng.png",Discovery Channel
-https://live.we-play.tv/android/discovery/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-discovery.png",Discovery Asia HD
-https://live.we-play.tv/android/disasia/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/hd-xzyte.png",True X-ZYTE
 https://live.we-play.tv/android/xzyte/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://center.beinsport.biz/assets/images/channel_new_mini/uk-foodnetwork.png",Food Network
 https://live.we-play.tv/android/foodnetwork/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://crushgame.ru/channels_logos/Cognitive/Outdoor_Channel.png",Outdoor HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://crushgame.ru/channels_logos/Cognitive/Outdoor_Channel.png",Outdoor HD
 https://live.we-play.tv/android/outdoor/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-cartoonnetwork.png",Cartoon Network
