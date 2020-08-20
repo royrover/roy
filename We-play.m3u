@@ -143,7 +143,8 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/axn.png",AXN HD
 #https://live.we-play.tv/android/axn/playlist.m3u8
-https://www.we-play.tv/videos/tv-entertainment/axn-hd/
+#https://www.we-play.tv/videos/tv-entertainment/axn-hd/
+http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax HD
 #https://live.we-play.tv/android/cinemax/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/cinemax/
