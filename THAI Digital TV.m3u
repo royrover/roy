@@ -404,8 +404,8 @@ https://cdn-th.login.in.th/ch8/ch8/chunklist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch31.stream/chunks.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #https://live.tubtoeball.net/tubtoeball_app/Movies Livex/playlist.m3u8
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8
-http://139.99.17.52:8081/liveorigin/hd-Movies Livex_720/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8
+#http://139.99.17.52:8081/liveorigin/hd-Movies Livex_720/playlist.m3u8
 #https://iamntp.com/hbo/max_onweb.m3u8
 #EXTINF:-1 tvg-id="FoxActionMovies.th"group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION MOVIES 
 http://203.150.107.30:8081/tested2iptv/core206/playlist.m3u8
@@ -862,7 +862,7 @@ http://dootvthai-hd.com/cmd/api/true/RAMA-CHANNEL/playlist.m3u8
 #http://203.154.243.32:8088/live/wanimal/index.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://pbs.twimg.com/profile_images/653546209488052224/iZA1Cnu-.png",BBC Lifestyle
 #http://27.254.149.109:8081/tumlive/BBCLifestyle/playlist.m3u8
-http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
 #https://streaming.livescorethai.net/iptv/sd-bbclifestyle.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Knowledge"tvg-logo="https://psisat.com/wp-content/uploads/2018/09/logo-psi2018.png",PSI
@@ -908,7 +908,7 @@ http://45.126.83.51/dr9445/h/h144/01.m3u8
 #http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #http://ms003.happytv.com.tw/live/babyMztT5DcwWEr1f/index.m3u8
 #http://livecdnh1.tvanywhere.ae/hls/baby/05.m3u8
-http://160.119.77.50/iptv/sd-babytv.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-babytv.stream/playlist.m3u8
 #ttp://202.183.247.206:9981/stream/channelid/1889318275?ticket=BA0F28565BE4A31CC0B61F345E997F7FCB4F990E&profile=pass
 #http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
@@ -939,7 +939,7 @@ http://27.254.149.109:8081/tumlive/cartoon_network/playlist.m3u8
 #https://cdn-laos.workpoint.news/sd-cartoonnetwork_480/index.m3u8
 #http://202.183.247.206:9981/stream/channelid/1480437507?ticket=24D4167FECB5A77C331D393954B6900A325F6B31&profile=pass
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Cartoonito.uk.png" group-title="Kids",Cartoonito
-http://160.119.77.50/iptv/uk-cartoonito.stream/playlist.m3u8
+#http://160.119.77.50/iptv/uk-cartoonito.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/cbeebies/images/4/43/Australia.png" group-title="Kids",Cbeebies
 #http://51.52.156.22:8888/http/003
 http://160.119.77.50/iptv/uk-cbeebieshd.stream/playlist.m3u8
@@ -969,7 +969,7 @@ http://27.254.149.109:8081/tumlive/Nick/playlist.m3u8
 #http://iliketot.dyndns.tv/09fffe8d426745689f60cbc24da1bb49.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA=
 #EXTINF:-1 tvg-id="" tvg-logo="https://teevee-hd.com/img/nickelodeon.png" group-title="Kids",Nickelodeon
 #https://live.we-play.tv/android/nickelodeon/playlist.m3u8
-http://kodinew.dyndns.tv:9981/stream/channelid/414376583?ticket=3828CE1DBBF260ADE1F00BAAC37E22A6DBAF6E73&profile=pass
+#http://kodinew.dyndns.tv:9981/stream/channelid/414376583?ticket=3828CE1DBBF260ADE1F00BAAC37E22A6DBAF6E73&profile=pass
 #EXTINF:-1 group-title="Kids" tvg-logo="https://imgcloud.fwiptv.cc/postor/2019032506051812377635_206785022990745_2323450990199693871_o.jpg",MIAO MI
 #https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #https://cdn-laos.workpoint.news/sd-miaomi_480/index.m3u8
@@ -1296,25 +1296,25 @@ http://139.99.17.52:8081/liveorigin/epl-bein2_720/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
 #https://live.we-play.tv/android/bein2/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein3.png",Bein Sport 3
-http://160.119.77.50/iptv/hd-bein3.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-bein3.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein3/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein4.png",Bein Sport 4
 #http://streaming-fast.com/covid19_live/bein4/playlist.m3u8
-http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein5.png",Bein Sport 5
 #http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein5/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein6.png",Bein Sport 6
-http://160.119.77.50/iptv/hd-bein6.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-bein6.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein6/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein7.png",Bein Sport 7
-http://160.119.77.50/iptv/hd-bein7.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-bein7.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein8.png",Bein Sport 8
-http://160.119.77.50/iptv/hd-bein8.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-bein8.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein9.png",Bein Sport 9
-http://160.119.77.50/iptv/hd-bein9.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-bein9.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein10.png",Bein Sport 10
-http://160.119.77.50/iptv/hd-bein10.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-bein10.stream/playlist.m3u8
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/512.png",BEIN 11 
 
@@ -1422,15 +1422,20 @@ http://191.96.77.198:8081/4kmovie/i/Avengers.Endgame.2019.mkv
 https://4kmovie2.cloud-streaming.com/content/Batman.Superman.Dawn.of.Justice.2016.mkv
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://m.media-amazon.com/images/I/91LmsuoBOIL._AC_SX354_SY510_FMwebp_QL65_.jpg", Captain America1 The First Avenger (2011)
-https://4kmovie2.cloud-streaming.com/content/Captain.America.The.First.Avenger.mkv
+#https://4kmovie2.cloud-streaming.com/content/Captain.America.The.First.Avenger.mkv
+https://lb1.one3up.com/hls/12124e92ac216d68458183b5be7dab33/12124e92ac216d68458183b5be7dab33.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91JPOLgUj2L._SX600_.jpg", Captain America2 The Winter Soldier (2014)
-http://191.96.77.198:8081/4kmovie/h/Captain.America.The.Winter.Soldier.2014.mkv
+#http://191.96.77.198:8081/4kmovie/h/Captain.America.The.Winter.Soldier.2014.mkv
+https://lb1.one3up.com/hls/a7ba848ba902b82ff1cfa746d38df42d/a7ba848ba902b82ff1cfa746d38df42d.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91QeHriyBcL._SX600_.jpg",Captain America3 Civil War (2016)
-http://191.96.77.198:8081/4kmovie/h/captain.america.civil.war.2016.mkv
+#http://191.96.77.198:8081/4kmovie/h/captain.america.civil.war.2016.mkv
+https://lb1.one3up.com/hls/61cfc3ddef3a9223bcc176ce23aa631b/61cfc3ddef3a9223bcc176ce23aa631b.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51bF2a%2BE4LL._AC_SL1500_.jpg",Captain Marvel (2019)
-http://191.96.77.198:8081/4kmovie/h/Captain.Marvel.2019.2160p.mkv
+#http://191.96.77.198:8081/4kmovie/h/Captain.Marvel.2019.2160p.mkv
+https://lb1.one3up.com/hls/3cfd471f55254dc00925afe6d41e1494/3cfd471f55254dc00925afe6d41e1494.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://m.media-amazon.com/images/I/91BAMbEQHKL._AC_SX354_SY510_FMwebp_QL65_.jpg",Doctor Strange (2016)
-https://cdn175.cloud-streaming.com/4k/atmos/Doctor.Strange.2016.mkv
+#https://cdn175.cloud-streaming.com/4k/atmos/Doctor.Strange.2016.mkv
+https://lb1.one3up.com/hls/12d471d0d81e73c26adf0b280042d408/12d471d0d81e73c26adf0b280042d408.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869682.jpg",The Fast and the Furious 1 (2001)
 #http://191.96.77.23:443/movie/bluray2016/The-Fast-and-the-Furious-2001-th-en-1080p.mp4/index.m3u8
@@ -1532,9 +1537,13 @@ https://lb1.one3up.com/hls/576ca169ad8a2090576d0c46febfa82d/576ca169ad8a2090576d
 https://lb1.one3up.com/hls/572219527521a910371d98c1b3ad321a/572219527521a910371d98c1b3ad321a.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://m.media-amazon.com/images/I/91AAWp-GlVL._AC_SX354_SY510_FMwebp_QL65_.jpg",Thor1 (2011)
-https://cdn175.cloud-streaming.com/4k/atmos/Thor.2011.mkv
-#EXTINF:-1 group-title="Movies"tvg-logo="https://m.media-amazon.com/images/I/91166DmXV7L._AC_SX354_SY510_FMwebp_QL65_.jpg",Thor2 The Dark World (2013)
-https://cdn175.cloud-streaming.com/4k/atmos/Thor.The.Dark.World.2013.mkv
+#https://cdn175.cloud-streaming.com/4k/atmos/Thor.2011.mkv
+https://lb1.one3up.com/hls/4192ff24fed0a1c7ae01808998633fef/4192ff24fed0a1c7ae01808998633fef.m3u8
+#EXTINF:-1 group-title="Movies"tvg-logo="https://m.media-amazon.com/images/I/91166DmXV7L._AC_SX354_SY510_FMwebp_QL65_.jpg",Thor2 : The Dark World (2013)
+#https://cdn175.cloud-streaming.com/4k/atmos/Thor.The.Dark.World.2013.mkv
+https://lb1.one3up.com/hls/2f4dafa67c1d040e42d71c7791e7c082/2f4dafa67c1d040e42d71c7791e7c082.m3u8
+#EXTINF:-1 group-title="Movies"tvg-logo="https://i.pinimg.com/originals/34/72/2d/34722d23b4d988036c987436d3cf913f.jpg",Thor3 : Raknarok (2017)
+https://lb1.one3up.com/hls/cbf2329da91bf13249a00c89d209a7c8/cbf2329da91bf13249a00c89d209a7c8.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/917U-oahX-L._AC_SL1500_.jpg",Transformers 1 (2007)
 http://cdnstream1.podzone.net:443/bluray2/bluray2018/Transformers.2007.4K.2160p.TH.mp4
