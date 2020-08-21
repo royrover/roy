@@ -391,7 +391,8 @@ http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/BLUE-ANT-EXTREME/playlist.m3u8
 https://mhd-01.ddns.net:30443/mdb_app/blue-ext/playlist.m3u8
 #EXTINF:-1 group-title="Movies Live"tvg-logo="https://www.doohdbox.com/assets/20170709090502720443899.jpg",CTB
-http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8
 #EXTINF:-1 group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/classicmovies.png",CCM
 #https://niklive.com/app-api-android/ktu/Celestial-classic-movies/playlist.m3u8
 http://160.119.77.50/iptv/sd-celestial.stream/playlist.m3u8
@@ -399,7 +400,8 @@ http://160.119.77.50/iptv/sd-celestial.stream/playlist.m3u8
 #https://live.we-play.tv/android/ccm/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Movies Live"tvg-logo="https://i.ytimg.com/vi/hGnizLy0Pzw/hqdefault.jpg",Channel 8
 #http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
-https://cdn-th.login.in.th/ch8/ch8/chunklist.m3u8
+#https://cdn-th.login.in.th/ch8/ch8/chunklist.m3u8
+https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax
 #https://tv4.chang55.com:446/live2/tv4ch31.stream/chunks.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
@@ -616,8 +618,8 @@ http://27.254.149.109:8081/tumlive/FLA/chunks.m3u8
 #https://live.we-play.tv/android/truefilmasia/playlist.m3u8
 #EXTINF:-1 group-title="Movies Live" tvg-logo="https://teevee-hd.com/img/trueasian.png",True Asian Series HD
 #http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
-http://27.254.149.109:8081/tumlive/TrueAsiaHD/chunks.m3u8
-#http://139.99.17.52:8081/liveorigin/hd-asian_720/playlist.m3u8
+#http://27.254.149.109:8081/tumlive/TrueAsiaHD/chunks.m3u8
+http://139.99.17.52:8081/liveorigin/hd-asian_720/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch94.stream/playlist.m3u8
 #https://live.we-play.tv/android/trueasianhd/playlist.m3u8
 #EXTINF:-1 group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/truemoviehits.png",True Movie Hit
@@ -700,7 +702,7 @@ http://dootvthai-hd.com/cmd/api/true/Laostarchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://mvtv.co.th/ios/icons/GIF/mvlao140x140.gif",MV Lao 
 #https://edge1a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1701215916.m3u8
 https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.onia.tv/files/picture/2019-12-05/tvchannel_2019-12-05-20-30-33_1.jpg",MVM
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/8.jpg",MVM
 #https://edge4a.v2h-cdn.com/v2hlive4a/MVTV75.stream_720p/chunklist_w1105162032.m3u8
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2003331397.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/0c30b192-953b-49b9-a9bf-a4c6e3e71de3.png",True Shopping
@@ -747,10 +749,6 @@ http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="http://thaiip.tv/tvlogo2/mvtv.png",MVTV
 #https://edge1a.v2h-cdn.com/appt7/MVTV.stream_720p/chunklist_w1224574036.m3u8
 https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="http://thaiip.tv/tvlogo2/five.png",MVTV Five Channel
-https://edge1a.v2h-cdn.com/appt3/five.stream_720p/chunklist_w1616935929.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="http://thaiip.tv/tvlogo2/hmong.png",MVTV Hmong
-https://edge1a.v2h-cdn.com/appt7/MHONG.stream_360p/chunklist_w839479703.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://inchincloser.files.wordpress.com/2012/04/zee-apac.jpg",ZEE TV
 #http://kodinew.dyndns.tv:9981/stream/channelid/945789723?ticket=70FB8EA62FDCD8F90C999DAA960FE597957A41D4&profile=pass
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/images/channel/2014/06/11/zing1_0.jpg",ZING
@@ -1297,30 +1295,38 @@ http://160.119.77.50/iptv/hd-bein2.stream/playlist.m3u8
 #https://live.we-play.tv/android/bein2/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein3.png",Bein Sport 3
 #http://160.119.77.50/iptv/hd-bein3.stream/playlist.m3u8
-#http://streaming-fast.com/covid19_live/bein3/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/hd-bein3_480/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein4.png",Bein Sport 4
 #http://streaming-fast.com/covid19_live/bein4/playlist.m3u8
 #http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/hd-bein4_480/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein5.png",Bein Sport 5
 #http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein5/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/hd-bein5_480/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein6.png",Bein Sport 6
 #http://160.119.77.50/iptv/hd-bein6.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein6/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/hd-bein6_480/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein7.png",Bein Sport 7
 #http://160.119.77.50/iptv/hd-bein7.stream/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/hd-bein7_480/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein8.png",Bein Sport 8
 #http://160.119.77.50/iptv/hd-bein8.stream/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/hd-bein8_480/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein9.png",Bein Sport 9
 #http://160.119.77.50/iptv/hd-bein9.stream/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/hd-bein9_480/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein10.png",Bein Sport 10
 #http://160.119.77.50/iptv/hd-bein10.stream/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/hd-bein10_480/playlist.m3u8
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/512.png",BEIN 11 
+http://139.99.17.52:8081/liveorigin/hd-bein11_480/playlist.m3u8
 
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BEIN 12 
-
+http://139.99.17.52:8081/liveorigin/hd-bein12_480/playlist.m3u8
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/514.png",BEIN 13
 
