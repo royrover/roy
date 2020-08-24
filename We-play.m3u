@@ -239,7 +239,10 @@ https://we-play.tv/videos/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94/discover
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/samrujrok.png",Samrojlok HD
 #https://live.we-play.tv/android/samruajlok/playlist.m3u8
 http://27.254.149.109:8081/tumlive/SamRujRok.stream/playlist.m3u8
-
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/3b/ea/dd/3beadd19-e965-70d8-4183-430b4fdb22ee/AppIcon-Branded-1x_U007emarketing-85-220-0-5.png/246x0w.jpg",LoveNature 4K
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/lovenature-4k/
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/05/tlc_best_shows-519x512.jpg",TLC HD
+https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/tlc-hd/
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truefilmhd.png",True Film HD
 #https://live.we-play.tv/android/truefilmhd/playlist.m3u8
@@ -441,6 +444,8 @@ http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/btsport1.png",BTSPORT 3
 http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://sport-tv-guide.live/images/tv-station-motorvision-tv-185.png",Motor Vision
+https://www.we-play.tv/videos/sport/motor-vision/
 
 
 
