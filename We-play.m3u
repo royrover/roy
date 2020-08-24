@@ -277,7 +277,8 @@ https://live.we-play.tv/android/chinesemovies/playlist.m3u8
 http://27.254.149.109:8081/tumlive/Thrill/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/kix.png",Kix
 #https://live.we-play.tv/android/kix/playlist.m3u8
-http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+#http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/tvn.png",TVN
 #https://live.we-play.tv/android/tvn/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/tvn/
@@ -439,13 +440,26 @@ http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/btsport1.png",BTSPORT 1
-http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
+#http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
+https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/bt-sport-1-hd/
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/btsport1.png",BTSPORT 2
-http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
+#http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/btsport1.png",BTSPORT 3
-http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
+#http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://sport-tv-guide.live/images/tv-station-motorvision-tv-185.png",Motor Vision
 https://www.we-play.tv/videos/sport/motor-vision/
+#EXTINF:-1 group-title="Sports"tvg-logo="https://pbs.twimg.com/profile_images/689545865699139584/lTtOY34z_400x400.jpg",FIGHT SPORTS
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+
+#EXTINF:-1 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",SPORTTV 1
+https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/sport-tv-1/
+#EXTINF:-1 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",SPORTTV 2
+https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/sport-tv-2/
+#EXTINF:-1 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",SPORTTV 3
+https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/sport-tv-3/
+#EXTINF:-1 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",SPORTTV 4
+https://www.we-play.tv/videos/%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8/sport-tv-4/
+
 
 
 
