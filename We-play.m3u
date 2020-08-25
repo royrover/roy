@@ -330,7 +330,8 @@ http://160.119.77.50/iptv/uk-bbc1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/france24.png",FRANCE24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/cctv4.png",CCTV4 
-http://160.119.77.50/iptv/sd-cctv4.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-cctv4.stream/playlist.m3u8
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/euronews.png" group-title="News World",Euronews HD
 http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/foxnews.png",Fox News 
