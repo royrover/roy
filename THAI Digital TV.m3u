@@ -12,6 +12,7 @@ http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
 #http://206.189.150.220:8081/freelive-edge/_definst_/dtv33_ch3hd/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/3HD/playlist.m3u8
 #http://103.22.182.242:8081/app/ch3hd/chunks.m3u8
+#http://139.99.17.52:8081/liveorigin/hd-ch3_720/playlist.m3u8
 #https://live.we-play.tv/android/ch3hd/playlist.m3u8
 #https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8
 #https://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v1a1/mono.m3u8
@@ -132,9 +133,10 @@ http://dootvthai-hd.com/cmd/true/ONE-HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PPTV.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
 #http://160.119.77.50/iptv/hd-pptv.stream/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/hd-pptv_720/playlist.m3u8
 #http://27.254.130.64/live01/chsd_PPTV_HD_2.m3u8?p=st
 #http://206.189.150.220:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
-http://27.254.130.56:80/live01/ch2.m3u8
+#http://27.254.130.56:80/live01/ch2.m3u8
 #http://183.182.100.184/live/pptvthai/playlist.m3u8
 #http://iliketot.dyndns.tv/623d009180394c528880c14e2254452a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
@@ -157,10 +159,11 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="Workpoint.th"group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT TV
 #http://206.189.150.220:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
 #https://tv4.chang55.com/live2/tv4ch63.stream/chunks.m3u8
-#http://27.254.130.56:80/live01/ch7.m3u8
+http://27.254.130.56:80/live01/ch7.m3u8
 #https://live.we-play.tv/android/workpoint/playlist.m3u8
 #http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
-http://dootvthai-hd.com/cmd/true/Workpointtv/playlist.m3u8
+#http://dootvthai-hd.com/cmd/true/Workpointtv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Workpoint.th"group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT TV FHD
 #https://stream-04.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8sBIK5TrScOCK8EKTRLBZrk)/dm/3/x6g9qjj/s/live-4.m3u8
@@ -170,6 +173,8 @@ http://160.119.77.50/iptv/sd-24u.stream/playlist.m3u8
 #http://206.189.150.220:8081/freelive-edge/_definst_/dtv24_true4u/playlist.m3u8
 #https://live.we-play.tv/android/true4u/playlist.m3u8
 #http://live.pjmcdn.info/live/True4U.stream/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="GMM25.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM Channel
 http://160.119.77.50/iptv/sd-gmmchannel.stream/playlist.m3u8
