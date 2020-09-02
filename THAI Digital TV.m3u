@@ -1144,21 +1144,24 @@ http://160.119.77.50/iptv/hd-golf.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="foxsports.th"group-title="Sports"tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport1.png",FOX SPORTS HD
 #http://160.119.77.50/iptv/hd-foxsports1.stream/playlist.m3u8
 #https://vodcache.worldwidetv.club/livesport-abr/hd-foxsports1/livesport/hd-foxsports1_1080/chunks.m3u8
-http://139.99.17.52:8081/liveorigin/hd-foxsports1_720/playlist.m3u8
+#http://139.99.17.52:8081/liveorigin/hd-foxsports1_720/playlist.m3u8
+http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-HD/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 #http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch09.stream/chunks.m3u8
 #http://202.183.247.206:9981/stream/channelid/28624870?ticket=50CC255F652CF4ACE715016079737E2BADA710AC&profile=pass
 #EXTINF:-1 tvg-id="foxsport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2 
 #https://streaming.livescorethai.net/iptv/sd-foxsports2.stream/chunks.m3u8
-http://160.119.77.50/iptv/hd-foxsports2eng.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-foxsports2eng.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-2-HD/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/sd-foxsports2_480/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 #http://iliketot.dyndns.tv/1fd48f2cd616439ca4162478e572d681.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="foxsport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3 
 #http://160.119.77.50/iptv/sd-foxsports3.stream/playlist.m3u8
 #https://streaming.livescorethai.net/iptv/sd-foxsports3.stream/chunks.m3u8
-http://160.119.77.50/iptv/hd-foxsports3eng.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-foxsports3eng.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-3/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/sd-foxsports3_480/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 #http://iliketot.dyndns.tv/b254601a75724ad79e2633f3d307e331.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
@@ -1168,7 +1171,8 @@ http://160.119.77.50/iptv/hd-foxsports3eng.stream/playlist.m3u8
 #https://cdn-laos.workpoint.news/sd-smmtv_480/index.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/nfl.png",NFL Network
 #https://live.we-play.tv/android/nfl/playlist.m3u8
-https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
+#https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
+http://dootvthai-hd.com/cmd/api/true/NFL-Network/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",SPORTTV 1
 #https://live.we-play.tv/android/sporttv1/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",SPORTTV 2
@@ -1304,6 +1308,7 @@ http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
 #http://160.119.77.50/iptv/hd-bein2.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch73.stream/chunks.m3u8
 #http://103.208.24.234:1935/thaisport/epl-bein2.stream/playlist.m3u8
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
 #https://live.we-play.tv/android/bein2/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein3.png",Bein Sport 3
