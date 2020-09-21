@@ -254,7 +254,7 @@ http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #http://160.119.77.50/iptv/uk-bbc1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/cnn.png",CNN
 #http://202.183.247.206:9981/stream/channelid/1191319827?ticket=7C8C0E79DDE35691F1F3B9B6026919680728033B&profile=pass
-http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
+#http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch27.stream/playlist.m3u8
 #https://live.we-play.tv/android/cnn/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/france24.png",FRANCE24
@@ -268,17 +268,17 @@ https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
 #http://iliketot.dyndns.tv/5289381709e64f8db14a4ed75ab2b59f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/DW.png" group-title="News World",Deutsche Welle (English)
 #https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-http://27.254.149.109:8081/tumlive/DW/playlist.m3u8
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#http://27.254.149.109:8081/tumlive/DW/playlist.m3u8
 #EXTINF:-1, group-title="News World" tvg-logo="https://www.doohdbox.com/assets/201708072112041744562745.jpg",CBS News
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/euronews.png" group-title="News World",Euronews HD
 #http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
-http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
+#http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/foxnews.png",Fox News 
 http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/nhkworld.png",NHK WORLD TV
-http://160.119.77.50/iptv/sd-nhkworld.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-nhkworld.stream/playlist.m3u8
 #https://live.we-play.tv/android/nhk/playlist.m3u8 
 #http://iliketot.dyndns.tv/cd25fccffa6f4a2f8d7190d3e8907440.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="http://www.totiptv.com/Product/Channel/images/rt_b.png",RT TV
@@ -293,11 +293,11 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://image.roku.com/developer_channels/prod/576365b1deee1bbd799caae8c445a593bd07c5434b588f52d97c93c29c827297.png",Australia Channel
 #https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://teevee-hd.com/img/bbc.png",BBC World News
-http://160.119.77.50/iptv/hd-bbcworldnews.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-bbcworldnews.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch28.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://teevee-hd.com/img/skynews.png",Sky News
-http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
-#https://www.youtube.com/watch?v=9Auq9mYxFEE
+#http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
+https://www.youtube.com/watch?v=9Auq9mYxFEE
 #https://youtu.be/9Auq9mYxFEE
 #http://iliketot.dyndns.tv/31b003ab7e7749a798fe00424e3dd9ff.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
