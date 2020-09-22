@@ -121,6 +121,7 @@ http://203.150.107.30:8081/tested2iptv/core13/playlist.m3u8
 #http://206.189.150.220:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
 #https://live.we-play.tv/android/amarintv/playlist.m3u8
 #http://103.75.201.3:1935/live/ama/playlist.m3u8
+#http://dootvthai-hd.com/cmd/true/Amarintv-HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/amarin.png",Amarin TV FHD
 #http://103.120.113.90:1935/psilive1a/AmarinHD.stream/playlist.m3u8
@@ -128,6 +129,7 @@ http://203.150.107.30:8081/tested2iptv/core13/playlist.m3u8
 
 #EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE 
 #http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8
+#http://dootvthai-hd.com/cmd/true/ONE-HD/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-gmmone_720/playlist.m3u8
 http://one31-rlbwkq.cdn.byteark.com:80/live/playlist_720p/index.m3u8
 #https://cdn161.cloud-streaming.com/ilike4kin_x6/one_720p/chunks.m3u8
@@ -1126,21 +1128,24 @@ http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h
 #http://cdn101.stm.trueid.net:80/live6/he001_th_m_high_tidapp.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=U%2Fh57boc3Oqk7Ehq65yWTaJKnHMzIMY3w0yCVYnNSA%2F14zyBh4DhRPN01xSLvf6CB%2Bnis20n3EizRn%2BsWXTbxg9k5CUnsFfzkdStIV9r0OA6OuBM9jCWtbypITLnNQ8hbdc
 
 #EXTINF:-1 tvg-id="TrueSport1.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd1.png",TRUESPORT HD
-http://160.119.77.50/iptv/hd-tsport1.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-tsport1.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/Truesport-HD/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-tsport1_720/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/TruesportHD1/playlist.m3u8
 #http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch18.stream/chunks.m3u8
 #https://live.we-play.tv/android/thd1/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd2.png",TRUESPORT HD2
-http://160.119.77.50/iptv/hd-tsport2.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-tsport2.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/Truesport-HD2/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-tsport2_720/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/TruesportHD2/playlist.m3u8
 #http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch15.stream/chunks.m3u8
 #https://live.we-play.tv/android/thd2/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd3.png",TRUESPORT HD3
-http://160.119.77.50/iptv/hd-tsport3.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-tsport3.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/Truesport-HD3/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/TruesportHD3/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-tsport3_720/playlist.m3u8
 #http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
@@ -1174,14 +1179,16 @@ http://tv10.chang55.com/ch07-tsp7/playlist.m3u8
 #http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBATV.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/nba.png",NBA TV
 #http://103.208.24.234:1935/thaisport/hd-nba.stream/chunklist.m3u8
-http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/api/true/NBA-TV/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-nba_720/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch23.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="truetennis.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tennis.png",Tennis HD
 #http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-tennis_720/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch22.stream/chunks.m3u8
-http://160.119.77.50/iptv/hd-tennis.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-tennis.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/api/true/TRUE-TENNIS-HD/playlist.m3u8
 #http://203.150.107.30:8081/tested2iptv/core3/playlist.m3u8
 #https://live.we-play.tv/android/tennis/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Sports"tvg-logo="https://teevee-hd.com/img/golf.png",Golf Channel
