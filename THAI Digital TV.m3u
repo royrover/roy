@@ -790,10 +790,12 @@ http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
 #http://kodinew.dyndns.tv:9981/stream/channelid/859415194?ticket=B94F022535096FDA0AD42C8281373F3FDBD042FC&profile=pass
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://stopcyberbullyingday.org/wp-content/uploads/2016/01/MTV-logo.jpg",MTV CHINA
 #http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-user-4pda-denms-ru-v1-a1
-http://160.119.77.50/iptv/sd-mtvchina.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-mtvchina.stream/playlist.m3u8
+http://203.154.177.124:8899/live/ch16/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/mtvasia.png",MTV ASIA
 #http://host4.dynns.com/wevelwe/deb56e700dbc4d9ea5af08e9d300a675.m3u8
-http://160.119.77.50/iptv/sd-mtvasia.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-mtvasia.stream/playlist.m3u8
+http://203.154.177.124:8899/live/ch4/playlist.m3u8
 #http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://imgcloud.fwiptv.cc/postor/20180914183340TMG.jpg",Sangjun TV
 #http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/sangjun.smil/playlist.m3u8
@@ -810,13 +812,17 @@ https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist.m3u8
 #http://kodinew.dyndns.tv:9981/stream/channelid/417735839?ticket=A8BD3CE4B249000F301E6E10C50877703FE48194&profile=pass
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/kbs.png",KBS WORLD HD
 #https://cdn780.stm.trueid.net/live2/142_w_auto_tidapp.smil/chunklist_w1079232538_b2537779_vo_slkor_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=73301911&mpass=nhaku4FlWIVmJkptF4n3kmCJndjRdFmC%2BExgDS6fqqZnpIRvLYWZBfL3hf6ahQP%2BHjD5GZfGtbtbzwrZ6L7fe1MGmraqlGzJQf9HrYr3fsiABNlMjN%2BJL%2BY21gHnYMclOjq%2FwWQLSRWANQY2lK5pk7%2B2
-http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/api/true/KBS-World-HD/playlist.m3u8
+#http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-kbsworld_720/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://static.iptv-epg.com/kr/JTBC.kr.png",JTBC
 #https://www.youtube.com/watch?v=tZYWafqHJAg
 #https://www.youtube.com/watch?v=74qYqxK95VU
 #http://121.159.183.222:9981/stream/channelid/215643962
-
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://1063thefox.com/wp-content/uploads/2020/02/2.5.20-Food.png",FOOD NETWORK
+http://dootvthai-hd.com/cmd/api/true/FOOD-NETWORK-HD/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.bworldonline.com/wp-content/uploads/2017/05/AFN-logo-e1578559005304.jpg",ASIAN FOOD NETWORK
+http://dootvthai-hd.com/cmd/true/asian-food-channel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY TH
 #http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
@@ -844,7 +850,7 @@ http://dootvthai-hd.com/cmd/api/true/H2/playlist.m3u8
 #http://160.119.77.50/iptv/uk-history2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/discovery.png",Discovery TH
 #https://tv4.chang55.com:446/live2/tv4ch79.stream/chunks.m3u8
-http://203.150.107.30:8081/tested2iptv/core201/playlist.m3u8
+๒http://203.150.107.30:8081/tested2iptv/core201/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/33.m3u8
 #https://livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 #https://live.we-play.tv/android/discovery/playlist.m3u8
@@ -960,8 +966,9 @@ https://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/chunkl
 http://live3.smartbomb.co.th:8624/stream/1/
 
 #EXTINF: -1 tvg-id="" group-title="Kids"tvg-logo="https://teevee-hd.com/img/animax.png",Animax
+http://203.154.177.124:8899/live/ch5/playlist.m3u8
 #http://203.154.243.31:8081/live/animax/index.m3u8
-http://45.126.83.51/dr9445/h/h144/01.m3u8
+#http://45.126.83.51/dr9445/h/h144/01.m3u8
 #http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #https://live.we-play.tv/android/animax/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/1468536448?ticket=CC482188B4B4C1206C0F6217AA212075E0CE7775&profile=pass
@@ -1047,11 +1054,13 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 #https://www.youtube.com/watch?v=BRkQ-ZGiNbc
 #http:\\aldirect.hls.huya.com\huyalive\94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="TrueSparkJump.th"group-title="Kids"tvg-logo="https://i.pinimg.com/474x/42/b0/a5/42b0a53eedfd1b9d18f1931635de29ca.jpg",TRUE SPARK JUMP
-http://160.119.77.50/iptv/sd-sparkjump.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/TRUE-SPARK-JUMP/playlist.m3u8
+#http://160.119.77.50/iptv/sd-sparkjump.stream/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/28.m3u8
 #https://live.we-play.tv/android/sparkjump/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",True Spark Play 
-http://160.119.77.50/iptv/sd-sparkplay.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/TRUE-SPARK-PLAY/playlist.m3u8
+#http://160.119.77.50/iptv/sd-sparkplay.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="Kids",哈哈炫动
 #http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="Kids",卡酷少儿
