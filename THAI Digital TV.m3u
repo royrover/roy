@@ -845,6 +845,7 @@ http://203.150.107.30:8081/tested2iptv/core201/playlist.m3u8
 #https://live.we-play.tv/android/discovery/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/discoveyasiax.png",DiscoveryAsia 
 #http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
+https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/32.m3u8
 #https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-natgeowild/liveorigin/hd-natgeowild_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-discovery_720/playlist.m3u8
@@ -1465,31 +1466,31 @@ http://160.119.77.50/iptv/uk-skysports-arena.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport1.png",Skynetsport1
 #http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
-http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch02.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport2.png",Skynetsport2
 #http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
-http://160.119.77.50/iptv/sd-skynetsports2.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-skynetsports2.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch03.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport3.png",Skynetsport3
 #http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
-http://160.119.77.50/iptv/sd-skynetsports3.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-skynetsports3.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch04.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport4.png",Skynetsport4
 #http://27.254.149.109:8081/tumlive/SKYNET4/playlist.m3u8
-http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch05.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport5.png",Skynetsport5
 #http://27.254.149.109:8081/tumlive/SKYNET5/playlist.m3u8
-http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch06.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport6.png",Skynetsport6
 #http://27.254.149.109:8081/tumlive/SKYNET6/playlist.m3u8
-http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch07.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport.png",Skynetsport HD
 #https://tv4.chang55.com:446/live2/tv4ch01.stream/chunks.m3u8
-http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u
+#http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u
 #http://27.254.149.109:8081/tumlive/SKYNETHD/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DlBh6ZaWL._SX600_.jpg",Ant-Man1 (2015)
