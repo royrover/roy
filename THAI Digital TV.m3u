@@ -862,13 +862,16 @@ http://139.99.17.52:8081/liveorigin/hd-discovery_720/playlist.m3u8
 https://tv4.chang55.com:446/live2/tv4ch80.stream/chunks.m3u8
 #https://live.we-play.tv/android/disasia/playlist.m3u8
 #EXTINF:-1 tvg-id="trueexploresci.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/truesci.png",TRUE EXPLORE SCI
-http://160.119.77.50/iptv/sd-expsci.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-expsci.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/true-explore-sci/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/1208956943?ticket=4BAA06DD175728F80AA7ABAD51843049F9D013AC&profile=pass
 #EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-logo="https://teevee-hd.com/img/truelife.png",TRUE EXPLORE LIFE
-http://160.119.77.50/iptv/sd-explife.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-explife.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/true-explore-life/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/484530767?ticket=A3C7703190A2D6C9A3765E1A393FEB4A3F4C7CBC&profile=pass
 #EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/truewild.png",TRUE EXPLORE WILD
-http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/true-explore-wild/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/442983939?ticket=0C4D440116DDB238A6C5D15D09EC4931BCBC6596&profile=pass
 #EXTINF:-1 tvg-id="NationalGeographic.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/natgeo.png",NAT GEOGRAPHIC TH 
 #http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8
@@ -993,7 +996,7 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 #https://tv4.chang55.com:446/live2/tv4ch20.stream/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/19.m3u8
 #http://160.119.77.50/iptv/sd-cartoonnetworkeng.stream/playlist.m3u8
-http://27.254.149.109:8081/tumlive/cartoon_network/playlist.m3u8
+http://dootvthai-hd.com/cmd/api/true/cartoon-network-hd/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/Cartoonnetwork/chunks.m3u8
 #https://live.we-play.tv/android/cnhd/playlist.m3u8
 #https://cdn-laos.workpoint.news/sd-cartoonnetwork_480/index.m3u8
