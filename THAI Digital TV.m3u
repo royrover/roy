@@ -199,7 +199,8 @@ http://dootvthai-hd.com/cmd/true/True4u/playlist.m3u8
 #EXTINF:-1 tvg-id="GMM25.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM Channel
 #http://160.119.77.50/iptv/sd-gmmchannel.stream/playlist.m3u8
 #http://206.189.150.220:8081/freelive-edge/_definst_/gmmchannel.smil/playlist.m3u8
-http://27.254.130.56:80/live01/ch11.m3u8
+#http://27.254.130.56:80/live01/ch11.m3u8
+https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
 #http://183.182.100.184/live/mcothd/playlist.m3u8
 #https://live.we-play.tv/android/gmm25/playlist.m3u8
 #https://cdn161.cloud-streaming.com/ilike4kin_x6/gmm25_720p/chunks.m3u8
@@ -627,6 +628,7 @@ http://27.254.149.109:8081/tumlive/movie1.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/paramount.png",Paramount CHANNEL
 #http://cdn.tv.streaming.moviektu.com/tv-streaming/ParamountHD.m3u8
+http://dootvthai-hd.com/cmd/api/true/PARAMOUNT-HD/playlist.m3u8
 #http://206.189.150.220:8081/freelive-edge/_definst_/paramountchannel/playlist.m3u8
 #http://cdn103.stm.trueid.net:80/live1/222_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=Wjhcoc97ZymamQX%2FJ0VceaKoQx5vNma%2FpdK1O1JlcfdDAZGPqFz65rmLXEUBjGTriQXDmJT3639%2FMDkH3IGoK4FABB3TKDRE%2FpCrLvpGe5U6OmA8FhpBKPQv2T98UuZ8LPM
 #https://live.we-play.tv/android/paramount/playlist.m3u8
@@ -688,6 +690,7 @@ http://27.254.149.109:8081/tumlive/FLA/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="Movies Live" tvg-logo="https://teevee-hd.com/img/truexzyte.png",True X-zyte 
 #http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-xzyte_720/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/TRUE-X-ZYTE-HD/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch87.stream/chunks.m3u8
 #https://live.we-play.tv/android/xzyte/playlist.m3u8
 #EXTINF:-1 group-title="Movies Live" tvg-logo="https://teevee-hd.com/img/tvb.png",TVB ไทย
@@ -780,6 +783,7 @@ https://www.livedoomovies.com/02_FANMUSICHD_720p/chunklist.m3u8
 #http://iliketot.dyndns.tv/345a4277dd864037b6b4fb5a562af59c.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truemusic.png",True Music HD
 #http://160.119.77.50/iptv/sd-tmusic.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/true-music-hd/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/mtvlive.png",MTV LIVE
 #http://host4.dynns.com/wevelwe/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
 http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
@@ -907,7 +911,8 @@ http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
 #https://live.we-play.tv/android/bbc-earth/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/814866876?ticket=40434F7E9307FC44E03BA98C5D897021DABF3D91&profile=pass
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://pbs.twimg.com/profile_images/924843911855476736/bf0a9z2U_400x400.jpg",True Pookpanya
-http://160.119.77.50/iptv/sd-tppy.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/api/true/TRUEPLOOKPANYA/playlist.m3u8
+#http://160.119.77.50/iptv/sd-tppy.stream/playlist.m3u8
 #EXTINF:-1 gtvg-id=""group-title="Knowledge"tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple1/v4/a5/f2/6c/a5f26cbd-d327-0c1d-bc30-eb8747c7d4fd/pr_source.png/246x0w.png",RAMA CHANNEL
 #http://160.119.77.50/iptv/sd-rama.stream/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/RAMA-CHANNEL/playlist.m3u8
@@ -917,6 +922,8 @@ http://dootvthai-hd.com/cmd/api/true/RAMA-CHANNEL/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/BBCLifestyle/playlist.m3u8
 #http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
 #https://streaming.livescorethai.net/iptv/sd-bbclifestyle.stream/chunks.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IB2/IB2_large.png",Outdoor Channel
+http://dootvthai-hd.com/cmd/api/true/OUTDOOR-CHANNEL/playlist.m3u8
 
 #EXTINF:-1 group-title="Knowledge"tvg-logo="https://psisat.com/wp-content/uploads/2018/09/logo-psi2018.png",PSI
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
