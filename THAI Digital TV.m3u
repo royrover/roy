@@ -322,7 +322,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://image.roku.com/developer_channels/prod/576365b1deee1bbd799caae8c445a593bd07c5434b588f52d97c93c29c827297.png",Australia Channel
 #https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://teevee-hd.com/img/bbc.png",BBC World News
-http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
+#http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
 #http://160.119.77.50/iptv/hd-bbcworldnews.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch28.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://teevee-hd.com/img/skynews.png",Sky News
@@ -1407,38 +1407,38 @@ http://203.150.107.30:8081/tested2iptv/core4/playlist.m3u8
 #https://live.we-play.tv/android/bein2/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein3.png",Bein Sport 3
 #http://160.119.77.50/iptv/hd-bein3.stream/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/hd-bein3_480/playlist.m3u8
+#http://139.99.17.52:8081/liveorigin/hd-bein3_480/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein4.png",Bein Sport 4
 #http://streaming-fast.com/covid19_live/bein4/playlist.m3u8
 #http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/hd-bein4_480/playlist.m3u8
+#http://139.99.17.52:8081/liveorigin/hd-bein4_480/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein5.png",Bein Sport 5
 #http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein5/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/hd-bein5_480/playlist.m3u8
+#http://139.99.17.52:8081/liveorigin/hd-bein5_480/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein6.png",Bein Sport 6
 #http://160.119.77.50/iptv/hd-bein6.stream/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein6/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/hd-bein6_480/playlist.m3u8
+#http://139.99.17.52:8081/liveorigin/hd-bein6_480/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein7.png",Bein Sport 7
 #http://160.119.77.50/iptv/hd-bein7.stream/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/hd-bein7_480/playlist.m3u8
+#http://139.99.17.52:8081/liveorigin/hd-bein7_480/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein8.png",Bein Sport 8
 #http://160.119.77.50/iptv/hd-bein8.stream/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/hd-bein8_480/playlist.m3u8
+#http://139.99.17.52:8081/liveorigin/hd-bein8_480/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein9.png",Bein Sport 9
 #http://160.119.77.50/iptv/hd-bein9.stream/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/hd-bein9_480/playlist.m3u8
+#http://139.99.17.52:8081/liveorigin/hd-bein9_480/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein10.png",Bein Sport 10
 #http://160.119.77.50/iptv/hd-bein10.stream/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/hd-bein10_480/playlist.m3u8
+#http://139.99.17.52:8081/liveorigin/hd-bein10_480/playlist.m3u8
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/512.png",BEIN 11 
-http://139.99.17.52:8081/liveorigin/hd-bein11_480/playlist.m3u8
+#http://139.99.17.52:8081/liveorigin/hd-bein11_480/playlist.m3u8
 
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BEIN 12 
-http://139.99.17.52:8081/liveorigin/hd-bein12_480/playlist.m3u8
+#http://139.99.17.52:8081/liveorigin/hd-bein12_480/playlist.m3u8
 
 #EXTINF:0 group-title="Sports"tvg-logo="http://logo.ddnb.tn/logochanel/514.png",BEIN 13
 
@@ -1484,7 +1484,7 @@ http://139.99.17.52:8081/liveorigin/hd-bein12_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="Sports",Sky Sports Action
 #http://160.119.77.50/iptv/uk-skysports-action.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-lv330Pv-oRg/Wz-eQ18nEpI/AAAAAAAAHpg/LAKUm_eHEmUeS9eY2JLXS-KwIax_WC4kwCLcBGAs/s392/t%25C3%25A9l%25C3%25A9chargement.png" group-title="Sports",Sky Sports Arena
-http://160.119.77.50/iptv/uk-skysports-arena.stream/playlist.m3u8
+#http://160.119.77.50/iptv/uk-skysports-arena.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport1.png",Skynetsport1
