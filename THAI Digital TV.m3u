@@ -1,6 +1,6 @@
 #EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 21.09.2020", Last Update: 21.09.2020
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 24.09.2020", Last Update: 24.09.2020
 http://tiny.cc/d69fjz
 #http://bit.ly/3d8o2Ue
 #https://iptv-kovid-19.tk/m3u/live/lol/lol.m3u
@@ -1146,11 +1146,11 @@ http://dootvthai-hd.com/cmd/api/true/idstation/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/13/cd083b90-4e15-11ea-b7f0-270d555231ee_320.png",TOYOTA E LEAGUE
 
 #EXTINF:-1 tvg-logo="https://i7.pngflow.com/pngimage/90/727/png-golf-channel-on-nbc-logo-trademark-golf-player-game-trademark-logo-golf-clipart.png" group-title="Sports",NBC Golf
-http://160.119.77.50/iptv/hd-golfeng.stream/playlist.m3u8
+#http://160.119.77.50/iptv/hd-golfeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png" group-title="Sports",Sky Sports Golf
-http://160.119.77.50/iptv/uk-skysports-golf.stream/playlist.m3u8
+#http://160.119.77.50/iptv/uk-skysports-golf.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo-small.png" group-title="Sports",Sky Sports F1
-http://160.119.77.50/iptv/uk-skysports-f1.stream/playlist.m3u8
+#http://160.119.77.50/iptv/uk-skysports-f1.stream/playlist.m3u8
 
 #EXTINF:0 group-title="Sports"tvg-logo="https://teevee-hd.com/img/kix.png",KIX
 #https://tv4.chang55.com:446/live/tot08.stream/playlist.m3u8
@@ -1188,6 +1188,7 @@ http://dootvthai-hd.com/cmd/true/Truesport-HD3/playlist.m3u8
 #https://live.we-play.tv/android/thd3/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd4.png",TRUESPORT HD4
 #http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
+#http://dootvthai-hd.com/cmd/true/Truesport-HD4/playlist.m3u8
 http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-tsport4_720/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp2.png",TRUE SPORT 2
@@ -1199,19 +1200,22 @@ http://103.208.24.234:1935/thaisport/sd-tsport2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TrueSport5.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp5.png",TRUE SPORT 5
 #https://tv4.chang55.com:446/live2/tv4ch84.stream/chunks.m3u8
 #https://live.we-play.tv/android/tsp5/playlist.m3u8
-http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
+#http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
+http://103.208.24.234:1935/thaisport/sd-tsport5.stream/chunklist.m3u8
 #http://139.99.17.52:8081/liveorigin/sd-tsport5_480/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport6.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp6.png",TRUE SPORT 6
 #https://tv4.chang55.com:446/live2/tv4ch85.stream/chunks.m3u8
 #https://live.we-play.tv/android/tsp6/playlist.m3u8
-http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
+#http://103.208.24.234:1935/thaisport/sd-tsport6.stream/chunklist.m3u8
 #http://139.99.17.52:8081/liveorigin/sd-tsport6_480/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport7.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp7.png",TRUE SPORT 7
-http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
+#http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
 #http://tv10.chang55.com/ch07-tsp7/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/sd-tsport7_480/playlist.m3u8
 #https://live.we-play.tv/android/tsp7/playlist.m3u8
-#http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
+http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBATV.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/nba.png",NBA TV
 #http://103.208.24.234:1935/thaisport/hd-nba.stream/chunklist.m3u8
 #http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
@@ -1399,7 +1403,8 @@ http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
 #http://streaming-fast.com/covid19_live/bein2/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/epl-bein2_720/playlist.m3u8
 #http://160.119.77.50/iptv/hd-bein2.stream/playlist.m3u8
-http://203.150.107.30:8081/tested2iptv/core4/playlist.m3u8
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#http://203.150.107.30:8081/tested2iptv/core4/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch73.stream/chunks.m3u8
 #http://103.208.24.234:1935/thaisport/epl-bein2.stream/playlist.m3u8
 #https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
