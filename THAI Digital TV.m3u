@@ -234,7 +234,8 @@ http://dootvthai-hd.com/cmd/true/TNN-16/playlist.m3u8
 #http://live.nationtv.tv/hls/ntv_th_hd.m3u8
 #https://live.we-play.tv/android/nationtv/playlist.m3u8
 #https://edge3a.v2h-cdn.com/INFO_T1/Nation.stream_720p/playlist.m3u8
-https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+#https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+http://dootvthai-hd.com/cmd/api/true/NATIONTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/newtv.png",NEW TV
 #http://160.119.77.50/iptv/sd-new.stream/playlist.m3u8
@@ -735,6 +736,7 @@ http://27.254.149.109:8081/tumlive/upmovie.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Warner.th"group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
 #http://160.119.77.50/iptv/hd-warnertv.stream/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-warnertv_720/playlist.m3u8
+#http://tv10.chang55.com/ch12-wn/playlist.m3u8
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/38.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch88.stream/chunks.m3u8
