@@ -301,7 +301,8 @@ https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
 http://dootvthai-hd.com/cmd/true/deutsche-welle/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/DW/playlist.m3u8
 #EXTINF:-1, group-title="News World" tvg-logo="https://www.doohdbox.com/assets/201708072112041744562745.jpg",CBS News
-https://www.cbsnews.com/common/video/dai_prod.m3u8
+#https://www.cbsnews.com/common/video/dai_prod.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/euronews.png" group-title="News World",Euronews HD
 #http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
 #http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
@@ -453,6 +454,7 @@ http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxActionMovies.th"group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION MOVIES 
 #http://203.150.107.30:8081/tested2iptv/core206/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-foxaction_720/playlist.m3u8
+#http://tv10.chang55.com/ch13-foxac/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/fox-action/playlist.m3u8
 #http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 #https://live.tubtoeball.net/tubtoeball_app/fox-action/playlist.m3u8
@@ -485,6 +487,7 @@ http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-foxpremium_720/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/fox-movie/playlist.m3u8
 #http://ip2121.com:8081/live2/foxpre/playlist.m3u8
+#http://tv10.chang55.com/ch05-foxm/playlist.m3u8
 #http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
 #https://live.tubtoeball.net/tubtoeball_app/fox-movies/playlist.m3u8
 #https://streaming.livescorethai.net/iptv/hd-foxpremium.stream/chunks.m3u8
@@ -495,6 +498,7 @@ http://dootvthai-hd.com/cmd/true/fox-movie/playlist.m3u8
 #https://live.we-play.tv/android/fox-movies/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxThai.th"group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/foxthai.png",FOX ไทย 
 #http://27.254.149.109:8081/tumlive/fox/playlist.m3u8
+#http://tv10.chang55.com/ch08-foxthai/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/Fox-thai/playlist.m3u8
 #https://livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 #http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
@@ -982,6 +986,7 @@ http://203.154.177.124:8899/live/ch5/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/1468536448?ticket=CC482188B4B4C1206C0F6217AA212075E0CE7775&profile=pass
 #EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/aniplus.png",Aniplus
 #https://live.we-play.tv/android/aniplus/playlist.m3u8
+http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/babytv.png",Baby TV
 #http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #http://ms003.happytv.com.tw/live/babyMztT5DcwWEr1f/index.m3u8
