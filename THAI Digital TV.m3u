@@ -266,6 +266,7 @@ https://server1.streamssl.com/stream/news1_hi.m3u8
 
 #EXTINF:-1 tvg-id="Mono29.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mono29.png",Mono29
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#http://dootvthai-hd.com/cmd/api/true/mono29/playlist.m3u8
 #https://cdn161.cloud-streaming.com/ilike4kin_x6/mono29_720p/chunks.m3u8
 #https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 #http://27.254.130.56:80/live01/ch3.m3u8
@@ -840,7 +841,8 @@ http://dootvthai-hd.com/cmd/true/asian-food-channel/playlist.m3u8
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY TH
 #http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-history_720/playlist.m3u8
-http://dootvthai-hd.com/cmd/api/true/HISTORY-CHANNEL-HD/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-history.stream/chunks.m3u8
+#http://dootvthai-hd.com/cmd/api/true/HISTORY-CHANNEL-HD/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch21.stream/chunks.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/30.m3u8
 #https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
@@ -854,8 +856,8 @@ http://dootvthai-hd.com/cmd/api/true/HISTORY-CHANNEL-HD/playlist.m3u8
 #http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-history2_720/playlist.m3u8
 #http://160.119.77.50/iptv/hd-history2.stream/playlist.m3u8
-#https://doofootball.livestream-cdn.com/iptv/hd-history2.stream/chunks.m3u8
-http://dootvthai-hd.com/cmd/api/true/H2/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-history2.stream/chunks.m3u8
+#http://dootvthai-hd.com/cmd/api/true/H2/playlist.m3u8
 #https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-history2/liveorigin/hd-history2_720/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/H2/playlist.m3u8
 #http://27.254.149.109:8081/live/h2.stream/chunks.m3u8
@@ -1030,6 +1032,7 @@ http://dootvthai-hd.com/cmd/api/true/cartoon-network-hd/playlist.m3u8
 #http://streamidvo.multitvsolution.in/live/DiscoveryKidsEng-a/p4.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
 #http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 #https://live.we-play.tv/android/disneych/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
 http://203.150.107.30:8081/tested2iptv/core107/playlist.m3u8
