@@ -447,12 +447,14 @@ http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
 #EXTINF:-1 group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",Blue Ant Entertainment 
 #http://cdn104.stm.trueid.net:80/live2/177_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=3LSjyiCRgpDCJLLc%2BbKrqwLRflNsYe8wz0Xv4bqM7jpLKNKOteCGAljaqmk%2F5u8CyKpvFvMcWzSkidSUXNxXZfx2TFjcVTOrQW5LZbemFIQ6Oq0e9yV4y%2F099DM3rHrYeaAEdBZlhLUFcwb2dsMEFhUzhFYk0vZz09JnZhbGlkbWludXRlcz0yMA==
 #http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
+#https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 http://dootvthai-hd.com/cmd/api/true/BLUE-ANT-ENTERTAINMENT/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-rtlcbs_720/playlist.m3u8
 #https://live.we-play.tv/android/blue-ent/playlist.m3u8
 #EXTINF:-1 group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/rtl_extreme.png",Blue Ant Extreme
 #http://cdn763.stm.trueid.net:80/live1/208_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=RO9g4qGZ%2FJkpP5riVg4GgSsZ1WDiwwgfdVABOkKGkICNIljUVug3Tz8kA1LGaO0tV4v7loMquzcjcyLvtPKypBw7x2DccfqxaHeqjPHwWLc6OviDrI6L6gCTYZMcyJNhAto5cjhqczhNVWtiMTE2bE51QT09JnZhbGlkbWludXRlcz0yMA==
 #https://live.we-play.tv/android/blue-ext/playlist.m3u8
+#https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #http://cdn150.stm.trueid.net/live1/208_th_m_high_tidapp.smil/playlist.m3u8
 #http://45.126.83.51/dr9445/h/h15/01.m3u8
 http://dootvthai-hd.com/cmd/api/true/BLUE-ANT-EXTREME/playlist.m3u8
@@ -1014,7 +1016,8 @@ http://203.154.177.124:8899/live/ch5/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/1468536448?ticket=CC482188B4B4C1206C0F6217AA212075E0CE7775&profile=pass
 #EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/aniplus.png",Aniplus
 #https://live.we-play.tv/android/aniplus/playlist.m3u8
-http://45.126.83.51/dr9445/h/h02/01.m3u8
+#http://45.126.83.51/dr9445/h/h02/01.m3u8
+http://210.210.155.35:80/dr9445/h/h02/index.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/babytv.png",Baby TV
 #http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #http://ms003.happytv.com.tw/live/babyMztT5DcwWEr1f/index.m3u8
