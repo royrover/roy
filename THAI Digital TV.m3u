@@ -1063,10 +1063,12 @@ http://dootvthai-hd.com/cmd/api/true/cartoon-network-hd/playlist.m3u8
 #http://streamidvo.multitvsolution.in/live/DiscoveryKidsEng-a/p4.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
 #http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
-https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+http://103.253.72.107:9997/DisneyCH/tracks-v1a1/mono.m3u8
+#https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 #https://live.we-play.tv/android/disneych/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
-http://203.150.107.30:8081/tested2iptv/core107/playlist.m3u8
+http://103.253.72.107:9997/DisneyXD/tracks-v1a1/mono.m3u8
+#http://203.150.107.30:8081/tested2iptv/core107/playlist.m3u8
 #http://160.119.77.50/iptv/hd-disneyxd.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch29.stream/chunks.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/20.m3u8
@@ -1076,8 +1078,9 @@ http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/17.m3u8
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/d258b502-1da6-445b-bd8f-4304c7ff232e.png",Ja Ting Ja TV
 #http://103.120.113.90:1935/psilive3a/JaTingJa.stream_360p/playlist.m3u8
+http://96.30.124.99:1935/edgelive3/JaTingJa.stream_360p/chunklist_w1967543510.m3u8
 #http://cdn150.stm.trueid.net/live3/o014_th_m_high_tidapp.smil/playlist.m3u8
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/jatingja/playlist.m3u8?NW85VXZKRjFGWVVQMklZdzM4VTdWUUl6Q3duMXhMVHNRSVFVdm1RWUc3TERoa3J5ZkJ0RG92aGpJQjJUL1lyekUvT2ZjODczQ0hrc3FwQVZadlZnYWlKTE42MElFMFhTVnR3SUIyN05UMXExQ2Jmek9pZFpiUTE5c1BsRitGOHNGcDNMVDZtYkRLWG9rZ1JGNWxCV3d3PT0=,a8f0ca044d9a918a671b3bd49276d339
+#http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/jatingja/playlist.m3u8?NW85VXZKRjFGWVVQMklZdzM4VTdWUUl6Q3duMXhMVHNRSVFVdm1RWUc3TERoa3J5ZkJ0RG92aGpJQjJUL1lyekUvT2ZjODczQ0hrc3FwQVZadlZnYWlKTE42MElFMFhTVnR3SUIyN05UMXExQ2Jmek9pZFpiUTE5c1BsRitGOHNGcDNMVDZtYkRLWG9rZ1JGNWxCV3d3PT0=,a8f0ca044d9a918a671b3bd49276d339
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick jr 
 #http://160.119.77.50/iptv/sd-nickjr.stream/playlist.m3u8
 #https://cdn.moviektu.com/th1080p/nickjr.m3u8
@@ -1096,7 +1099,8 @@ http://203.154.177.124:8899/live/ch20/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disneyj.png",Disney Junior
 #http://live.9koh.com:8000/live/a-play/stream/27.m3u8
 #https://live.we-play.tv/android/disneyjr/playlist.m3u8
-http://103.47.132.164/PLTV/88888888/224/3221226011/4.m3u8
+#http://103.47.132.164/PLTV/88888888/224/3221226011/4.m3u8
+http://103.253.72.107:9997/Disneyjunior/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_KartoonFunTime.jpg",Kartoon Fun Time
 #https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/TomandJerryTitleCardc.jpg",TOM & JERRY
