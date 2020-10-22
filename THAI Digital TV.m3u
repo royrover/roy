@@ -1158,7 +1158,6 @@ http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #http://ip2121.com:8081/at1/ENG2/chunks.m3u8
 #http://dootvthai-hd.com/cmd/true/ep1-2/playlist.m3u8
 #https://sorchelsea6969.shortcm.li/Thai-Epl2/sor@chelsea.m3u8
-#http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 #https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
 #https://tumlive109.dvrdns.org:30443/tumlive/TFBHD2/chunks.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch11.stream/chunks.m3u8
@@ -1169,23 +1168,23 @@ http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 #http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 #https://sorchelsea6969.shortcm.li/Thai-Epl3/sor@chelsea.m3u8
 #http://dootvthai-hd.com/cmd/true/ep1-3/playlist.m3u8
-#http://103.208.24.234:1935/thaisport/epl-3.stream/chunklist.m3u8
+http://103.208.24.234:1935/thaisport/epl-3.stream/chunklist.m3u8
 #https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8
 #https://tumlive109.dvrdns.org:30443/tumlive/TFBHD3/chunks.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch12.stream/chunks.m3u8
 #https://live.we-play.tv/android/tpf3/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/TFBHD3/chunks.m3u8
-http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+#http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title="Sports",Premier HD4 
 #http://dootvthai-hd.com/cmd/true/ep1-4/playlist.m3u8
 #https://sorchelsea6969.shortcm.li/Thai-Epl4/sor@chelsea.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch13.stream/chunks.m3u8
-#http://103.208.24.234:1935/thaisport/epl-4.stream/chunklist.m3u8
+http://103.208.24.234:1935/thaisport/epl-4.stream/chunklist.m3u8
 #http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
 #https://live.we-play.tv/android/tpf4/playlist.m3u8
 #https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8
 #http://27.254.149.109:8081/tumlive/TFBHD4/chunks.m3u8
-http://tv10.chang55.com/epl-4/playlist.m3u8
+#http://tv10.chang55.com/epl-4/playlist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title="Sports",Premier HD5 
 #http://dootvthai-hd.com/cmd/true/ep1-5/playlist.m3u8
 #https://sorchelsea6969.shortcm.li/Thai-Epl5/sor@chelsea.m3u8
@@ -1198,24 +1197,24 @@ http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title="Sports",Premier HD1 BKP      
 #http://103.208.24.234:1935/thaisport/epl-1.stream/chunklist.m3u8
 #http://139.99.17.52:8081/liveorigin/epl-1_720/playlist.m3u8
-http://tv10.chang55.com/epl-1/playlist.m3u8
+#http://tv10.chang55.com/epl-1/playlist.m3u8
 #http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title="Sports",Premier HD2 BKP
 http://103.208.24.234:1935/thaisport/epl-2.stream/chunklist.m3u8
 #http://tv10.chang55.com/epl-2/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/epl-2_720/playlist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title="Sports",Premier HD3 BKP  
-http://103.208.24.234:1935/thaisport/epl-3.stream/chunklist.m3u8
+#http://103.208.24.234:1935/thaisport/epl-3.stream/chunklist.m3u8
 #http://tv10.chang55.com/epl-3/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/epl-3_720/playlist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title="Sports",Premier HD4 BKP
 #https://tumlive109.dvrdns.org:30443/tumlive/TFBHD4/chunks.m3u8
-http://tv10.chang55.com/epl-4/playlist.m3u8
+#http://tv10.chang55.com/epl-4/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/epl-4_720/playlist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title="Sports",Premier HD5 BKP 
 #http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8
 #http://139.99.17.52:8081/liveorigin/epl-1_720/playlist.m3u8
-http://tv10.chang55.com/epl-5/playlist.m3u8
+#http://tv10.chang55.com/epl-5/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://teevee-hd.com/img/idstation.png",ID Station
