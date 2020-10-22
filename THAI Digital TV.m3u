@@ -860,8 +860,8 @@ https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist.m3u8
 #http://kodinew.dyndns.tv:9981/stream/channelid/417735839?ticket=A8BD3CE4B249000F301E6E10C50877703FE48194&profile=pass
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/kbs.png",KBS WORLD HD
 #https://cdn780.stm.trueid.net/live2/142_w_auto_tidapp.smil/chunklist_w1079232538_b2537779_vo_slkor_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=73301911&mpass=nhaku4FlWIVmJkptF4n3kmCJndjRdFmC%2BExgDS6fqqZnpIRvLYWZBfL3hf6ahQP%2BHjD5GZfGtbtbzwrZ6L7fe1MGmraqlGzJQf9HrYr3fsiABNlMjN%2BJL%2BY21gHnYMclOjq%2FwWQLSRWANQY2lK5pk7%2B2
-http://dootvthai-hd.com/cmd/api/true/KBS-World-HD/playlist.m3u8
-#http://160.119.77.116:8081/iptv/hd-kbsworld.stream/playlist.m3u8
+#http://dootvthai-hd.com/cmd/api/true/KBS-World-HD/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-kbsworld.stream/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-kbsworld_720/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://static.iptv-epg.com/kr/JTBC.kr.png",JTBC
 #https://www.youtube.com/watch?v=tZYWafqHJAg
@@ -935,8 +935,8 @@ http://160.119.77.116:8081/iptv/sd-expwild.stream/playlist.m3u8
 #http://dootvthai-hd.com/cmd/true/true-explore-wild/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/442983939?ticket=0C4D440116DDB238A6C5D15D09EC4931BCBC6596&profile=pass
 #EXTINF:-1 tvg-id="NationalGeographic.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/natgeo.png",NAT GEOGRAPHIC TH 
-#http://160.119.77.116:8081/iptv/hd-natgeo.stream/playlist.m3u8
-http://dootvthai-hd.com/cmd/api/true/national-geographic-hd/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-natgeo.stream/playlist.m3u8
+#http://dootvthai-hd.com/cmd/api/true/national-geographic-hd/playlist.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-natgeo_720/playlist.m3u8
 #https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/34.m3u8
