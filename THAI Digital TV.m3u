@@ -789,7 +789,8 @@ http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
 #http://206.189.150.220:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
 #http://96.30.124.101:1935/psilive3a/ZeeNung.stream_360p/chunklist.m3u8
 #http://103.120.113.90:1935/psilive3a/ZeeNung.stream_360p/playlist.m3u8
-http://27.254.130.64/live99/46/zeenung.m3u8?p=st
+https://cdn6.goprimetime.info/feed/chzeenung/index.m3u8
+#http://27.254.130.64/live99/46/zeenung.m3u8?p=st
 #http://27.254.130.64/live99//////////46/zeenung.m3u8?p=%20zeenung
 #http://host4.dynns.com/wevelwe/dcf0d550815947f3bacaf3521e118124.m3u8
 #http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
@@ -875,8 +876,8 @@ http://dootvthai-hd.com/cmd/true/asian-food-channel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY TH
 #http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
-#http://160.119.77.116:8081/iptv/hd-history.stream/playlist.m3u8
-http://196.52.105.238:9997/History/tracks-v1a1/mono.m3u8
+http://160.119.77.116:8081/iptv/hd-history.stream/playlist.m3u8
+#http://196.52.105.238:9997/History/tracks-v1a1/mono.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-history_720/playlist.m3u8
 #https://doofootball.livestream-cdn.com/iptv/hd-history.stream/chunks.m3u8
 #http://dootvthai-hd.com/cmd/api/true/HISTORY-CHANNEL-HD/playlist.m3u8
@@ -885,15 +886,15 @@ http://196.52.105.238:9997/History/tracks-v1a1/mono.m3u8
 #https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 #https://live.we-play.tv/android/history/playlist.m3u8
 #EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY EH
-#http://160.119.77.116:8081/iptv/hd-historyeng.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-historyeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://presentationarchive.com/discoveryhistory/sting-b.jpg",DISCOVERY HISTORY 
 http://160.119.77.116:8081/iptv/uk-discoveryhistory.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="history2.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
 #https://tv4.chang55.com:446/live2/tv4ch19.stream/playlist.m3u8
 #http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
-http://196.52.105.238:9997/H2/tracks-v1a1/mono.m3u8
+#http://196.52.105.238:9997/H2/tracks-v1a1/mono.m3u8
 #http://139.99.17.52:8081/liveorigin/hd-history2_720/playlist.m3u8
-#http://160.119.77.116:8081/iptv/hd-history2.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-history2.stream/playlist.m3u8
 #https://doofootball.livestream-cdn.com/iptv/hd-history2.stream/chunks.m3u8
 #http://dootvthai-hd.com/cmd/api/true/H2/playlist.m3u8
 #https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-history2/liveorigin/hd-history2_720/playlist.m3u8
@@ -901,7 +902,7 @@ http://196.52.105.238:9997/H2/tracks-v1a1/mono.m3u8
 #http://27.254.149.109:8081/live/h2.stream/chunks.m3u8
 #https://live.we-play.tv/android/h2/playlist.m3u8
 #EXTINF:-1 tvg-id="history2.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2 UK
-#http://160.119.77.116:8081/iptv/uk-history2.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-history2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/discovery.png",Discovery TH
 #https://tv4.chang55.com:446/live2/tv4ch79.stream/chunks.m3u8
 #http://203.150.107.30:8081/tested2iptv/core201/playlist.m3u8
@@ -910,7 +911,7 @@ http://196.52.105.238:9997/H2/tracks-v1a1/mono.m3u8
 http://160.119.77.116:8081/iptv/uk-discovery.stream/playlist.m3u8
 #https://live.we-play.tv/android/discovery/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/discoveyasiax.png",DiscoveryAsia 
-#http://160.119.77.116:8081/iptv/hd-discovery.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-discovery.stream/playlist.m3u8
 #https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/32.m3u8
 #https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-natgeowild/liveorigin/hd-natgeowild_720/playlist.m3u8
@@ -918,7 +919,7 @@ http://160.119.77.116:8081/iptv/uk-discovery.stream/playlist.m3u8
 #http://202.183.247.206:9981/stream/channelid/1815356007?ticket=9978B9833DEA4F92CB0575938D04A02D378BF961&profile=pass
 #http://27.254.149.109:8081/live/discovery.stream/chunks.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch16.stream/playlist.m3u8
-https://tv4.chang55.com:446/live2/tv4ch80.stream/chunks.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch80.stream/chunks.m3u8
 #https://live.we-play.tv/android/disasia/playlist.m3u8
 #EXTINF:-1 tvg-id="trueexploresci.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/truesci.png",TRUE EXPLORE SCI
 #https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
@@ -973,9 +974,9 @@ http://103.253.72.107:9997/samrojlok/tracks-v1a1/mono.m3u8
 #https://live.we-play.tv/android/samruajlok/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/36.m3u8
 #EXTINF:-1 tvg-id="bbcearth.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/bbcearth.png",BBC EARTH
-https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
+#https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
 #https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8
-#https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/chunklist.m3u8
 #http://160.119.77.116:8081/iptv/sd-bbcearth.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch41.stream/playlist.m3u8
 #https://live.we-play.tv/android/bbc-earth/playlist.m3u8
@@ -989,8 +990,8 @@ http://dootvthai-hd.com/cmd/api/true/RAMA-CHANNEL/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://pmcvariety.files.wordpress.com/2013/10/animalist-logo.jpg",World Animal
 #http://203.154.243.32:8088/live/wanimal/index.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://pbs.twimg.com/profile_images/653546209488052224/iZA1Cnu-.png",BBC Lifestyle
-https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
-#https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #http://27.254.149.109:8081/tumlive/BBCLifestyle/playlist.m3u8
 #http://160.119.77.116:8081/iptv/sd-bbclifestyle.stream/playlist.m3u8
 #https://streaming.livescorethai.net/iptv/sd-bbclifestyle.stream/chunks.m3u8
@@ -1066,8 +1067,8 @@ https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/26.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK 
-#https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
-้http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/22.m3u8
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+#http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/22.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch20.stream/playlist.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/19.m3u8
 #http://160.119.77.116:8081/iptv/sd-cartoonnetworkeng.stream/playlist.m3u8
@@ -1085,13 +1086,13 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 #http://streamidvo.multitvsolution.in/live/DiscoveryKidsEng-a/p4.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
 #http://160.119.77.116:8081/iptv/uk-disney.stream/playlist.m3u8
-http://103.253.72.107:9997/DisneyCH/tracks-v1a1/mono.m3u8
-#https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+#http://103.253.72.107:9997/DisneyCH/tracks-v1a1/mono.m3u8
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 #https://live.we-play.tv/android/disneych/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
-http://103.253.72.107:9997/DisneyXD/tracks-v1a1/mono.m3u8
+#http://103.253.72.107:9997/DisneyXD/tracks-v1a1/mono.m3u8
 #http://203.150.107.30:8081/tested2iptv/core107/playlist.m3u8
-#http://160.119.77.116:8081/iptv/hd-disneyxd.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-disneyxd.stream/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch29.stream/chunks.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/20.m3u8
 #https://live.we-play.tv/android/disneyxd/playlist.m3u8
@@ -1115,6 +1116,7 @@ http://160.119.77.116:8081/iptv/sd-nickjr.stream/playlist.m3u8
 #http://dootvthai-hd.com/cmd/true/nickelodeon/playlist.m3u8
 #http://kodinew.dyndns.tv:9981/stream/channelid/414376583?ticket=3828CE1DBBF260ADE1F00BAAC37E22A6DBAF6E73&profile=pass
 #EXTINF:-1 group-title="Kids" tvg-logo="https://imgcloud.fwiptv.cc/postor/2019032506051812377635_206785022990745_2323450990199693871_o.jpg",MIAO MI
+http://203.154.177.124:8899/live/ch20/playlist.m3u8
 #https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #https://cdn-laos.workpoint.news/sd-miaomi_480/index.m3u8
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
