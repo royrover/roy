@@ -1,6 +1,6 @@
 Just#EXTM3U Line ID : royrover
  
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 25.09.2020", Last Update: 25.09.2020
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- Last Update: 25.10.2020", Last Update: 25.10.2020
 http://tiny.cc/d69fjz
 #http://bit.ly/3d8o2Ue
 #https://bit.ly/2wCFU8R
@@ -208,8 +208,6 @@ http://160.119.77.116:8081/iptv/uk-foxnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/nhkworld.png",NHK WORLD TV
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #http://160.119.77.116:8081/iptv/sd-nhkworld.stream/playlist.m3u8
-#https://live.we-play.tv/android/nhk/playlist.m3u8 
-#http://iliketot.dyndns.tv/cd25fccffa6f4a2f8d7190d3e8907440.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="http://www.totiptv.com/Product/Channel/images/rt_b.png",RT TV
 #https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
 https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
@@ -225,12 +223,9 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #http://160.119.77.116:8081/iptv/hd-bbcworldnews.stream/playlist.m3u8
-#https://tv4.chang55.com:446/live2/tv4ch28.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://teevee-hd.com/img/skynews.png",Sky News
-#http://160.119.77.116:8081/iptv/uk-skynews.stream/playlist.m3u8
-https://www.youtube.com/watch?v=9Auq9mYxFEE
-#https://youtu.be/9Auq9mYxFEE
-#http://iliketot.dyndns.tv/31b003ab7e7749a798fe00424e3dd9ff.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+http://160.119.77.116:8081/iptv/uk-skynews.stream/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Education" tvg-logo="https://teevee-hd.com/img/logo-channel-10.png", อนุบาลศึกษาปีที่ 1
 #https://dltv-live-edge.catcdn.cloud/dltv10_720p.m3u8
@@ -312,28 +307,24 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 #http://160.119.77.116:8081/iptv/hd-axn.stream/playlist.m3u8
 http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
 #https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
-#http://202.183.247.206:9981/stream/channelid/2008307457?ticket=138B68E21C924D5685B0D1B5092CBD8443EA6729&profile=pass
 #EXTINF:-1 group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",Blue Ant Entertainment 
-#http://cdn104.stm.trueid.net:80/live2/177_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=3LSjyiCRgpDCJLLc%2BbKrqwLRflNsYe8wz0Xv4bqM7jpLKNKOteCGAljaqmk%2F5u8CyKpvFvMcWzSkidSUXNxXZfx2TFjcVTOrQW5LZbemFIQ6Oq0e9yV4y%2F099DM3rHrYeaAEdBZlhLUFcwb2dsMEFhUzhFYk0vZz09JnZhbGlkbWludXRlcz0yMA==
 #http://160.119.77.116:8081/iptv/hd-rtlcbs.stream/playlist.m3u8
-#https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#https://live.we-play.tv/android/blue-ent/playlist.m3u8
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/rtl_extreme.png",Blue Ant Extreme
 #https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 http://45.126.83.51/dr9445/h/h15/01.m3u8
-#https://mhd-01.ddns.net:30443/mdb_app/blue-ext/playlist.m3u8
 #EXTINF:-1 group-title="Movies Live"tvg-logo="https://www.doohdbox.com/assets/20170709090502720443899.jpg",CTB
 #http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8
 #EXTINF:-1 group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/classicmovies.png",CCM
 #http://160.119.77.116:8081/iptv/sd-celestial.stream/playlist.m3u8
-https://www.livedoomovies.com/02_CCM_720p/chunklist.m3u8
+#https://www.livedoomovies.com/02_CCM_720p/chunklist.m3u8
 #https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8
 #EXTINF:-1 tvg-id=""group-title="Movies Live"tvg-logo="https://i.ytimg.com/vi/hGnizLy0Pzw/hqdefault.jpg",Channel 8
 #http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8
 #EXTINF:-1 tvg-id="FoxActionMovies.th"group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION MOVIES 
 #http://tv10.chang55.com/ch13-foxac/playlist.m3u8
