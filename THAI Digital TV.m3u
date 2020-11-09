@@ -658,16 +658,20 @@ http://160.119.77.116:8081/iptv/hd-discovery.stream/playlist.m3u8
 #https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
 http://160.119.77.116:8081/iptv/sd-expsci.stream/playlist.m3u8
 #http://dootvthai-hd.com/cmd/true/true-explore-sci/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/sd-expsci_480/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-logo="https://teevee-hd.com/img/truelife.png",TRUE EXPLORE LIFE
 http://160.119.77.116:8081/iptv/sd-explife.stream/playlist.m3u8
 #https://doofootball.livestream-cdn.com/iptv/sd-explife.stream/chunks.m3u8
+#http://54.37.82.205:8081/liveorigin/sd-explife_480/playlist.m3u8
 #http://dootvthai-hd.com/cmd/true/true-explore-life/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/truewild.png",TRUE EXPLORE WILD
 #https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
 http://160.119.77.116:8081/iptv/sd-expwild.stream/playlist.m3u8
 #http://dootvthai-hd.com/cmd/true/true-explore-wild/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/sd-expwild_480/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/natgeo.png",NAT GEOGRAPHIC TH 
 http://160.119.77.116:8081/iptv/hd-natgeo.stream/playlist.m3u8
@@ -676,6 +680,7 @@ http://160.119.77.116:8081/iptv/hd-natgeo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/natpeople.png",NAT GEO PEOPLE
 #http://160.119.77.116:8081/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-natgeopeopleeng_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/natwild.png",NAT GEO WILD
 #http://160.119.77.116:8081/iptv/hd-natgeowildeng.stream/playlist.m3u8
@@ -750,11 +755,7 @@ http://live3.smartbomb.co.th:8624/stream/1/
 
 #EXTINF: -1 tvg-id="" group-title="Kids"tvg-logo="https://teevee-hd.com/img/animax.png",Animax
 http://203.154.177.124:8899/live/ch5/playlist.m3u8
-#http://203.154.243.31:8081/live/animax/index.m3u8
-#http://45.126.83.51/dr9445/h/h144/01.m3u8
-#http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
-#https://live.we-play.tv/android/animax/playlist.m3u8
-#http://202.183.247.206:9981/stream/channelid/1468536448?ticket=CC482188B4B4C1206C0F6217AA212075E0CE7775&profile=pass
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt.jpg",Aniplus
 #https://live.we-play.tv/android/aniplus/playlist.m3u8
 #http://45.126.83.51/dr9445/h/h02/01.m3u8
@@ -762,24 +763,13 @@ http://210.210.155.35:80/dr9445/h/h02/index.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/babytv.png",Baby TV
 #http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #http://ms003.happytv.com.tw/live/babyMztT5DcwWEr1f/index.m3u8
-#http://livecdnh1.tvanywhere.ae/hls/baby/05.m3u8
 #http://160.119.77.116:8081/iptv/sd-babytv.stream/playlist.m3u8
-#ttp://202.183.247.206:9981/stream/channelid/1889318275?ticket=BA0F28565BE4A31CC0B61F345E997F7FCB4F990E&profile=pass
-#http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/boomerang.png",BOOMERANG
 https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
-#http://27.254.130.64/live01/ch18.m3u8?p=K
 #http://27.254.130.61/live01/ch18.m3u8?p=st
-#http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
 #http://160.119.77.116:8081/iptv/sd-boomerang.stream/playlist.m3u8
-#http://live.9koh.com:8000/live/a-play/stream/25.m3u8
-#https://tv4.chang55.com:446/live2/tv4ch74.stream/chunks.m3u8
-#http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
-#http://206.189.150.220:8081/freelive-edge/_definst_/boomerang.smil/playlist.m3u8
-#https://free2.fwstream.com:1215/freelive-edge/_definst_/boomerang/chunklist.m3u8
-#https://live.we-play.tv/android/boomerang/playlist.m3u8
-#http://202.183.247.206:9981/stream/channelid/94197710?ticket=C77BC0A9020CD127190A7C1723791155EC9BA88C&profile=pass
+
 #EXTINF:-1 group-title="Kids"tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_Cartoons_4U-1.jpg",Cartoons 4U
 #https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/cartoonclub.png",CARTOON CLUB
@@ -787,15 +777,10 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 #http://live.9koh.com:8000/live/a-play/stream/26.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK 
 https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
-#http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/22.m3u8
-#https://tv4.chang55.com:446/live2/tv4ch20.stream/playlist.m3u8
-#http://live.9koh.com:8000/live/a-play/stream/19.m3u8
 #http://160.119.77.116:8081/iptv/sd-cartoonnetworkeng.stream/playlist.m3u8
 #http://dootvthai-hd.com/cmd/api/true/cartoon-network-hd/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/Cartoonnetwork/chunks.m3u8
-#https://live.we-play.tv/android/cnhd/playlist.m3u8
-#https://cdn-laos.workpoint.news/sd-cartoonnetwork_480/index.m3u8
-#http://202.183.247.206:9981/stream/channelid/1480437507?ticket=24D4167FECB5A77C331D393954B6900A325F6B31&profile=pass
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Cartoonito.uk.png" group-title="Kids",Cartoonito
 #http://160.119.77.116:8081/iptv/uk-cartoonito.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/cbeebies/images/4/43/Australia.png" group-title="Kids",Cbeebies
@@ -804,6 +789,7 @@ https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.th"group-title="Kids"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids
 #http://streamidvo.multitvsolution.in/live/DiscoveryKidsEng-a/p4.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
+#http://54.37.82.205:8081/liveorigin/hd-disney_720/playlist.m3u8
 #http://160.119.77.116:8081/iptv/uk-disney.stream/playlist.m3u8
 #http://103.253.72.107:9997/DisneyCH/tracks-v1a1/mono.m3u8
 https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
@@ -812,9 +798,8 @@ https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 #http://103.253.72.107:9997/DisneyXD/tracks-v1a1/mono.m3u8
 #http://203.150.107.30:8081/tested2iptv/core107/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-disneyxd.stream/playlist.m3u8
-#https://tv4.chang55.com:446/live2/tv4ch29.stream/chunks.m3u8
-#http://live.9koh.com:8000/live/a-play/stream/20.m3u8
-#https://live.we-play.tv/android/disneyxd/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-disneyxd_720/playlist.m3u8
+
 #EXTINF:-1 tvg-id=""group-title="Kids"tvg-logo="https://teevee-hd.com/img/gangcartoon.png",GANG CARTOON
 http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
 #http://live.9koh.com:8000/live/a-play/stream/17.m3u8
@@ -831,19 +816,15 @@ http://160.119.77.116:8081/iptv/sd-nickjr.stream/playlist.m3u8
 #https://live.we-play.tv/android/nickjr/playlist.m3u8
 #http://iliketot.dyndns.tv/09fffe8d426745689f60cbc24da1bb49.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA=
 #EXTINF:-1 tvg-id="" tvg-logo="https://teevee-hd.com/img/nickelodeon.png" group-title="Kids",Nickelodeon
-#https://live.we-play.tv/android/nickelodeon/playlist.m3u8
 #http://dootvthai-hd.com/cmd/true/nickelodeon/playlist.m3u8
-#http://kodinew.dyndns.tv:9981/stream/channelid/414376583?ticket=3828CE1DBBF260ADE1F00BAAC37E22A6DBAF6E73&profile=pass
+
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://imgcloud.fwiptv.cc/postor/2019032506051812377635_206785022990745_2323450990199693871_o.jpg",MIAO MI
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
-#https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#https://cdn-laos.workpoint.news/sd-miaomi_480/index.m3u8
-http://203.154.177.124:8899/live/ch20/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DisneyJr.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disneyj.png",Disney Junior
-#http://live.9koh.com:8000/live/a-play/stream/27.m3u8
-#https://live.we-play.tv/android/disneyjr/playlist.m3u8
-#http://103.47.132.164/PLTV/88888888/224/3221226011/4.m3u8
 http://103.253.72.107:9997/Disneyjunior/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Kids"tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_KartoonFunTime.jpg",Kartoon Fun Time
 #https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/TomandJerryTitleCardc.jpg",TOM & JERRY
@@ -853,11 +834,15 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 #EXTINF:-1 tvg-id="TrueSparkJump.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/jump.png",TRUE SPARK JUMP
 #http://dootvthai-hd.com/cmd/true/TRUE-SPARK-JUMP/playlist.m3u8
 http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
-#http://live.9koh.com:8000/live/a-play/stream/28.m3u8
-#https://live.we-play.tv/android/sparkjump/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/sd-sparkjump_480/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://teevee-hd.com/img/play.png",True Spark Play 
 #http://dootvthai-hd.com/cmd/true/TRUE-SPARK-PLAY/playlist.m3u8
 http://160.119.77.116:8081/iptv/sd-sparkplay.stream/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/sd-sparkplay_480/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="Kids",哈哈炫动
 #http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="Kids",卡酷少儿
