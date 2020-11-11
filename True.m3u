@@ -181,25 +181,25 @@ https://www.fwiptv.cc/player_demo.php?channel=89781
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://sv1.picz.in.th/images/2020/06/18/qyuIrf.png",FWTOON
 https://www.fwiptv.cc/player_demo.php?channel=89780
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-fx.jpg",FX HD
-http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-fxeng.stream/playlist.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-axn.jpg",AXN
 http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/sd-fox.jpg",Fox Thai
-http://dootvthai-hd.com/cmd/true/Fox-thai/playlist.m3u8
+http://54.37.82.205:8081/liveorigin/sd-fox_720/chunks.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbEhq_GZoPFAhLbB1-iFN7I_lS3WLzf5_fO9_gwgGE8lIfhwtd&usqp=CAU",FOXLIFE
 http://doo2you.com/tv/WE-PlAY-fox-life.php
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-foxcrime.jpg",Fox Crime HD
 https://www.we-play.tv/videos/tv-entertainment/fox-crime-th/
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-foxaction.jpg",Fox Action (TH)
-http://139.99.17.52:8081/liveorigin/hd-foxaction_720/playlist.m3u8
+http://54.37.82.205:8081/liveorigin/hd-foxaction_720/chunks.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-foxaction.jpg",Fox Action (EN)
 http://ip2121.com:8081/live2/foxpre/playlist.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-foxpremium.jpg",FOX MOVIES TH
-http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8 
+http://54.37.82.205:8081/liveorigin/hd-foxpremium_720/chunks.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-foxpremium.jpg",FOX MOVIES EN
-http://160.119.77.50/iptv/hd-foxpremium.stream/chunks.m3u8
+http://160.119.77.116:8081/iptv/hd-foxpremium.stream/chunks.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-foxfamily.jpg",FOX Family TH
-http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
+http://54.37.82.205:8081/liveorigin/hd-foxfamily_720/playlist.m3u88
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-foxfamily.jpg",Fox Family EN
 http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-hbo.jpg",HBO
@@ -237,9 +237,9 @@ https://www.we-play.tv/videos/tv-entertainment/hi-def-1
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://www.chinatalks.co/wp-content/uploads/2019/10/logo-1.png",Universal
 http://203.154.243.89:1029/
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-warnertv.jpg",Warner TV
-http://dootvthai-hd.com/cmd/api/true/Warner-HD/playlist.m3u8
+http://54.37.82.205:8081/liveorigin/hd-warnertv_720/playlist.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F783549d6-9b0d-4b4a-ab42-3bdd932bf544.png&w=320&h=240",Paramout
-http://dootvthai-hd.com/cmd/api/true/Paramount-HD/playlist.m3u8
+http://203.154.177.124:8899/live/ch3/playlist.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-movies-hd-premiere.png",Sky Movie
 https://freetvdd.com/บันเทิง/sky-movies-premiere/
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-starchinese.jpg",Star CHINA
