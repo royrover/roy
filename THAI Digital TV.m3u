@@ -720,8 +720,8 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #https://streaming.livescorethai.net/iptv/sd-bbclifestyle.stream/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IB2/IB2_large.png",Outdoor Channel
 #http://dootvthai-hd.com/cmd/api/true/OUTDOOR-CHANNEL/playlist.m3u8
-http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/media_w981409619_b1105254_3604.ts?fluxustv.m3u8
-
+#http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/media_w981409619_b1105254_3604.ts?fluxustv.m3u8
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Knowledge"tvg-logo="https://psisat.com/wp-content/uploads/2018/09/logo-psi2018.png",PSI
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 
