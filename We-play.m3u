@@ -5,56 +5,59 @@ http://tiny.cc/lr3kkz
 
 #EXTM3U
 #EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",CH3 HD
-#https://www.we-play.tv/videos/digital-tv/ch3-hd/
-http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
+https://www.we-play.tv/watching/tv/ch3-hd
+
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch5.png",CH5 HD
-#https://www.we-play.tv/videos/digital-tv/ch5-hd/
-http://160.119.77.50/iptv/hd-ch5.stream/playlist.m3u8
+https://www.we-play.tv/watching/tv/ch5-hd
+
 #EXTINF:-1 tvg-id="channel7.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch7.png",CH7 HD
-#https://www.we-play.tv/videos/digital-tv/ch7-hd/
-http://160.119.77.50/iptv/hd-ch7.stream/playlist.m3u8
+https://www.we-play.tv/watching/tv/ch7-hd
+
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
-#https://www.we-play.tv/videos/digital-tv/mcot-hd/
-http://160.119.77.50/iptv/hd-mcot.stream/playlist.m3u8
+https://www.we-play.tv/watching/tv/mcot-hd
+
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/thaipbs.png",ThaiPBS HD
-#https://www.we-play.tv/videos/digital-tv/thai-pbs/
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+https://www.we-play.tv/watching/tv/thai-pbs
+
 #EXTINF:-1 tvg-id="Thairath.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/thairath.png",Thairath HD
-#https://www.we-play.tv/videos/digital-tv/%e0%b9%84%e0%b8%97%e0%b8%a2%e0%b8%a3%e0%b8%b1%e0%b8%90/
-http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8
+https://www.we-play.tv/watching/tv/thairath-tv
+
 #EXTINF:-1 tvg-id="PPTV.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
-#https://www.we-play.tv/videos/digital-tv/pptv-hd/
-http://160.119.77.50/iptv/hd-pptv.stream/playlist.m3u8
+https://www.we-play.tv/watching/tv/pptv-hd
+
 #EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/amarin.png",Amarin HD
-#https://www.we-play.tv/videos/digital-tv/amarin-tv/
-http://160.119.77.50/iptv/hd-amarin.stream/playlist.m3u8
+https://www.we-play.tv/watching/tv/amarin-tv
+
 #EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD
-#https://www.we-play.tv/videos/digital-tv/one-hd/
-http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8
+https://www.we-play.tv/watching/tv/one-hd
+
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/nation.png",Nation
-#https://www.we-play.tv/videos/digital-tv/nationtv/
-https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+https://www.we-play.tv/watching/tv/nationtv
+
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
-#http://160.119.77.50/iptv/sd-nbt.stream/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/sd-nbt_720/playlist.m3u8
+https://www.we-play.tv/watching/tv/11-nbt
+
 #EXTINF:-1 tvg-id="Mono29.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mono29.png",Mono29
-#https://www.we-play.tv/videos/digital-tv/mono29/
-https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+https://www.we-play.tv/watching/tv/mono29
+
 #EXTINF:-1 tvg-id="Workpoint.th"group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",Workpoint TV
-#https://www.we-play.tv/videos/digital-tv/workpoint/
-http://dootvthai-hd.com/cmd/true/Workpointtv/playlist.m3u8
+https://www.we-play.tv/watching/tv/11-nbt
+
 #EXTINF:-1 tvg-id="true4U.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/true4u.png",True4U
-#https://www.we-play.tv/videos/digital-tv//true4u/
-http://160.119.77.50/iptv/sd-24u.stream/playlist.m3u8
+https://www.we-play.tv/watching/tv/true4u
+
 #EXTINF:-1 tvg-id="GMM25.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
-https://www.we-play.tv/videos/digital-tv/gmm25/
-#http://160.119.77.50/iptv/sd-gmmchannel.stream/playlist.m3u8
+https://www.we-play.tv/watching/tv/gmm25
+
 #EXTINF:-1 tvg-id="channel8.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch2.png",CH2
 http://stream.rs.co.th/ch2-hi/index.m3u8
+
 #EXTINF:-1 tvg-id="channel8.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
 http://stream.rs.co.th/ch8-hi/index.m3u8
+
 #EXTINF:-1 tvg-id="TNN24.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN16
 http://27.254.149.109:8081/tumlive/TNN24/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/newtv.png",NEW TV
 https://cdn6.goprimetime.info//feed//newtv//index.m3u8
 #EXTINF:-1 gtvg-id=""group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/voicetv.png",Voice TV
@@ -268,8 +271,8 @@ https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 #https://live.we-play.tv/android/truemusic/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/true-music-hd/
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/kbs.png",KBS World
-#https://live.we-play.tv/android/kbs/playlist.m3u8
-https://www.we-play.tv/videos/%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7/nhk-world/
+https://www.we-play.tv/watching/tv/kbs-world
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/chinesemovie.png",Star Chinese Movies 
 https://live.we-play.tv/android/chinesemovies/playlist.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill 
@@ -280,8 +283,8 @@ http://27.254.149.109:8081/tumlive/Thrill/playlist.m3u8
 http://210.210.155.35/uq2663/h/h07/01.m3u8
 #http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/tvn.png",TVN
-#https://live.we-play.tv/android/tvn/playlist.m3u8
 https://www.we-play.tv/watching/tv/tvn
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truexzyte.png",True X-ZYTE
 #https://live.we-play.tv/android/xzyte/playlist.m3u8
 https://www.we-play.tv/videos/tv-entertainment/true-x-zyte/
@@ -315,8 +318,8 @@ http://160.119.77.50/iptv/sd-sparkjump.stream/playlist.m3u8
 #https://live.we-play.tv/android/animax/playlist.m3u8
 https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81/animax/
 #EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/aniplus.png",Aniplus
-#https://live.we-play.tv/android/aniplus/playlist.m3u8
-https://www.we-play.tv/videos/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81/aniplus/
+https://www.we-play.tv/watching/tv/aniplus
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/boomerang.png",Boomerang 
 #https://live.we-play.tv/android/boomerang/playlist.m3u8 
 http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
