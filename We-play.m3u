@@ -3,14 +3,23 @@
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000191379878-tjm97d-t500x500.jpg" group-title="- อัพเดทล่าสุด: 24.8.20", อัพเดทล่าสุด: 24.8.20
 http://tiny.cc/lr3kkz
 
+
+"groups": [
+	
+{
+"name": "Digital TV",
+"image": "https://i.imgur.com/B0XTMoo.png",
+"info": "",
+"stations": [
+
 #EXTM3U
-#EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",CH3 HD
+#EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/channel-3-hd.png",CH3 HD
 https://www.we-play.tv/watching/tv/ch3-hd
 
-#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch5.png",CH5 HD
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/channel-5-hd.png",CH5 HD
 https://www.we-play.tv/watching/tv/ch5-hd
 
-#EXTINF:-1 tvg-id="channel7.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch7.png",CH7 HD
+#EXTINF:-1 tvg-id="channel7.th" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/channel-7-hd.png",CH7 HD
 https://www.we-play.tv/watching/tv/ch7-hd
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
