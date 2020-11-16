@@ -223,6 +223,18 @@ https://www.we-play.tv/watching/tv/warner-tv
 https://www.we-play.tv/watching/tv/zee-nung
 
 
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/animalplanet.png",Animal Planet
+https://www.we-play.tv/watching/tv/animal-planet
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/bbcearth.png",BBC Earth HD
+#https://www.we-play.tv/watching/tv/bbc-earth
+http://160.119.77.116:8081/iptv/sd-bbcearth.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/discoveyasiax.png",Discovery Asia HD
+https://www.we-play.tv/watching/tv/discovery-asia
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/discovery.png",Discovery HD
+https://www.we-play.tv/watching/tv/discovery-channel
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/history.png",History HD
 https://www.we-play.tv/watching/tv/history-hd
@@ -239,21 +251,8 @@ https://www.we-play.tv/watching/tv/nat-geo-wild
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/natpeople.png",Natgeo People HD
 http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/18570
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/animalplanet.png",Animal Planet
-https://www.we-play.tv/watching/tv/animal-planet
-
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/outdoor.png",Outdoor HD
 https://www.we-play.tv/watching/tv/outdoor-channel
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/bbcearth.png",BBC Earth HD
-#https://www.we-play.tv/watching/tv/bbc-earth
-http://160.119.77.116:8081/iptv/sd-bbcearth.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/discoveyasiax.png",Discovery Asia HD
-https://www.we-play.tv/watching/tv/discovery-asia
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/discovery.png",Discovery HD
-https://www.we-play.tv/watching/tv/discovery-channel
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/samrujrok.png",Samrojlok HD
 #https://www.we-play.tv/watching/tv/samruajlok
@@ -272,24 +271,34 @@ https://www.we-play.tv/watching/tv/true-music-hd
 https://www.we-play.tv/watching/tv/kbs-world
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill 
-#https://live.we-play.tv/android/thrill/playlist.m3u8 
-#http://27.254.149.109:8081/tumlive/Thrill/playlist.m3u8
+#https://www.we-play.tv/watching/tv/thrill
+http://203.154.177.124:8899/live/ch21/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/kix.png",Kix
 #https://live.we-play.tv/android/kix/playlist.m3u8
-#http://210.210.155.35/uq2663/h/h07/01.m3u8
-#http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
+http://210.210.155.35/uq2663/h/h07/01.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truexzyte.png",True X-ZYTE
 #https://live.we-play.tv/android/xzyte/playlist.m3u8
-https://www.we-play.tv/videos/tv-entertainment/true-x-zyte/
+#https://www.we-play.tv/watching/tv/true-x-zyte
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/foodnetwork.png",Food Network
 https://www.we-play.tv/watching/tv/food-network
 
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/animax.png",Animax
+http://203.154.177.124:8899/live/ch5/playlist.m3u8
+#https://www.we-play.tv/watching/tv/animax
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/aniplus.png",Aniplus
+https://www.we-play.tv/watching/tv/aniplus
+
 #EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/babytv.png",Baby TV
 https://www.we-play.tv/watching/tv/babytv
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/boomerang.png",Boomerang 
+#https://www.we-play.tv/watching/tv/boomerang 
+https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",Cartoon Network
 https://www.we-play.tv/watching/tv/cartoon-network
@@ -313,16 +322,9 @@ http://160.119.77.116:8081/iptv/uk-nickjr.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/jump.png",True Spark Jump
 https://www.we-play.tv/watching/tv/true-spark-jump
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/animax.png",Animax
-http://203.154.177.124:8899/live/ch5/playlist.m3u8
-#https://www.we-play.tv/watching/tv/animax
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://teevee-hd.com/img/play.png",True Spark Play 
+https://www.we-play.tv/watching/tv/true-spark-play
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/aniplus.png",Aniplus
-https://www.we-play.tv/watching/tv/aniplus
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/boomerang.png",Boomerang 
-#https://www.we-play.tv/watching/tv/boomerang 
-https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
 
 #EXTINF:-1 group-title="News World" tvg-logo="https://teevee-hd.com/img/cnn.png",CNN 
 #https://www.we-play.tv/watching/tv/cnn
