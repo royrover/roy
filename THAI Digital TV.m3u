@@ -143,7 +143,8 @@ https://cdnlive.goprimetime.info/feed/ch8/index.m3u8
 
 #EXTINF:-1 tvg-id="TNN24.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN16
 #http://160.119.77.116:8081/iptv/sd-tnn24.stream/playlist.m3u8
-https://cdnlive.goprimetime.info/feed/chtnn/index.m3u8
+#https://cdnlive.goprimetime.info/feed/chtnn/index.m3u8
+http://niklive.com:80/live/warning/index.m3u8/314
 
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/nation.png",NATION TV
