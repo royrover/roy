@@ -344,8 +344,8 @@ http://160.119.77.116:8081/iptv/sd-celestial.stream/playlist.m3u8
 #http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax
-http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8
 #EXTINF:-1 tvg-id="FoxActionMovies.th"group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION MOVIES 
 #http://tv10.chang55.com/ch13-foxac/playlist.m3u8
@@ -379,8 +379,9 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="FoxThai.th"group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/sonygem.png",GEM
 #http://203.150.107.30:8081/tested2iptv/core207/playlist.m3u8
 #EXTINF:-1 group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO 
-http://dootvthai-hd.com/cmd/api/hbo/hbohd/playlist.m3u8
-#http://77.83.117.60:8888/02_HBOHD_720p/chunklist.m3u8
+#http://dootvthai-hd.com/cmd/api/hbo/hbohd/playlist.m3u8
+http://77.83.117.60:8888/02_HBOHD_720p/chunklist.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #http://160.119.77.116:8081/iptv/hd-hboeng.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO 
 #http://dootvthai-hd.com/cmd/api/hbo/red/playlist.m3u8
@@ -390,21 +391,23 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch30.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO HITS
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+http://77.83.117.60:8888/02_HBOHit_720p/chunklist.m3u8
 #https://iamntp.com/hbo/hits_onweb.m3u8
-http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
+#http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
 #https://live.tubtoeball.net/tubtoeball_app/hbo-hits/playlist.m3u8
 #https://tv4.chang55.com:446/live2/tv4ch42.stream/playlist.m3u8
 #https://live.we-play.tv/live/hbo-hits/chunks.m3u8?nimblesessionid=38843415&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIwIDEwOjIxOjAzIEFNJmhhc2hfdmFsdWU9cUZQOHBHYjJRcEg2Qnk2ZFQ1dmxvUT09JnZhbGlkbWludXRlcz0yMA==
 #https://live.we-play.tv/android/hbo-hits/playlist.m3u8
 #https://livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO Signature
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-http://dootvthai-hd.com/cmd/api/hbo/sighd/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#http://dootvthai-hd.com/cmd/api/hbo/sighd/playlist.m3u8
 #https://livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO family
 #https://live.we-play.tv/live/hbo-fam/chunks.m3u8?nimblesessionid=38843628&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIwIDEwOjIyOjU5IEFNJmhhc2hfdmFsdWU9TUNrc0dzMEwwRGhQaCtxNUFFUUtPZz09JnZhbGlkbWludXRlcz0yMA==8
-http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
+#http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
 #https://livedoomovies.com/02_HBOFamily_720p/chunklist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg",Hi-DeF1
 #https://live.we-play.tv/android/hi-def1/playlist.m3u8
 #EXTINF:-1 group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/JKN.png",JKN
