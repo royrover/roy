@@ -19,8 +19,7 @@ referer:"https://doomovie.com"
 {
 name:"CH5 HD",
 image:"https://www.234.in.th/images/2020/11/17/ch5.png",
-url:"https://www.adintrend.tv/hd/m/ch5",
-referer:"https://www.adintrend.tv/"
+url:"http://27.254.130.56:80/live01/ch6.m3u8"
 },
 {
 name:"CH7 HD",
@@ -37,8 +36,7 @@ image:"https://www.234.in.th/images/2020/11/17/ch7.png",
 {
 "name": "NBT",  
 "image": "https://www.234.in.th/images/2020/11/17/nbt.png",  
-"url": "https://www.we-play.tv/watching/tv/11-nbt",
-"referer": "https://we-play.tv/"
+"url": "http://27.254.130.56:80/live01/ch4.m3u8"
 },
 {
 "name": "TNN16",  
@@ -79,8 +77,7 @@ image:"https://www.234.in.th/images/2020/11/17/ch7.png",
 {
 "name": "MONO29",
 "image": "https://www.234.in.th/images/2020/11/17/mono29.png",
-"url": "https://www.we-play.tv/watching/tv/mono29",
-"referer": "https://we-play.tv/"
+"url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8"
 },
 {
 "name": "ONE",
