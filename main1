@@ -19,8 +19,8 @@ url:"https://we-play.tv/watching/tv/ch3-hd",
 {
 name:"CH3 HD",
 image:"https://www.234.in.th/images/2020/11/17/ch3-hd.png",
-url:"https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8/",
-referer:"https://freetvdd.com"
+url:"https://www.doo2you.com/ch3-hd/",
+referer:"https://www.doo2you.com/"
 },
 {
 name:"CH5 HD",
@@ -60,7 +60,8 @@ referer:"https://freetvdd.com/"
 {
 "name": "NBT",  
 "image": "https://www.234.in.th/images/2020/11/17/nbt.png",  
-"url": "http://27.254.130.56:80/live01/ch4.m3u8"
+"url": "https://doomovie.com/live/nbt"
+referer:"https://doomovie.com/"
 },
 {
 "name": "NBT",  
@@ -100,8 +101,8 @@ referer:"http://live.prd.go.th/"
 {
 "name": "Nation TV",
 "image": "https://www.234.in.th/images/2020/11/17/nation.png",  
-"url": "https://www.sine.tv/tvonline/ch022/",
-"referer": "https://www.sine.tv/"
+"url": "https://www.livedoomovie.com/02_NATION_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
 },
 {
 "name": "Workpoint TV",  
@@ -124,8 +125,8 @@ referer:"http://live.prd.go.th/"
 {
 "name": "TRUE4U",
 "image": "https://www.234.in.th/images/2020/11/17/true4u.png",
-"url": "https://www.sine.tv/tvonline/ch016/",
-"referer": "https://www.sine.tv/"
+"url": "https://www.we-play.tv/watching/tv/true4u",
+"referer": "https://we-play.tv/"
 },
 {
 "name": "GMM Chalnel",
@@ -136,14 +137,13 @@ referer:"http://live.prd.go.th/"
 {
 "name": "GMM Chalnel",
 "image": "https://www.234.in.th/images/2020/11/17/gmm.png",
-"url": "https://www.sine.tv/tvonline/ch017/",
-"referer": "https://www.sine.tv/"
+"url": "https://www.we-play.tv/watching/tv/gmm25",
+"referer": "https://we-play.tv/"
 },
 {
 "name": "MONO29",
 "image": "https://www.234.in.th/images/2020/11/17/mono29.png",
-"url": "https://www.sine.tv/tvonline/ch020/",
-"referer": "https://www.sine.tv/"
+"url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8"
 },
 {
 "name": "MONO29",
@@ -159,8 +159,8 @@ referer:"http://live.prd.go.th/"
 {
 "name": "ONE",
 "image": "https://www.234.in.th/images/2020/11/17/onehd.png",
-"url": "https://www.sine.tv/tvonline/ch021/",
-"referer": "https://www.sine.tv/"
+"url": "https://www.we-play.tv/watching/tv/one-hd",
+"referer": "https://we-play.tv/"
 },
 {
 "name": "Thairath TV",
