@@ -3,8 +3,8 @@
 "author": "royrover",
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201001_092306.png",
 "url": "https://raw.githubusercontent.com/royrover/roy/master/main1",
-"groups": [
-
+"groups": 
+[
 {
 "name": "Digital TV",
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201113_152608.png",
@@ -226,7 +226,8 @@ referer:"https://www.adintrend.tv/"
 {
 "name": "ALTV4",
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201117_143034.png",
-"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"}]},
+"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"}]
+},
 {
 "name": "World News",
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201001_091928.png",
@@ -274,7 +275,6 @@ referer:"https://www.adintrend.tv/"
 "image": "https://www.234.in.th/images/2020/11/17/unnamed.png",
 "url": "",
 "import": false
-
 },	
 ]
 }
