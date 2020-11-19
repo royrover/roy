@@ -19,8 +19,8 @@ url:"https://we-play.tv/watching/tv/ch3-hd",
 {
 name:"CH3 HD",
 image:"https://www.234.in.th/images/2020/11/17/ch3-hd.png",
-url:"https://www.doo2you.com/ch3-hd/",
-referer:"https://www.doo2you.com/watch-tv-online/"
+url:"https://streaming.livescorethai.net/iptv/hd-ch5.stream/chunks.m3u8",
+referer:"https://freetvdd.com/"
 },
 {
 name:"CH5 HD",
@@ -49,7 +49,8 @@ referer:"https://freetvdd.com/"
 {
 "name": "MCOT HD",  
 "image": "https://www.234.in.th/images/2020/11/17/mcot.png",  
-"url": "http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8"  
+"url": "https://doomovielive.b-cdn.net/hd-mcot_720/index.m3u8",
+referer:"https://doomovie.com/"
 },
 {
 "name": "MCOT HD",  
@@ -119,14 +120,13 @@ referer:"http://live.prd.go.th/"
 {
 "name": "TRUE4U",
 "image": "https://www.234.in.th/images/2020/11/17/true4u.png",
-"url": "https://www.we-play.tv/watching/tv/true4u",
-"referer": "https://we-play.tv/"
+"url": "http://183.182.100.184/live/true4u/chunklist.m3u8"
 },
 {
 "name": "TRUE4U",
 "image": "https://www.234.in.th/images/2020/11/17/true4u.png",
-"url": "https://www.we-play.tv/watching/tv/true4u",
-"referer": "https://we-play.tv/"
+"url": "https://www.livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
 },
 {
 "name": "GMM Chalnel",
@@ -137,8 +137,7 @@ referer:"http://live.prd.go.th/"
 {
 "name": "GMM Chalnel",
 "image": "https://www.234.in.th/images/2020/11/17/gmm.png",
-"url": "https://www.we-play.tv/watching/tv/gmm25",
-"referer": "https://we-play.tv/"
+"url": "https://cdn6.goprimetime.info//feed//chgmm//index.m3u8"
 },
 {
 "name": "MONO29",
@@ -148,7 +147,7 @@ referer:"http://live.prd.go.th/"
 {
 "name": "MONO29",
 "image": "https://www.234.in.th/images/2020/11/17/mono29.png",
-"url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8"
+"url": "http://27.254.130.56:80/live01/ch3.m3u8"
 },
 {
 "name": "ONE",
@@ -159,8 +158,8 @@ referer:"http://live.prd.go.th/"
 {
 "name": "ONE",
 "image": "https://www.234.in.th/images/2020/11/17/onehd.png",
-"url": "https://www.we-play.tv/watching/tv/one-hd",
-"referer": "https://we-play.tv/"
+"url": "http://one31-rlbwkq.cdn.byteark.com:80/live/playlist_720p/index.m3u8",
+"referer": "https://www.one31.net/"
 },
 {
 "name": "Thairath TV",
@@ -171,8 +170,8 @@ referer:"http://live.prd.go.th/"
 {
 "name": "Thairath TV",
 "image": "https://www.234.in.th/images/2020/11/17/thairath.png",
-"url": "https://www.we-play.tv/watching/tv/thairath-tv",
-"referer": "https://we-play.tv/"
+"url": "http://live.thairath.co.th/trtv2/playlist.m3u8,
+"referer": "https://thairath.co.th/"
 },
 {
 "name": "AMARIN TV",
@@ -183,8 +182,7 @@ referer:"http://live.prd.go.th/"
 {
 "name": "AMARIN TV",
 "image": "https://www.234.in.th/images/2020/11/17/amarin.png",
-"url": "https://www.we-play.tv/watching/tv/amarin-tv",
-"referer": "https://we-play.tv/"
+"url": "http://27.254.130.56:80/live01/ch9.m3u8"
 },
 {
 "name": "PPTV HD",
@@ -195,8 +193,7 @@ referer:"http://live.prd.go.th/"
 {
 "name": "PPTV HD",
 "image": "https://www.234.in.th/images/2020/11/17/pptv.png",
-"url": "https://www.we-play.tv/watching/tv/pptv-hd",
-"referer": "https://we-play.tv/"
+"url": "http://27.254.130.56:80/live01/ch2.m3u8"
 },
 {
 "name": "CH8",
@@ -269,8 +266,31 @@ referer:"https://www.adintrend.tv/"
 {
 "name": "Sports",
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201117_150037.png",
-"url": "",
-"import": false
+"info": "", "stations": 
+[ 
+{
+name:"EPL 1",
+image:"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
+url:"https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8",
+referer:"https://freetvdd.com/"
+},
+{
+name:"EPL 1",
+image:"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
+url:"https://www.we-play.tv/watching/tv/true-premier-football-hd-1",
+"referer": "https://we-play.tv/"
+},
+{
+name:"EPL 2",
+image:"https://www.234.in.th/images/2020/11/19/premierfootball2.png",
+url:"https://www.we-play.tv/watching/tv/true-premier-football-hd-2",
+"referer": "https://we-play.tv/"
+},
+{
+name:"EPL 2",
+image:"https://www.234.in.th/images/2020/11/19/premierfootball2.png",
+url:"https://streaming.livescorethai.net/iptv/hd-ch5.stream/chunks.m3u8",
+referer:"https://freetvdd.com/"
 },	
 {
 "name": "Thai Radio",
