@@ -8,9 +8,13 @@
 {
 "name": "Digital TV",
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201113_152608.png",
-"url": "",
-"import": false
-},
+"info": "", "stations": 
+[ 
+{
+name:"CH3 HD",
+image:"https://www.234.in.th/images/2020/11/17/ch3-hd.png",
+url:"https://we-play.tv/watching/tv/ch3-hd",
+"referer": "https://we-play.tv/"}]},
 {
 "name": "World News",
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201001_091928.png",
