@@ -122,8 +122,13 @@
 {
 "name": "TV Movies",
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201117_144205.png",
-"url": "http://tiny.cc/entertainment01",
-"import": false
+"info": "", "stations": 
+[ 
+{
+"name":"Red By HBO",
+"image":"https://en.m.wikipedia.org/wiki/File:Screen_RED_(logo).jpg",
+"url":"https://www.we-play.tv/watching/tv/red-by-hbo",
+"referer": "https://we-play.tv/"}]
 },
 {
 "name": "Entertainment",
