@@ -195,20 +195,14 @@
 {
 "name": "PPTV HD",
 "image": "https://www.234.in.th/images/2020/11/17/pptv.png",
-"url": "https://www.adintrend.tv/hd/ch25?t=live",
-"referer": "https://www.adintrend.tv/"
+"url": "https://streaming.livescorethai.net/iptv/hd-pptv.stream/chunks.m3u8",
+"referer":"https://freetvdd.com/"
 },
 {
 "name": "CH8",
 "image": "https://www.234.in.th/images/2020/11/17/ch8.png",
 "url": "https://www.thaich8.com/live?var_link=720p",
 "referer": "https://www.mvtv.co.th/"
-},
-{
-"name": "CH8",
-"image": "https://www.234.in.th/images/2020/11/17/ch8.png",
-"url": "https://www.adintrend.tv/hd/ch33",
-"referer": "https://www.adintrend.tv/"
 },
 {
 "name": "VOICE TV",
@@ -257,7 +251,7 @@
 [ 
 {
 "name":"FOXไทย",
-"image":"https://www.234.in.th/images/2020/11/20/hbohd.png",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201120_140122.png",
 "url":"https://streaming.livescorethai.net/iptv/hd-fox.stream/chunks.m3u8",
 "referer":"https://freetvdd.com/"
 [ 
