@@ -137,8 +137,7 @@
 {
 "name": "GMM Chalnel",
 "image": "https://www.234.in.th/images/2020/11/17/gmm.png",
-"url": "https://www.adintrend.tv/hd/ch0",
-"referer": "https://www.adintrend.tv/"
+"url": "http://160.119.77.117/iptv/sd-gmmchannel.stream/chunks.m3u8"
 },
 {
 "name": "MONO29",
@@ -148,14 +147,20 @@
 {
 "name": "MONO29",
 "image": "https://www.234.in.th/images/2020/11/17/mono29.png",
-"url": "https://www.adintrend.tv/hd/ch38",
-"referer": "https://www.adintrend.tv/"
+"url": "https://streaming.livescorethai.net/iptv/hd-mono.stream/chunks.m3u8",
+"referer":"https://freetvdd.com/"
 },
 {
 "name": "ONE",
 "image": "https://www.234.in.th/images/2020/11/17/onehd.png",
 "url": "https://www.we-play.tv/watching/tv/one-hd",
 "referer": "https://we-play.tv/"
+},
+{
+"name": "ONE",
+"image": "https://www.234.in.th/images/2020/11/17/onehd.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-gmmone.stream/chunks.m3u8",
+"referer":"https://freetvdd.com/"
 },
 {
 "name": "Thairath TV",
