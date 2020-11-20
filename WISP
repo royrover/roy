@@ -197,8 +197,65 @@
 {
 "name": "Kids",
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201117_153423.png",
-"url": "http://tiny.cc/worldnews01",
-"import": false
+"info": "", "stations": 
+[ 
+{
+"name":"ANIMAX",
+"image":"https://www.234.in.th/images/2020/11/20/animax.png",
+"url":"http://203.154.177.124:8899/live/ch5/playlist.m3u8"
+},	
+{
+"name":"ANIPLUS",
+"image":"https://www.234.in.th/images/2020/11/20/aniplus.png",
+"url":"https://www.we-play.tv/watching/tv/aniplus",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Baby TV",
+"image":"https://www.234.in.th/images/2020/11/20/babytv.png",
+"url":"https://www.we-play.tv/watching/tv/babytv",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Boomerang ",
+"image":"https://www.234.in.th/images/2020/11/20/boomerang.png",
+"url":"http://27.254.130.61/live01/ch18.m3u8?p=st"
+},	
+{
+"name":"Cartoon Network",
+"image":"https://www.234.in.th/images/2020/11/20/cartoonnetwork.png",
+"url":"https://www.we-play.tv/watching/tv/cartoon-network",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Disney XD",
+"image":"https://www.234.in.th/images/2020/11/20/disneyxd.png",
+"url":"https://www.we-play.tv/watching/tv/disney-xd",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Disney Channel",
+"image":"https://www.234.in.th/images/2020/11/20/disney.png",
+"url":"https://www.we-play.tv/watching/tv/disney-channel",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Nickelodeon",
+"image":"https://www.234.in.th/images/2020/11/20/nickelodeon.png",
+"url":"https://www.we-play.tv/watching/tv/nickelodeon",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"True Spark Jump",
+"image":"https://www.234.in.th/images/2020/11/20/jump.png",
+"url":"https://www.we-play.tv/watching/tv/true-spark-jump",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"True Spark Play",
+"image":"https://www.234.in.th/images/2020/11/20/play.png",
+"url":"https://www.we-play.tv/watching/tv/true-spark-play",
+"referer": "https://we-play.tv/"}]
 },	
 {
 "name": "Sports",
