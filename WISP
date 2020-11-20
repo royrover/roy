@@ -191,8 +191,61 @@
 {
 "name": "Knowledge",
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201001_093430.png",
-"url": "http://tiny.cc/kids01",
-"import": false
+"info": "", "stations": 
+[ 
+{
+"name":"Animal Planet",
+"image":"https://www.234.in.th/images/2020/11/20/animalplanet.png",
+"url":"https://www.we-play.tv/watching/tv/animal-planet",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"BBC Earth",
+"image":"https://www.234.in.th/images/2020/11/20/bbcearth.png",
+"url":"https://www.doomovie-hd.com/?r=tv_view&id=52",
+"referer": "https://www.doomovie-hd.com//"
+},	
+{
+"name":"BBC Lifestyle",
+"image":"https://www.234.in.th/images/2020/11/20/iZA1Cnu.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Discovery Asia",
+"image":"https://www.234.in.th/images/2020/11/20/discoveyasiax.png",
+"url":"https://www.we-play.tv/watching/tv/discovery-asia",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Discovery Chalnel",
+"image":"https://www.234.in.th/images/2020/11/20/discovery.png",
+"url":"https://www.we-play.tv/watching/tv/discovery-channel",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"History",
+"image":"https://www.234.in.th/images/2020/11/20/history.png",
+"url":"https://www.we-play.tv/watching/tv/history-hd",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"H2",
+"image":"https://www.234.in.th/images/2020/11/20/h2hd.png",
+"url":"https://www.we-play.tv/watching/tv/history-h2",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Nat Geographic",
+"image":"https://www.234.in.th/images/2020/11/20/natgeo.png",
+"url":"https://www.we-play.tv/watching/tv/national-geographic",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Nat Geowild",
+"image":"https://www.234.in.th/images/2020/11/20/natwild.png",
+"url":"https://www.we-play.tv/watching/tv/nat-geo-wild",
+"referer": "https://we-play.tv/"}]
 },
 {
 "name": "Kids",
@@ -301,8 +354,8 @@
 {
 "name":"Bein Sports 1",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
-"url":"http://sportdoofree.com/tv-online?kp=bein1%20&dd=bein1",
-"referer": "http://sportdoofree.com"
+"url":"https://www.doomovie-hd.com/?r=tv_view&id=18",
+"referer": "https://www.doomovie-hd.com/"
 },	
 {
 "name":"Bein Sports 2",
@@ -313,8 +366,8 @@
 {
 "name":"Bein Sports 2",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
-"url":"http://sportdoofree.com/tv-online?kp=bein2%20&dd=bein2",
-"referer": "http://sportdoofree.com"}]
+"url":"https://www.doomovie-hd.com/?r=tv_view&id=19",
+"referer": "https://www.doomovie-hd.com/"}]
 },	
 {
 "name": "Thai Radio",
