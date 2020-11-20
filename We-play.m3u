@@ -41,6 +41,9 @@ https://www.we-play.tv/watching/tv/nationtv
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/nbt.png",NBT
 https://www.we-play.tv/watching/tv/11-nbt
 
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/nbt.png",NBT
+https://tv.trueid.net/live/tnn16|Referer==https://tv.trueid.net/
+
 #EXTINF:-1 tvg-id="Mono29.th" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",Mono29
 https://www.we-play.tv/watching/tv/mono29
 
@@ -57,7 +60,8 @@ https://www.we-play.tv/watching/tv/gmm25
 http://stream.rs.co.th/ch8-hi/index.m3u8
 
 #EXTINF:-1 tvg-id="TNN24.th" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/cntnH93eQYP8NQv90miuU4bx3URmvwx0HLX1WLGs.png",TNN16
-https://cdnlive.goprimetime.info//feed//chtnn//index.m3u8
+https://tv.trueid.net/live/tnn16
+#https://cdnlive.goprimetime.info//feed//chtnn//index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://i.imgur.com/bKTHNij.png",NEW TV
 https://cdnlive.goprimetime.info//feed//newtv//index.m3u8
