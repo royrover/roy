@@ -18,7 +18,7 @@
 },
 {
 "name":"CH3 HD",
-"image":"https://www.234.in.th/images/2020/11/17/ch3.png",
+"image":"https://www.234.in.th/images/2020/11/17/ch3-hd.png",
 "url": "https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8",
 "referer":"https://freetvdd.com/"
 },	
@@ -53,10 +53,22 @@
 "referer": "https://we-play.tv/"
 },
 {
+"name":"MCOT HD",
+"image":"https://www.234.in.th/images/2020/11/17/mcot.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-mcot.stream/chunks.m3u8",
+"referer":"https://freetvdd.com/"
+},
+{
 "name": "NBT",  
 "image": "https://www.234.in.th/images/2020/11/17/nbt.png",  
 "url": "https://www.we-play.tv/watching/tv/11-nbt",
 "referer":"https://we-play.tv/"
+},
+{
+"name":"NBT",
+"image":"https://www.234.in.th/images/2020/11/17/nbt.png",
+"url": "https://streaming.livescorethai.net/iptv/sd-nbt.stream/chunks.m3u8",
+"referer":"https://freetvdd.com/"
 },
 {
 "name": "TNN16",  
@@ -65,10 +77,22 @@
 "referer": "https://www.tnnthailand.com/"
 },
 {
+"name": "TNN16",  
+"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201113_145003.png",  
+"url": "https://streaming.livescorethai.net/iptv/sd-tnn24.stream/chunks.m3u8",
+"referer":"https://freetvdd.com/"
+},
+{
 "name": "Thai TPBS",
 "image": "https://www.234.in.th/images/2020/11/17/thaipbs.png",  
 "url": "http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8",
 "referer": "https://www.thaipbs.or.th/"
+},
+{
+"name": "Thai TPBS",
+"image": "https://www.234.in.th/images/2020/11/17/thaipbs.png",  
+"url": "https://streaming.livescorethai.net/iptv/hd-tpbs.stream/chunks.m3u8",
+"referer":"https://freetvdd.com/"
 },
 {
 "name": "Nation TV",
@@ -77,14 +101,32 @@
 "referer":"https://we-play.tv/"
 },
 {
+"name": "Nation TV",
+"image": "https://www.234.in.th/images/2020/11/17/nation.png",  
+"url": "https://streaming.livescorethai.net/iptv/sd-nation.stream/chunks.m3u8",
+"referer":"https://freetvdd.com/"
+},
+{
 "name": "Workpoint TV",  
 "image": "https://www.234.in.th/images/2020/11/17/workpoint.png",  
 "url": "http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8"
 },
 {
+"name": "Workpoint TV",  
+"image": "https://www.234.in.th/images/2020/11/17/workpoint.png",  
+"url": "http://77.83.117.60:8888/02_WORKPOINT_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com//"
+},
+{
 "name": "TRUE4U",
 "image": "https://www.234.in.th/images/2020/11/17/true4u.png",
 "url": "http://183.182.100.184/live/true4u/chunklist.m3u8"
+},
+{
+"name": "TRUE4U",
+"image": "https://www.234.in.th/images/2020/11/17/true4u.png",
+"url": "http://77.83.117.60:8888/02_TRUE4U_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com//"
 },
 {
 "name": "GMM Chalnel",
@@ -93,9 +135,21 @@
 "referer":"https://we-play.tv/"
 },
 {
+"name": "GMM Chalnel",
+"image": "https://www.234.in.th/images/2020/11/17/gmm.png",
+"url": "https://www.adintrend.tv/hd/ch0",
+"referer": "https://www.adintrend.tv/"
+},
+{
 "name": "MONO29",
 "image": "https://www.234.in.th/images/2020/11/17/mono29.png",
 "url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8"
+},
+{
+"name": "MONO29",
+"image": "https://www.234.in.th/images/2020/11/17/mono29.png",
+"url": "https://www.adintrend.tv/hd/ch38",
+"referer": "https://www.adintrend.tv/"
 },
 {
 "name": "ONE",
@@ -110,10 +164,22 @@
 "referer": "https://thairath.co.th/"
 },
 {
+"name": "Thairath TV",
+"image": "https://www.234.in.th/images/2020/11/17/thairath.png",
+"url": "https://www.adintrend.tv/hd/ch39",
+"referer": "https://www.adintrend.tv/"
+},
+{
 "name": "AMARIN TV",
 "image": "https://www.234.in.th/images/2020/11/17/amarin.png",
 "url": "https://www.we-play.tv/watching/tv/amarin-tv",
 "referer": "https://we-play.tv/"
+},
+{
+"name": "AMARIN TV",
+"image": "https://www.234.in.th/images/2020/11/17/amarin.png",
+"url": "https://www.adintrend.tv/hd/ch26",
+"referer": "https://www.adintrend.tv/"
 },
 {
 "name": "PPTV HD",
@@ -122,10 +188,22 @@
 "referer": "https://we-play.tv/"
 },
 {
+"name": "PPTV HD",
+"image": "https://www.234.in.th/images/2020/11/17/pptv.png",
+"url": "https://www.adintrend.tv/hd/ch25",
+"referer": "https://www.adintrend.tv/"
+},
+{
 "name": "CH8",
 "image": "https://www.234.in.th/images/2020/11/17/ch8.png",
 "url": "https://www.thaich8.com/live?var_link=720p",
 "referer": "https://www.mvtv.co.th/"
+},
+{
+"name": "CH8",
+"image": "https://www.234.in.th/images/2020/11/17/ch8.png",
+"url": "https://www.adintrend.tv/hd/ch33",
+"referer": "https://www.adintrend.tv/"
 },
 {
 "name": "VOICE TV",
