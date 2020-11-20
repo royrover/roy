@@ -237,15 +237,27 @@
 },	
 {
 "name":"Bein Sports 1",
-"image":"http://sportdoofree.com/images/logo/tv/beIN1Thai.png",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
 "url":"https://www.we-play.tv/watching/tv/bein-sports-1",
 "referer": "https://we-play.tv/"
 },	
 {
+"name":"Bein Sports 1",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
+"url":"http://sportdoofree.com/tv-online?kp=bein1%20&dd=bein1",
+"referer": "http://sportdoofree.com"
+},	
+{
 "name":"Bein Sports 2",
-"image":"http://sportdoofree.com/images/logo/tv/beIN2Thai.png",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
 "url":"https://www.we-play.tv/watching/tv/bein-sports-2",
-"referer": "https://we-play.tv/"}]
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Bein Sports 2",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
+"url":"http://sportdoofree.com/tv-online?kp=bein2%20&dd=bein2",
+"referer": "http://sportdoofree.com"}]
 },	
 {
 "name": "Thai Radio",
