@@ -19,8 +19,8 @@
 {
 "name":"CH5 HD",
 "image":"https://www.234.in.th/images/2020/11/17/ch5.png",
-"url":"https://doomovielive.b-cdn.net/hd-ch5_720/index.m3u8",
-"referer":"https://doomovie.com/"
+"url":"https://www.we-play.tv/watching/tv/ch5-hd",
+"referer": "https://we-play.tv/"
 },
 {
 "name":"CH7 HD",
@@ -31,8 +31,8 @@
 {
 "name": "MCOT HD",  
 "image": "https://www.234.in.th/images/2020/11/17/mcot.png",  
-"url": "https://doomovielive.b-cdn.net/hd-mcot_720/index.m3u8",
-"referer":"https://doomovie.com/"
+"url": "https://www.we-play.tv/watching/tv/mcot-hd",
+"referer": "https://we-play.tv/"
 },
 {
 "name": "NBT",  
@@ -55,7 +55,8 @@
 {
 "name": "Nation TV",
 "image": "https://www.234.in.th/images/2020/11/17/nation.png",  
-"url": "https://cdnlive.goprimetime.info/feed/chnation/index.m3u8"
+"url": "https://www.we-play.tv/watching/tv/nationtv",
+"referer":"https://we-play.tv/"
 },
 {
 "name": "Workpoint TV",  
@@ -70,7 +71,8 @@
 {
 "name": "GMM Chalnel",
 "image": "https://www.234.in.th/images/2020/11/17/gmm.png",
-"url": "https://cdn6.goprimetime.info//feed//chgmm//index.m3u8"
+"url": "https://www.we-play.tv/watching/tv/gmm25"
+"referer":"https://we-play.tv/"
 },
 {
 "name": "MONO29",
