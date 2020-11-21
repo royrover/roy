@@ -1056,8 +1056,13 @@
 {
 "name": "Thai Radio",
 "image": "https://www.234.in.th/images/2020/11/17/unnamed.png",
-"url": "",
-"import": false
+"info": "", "stations": 
+[ 
+{
+"name":"Chill FM",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20200928_110718.png",
+"url":"http://real4.atimemedia.com/chill",
+"referer": "http://real4.atimemedia.com/"}]
 
 },	
 ]
