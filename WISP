@@ -567,12 +567,6 @@
 "referer": "https://www.mvtv.co.th/"
 },
 {
-"name":"TVN",
-"image":"https://www.234.in.th/images/2020/11/20/tvn.png",
-"url":"https://www.we-play.tv/watching/tv/tvn",
-"referer": "https://we-play.tv/"
-},
-{
 "name":"Warner TV",
 "image":"https://www.234.in.th/images/2020/11/20/Rounded_20201120_164102.png",
 "url":"https://www.we-play.tv/watching/tv/warner-tv",
@@ -581,8 +575,13 @@
 {
 "name": "Entertainment",
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201117_144644.png",
-"url": "",
-"import": false
+"info": "", "stations": 
+[ 
+{
+"name":"TVN",
+"image":"https://www.234.in.th/images/2020/11/20/tvn.png",
+"url":"https://www.we-play.tv/watching/tv/tvn",
+"referer": "https://we-play.tv/"}]
 },
 {
 "name": "Knowledge",
