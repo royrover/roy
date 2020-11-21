@@ -590,6 +590,22 @@
 "info": "", "stations": 
 [ 
 {
+"name":"Arirang World",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201031_141152.png",
+"url":"http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+},
+{
+"name":"Asian Food Channel",
+"image":"https://www.234.in.th/images/2020/11/21/afc.png",
+"url":"https://www.we-play.tv/watching/tv/asian-food-channel",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"Channel V Asia",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201107_145023.md.png",
+"url":"https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8"
+},
+{
 "name":"Food Network",
 "image":"https://www.234.in.th/images/2020/11/21/foodnetwork.png",
 "url":"https://www.we-play.tv/watching/tv/food-network",
@@ -600,6 +616,23 @@
 "image":"https://www.234.in.th/images/2020/11/21/kbs.png",
 "url":"https://www.we-play.tv/watching/tv/kbs-world",
 "referer": "https://we-play.tv/"
+},
+{
+"name":"KMTV",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201121_152450.png",
+"url":"https://www.we-play.tv/watching/tv/kmtv",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"I-concerts",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201121_152436.png",
+"url":"https://www.we-play.tv/watching/tv/stingray-iconcerts",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"MTV ASIA",
+"image":"https://www.234.in.th/images/2020/11/21/mtvasia.png",
+"url":"http://203.154.177.124:8899/live/ch4/playlist.m3u8"
 },
 {
 "name":"True Music",
