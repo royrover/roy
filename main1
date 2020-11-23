@@ -293,104 +293,916 @@
 "referer": "https://www.thaipbs.or.th/"}]
 },
 {
-"name": "World News",
-"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201001_091928.png",
+"name": "Education",
+"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201001_092615.png",
 "info": "", "stations": 
 [ 
 {
-"name":"ABC Australia",
-"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201008_102155.png",
-"url":"http://203.154.177.124:8899/live/ch8/playlist.m3u8",
+"name":"อนุบาลศึกษาปีที่ 1",
+"image":"https://www.234.in.th/images/2020/11/20/logo-channel-10.png",
+"url":"https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8",
+"referer": "https://www.dltv.ac.th/"
+},
+{
+"name":"อนุบาลศึกษาปีที่ 2",
+"image":"https://www.234.in.th/images/2020/11/20/logo-channel-11.png",
+"url":"https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8",
+"referer": "https://www.dltv.ac.th/"
+},
+{
+"name":"อนุบาลศึกษาปีที่ 3",
+"image":"https://www.234.in.th/images/2020/11/20/logo-channel-12.png",
+"url":"https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8",
+"referer": "https://www.dltv.ac.th/"
+},
+{
+"name":"ประถมศึกษาปีที่ 1",
+"image":"https://www.234.in.th/images/2020/11/20/logo-channel-01.png",
+"url":"https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8",
+"referer": "https://www.dltv.ac.th/"
+},
+{
+"name":"ประถมศึกษาปีที่ 2",
+"image":"https://www.234.in.th/images/2020/11/20/logo-channel-02.png",
+"url":"https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8",
+"referer": "https://www.dltv.ac.th/"
+},
+{
+"name":"ประถมศึกษาปีที่ 3",
+"image":"https://www.234.in.th/images/2020/11/20/logo-channel-03.png",
+"url":"https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8",
+"referer": "https://www.dltv.ac.th/"
+},
+{
+"name":"ประถมศึกษาปีที่ 4",
+"image":"https://www.234.in.th/images/2020/11/20/logo-channel-04.png",
+"url":"https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8",
+"referer": "https://www.dltv.ac.th/"
+},
+{
+"name":"ประถมศึกษาปีที่ 5",
+"image":"https://www.234.in.th/images/2020/11/20/logo-channel-05.png",
+"url":"https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8",
+"referer": "https://www.dltv.ac.th/"
+},
+{
+"name":"ประถมศึกษาปีที่ 6",
+"image":"https://www.234.in.th/images/2020/11/20/logo-channel-06.png",
+"url":"https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8",
+"referer": "https://www.dltv.ac.th/"
+},
+{
+"name":"มัธยมศึกษาปีที่ 1",
+"image":"https://www.234.in.th/images/2020/11/20/logo-channel-07.png",
+"url":"https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8",
+"referer": "https://www.dltv.ac.th/"
+},
+{
+"name":"มัธยมศึกษาปีที่ 2",
+"image":"https://www.234.in.th/images/2020/11/20/logo-channel-08.png",
+"url":"https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8",
+"referer": "https://www.dltv.ac.th/"
+},
+{
+"name":"มัธยมศึกษาปีที่ 3",
+"image":"https://www.234.in.th/images/2020/11/20/logo-channel-09.png",
+"url":"https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8",
+"referer": "https://www.dltv.ac.th/"
+},
+{
+"name":"มัธยมศึกษาปีที่ 4",
+"image":"https://www.234.in.th/images/2020/11/20/logo-channel-13.png",
+"url":"https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8",
+"referer": "https://www.dltv.ac.th/"
+},
+{
+"name":"มัธยมศึกษาปีที่ 5",
+"image":"https://www.234.in.th/images/2020/11/20/logo-channel-14.png",
+"url":"https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8",
+"referer": "https://www.dltv.ac.th/"
+},
+{
+"name":"มัธยมศึกษาปีที่ 6",
+"image":"https://www.234.in.th/images/2020/11/20/logo-channel-15.png",
+"url":"https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8",
+"referer": "https://www.dltv.ac.th/"}]
+},
+{
+"name": "TV Movies",
+"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201117_144205.png",
+"info": "", "stations": 
+[ 
+{
+"name":"AXN HD",
+"image":"https://www.234.in.th/images/2020/11/20/axn.png",
+"url":"https://www.we-play.tv/watching/tv/axn-hd",
 "referer": "https://we-play.tv/"
 },
 {
-"name":"Aljazeera News",
-"image":"https://www.234.in.th/images/2020/11/21/aljazeera.png",
-"url":"https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
+"name":"Cinemax HD",
+"image":"https://www.234.in.th/images/2020/11/20/cinemax.png",
+"url":"https://www.we-play.tv/watching/tv/cinemax",
 "referer": "https://we-play.tv/"
 },
 {
-"name":"Australia channel",
-"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201008_092921.png",
-"url":"https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8",
+"name":"CTB",
+"image":"https://www.234.in.th/images/2020/11/20/20170709090502720443899.jpg",
+"url":"https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8"
+},
+{
+"name":"CCM",
+"image":"https://www.234.in.th/images/2020/11/20/classicmovies.png",
+"url":"https://www.we-play.tv/watching/tv/ccm",
 "referer": "https://we-play.tv/"
 },
 {
-"name":"BBC News",
-"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201019_095902.md.png",
-"url":"https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8",
+"name":"Fox Action Movies",
+"image":"https://www.234.in.th/images/2020/11/20/foxactionmovie.png",
+"url":"https://www.we-play.tv/watching/tv/fox-action-movies",
 "referer": "https://we-play.tv/"
 },
 {
-"name":"BBC World News",
-"image":"https://www.234.in.th/images/2020/11/21/bbc.png",
-"url":"https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/playlist.m3u8"
-},
-{
-"name":"Bloomberg TV",
-"image":"https://www.234.in.th/images/2020/11/21/bloombergtv.png",
-"url":"https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8",
+"name":"FOX family MOVIES ",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201107_083812.png",
+"url":"https://www.we-play.tv/watching/tv/fox-family-movies",
 "referer": "https://we-play.tv/"
 },
 {
-"name":"CCTV4",
-"image":"https://www.234.in.th/images/2020/11/21/cctv4.png",
-"url":"https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8",
+"name":"FOX Life",
+"image":"https://www.234.in.th/images/2020/11/20/foxlife.png",
+"url":"https://www.we-play.tv/watching/tv/fox-life",
 "referer": "https://we-play.tv/"
 },
 {
-"name":"CHANNEL NEWS ASIA",
-"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201001_082259.md.png",
-"url":"http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+"name":"Fox Movies",
+"image":"https://www.234.in.th/images/2020/11/20/Fox_movies.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-foxpremium.stream/chunks.m3u8",
+"referer":"https://freetvdd.com/"/"
+},
+{
+"name":"FOXTHAI",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201120_140122.png",
+"url":"https://www.we-play.tv/watching/tv/fox-thai",
 "referer": "https://we-play.tv/"
 },
 {
-"name":"CNN",
-"image":"https://www.234.in.th/images/2020/11/21/cnn.png",
-"url":"http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8",
+"name":"HBO HD",
+"image":"https://www.234.in.th/images/2020/11/20/hbohd.png",
+"url":"https://www.we-play.tv/watching/tv/hbo-hd",
 "referer": "https://we-play.tv/"
 },
 {
-"name":"CNBC WORLD",
-"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201117_092936.png",
-"url":"http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8",
+"name":"HBO Family",
+"image":"https://www.234.in.th/images/2020/11/20/hbofam.png",
+"url":"https://www.we-play.tv/watching/tv/hbo-family",
 "referer": "https://we-play.tv/"
 },
 {
-"name":"Deutsche Welle",
-"image":"https://www.234.in.th/images/2020/11/21/DW.png",
-"url":"http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8",
+"name":"HBO Hits",
+"image":"https://www.234.in.th/images/2020/11/20/hbohits.png",
+"url":"https://www.we-play.tv/watching/tv/hbo-hits",
 "referer": "https://we-play.tv/"
 },
 {
-"name":"Fox News",
-"image":"https://www.234.in.th/images/2020/11/21/foxnews.png",
-"url":"http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8",
+"name":"HBO Signature",
+"image":"https://www.234.in.th/images/2020/11/20/hbosig.png",
+"url":"https://www.we-play.tv/watching/tv/hbo-signature",
 "referer": "https://we-play.tv/"
 },
 {
-"name":"FRANCE24",
-"image":"https://www.234.in.th/images/2020/11/21/france24.png",
-"url":"http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8",
+"name":"HI-DEF 1",
+"image":"https://www.234.in.th/images/2020/11/23/Rounded_20201123_090126.png",
+"url":"https://www.we-play.tv/watching/tv/hidef-1",
 "referer": "https://we-play.tv/"
 },
 {
-"name":"NHK WORLD TV",
-"image":"https://www.234.in.th/images/2020/11/21/nhkworld.png",
-"url":"https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8",
+"name":"Hits",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201028_140322.md.png",
+"url":"https://www.we-play.tv/watching/tv/hits",
 "referer": "https://we-play.tv/"
 },
 {
-"name":"RT TV",
-"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201121_090159.png",
-"url":"https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8",
+"name":"Hits Movies",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201121_094104.png",
+"url":"http://77.83.117.60:8888/02_HITSMOVIE_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},
+{
+"name":"Monoplus",
+"image":"https://www.234.in.th/images/2020/11/20/monoplus.png",
+"url":"https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w501711662.m3u8",
 "referer": "https://we-play.tv/"
 },
 {
-"name":"Sky News",
-"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201026_105816.md.png",
-"url":"http://160.119.77.116:8081/iptv/uk-skynews.stream/playlist.m3u8",
+"name":"Paramount CHANNEL",
+"image":"https://www.234.in.th/images/2020/11/20/paramount.png",
+"url":"https://www.we-play.tv/watching/tv/paramount-channel",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"Red By HBO",
+"image":"https://www.234.in.th/images/2020/11/20/red.png",
+"url":"https://www.we-play.tv/watching/tv/red-by-hbo",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"Star Chinese Channel",
+"image":"https://www.234.in.th/images/2020/11/23/StarChineseChannel.png",
+"url":"https://www.we-play.tv/watching/tv/star-chinese-channel",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"Star Chinese Movies",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201120_161719.png",
+"url":"https://www.we-play.tv/watching/tv/star-chinese-movies",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"Thrill",
+"image":"https://www.234.in.th/images/2020/11/20/thrill.png",
+"url":"http://203.154.177.124:8899/live/ch21/playlist.m3u8",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"True Asian Series",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201120_163044.png",
+"url":"https://www.we-play.tv/watching/tv/true-asian-series-hd",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"True Film HD",
+"image":"https://www.234.in.th/images/2020/11/20/filmhd.png",
+"url":"https://www.we-play.tv/watching/tv/true-film-hd",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"True Thai Film",
+"image":"https://www.234.in.th/images/2020/11/20/truethaifilm.png",
+"url":"https://www.we-play.tv/watching/tv/true-thai-film",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"TVB Xing He",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201030_092614.png",
+"url":"http://ip2121.com:8081/live/TVB/chunks.m3u8",
+"referer": "https://www.mvtv.co.th/"
+},
+{
+"name":"TVB ไทย",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201120_193644.png",
+"url":"https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8",
+"referer": "https://www.mvtv.co.th/"
+},
+{
+"name":"Warner TV",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201120_164102.png",
+"url":"https://www.we-play.tv/watching/tv/warner-tv",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"Zeenung",
+"image":"https://www.234.in.th/images/2020/11/20/201707082147541150565441.jpg",
+"url":"https://cdn6.goprimetime.info/feed/chzeenung/index.m3u8",
 "referer": "https://we-play.tv/"}]
+},
+{
+"name": "Entertainment",
+"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201117_144644.png",
+"info": "", "stations": 
+[ 
+{
+"name":"Arirang World",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201031_141152.png",
+"url":"http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+},
+{
+"name":"Asian Food Network",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201121_152921.png",
+"url":"https://www.we-play.tv/watching/tv/asian-food-channel",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"Channel V Asia",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201107_145023.md.png",
+"url":"https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8"
+},
+{
+"name":"Food Network",
+"image":"https://www.234.in.th/images/2020/11/21/foodnetwork.png",
+"url":"https://www.we-play.tv/watching/tv/food-network",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"Fan TV",
+"image":"https://www.234.in.th/images/2020/11/21/fantv.png",
+"url":"http://77.83.117.60:8888/02_FANMUSICHD_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},
+{
+"name":"i-Concerts",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201121_152436.png",
+"url":"https://www.we-play.tv/watching/tv/stingray-iconcerts",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"KBS World",
+"image":"https://www.234.in.th/images/2020/11/21/kbs.png",
+"url":"https://www.we-play.tv/watching/tv/kbs-world",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"KMTV",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201121_152450.png",
+"url":"https://www.we-play.tv/watching/tv/kmtv",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"MTV ASIA",
+"image":"https://www.234.in.th/images/2020/11/21/mtvasia.png",
+"url":"http://203.154.177.124:8899/live/ch4/playlist.m3u8"
+},
+{
+"name":"MTV CHINA",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201121_153749.png",
+"url":"http://203.154.177.124:8899/live/ch16/playlist.m3u8"
+},
+{
+"name":"True Music",
+"image":"https://www.234.in.th/images/2020/11/21/truemusic.png",
+"url":"https://www.we-play.tv/watching/tv/true-music-hd",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"TVN",
+"image":"https://www.234.in.th/images/2020/11/20/tvn.png",
+"url":"https://www.we-play.tv/watching/tv/tvn",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"Waku Waku Japan",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201121_093508.png",
+"url":"https://www.we-play.tv/watching/tv/waku-waku-japan",
+"referer": "https://we-play.tv/"}]
+},
+{
+"name": "Knowledge",
+"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201001_093430.png",
+"info": "", "stations": 
+[ 
+{
+"name":"Animal Planet",
+"image":"https://www.234.in.th/images/2020/11/20/animalplanet.png",
+"url":"https://www.we-play.tv/watching/tv/animal-planet",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"BBC Earth",
+"image":"https://www.234.in.th/images/2020/11/20/bbcearth.png",
+"url":"http://77.83.117.60:8888/02_BBCEARTH_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"BBC Lifestyle",
+"image":"https://www.234.in.th/images/2020/11/20/iZA1Cnu.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Discovery Asia",
+"image":"https://www.234.in.th/images/2020/11/20/discoveyasiax.png",
+"url":"https://www.we-play.tv/watching/tv/discovery-asia",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Discovery Channel",
+"image":"https://www.234.in.th/images/2020/11/20/discovery.png",
+"url":"https://www.we-play.tv/watching/tv/discovery-channel",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"History",
+"image":"https://www.234.in.th/images/2020/11/20/history.png",
+"url":"https://www.we-play.tv/watching/tv/history-hd",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"H2",
+"image":"https://www.234.in.th/images/2020/11/20/h2hd.png",
+"url":"https://www.we-play.tv/watching/tv/history-h2",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"LoveNature 4K",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201120_113846.png",
+"url":"https://www.we-play.tv/watching/tv/lovenature-4k",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Nat Geographic",
+"image":"https://www.234.in.th/images/2020/11/20/natgeo.png",
+"url":"https://www.we-play.tv/watching/tv/national-geographic",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Nat Geo Wild",
+"image":"https://www.234.in.th/images/2020/11/20/natwild.png",
+"url":"https://www.we-play.tv/watching/tv/nat-geo-wild",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Outdoor Channel",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201120_103710.png",
+"url":"https://www.we-play.tv/watching/tv/outdoor-channel",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Samrujlok",
+"image":"https://www.234.in.th/images/2020/11/20/samrujrok.png",
+"url":"https://cdn6.goprimetime.info/feed/LC8/index.m3u8",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Saradee",
+"image":"https://www.234.in.th/images/2020/11/20/psisaradee.png",
+"url":"http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8"
+},	
+{
+"name":"SCI",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201112_155150.md.png",
+"url":"http://77.83.117.60:8888/02_DiscoveryScience/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"TLC HD",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201109_150424.md.png",
+"url":"https://www.we-play.tv/watching/tv/tlc-hd",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"TRUE EXPLORE LIFE",
+"image":"https://www.234.in.th/images/2020/11/20/truelife.png",
+"url":"https://doomovie.com/live/explore-life",
+"referer": "https://doomovie.com/"
+},
+{
+"name":"TRUE EXPLORE SCI",
+"image":"https://www.234.in.th/images/2020/11/20/truesci.png",
+"url":"https://doomovie.com/live/explore-sci",
+"referer": "https://we-play.tv/"}]
+},
+{
+"name": "Kids",
+"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201117_153423.png",
+"info": "", "stations": 
+[ 
+{
+"name":"ANIMAX",
+"image":"https://www.234.in.th/images/2020/11/20/animax.png",
+"url":"http://203.154.177.124:8899/live/ch5/playlist.m3u8"
+},	
+{
+"name":"ANIPLUS",
+"image":"https://www.234.in.th/images/2020/11/20/aniplus.png",
+"url":"https://www.we-play.tv/watching/tv/aniplus",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Baby TV",
+"image":"https://www.234.in.th/images/2020/11/20/babytv.png",
+"url":"https://www.we-play.tv/watching/tv/babytv",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Boomerang ",
+"image":"https://www.234.in.th/images/2020/11/20/boomerang.png",
+"url":"http://27.254.130.61/live01/ch18.m3u8?p=st"
+},	
+{
+"name":"Cartoon Network",
+"image":"https://www.234.in.th/images/2020/11/20/cartoonnetwork.png",
+"url":"https://www.we-play.tv/watching/tv/cartoon-network",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Disney XD",
+"image":"https://www.234.in.th/images/2020/11/20/disneyxd.png",
+"url":"https://www.we-play.tv/watching/tv/disney-xd",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Disney Channel",
+"image":"https://www.234.in.th/images/2020/11/20/disney.png",
+"url":"http://77.83.117.60:8888/02_DisneyXD_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"MIAO MI",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20200926_130021.png",
+"url":"http://203.154.177.124:8899/live/ch20/playlist.m3u8"
+},	
+{
+"name":"Nickelodeon",
+"image":"https://www.234.in.th/images/2020/11/20/nickelodeon.png",
+"url":"https://www.we-play.tv/watching/tv/nickelodeon",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"True Spark Jump",
+"image":"https://www.234.in.th/images/2020/11/20/jump.png",
+"url":"https://www.we-play.tv/watching/tv/true-spark-jump",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"True Spark Play",
+"image":"https://www.234.in.th/images/2020/11/20/play.png",
+"url":"https://www.we-play.tv/watching/tv/true-spark-play",
+"referer": "https://we-play.tv/"}]
+},	
+{
+"name": "Sports",
+"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201117_150037.png",
+"info": "", "stations": 
+[ 
+{
+"name":"Premiere 1",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
+"url":"http://54.37.82.205:8081/liveorigin/epl-2_720/playlist.m3u8",
+"referer": "https://dooball66.com/"
+},	
+{
+"name":"Premiere 1",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
+"url":"http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Premiere 1",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
+"url":"http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8"
+},	
+{
+"name":"Premiere 1",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
+"url":"http://103.208.24.234:1935/thaisport/epl-1.stream/chunklist.m3u8"
+},	
+{
+"name":"Premiere 1",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
+"url":"https://la-4.cdn-streaming.live/live/truepremier1/playlist.m3u8"
+},	
+{
+"name":"Premiere 2",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball2.png",
+"url":"http://54.37.82.205:8081/liveorigin/epl-2_720/playlist.m3u8",
+"referer": "https://dooball66.com/"
+},	
+{
+"name":"Premiere 2",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball2.png",
+"url":"http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Premiere 2",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball2.png",
+"url":"http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8"
+},	
+{
+"name":"Premiere 2",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball2.png",
+"url":"http://103.208.24.234:1935/thaisport/epl-2.stream/chunklist.m3u8"
+},	
+{
+"name":"Premiere 3",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball3.png",
+"url":"http://54.37.82.205:8081/liveorigin/epl-3_720/playlist.m3u8",
+"referer": "https://dooball66.com/"
+},	
+{
+"name":"Premiere 3",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball3.png",
+"url":"http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Premiere 3",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball3.png",
+"url":"http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8"
+},	
+{
+"name":"Premiere 3",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball3.png",
+"url":"http://103.208.24.234:1935/thaisport/epl-3.stream/chunklist.m3u8"
+},	
+{
+"name":"Premiere 4",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball4.png",
+"url":"http://54.37.82.205:8081/liveorigin/epl-4_720/playlist.m3u8",
+"referer": "https://dooball66.com/"
+},	
+{
+"name":"Premiere 4",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball4.png",
+"url":"http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Premiere 4",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball4.png",
+"url":"http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8"
+},	
+{
+"name":"Premiere 4",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball4.png",
+"url":"http://103.208.24.234:1935/thaisport/epl-4.stream/chunklist.m3u8"
+},	
+{
+"name":"Premiere 5",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball5.png",
+"url":"http://54.37.82.205:8081/liveorigin/epl-5_720/playlist.m3u8",
+"referer": "https://dooball66.com/"
+},	
+{
+"name":"Premiere 5",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball5.png",
+"url":"http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Premiere 5",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball5.png",
+"url":"http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8"
+},	
+{
+"name":"Premiere 5",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball5.png",
+"url":"http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8"
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
+"url":"https://www.we-play.tv/watching/tv/bein-sports-1",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
+"url":"https://doomovie.com/live/bein-sports-1",
+"referer": "https://doomovie.com/"
+},	
+{
+"name":"Bein Sports 1",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
+"url":"http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"Bein Sports 2",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
+"url":"https://www.we-play.tv/watching/tv/bein-sports-2",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Bein Sports 2",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
+"url":"https://doomovie.com/live/bein-sports-2",
+"referer": "https://doomovie.com/"
+},	
+{
+"name":"Bein Sports 2",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
+"url":"http://77.83.117.60:8888/02_epl2_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},	
+{
+"name":"True Sport HD",
+"image":"https://www.234.in.th/images/2020/11/20/tsphd1.png",
+"url":"https://www.we-play.tv/watching/tv/true-sports-hd",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"True Sport HD2",
+"image":"https://www.234.in.th/images/2020/11/20/tsphd2.png",
+"url":"https://www.we-play.tv/watching/tv/true-sports-hd-2",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"True Sport HD3",
+"image":"https://www.234.in.th/images/2020/11/20/tsphd3.png",
+"url":"https://www.we-play.tv/watching/tv/true-sports-hd-3",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"True Sport HD4",
+"image":"https://www.234.in.th/images/2020/11/20/tsphd4.png",
+"url":"http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8",
+"referer":"https://www.doomovie-hd.com/"
+},	
+{
+"name":"True Sport 2",
+"image":"https://www.234.in.th/images/2020/11/20/tsp2.png",
+"url":"https://www.we-play.tv/watching/tv/true-sports-2",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"True Sport 5",
+"image":"https://www.234.in.th/images/2020/11/20/tsp5.png",
+"url":"https://www.we-play.tv/watching/tv/true-sports-5",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"True Sport 6",
+"image":"https://www.234.in.th/images/2020/11/20/tsp6.png",
+"url":"https://www.we-play.tv/watching/tv/true-sports-6",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"True Sport 7",
+"image":"https://www.234.in.th/images/2020/11/20/tsp7.png",
+"url":"https://www.we-play.tv/watching/tv/true-sports-7",
+"referer":"https://we-play.tv/"
+},	
+{
+"name":"True Tennis HD",
+"image":"https://www.234.in.th/images/2020/11/20/tennis.png",
+"url":"https://www.we-play.tv/watching/tv/true-tennis",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Golf Channel",
+"image":"https://www.234.in.th/images/2020/11/20/golf.png",
+"url":"https://www.we-play.tv/watching/tv/golf-channel",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"NBA HD",
+"image":"https://www.234.in.th/images/2020/11/20/nba.png",
+"url":"https://www.we-play.tv/watching/tv/nba-tv",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"NFL Network",
+"image":"https://www.234.in.th/images/2020/11/20/nfl.png",
+"url":"https://www.we-play.tv/watching/tv/nfl-network",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Fox Sports HD",
+"image":"https://www.234.in.th/images/2020/11/20/foxsport1.png",
+"url":"https://www.we-play.tv/watching/tv/fox-sports-hd",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Fox Sports2",
+"image":"https://www.234.in.th/images/2020/11/20/foxsport2.png",
+"url":"https://www.we-play.tv/watching/tv/fox-sports-2",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Fox Sports3",
+"image":"https://www.234.in.th/images/2020/11/20/foxsport3.png",
+"url":"https://www.we-play.tv/watching/tv/fox-sports-3",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Arena Sports",
+"image":"https://www.234.in.th/images/2020/11/20/arenasport1serbia.png",
+"url":"https://www.we-play.tv/watching/tv/arena-sport-1",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Arena Sports 2",
+"image":"https://www.234.in.th/images/2020/11/20/arenasport2serbia.png",
+"url":"https://www.we-play.tv/watching/tv/arena-sport-2",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Arena Sports 3",
+"image":"https://www.234.in.th/images/2020/11/20/arenasport3serbia.png",
+"url":"https://www.we-play.tv/watching/tv/arena-sport-3",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Arena Sports 4",
+"image":"https://www.234.in.th/images/2020/11/20/arenasport4serbia.png",
+"url":"https://www.we-play.tv/watching/tv/arena-sport-4",
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"LFCTV",
+"image":"https://www.234.in.th/images/2020/11/20/lfctv.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/uk-lfctv.stream/chunks.m3u8"
+},	
+{
+"name":"MUTV",
+"image":"https://www.234.in.th/images/2020/11/20/mutv.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/uk-mutv.stream/chunks.m3u8"
+},	
+{
+"name":"FC Bayern TV",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201105_154148.png",
+"url":"http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8"
+},	
+{
+"name":"Motor Visions",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201111_134902.png",
+"url":"https://www.we-play.tv/watching/tv/motor-vision",
+"referer": "https://we-play.tv/"}]
+},	
+{
+"name": "Thai Radio",
+"image": "https://www.234.in.th/images/2020/11/17/unnamed.png",
+"info": "", "stations": 
+[ 
+{
+"name":"Chill FM",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20200928_110718.png",
+"url":"http://real4.atimemedia.com/chill",
+"referer": "http://real4.atimemedia.com/"
+},	
+{
+"name":"มิติข่าว 90.5",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20200928_110633.png",
+"url":"http://live3.smartbomb.co.th:8624/stream/1/",
+"referer": "http://www.smartbomb.co.th//"
+},	
+{
+"name":"Cool 93FM",
+"image":"https://www.234.in.th/images/2020/11/21/unnamed-2.png",
+"url":"http://111.223.51.7:8100/;stream/1",
+"referer": "http://www.smartbomb.co.th/"
+},	
+{
+"name":"Fm95 Looktung",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20200928_110600.png",
+"url":"https://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/chunklist_w2109631206.m3u8",
+"referer": "https://radio.mcot.net/"
+},	
+{
+"name":"Virgin Hitz",
+"image":"https://www.234.in.th/images/2020/11/21/955.png",
+"url":"https://wzedge1.becteroradio.com/Hitz/Hitz-Listen-High/chunklist_w1373688195.m3u8",
+"referer": "https://becteroradio.com/"
+},	
+{
+"name":"96.5 คลื่นความคิด",
+"image":"https://www.234.in.th/images/2020/11/21/96.5x.jpg",
+"url":"https://mcotdigital-9ksau4.cdn.byteark.com/RadioLive/smil:fm965_live.smil/chunklist_w673711091_b500000.m3u8",
+"referer": "https://radio.mcot.net/"
+},	
+{
+"name":"97.5 FM Seed FM",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201121_132616.png",
+"url":"https://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/chunklist_w1644975532.m3u8",
+"referer": "https://radio.mcot.net/"
+},	
+{
+"name":"Fm99 Active Radio",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20200928_110617.png",
+"url":"https://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/chunklist_w1668071839.m3u8",
+"referer": "https://radio.mcot.net/"
+},	
+{
+"name":"จส.100 (js100)",
+"image":"https://www.234.in.th/images/2020/11/21/js100.png",
+"url":"http://112.121.151.133:8184/;&type=mp3"
+},	
+{
+"name":"Eazy FM",
+"image":"https://www.234.in.th/images/2020/11/21/105.5x.jpg",
+"url":"https://wzedge1.becteroradio.com/Eazy/Eazy-Listen-High/chunklist_w1159801034.m3u8",
+"referer": "https://becteroradio.com/"
+},	
+{
+"name":"Greenwave",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20200928_110544.png",
+"url":"http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8"
+},	
+{
+"name":"met107",
+"image":"https://www.234.in.th/images/2020/11/21/met.md.png",
+"url":"https://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/chunklist_w136409516.m3u8",
+"referer": "https://radio.mcot.net/"
+},	
+{
+"name":"LUKTUNG NETWORK",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201118_091147.png",
+"url":"https://54c241893bf39.streamlock.net/looktungnetwork1/looktungnetwork1/chunklist_w9273485.m3u8"}]
+
 },	
 ]
 }
+© 2020 GitHub, Inc.
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
