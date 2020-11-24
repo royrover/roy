@@ -23,22 +23,10 @@
 "referer":"https://freetvdd.com/"
 },	
 {
-"name":"CH3 HD",
-"image":"https://www.234.in.th/images/2020/11/17/ch3-hd.png",
-"url": "https://doomovielive.b-cdn.net/hd-ch3_720/index.m3u8",
-"referer":"https://doomovie.com/"
-},	
-{
 "name":"CH5 HD",
 "image":"https://www.234.in.th/images/2020/11/17/ch5.png",
 "url":"https://www.we-play.tv/watching/tv/ch5-hd",
 "referer": "https://we-play.tv/"
-},
-{
-"name":"CH5 HD",
-"image":"https://www.234.in.th/images/2020/11/17/ch5.png",
-"url": "https://streaming.livescorethai.net/iptv/hd-ch5.stream/chunks.m3u8",
-"referer":"https://freetvdd.com/"
 },
 {
 "name":"CH5 HD",
@@ -59,27 +47,10 @@
 "referer":"https://doomovie.com/"
 },
 {
-"name":"CH7 HD",
-"image":"https://www.234.in.th/images/2020/11/17/ch7.png",
-"url": "http://27.254.130.56:80/live01/ch1.m3u8"
-},
-{
 "name": "MCOT HD",  
 "image": "https://www.234.in.th/images/2020/11/17/mcot.png",  
 "url": "https://www.we-play.tv/watching/tv/mcot-hd",
 "referer": "https://we-play.tv/"
-},
-{
-"name":"MCOT HD",
-"image":"https://www.234.in.th/images/2020/11/17/mcot.png",
-"url": "https://streaming.livescorethai.net/iptv/hd-mcot.stream/chunks.m3u8",
-"referer":"https://freetvdd.com/"
-},
-{
-"name":"MCOT HD",
-"image":"https://www.234.in.th/images/2020/11/17/mcot.png",
-"url": "http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8",
-"referer":"https://www.mcot.net/"
 },
 {
 "name": "NBT",  
@@ -102,31 +73,18 @@
 {
 "name": "TNN16",  
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201113_145003.png",  
-"url": "https://www.tnnthailand.com/live/",
-"referer": "https://www.tnnthailand.com/"
-},
-{
-"name": "TNN16",  
-"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201113_145003.png",  
-"url": "http://sportdoofree.com/tv-online?kp=tnn%20&dd=tnn",
-"referer": "http://sportdoofree.com/"
-},
-{
-"name": "TNN16",  
-"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201113_145003.png",  
 "url": "https://cdn6.goprimetime.info/feed/chtnn/index.m3u8"
+},
+{
+"name": "TNN16",  
+"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201113_145003.png",  
+"url": "http://160.119.77.116:8081/iptv/sd-tnn24.stream/playlist.m3u8"
 },
 {
 "name": "Thai TPBS",
 "image": "https://www.234.in.th/images/2020/11/17/thaipbs.png",  
 "url": "http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8",
 "referer": "https://www.thaipbs.or.th/"
-},
-{
-"name": "Thai TPBS",
-"image": "https://www.234.in.th/images/2020/11/17/thaipbs.png",  
-"url": "https://streaming.livescorethai.net/iptv/hd-tpbs.stream/chunks.m3u8",
-"referer":"https://freetvdd.com/"
 },
 {
 "name": "Thai TPBS",
@@ -143,12 +101,6 @@
 {
 "name": "Nation TV",
 "image": "https://www.234.in.th/images/2020/11/17/nation.png",  
-"url": "https://cdnlive.goprimetime.info/feed/chnation/index.m3u8",
-"referer":"https://we-play.tv/"
-},
-{
-"name": "Nation TV",
-"image": "https://www.234.in.th/images/2020/11/17/nation.png",  
 "url": "http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8",
 "referer":"https://we-play.tv/"
 },
@@ -156,12 +108,6 @@
 "name": "Workpoint TV",  
 "image": "https://www.234.in.th/images/2020/11/17/workpoint.png",  
 "url": "http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8"
-},
-{
-"name": "Workpoint TV",  
-"image": "https://www.234.in.th/images/2020/11/17/workpoint.png",  
-"url": "http://77.83.117.60:8888/02_WORKPOINT_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/"
 },
 {
 "name": "Workpoint TV",  
@@ -179,12 +125,6 @@
 "image": "https://www.234.in.th/images/2020/11/17/true4u.png",
 "url": "http://77.83.117.60:8888/02_TRUE4U_480p/chunklist.m3u8",
 "referer": "https://www.doomovie-hd.com/"
-},
-{
-"name": "TRUE4U",
-"image": "https://www.234.in.th/images/2020/11/17/true4u.png",
-"url": "https://www.fwiptv.cc/player_demo.php?channel=27156",
-"referer":"https://www.fwiptv.cc"
 },
 {
 "name": "GMM Chalnel",
@@ -207,8 +147,8 @@
 {
 "name": "MONO29",
 "image": "https://www.234.in.th/images/2020/11/17/mono29.png",
-"url": "https://streaming.livescorethai.net/iptv/hd-mono.stream/chunks.m3u8",
-"referer":"https://freetvdd.com/"
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-mono.stream/chunks.m3u8",
+"referer":"https://doofootball.com/"
 },
 {
 "name": "ONE",
@@ -1223,6 +1163,12 @@
 "image":"https://www.234.in.th/images/2020/11/20/tv-station--453.png",
 "url":"https://www.we-play.tv/watching/tv/sport-tv-4",
 "referer": "https://we-play.tv/"
+},	
+{
+"name":"SPORTTV5",
+"image":"https://www.234.in.th/images/2020/11/20/tv-station-sport-tv-5-454.png",
+"url":"http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
 },	
 {
 "name":"LFCTV",
