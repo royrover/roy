@@ -81,6 +81,12 @@
 "url": "http://160.119.77.116:8081/iptv/sd-tnn24.stream/playlist.m3u8"
 },
 {
+"name": "TNN16",  
+"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201113_145003.png",  
+"url": "https://tv.trueid.net/live/tnn16"
+"referer":"https://tv.trueid.net/"
+},
+{
 "name": "Thai TPBS",
 "image": "https://www.234.in.th/images/2020/11/17/thaipbs.png",  
 "url": "http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8",
@@ -202,24 +208,25 @@
 "name": "CH8",
 "image": "https://www.234.in.th/images/2020/11/17/ch8.png",
 "url": "https://www.thaich8.com/live?var_link=720p",
-"referer": "https://www.mvtv.co.th/"
+"referer": "https://www.thaich8.com/"
 },
 {
 "name": "VOICE TV",
 "image": "https://www.234.in.th/images/2020/11/17/voicetv.png",
-"url": "https://www.mvtv.co.th/channel/v2h2",
-"referer": "https://www.thaich8.com/"
+"url": "https://www.tvjaa.com/voicetv.html",
+"referer": "https://www.tvjaa.com/"
 },
 {
 "name": "NEW18",
 "image": "https://www.234.in.th/images/2020/11/17/newtv.png",
-"url": "https://www.fwiptv.cc/player_demo.php?channel=27174",
-"referer": "https://www.fwiptv.cc"
+"url": "https://www.tvjaa.com/news18.html",
+"referer": "https://www.tvjaa.com/"
 },
 {
 "name": "NEW1",
 "image": "https://www.234.in.th/images/2020/11/17/news1.png",
-"url": "https://server1.streamssl.com/stream/news1_hi.m3u8"
+"url": "https://www.tvjaa.com/news1.html",
+"referer": "https://www.tvjaa.com/"
 },
 {
 "name": "TPTV",
