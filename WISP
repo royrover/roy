@@ -865,8 +865,8 @@
 {
 "name":"Premiere 1",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
-"url":"http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/"
+"url":"https://doomovie.com/live/premier-football-hd-1",
+"referer": "https://doomovie.com/"
 },	
 {
 "name":"Premiere 1",
@@ -893,8 +893,8 @@
 {
 "name":"Premiere 2",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball2.png",
-"url":"http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/"
+"url":"https://doomovie.com/live/premier-football-hd-2",
+"referer": "https://doomovie.com/"
 },	
 {
 "name":"Premiere 2",
@@ -915,8 +915,8 @@
 {
 "name":"Premiere 3",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball3.png",
-"url":"http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/"
+"url":"https://doomovie.com/live/premier-football-hd-3",
+"referer": "https://doomovie.com/"
 },	
 {
 "name":"Premiere 3",
@@ -937,8 +937,8 @@
 {
 "name":"Premiere 4",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball4.png",
-"url":"http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/"
+"url":"https://doomovie.com/live/premier-football-hd-4",
+"referer": "https://doomovie.com/"
 },	
 {
 "name":"Premiere 4",
@@ -959,8 +959,8 @@
 {
 "name":"Premiere 5",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball5.png",
-"url":"http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/"
+"url":"https://doomovie.com/live/premier-football-hd-5",
+"referer": "https://doomovie.com/"
 },	
 {
 "name":"Premiere 5",
@@ -1087,10 +1087,22 @@
 "referer": "https://we-play.tv/"
 },	
 {
+"name":"True Tennis HD",
+"image":"https://www.234.in.th/images/2020/11/20/tennis.png",
+"url":"https://doomovie.com/live/tennis-hd",
+"referer":"https://doomovie.com/"
+},	
+{
 "name":"Golf Channel",
 "image":"https://www.234.in.th/images/2020/11/20/golf.png",
 "url":"https://www.we-play.tv/watching/tv/golf-channel",
 "referer": "https://we-play.tv/"
+},	
+{
+"name":"Golf Channel",
+"image":"https://www.234.in.th/images/2020/11/20/golf.png",
+"url":"https://doomovie.com/live/golf-channel-thailand",
+"referer": "https://doomovie.com/"
 },	
 {
 "name":"NBA HD",
@@ -1099,10 +1111,22 @@
 "referer": "https://we-play.tv/"
 },	
 {
+"name":"NBA HD",
+"image":"https://www.234.in.th/images/2020/11/20/nba.png",
+"url":"https://doomovie.com/live/nba-tv",
+"referer": "https://doomovie.com/"
+},	
+{
 "name":"NFL Network",
 "image":"https://www.234.in.th/images/2020/11/20/nfl.png",
 "url":"https://www.we-play.tv/watching/tv/nfl-network",
 "referer": "https://we-play.tv/"
+},	
+{
+"name":"NFL Network",
+"image":"https://www.234.in.th/images/2020/11/20/nfl.png",
+"url":"https://doomovie.com/live/nfl-tv",
+"referer": "https://doomovie.com/"
 },	
 {
 "name":"Fox Sports HD",
@@ -1111,16 +1135,34 @@
 "referer": "https://we-play.tv/"
 },	
 {
+"name":"Fox Sports HD",
+"image":"https://www.234.in.th/images/2020/11/20/foxsport1.png",
+"url":"https://doomovie.com/live/fox-sports-1",
+"referer": "https://doomovie.com/"
+},	
+{
 "name":"Fox Sports2",
 "image":"https://www.234.in.th/images/2020/11/20/foxsport2.png",
 "url":"https://www.we-play.tv/watching/tv/fox-sports-2",
 "referer": "https://we-play.tv/"
 },	
 {
+"name":"Fox Sports2",
+"image":"https://www.234.in.th/images/2020/11/20/foxsport2.png",
+"url":"https://doomovie.com/live/fox-sports-2",
+"referer": "https://doomovie.com/"
+},	
+{
 "name":"Fox Sports3",
 "image":"https://www.234.in.th/images/2020/11/20/foxsport3.png",
 "url":"https://www.we-play.tv/watching/tv/fox-sports-3",
 "referer": "https://we-play.tv/"
+},	
+{
+"name":"Fox Sports3",
+"image":"https://www.234.in.th/images/2020/11/20/foxsport3.png",
+"url":"https://doomovie.com/live/fox-sports-3",
+"referer": "https://doomovie.com/"
 },	
 {
 "name":"Arena Sports",
@@ -1190,14 +1232,14 @@
 {
 "name":"Eurosport-1",
 "image":"https://www.234.in.th/images/2020/11/20/a88.png",
-"url":"https://www.doo2you.com/eurosport-1-uk/",
-"referer": "https://www.doo2you.com/"
+"url":"https://doomovie.com/live/eurosport/",
+"referer": "https://doomovie.com/"
 },	
 {
 "name":"Eurosport-2",
 "image":"https://www.234.in.th/images/2020/11/20/a89.png",
-"url":"https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8",
-"referer":"https://www.doomovie-hd.com/"
+"url":"https://doomovie.com/live/eurosport-2",
+"referer":"https://doomovie.com/"
 },	
 {
 "name":"Motor Visions",
