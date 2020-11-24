@@ -70,7 +70,10 @@ http://27.254.130.56:80/live01/ch4.m3u8
 #https://cdnlive.goprimetime.info/feed/chnbt/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/nbt.png",NBT 
-#http://dootvthai-hd.com/cmd/true/NBT-HD/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/nbt.png",NBT 
+https://cdnlive.goprimetime.info/feed/chnbt/index.m3u8
 
 #EXTINF:-1 tvg-id="Thairath.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/thairath.png",Thairat TV
 #http://160.119.77.116:8081/iptv/hd-thairath.stream/playlist.m3u8
@@ -79,15 +82,30 @@ http://27.254.130.56:80/live01/ch4.m3u8
 http://live.thairath.co.th/trtv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Thairath.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/thairath.png",Thairat TV 
-#http://dootvthai-hd.com/cmd/true/Thairathtv-HD/playlist.m3u8
+https://cdnlive.goprimetime.info/feed/chthairath/index.m3u8
+
+#EXTINF:-1 tvg-id="Thairath.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/thairath.png",Thairat TV 
+http://160.119.77.116:8081/iptv/hd-thairath.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Thairath.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/thairath.png",Thairat TV 
+http://27.254.130.56:80/live01/ch9.m3u8
+
+#EXTINF:-1 tvg-id="Thairath.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/thairath.png",Thairat TV 
+https://streaming.livescorethai.net/iptv/hd-thairath.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/amarin.png",Amarin TV 
 #http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
 http://27.254.130.61/live01/ch13.m3u8?p=st
 #https://cdnlive.goprimetime.info/feed/chamarin/index.m3u8
 
-#EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/amarin.png",Amarin TV HD
-#http://dootvthai-hd.com/cmd/true/Amarintv-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/amarin.png",Amarin TV 
+http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/amarin.png",Amarin TV 
+https://cdnlive.goprimetime.info/feed/chamarin/index.m3u8
+
+#EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/amarin.png",Amarin TV 
+ttps://streaming.livescorethai.net/iptv/hd-amarin.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/onehd.png",ONE 
 #http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
