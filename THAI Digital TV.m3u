@@ -10,10 +10,10 @@ http://160.119.77.116:8081/iptv/hd-ch3.stream/playlist.m3u8
 #https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8
 #https://cdnlive.goprimetime.info/feed/ch3hd/index.m3u8
 
-#EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3.png",3 HD
+#EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3-hd.png",3 HD
 https://cdnlive.goprimetime.info/feed/ch3hd/index.m3u8
 
-#EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3.png",3 HD
+#EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3-hd.png",3 HD
 https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch5.png",5 HD 
@@ -44,77 +44,77 @@ https://cdnlive.goprimetime.info/feed/ch7hd/index.m3u8
 #EXTINF:-1 tvg-id="channel7.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch7.png",7 HD             	
 https://cdnlive.goprimetime.info/feed/ch7hd/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT 
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/mcot.png",MCOT 
 http://160.119.77.116:8081/iptv/hd-mcot.stream/playlist.m3u8
 #https://cdnlive.goprimetime.info/feed/chmcothd/index.m3u8
 #https://streaming.livescorethai.net/iptv/hd-mcot.stream/chunks.m3u8
 #http://103.22.182.242:8081/app/mcothd/chunks.m3u8
 #http://27.254.130.61/live01/ch12.m3u8?p=st
 
-#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT 
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/mcot.png",MCOT 
 https://doofootball.livestream-cdn.com/iptv/hd-mcot.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT 
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/mcot.png",MCOT 
 http://27.254.130.61/live01/ch12.m3u8?p=st
 
-#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT 
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/mcot.png",MCOT 
 https://cdnlive.goprimetime.info/feed/chmcothd/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/mcot.png",MCOT 
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT HD
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/nbt.png",NBT 
 #http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
 #http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 http://27.254.130.56:80/live01/ch4.m3u8
 #https://cdnlive.goprimetime.info/feed/chnbt/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT HD
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/nbt.png",NBT 
 #http://dootvthai-hd.com/cmd/true/NBT-HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Thairath.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/thairath.png",Thairat TV
+#EXTINF:-1 tvg-id="Thairath.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/thairath.png",Thairat TV
 #http://160.119.77.116:8081/iptv/hd-thairath.stream/playlist.m3u8
 #http://27.254.130.56:80/live01/ch9.m3u8
 #https://cdnlive.goprimetime.info/feed/chthairath/index.m3u8
 http://live.thairath.co.th/trtv2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Thairath.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/thairath.png",Thairat TV HD
+#EXTINF:-1 tvg-id="Thairath.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/thairath.png",Thairat TV 
 #http://dootvthai-hd.com/cmd/true/Thairathtv-HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/amarin.png",Amarin TV 
+#EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/amarin.png",Amarin TV 
 #http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
 http://27.254.130.61/live01/ch13.m3u8?p=st
 #https://cdnlive.goprimetime.info/feed/chamarin/index.m3u8
 
-#EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/amarin.png",Amarin TV HD
+#EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/amarin.png",Amarin TV HD
 #http://dootvthai-hd.com/cmd/true/Amarintv-HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE 
+#EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/onehd.png",ONE 
 #http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
 http://one31-rlbwkq.cdn.byteark.com:80/live/playlist_720p/index.m3u8
 #https://cdnlive.goprimetime.info/feed/chonehd/index.m3u8
 #http://27.254.130.56:80/live01/ch10.m3u8
 #http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE 
+#EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/onehd.png",ONE 
 http://27.254.130.56:80/live01/ch10.m3u8
 
-#EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE 
+#EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/onehd.png",ONE 
 https://cdnlive.goprimetime.info/feed/chonehd/index.m3u8
 
-#EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE 
+#EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/onehd.png",ONE 
 http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PPTV.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
+#EXTINF:-1 tvg-id="PPTV.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/pptv.png",PPTV 
 #http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
 http://27.254.130.56:80/live01/ch2.m3u8
 #https://cdnlive.goprimetime.info/feed/chpptvhd/index.m3u8
 #http://183.182.100.184/live/pptvthai/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PPTV.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
+#EXTINF:-1 tvg-id="PPTV.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/pptv.png",PPTV 
 https://cdnlive.goprimetime.info/feed/chpptvhd/index.m3u8
 
-#EXTINF:-1 tvg-id="PPTV.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
+#EXTINF:-1 tvg-id="PPTV.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/pptv.png",PPTV 
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/thaipbs.png",Thai PBS 
@@ -138,33 +138,56 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/thaipbs.png",Thai PBS 
 https://doomovielive.b-cdn.net/hd-tpbs_720/index.m3u8
 
-#EXTINF:-1 tvg-id="Workpoint.th"group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT TV 
+#EXTINF:-1 tvg-id="Workpoint.th"group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/workpoint.png",WORKPOINT TV 
 http://27.254.130.56:80/live01/ch7.m3u8
 #https://cdnlive.goprimetime.info/feed/chworkpoint/index.m3u8
 
-#EXTINF:-1 tvg-id="Workpoint.th"group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT TV FHD
+#EXTINF:-1 tvg-id="Workpoint.th"group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/workpoint.png",WORKPOINT TV 
 #http://dootvthai-hd.com/cmd/true/Workpointtv/playlist.m3u8
+https://cdnlive.goprimetime.info/feed/chworkpoint/index.m3u8
 
-#EXTINF:-1 tvg-id="true4U.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/true4u.png",True4U
+#EXTINF:-1 tvg-id="true4U.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/true4u.png",True4U
 #http://160.119.77.116:8081/iptv/sd-24u.stream/playlist.m3u8
 #http://183.182.100.184/live/true4u/chunklist.m3u8
 #https://cdnlive.goprimetime.info/feed/chtrue4u/index.m3u8
 http://54.37.82.205:8081/liveorigin/sd-24u_480/playlist.m3u8
 
+#EXTINF:-1 tvg-id="true4U.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/true4u.png",True4U
+http://160.119.77.116:8081/iptv/sd-24u.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="true4U.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/true4u.png",True4U
+http://183.182.100.184/live/true4u/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="GMM25.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM Channel
+#EXTINF:-1 tvg-id="true4U.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/true4u.png",True4U
+https://cdnlive.goprimetime.info/feed/chtrue4u/index.m3u8
+
+#EXTINF:-1 tvg-id="GMM25.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/gmm.png",GMM Channel
 #http://160.119.77.116:8081/iptv/sd-gmmchannel.stream/playlist.m3u8
 #http://27.254.130.56:80/live01/ch11.m3u8
 #http://27.254.130.61/live01/ch11.m3u8?p=st
 #https://cdnlive.goprimetime.info/feed/chgmm/index.m3u8
 http://183.182.100.184/live/mcothd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GMM25.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/gmm.png",GMM Channel
+http://160.119.77.116:8081/iptv/sd-gmmchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GMM25.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/gmm.png",GMM Channel
+http://27.254.130.61/live01/ch11.m3u8?p=st
+
+#EXTINF:-1 tvg-id="GMM25.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/gmm.png",GMM Channel
+https://cdnlive.goprimetime.info/feed/chgmm/index.m3u8
+
+#EXTINF:-1 tvg-id="GMM25.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/gmm.png",GMM Channel
+#http://27.254.130.61/live01/ch11.m3u8?p=st
 
 #EXTINF:-1 tvg-id="channel8.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch2.png",CH2
 http://stream.rs.co.th/ch2-hi/index.m3u8
 
-#EXTINF:-1 tvg-id="channel8.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
+#EXTINF:-1 tvg-id="channel8.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch8.png",CH8
+http://stream.rs.co.th/ch8-hi/index.m3u8
+#https://cdnlive.goprimetime.info/feed/ch8/index.m3u8
+
+#EXTINF:-1 tvg-id="channel8.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch8.png",CH8
 http://stream.rs.co.th/ch8-hi/index.m3u8
 #https://cdnlive.goprimetime.info/feed/ch8/index.m3u8
 
@@ -204,22 +227,22 @@ https://cdnlive.goprimetime.info//feed//newtv//index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/newtv.png",NEW TV
 http://160.119.77.116:8081/iptv/sd-new.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://f.ptcdn.info/890/024/000/1414325308-o.png",TPTV
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/20/Rounded_20201119_085533.png",TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 
-#EXTINF:-1 gtvg-id=""group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/voicetv.png",Voice TV
+#EXTINF:-1 gtvg-id=""group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/voicetv.png",Voice TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 #https://edge6a.v2h-cdn.com//appt3//WOWSH.stream_720p//chunklist_w142679599.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f1b957db-b175-45fc-ab2b-60150f9c570a.png",TNN2
 #http://160.119.77.116:8081/iptv/sd-tnn2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/news1.png",New1
+#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://www.234.in.th/images/2020/11/17/news1.png",New1
 #http://news1.live14.com/stream/news1_hi.m3u8
 https://server1.streamssl.com/stream/news1_hi.m3u8
 
 
-#EXTINF:-1 tvg-id="Mono29.th" group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mono29.png",Mono29
+#EXTINF:-1 tvg-id="Mono29.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/mono29.png",Mono29
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 #https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 #http://27.254.130.56:80/live01/ch3.m3u8
