@@ -207,20 +207,18 @@
 {
 "name": "VOICE TV",
 "image": "https://www.234.in.th/images/2020/11/17/voicetv.png",
-"url": "https://www.tvjaa.com/voicetv.html",
-"referer": "https://www.tvjaa.com/"
+"url": "https://voicetv.co.th/watch",
+"referer": "https://voicetv.co.th/"
 },
 {
-"name": "NEW18",
+"name": "NEWTV",
 "image": "https://www.234.in.th/images/2020/11/17/newtv.png",
-"url": "https://www.tvjaa.com/news18.html",
-"referer": "https://www.tvjaa.com/"
+"url": "https://cdn6.goprimetime.info//feed//newtv//index.m3u8"
 },
 {
 "name": "NEW1",
 "image": "https://www.234.in.th/images/2020/11/17/news1.png",
-"url": "https://www.tvjaa.com/news1.html",
-"referer": "https://www.tvjaa.com/"
+"url": "https://server1.streamssl.com/stream/news1_hi.m3u8"
 },
 {
 "name": "TPTV",
@@ -782,6 +780,12 @@
 "name":"TRUE EXPLORE SCI",
 "image":"https://www.234.in.th/images/2020/11/20/truesci.png",
 "url":"https://doomovie.com/live/explore-sci",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"TRUE EXPLORE WILD",
+"image":"https://www.234.in.th/images/2020/11/20/truewild.png",
+"url":"https://doomovie.com/live/explore-wild",
 "referer": "https://we-play.tv/"}]
 },
 {
