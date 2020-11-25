@@ -4,6 +4,8 @@ Just#EXTM3U Line ID : royrover
 http://tiny.cc/d69fjz
 #http://bit.ly/9W8K8C9
 
+#EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3-hd.png",3 HD TEST
+https://doomovielive.b-cdn.net/hd-ch3_720/index.m3u8|Referer=https://doomovie.com
 
 #EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3-hd.png",3 HD
 http://160.119.77.116:8081/iptv/hd-ch3.stream/playlist.m3u8
@@ -18,6 +20,9 @@ https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3-hd.png",3 HD
 http://119.59.125.74/stream/totnew.php?channel_id=a4485b656d764f308c63b14a8bf62326
+
+#EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch5.png",5 HD TEST
+https://doomovielive.b-cdn.net/hd-ch5_720/index.m3u8|Referer=https://doomovie.com
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch5.png",5 HD 
 #https://cdnlive.goprimetime.info/feed/ch5hd/index.m3u8
@@ -568,11 +573,13 @@ http://203.154.177.124:8899/live/ch21/playlist.m3u8
 #http://27.254.149.109:8081/tumlive/Thrill/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueFilm.th"group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 
-http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
+#http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
 #http://54.37.82.205:8081/liveorigin/hd-tfilm_720/playlist.m3u8
+https://doomovielive.b-cdn.net/hd-tfilm_720/index.m3u8|Referer=https://doomovie.com
 
 #EXTINF:-1 tvg-id="TrueFilm2.th"group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 2
-http://54.37.82.205:8081/liveorigin/hd-tfilm2_720/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-tfilm2_720/playlist.m3u8
+https://doomovielive.b-cdn.net/hd-tfilm2_720/index.m3u8|Referer=https://doomovie.com
 
 #EXTINF:-1 tvg-id="TrueFilmAsia.th"group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/truefilmasia.png",Truefilm ASIA
 #http://27.254.149.109:8081/tumlive/FLA/chunks.m3u8
@@ -592,7 +599,8 @@ http://54.37.82.205:8081/liveorigin/hd-asian_720/playlist.m3u8
 #https://live.we-play.tv/android/true-series/playlist.m3u8 
 #EXTINF:-1 tvg-id="" group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/truethaifilm.png",True Thai Film
 #http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/sd-thaifilm.stream/chunks.m3u8
+#https://doofootball.livestream-cdn.com/iptv/sd-thaifilm.stream/chunks.m3u8
+https://doomovielive.b-cdn.net/sd-thaifilm_480/index.m3u8|Referer=https://doomovie.com
 
 
 #EXTINF:-1 tvg-id="" group-title="Movies Live" tvg-logo="https://teevee-hd.com/img/truexzyte.png",True X-zyte 
