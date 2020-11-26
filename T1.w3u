@@ -8,10 +8,38 @@
 {
 "name": "New Movies",
 "image": "https://www.234.in.th/images/2020/11/26/Rounded_20201001_163614.md.png",
-"url": "",
-"import": false
+"info": "", "stations": 
+[ 
+{
+"name":"Alive (2020)",
+"image":"https://www.newmovie-hd.org/wp-content/uploads/2020/09/Alive.jpg",
+"url":"https://cache-movie.mrtmovie.com/hls/content/nas05/mvc/M/Asia/Alive-2020/Alive_S.mp4/index.m3u8",
+"referer": "https://mrtmovie.com"
 }, 
-
+{
+"name":"Ava (2020)",
+"image":"https://www.bombmovie.com/wp-content/uploads/2020/08/Ava.jpg",
+"url":"https://cache-movie.mrtmovie.com/hls/content/nas05/mvc/M/Inter/Ava_2020/Ava_2020_ST.mp4/index.m3u8",
+"referer": "https://mrtmovie.com"
+}, 
+{
+"name":"Love and Monsters (2020)",
+"image":"https://movie285.com/wp-content/uploads/2020/10/p1019.jpg",
+"url":"https://cache-movie.mrtmovie.com/hls/content/nas05/mvc/M/Inter/Love_and_Monsters_2020/Love-and-Monsters-S.mp4/index.m3u8",
+"referer": "https://mrtmovie.com"
+}, 
+{
+"name":"Project Power (2020)",
+"image":"https://movie11.com/wp-content/uploads/2020/08/Project-Power.jpg",
+"url":"https://cache-movie.mrtmovie.com/hls/content/nas05/mvc/M/Inter/Project-Power-2020/Project-Power-T.mp4/index.m3u8",
+"referer": "https://mrtmovie.com"
+}, 
+{
+"name":"มู่หลาน (2020)",
+"image":"https://www.newmovie-hd.org/wp-content/uploads/2020/09/Mulan.jpg",
+"url":"https://cache-movie.mrtmovie.com/hls/content/nas05/mvc/M/Asia/Mulan_2020/Mulan-2020-ST2.mp4/index.m3u8",
+"referer": "https://mrtmovie.com"}]
+}, 
 {
 "name": "Movies",
 "image": "https://www.234.in.th/images/2020/11/26/Rounded_20201001_163627.md.png",
