@@ -2,7 +2,7 @@
 "name": "Movies",
 "author": "royrover",
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201001_092306.png",
-"url": "https://raw.githubusercontent.com/royrover/roy/master/T1.w3u",
+"url": "https://raw.githubusercontent.com/royrover/roy/master/T2.w3u",
 "groups": [
 
 {
@@ -65,23 +65,21 @@
 "referer": "https://mrtmovie.com"}]
 }, 
 {
-"name": "Movies",
+"name": "Marvel",
 "image": "https://www.234.in.th/images/2020/11/26/Rounded_20201001_163627.md.png",
-"url": "",
-"import": false
+"info": "", "stations":
+[ 
+{
+"name":"The Avengers (2012)",
+"image":"https://i.pinimg.com/originals/0f/03/e6/0f03e6733b0cf567cc92e8e20290462f.jpg",
+"url":"https://sm-cache1.mrtmovie.com/hls/content/nas03/mvc/m/inter/avengers-1-2/the-avengers_T.mp4/index.m3u8",
+"referer": "https://mrtmovie.com"
 }, 
 {
-"name": "Thai Movies",
-"image": "https://www.234.in.th/images/2020/11/26/Rounded_20201001_163700.md.png",
-"url": "",
-"import": false
-},
-{
-"name": "Anime",
-"image": "https://www.234.in.th/images/2020/11/26/Rounded_20201001_163740.png",
-"url": "",
-"import": false
-},
-
+"name":"Avengers Endgame (2019)",
+"image":"https://upload.wikimedia.org/wikipedia/th/0/0d/Avengers_Endgame_poster.jpg",
+"url":"https://cache-movie.mrtmovie.com/hls/content/nas05/mvc/M/Inter/Avengers-endgame/Avengers-endgame_T.mp4/index.m3u8",
+"referer": "https://mrtmovie.com"}]
+},	
 ]
 }
