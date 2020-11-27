@@ -1,97 +1,40 @@
 {
-"name": "Movies",
+"name": "หนังใหม่",
 "author": "royrover",
-"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201001_092306.png",
+"image": "https://www.234.in.th/images/2020/11/26/Rounded_20201001_163614.md.png",
 "url": "https://raw.githubusercontent.com/royrover/roy/master/T2.w3u",
-"groups": [
-
-{
-"name": "The Fast and the Furious",
-"image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/b79681c7-0fde-4f29-b86f-1264f0986a15/dam2sko-0ba992f8-4ea0-4eb3-b645-f540e708ad3c.png",
 "info": "", "stations": 
 [ 
 {
-"name":"The Fast and the Furious 1 (2001)",
-"image":"https://www.newmovie-hd.org/wp-content/uploads/2020/05/The-Fast-and-the-Furious.jpg",
-"url":"https://cache-movie.mrtmovie.com/hls/content/nas03/mvc/m/inter/The-Fast-And-The-Furious-1-8/The-Fast-And-The-Furious-1_T.mp4/index.m3u8",
+"name":"Alive (2020)",
+"image":"https://www.newmovie-hd.org/wp-content/uploads/2020/09/Alive.jpg",
+"url":"https://cache-movie.mrtmovie.com/hls/content/nas05/mvc/M/Asia/Alive-2020/Alive_S.mp4/index.m3u8",
 "referer": "https://mrtmovie.com"
 }, 
 {
-"name":"The Fast and the Furious 2 (2003)",
-"image":"https://images-na.ssl-images-amazon.com/images/I/51MQ5ZMAPYL.jpg",
-"url":"https://cache-movie.mrtmovie.com/hls/content/nas03/mvc/m/inter/The-Fast-And-The-Furious-1-8/The-Fast-And-The-Furious-2_T.mp4/index.m3u8",
+"name":"Ava (2020)",
+"image":"https://www.bombmovie.com/wp-content/uploads/2020/08/Ava.jpg",
+"url":"https://cache-movie.mrtmovie.com/hls/content/nas05/mvc/M/Inter/Ava_2020/Ava_2020_ST.mp4/index.m3u8",
 "referer": "https://mrtmovie.com"
 }, 
 {
-"name":"The Fast and the Furious 3 (2006)",
-"image":"https://www.newmovie-hd.org/wp-content/uploads/2020/05/The-Fast-And-The-Furious-Tokyo-Drift.jpg",
-"url":"https://cache-movie.mrtmovie.com/hls/content/nas03/mvc/m/inter/The-Fast-And-The-Furious-1-8/The-Fast-And-The-Furious-3_T.mp4/index.m3u8",
+"name":"Love and Monsters (2020)",
+"image":"https://movie285.com/wp-content/uploads/2020/10/p1019.jpg",
+"url":"https://cache-movie.mrtmovie.com/hls/content/nas05/mvc/M/Inter/Love_and_Monsters_2020/Love-and-Monsters-S.mp4/index.m3u8",
 "referer": "https://mrtmovie.com"
 }, 
 {
-"name":"The Fast and the Furious 4 (2009)",
-"image":"https://i.pinimg.com/originals/f6/7a/89/f67a89314819ba3f28e197cb5900c5d2.jpg",
-"url":"https://cache-movie.mrtmovie.com/hls/content/nas03/mvc/m/inter/The-Fast-And-The-Furious-1-8/The-Fast-And-The-Furious-4_T.mp4/index.m3u8",
+"name":"Project Power (2020)",
+"image":"https://movie11.com/wp-content/uploads/2020/08/Project-Power.jpg",
+"url":"https://cache-movie.mrtmovie.com/hls/content/nas05/mvc/M/Inter/Project-Power-2020/Project-Power-T.mp4/index.m3u8",
 "referer": "https://mrtmovie.com"
 }, 
 {
-"name":"The Fast and the Furious 5 (2011)",
-"image":"https://ok-th.com/uploads/video_thumb/5.jpg",
-"url":"https://cache-movie.mrtmovie.com/hls/content/nas03/mvc/m/inter/The-Fast-And-The-Furious-1-8/The-Fast-And-The-Furious-5_T.mp4/index.m3u8",
-"referer": "https://mrtmovie.com"
-}, 
-{
-"name":"The Fast and the Furious 6 (2013)",
-"image":"https://static.wikia.nocookie.net/fastandfurious/images/d/d3/Furious_6.jpg",
-"url":"https://cache-movie.mrtmovie.com/hls/content/nas03/mvc/m/inter/The-Fast-And-The-Furious-1-8/The-Fast-And-The-Furious-6_T.mp4/index.m3u8",
-"referer": "https://mrtmovie.com"
-}, 
-{
-"name":"The Fast and the Furious 7 (2015)",
-"image":"https://pgsramblings.files.wordpress.com/2015/08/fast-furious-7.jpg",
-"url":"https://cache-movie.mrtmovie.com/hls/content/nas03/mvc/m/inter/The-Fast-And-The-Furious-1-8/The-Fast-And-The-Furious-7_T.mp4/index.m3u8",
-"referer": "https://mrtmovie.com"
-}, 
-{
-"name":"The Fast and the Furious 8 (2017)",
-"image":"https://www.123-hd.com/wp-content/uploads/2019/11/Fast-And-Furious-8-2017-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-8.png",
-"url":"https://cache-movie.mrtmovie.com/hls/content/nas03/mvc/m/inter/The-Fast-And-The-Furious-1-8/The-Fast-And-The-Furious-8_T.mp4/index.m3u8",
-"referer": "https://mrtmovie.com"
-}, 
-{
-"name":"Fast & Furious Presents Hobbs And Shaw (2019)",
-"image":"https://www.movie-19.com/wp-content/uploads/2019/08/Fast-Furious-Presents-Hobbs-Shaw-2019.jpg",
-"url":"https://cache-movie.mrtmovie.com/hls/content/nas05/mvc/M/Inter/Fast_%26_Furious_2019/EP01TH.mp4/index.m3u8",
+"name":"มู่หลาน (2020)",
+"image":"https://www.newmovie-hd.org/wp-content/uploads/2020/09/Mulan.jpg",
+"url":"https://cache-movie.mrtmovie.com/hls/content/nas05/mvc/M/Asia/Mulan_2020/Mulan-2020-ST2.mp4/index.m3u8",
 "referer": "https://mrtmovie.com"}]
-}, 
-{
-"name": "Marvel",
-"image": "https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1485446950/wzxvmdhz58q44trtz8pi.png",
-"info": "", "stations":
-[ 
-{
-"name":"The Avengers (2012)",
-"image":"https://i.pinimg.com/originals/0f/03/e6/0f03e6733b0cf567cc92e8e20290462f.jpg",
-"url":"https://sm-cache1.mrtmovie.com/hls/content/nas03/mvc/m/inter/avengers-1-2/the-avengers_T.mp4/index.m3u8",
-"referer": "https://mrtmovie.com"
-}, 
-{
-"name":"Avengers Age of Ultron (2015)",
-"image":"https://downloadtoyoue.files.wordpress.com/2015/09/avengers-2-age-of-ultron-the-avengers-37328228-900-1185.jpg",
-"url":"https://sm-cache1.mrtmovie.com/hls/content/nas03/mvc/m/inter/avengers-1-2/avengers-2_T.mp4/index.m3u8",
-"referer": "https://mrtmovie.com"
-}, 
-{
-"name":"Avengers Infinity War (2018)",
-"image":"https://www.newmovie-hd.org/wp-content/uploads/2020/05/Avengers-Infinity-War.jpg",
-"url":"https://cache-movie.mrtmovie.com/hls/content/nas04/mvc/m/inter/Avengers-Infinity-War/Avengers-Infinity-War_T.mp4/index.m3u8",
-"referer": "https://mrtmovie.com"
-}, 
-{
-"name":"Avengers Endgame (2019)",
-"image":"https://upload.wikimedia.org/wikipedia/th/0/0d/Avengers_Endgame_poster.jpg",
-"url":"https://cache-movie.mrtmovie.com/hls/content/nas05/mvc/M/Inter/Avengers-endgame/Avengers-endgame_T.mp4/index.m3u8",
-"referer": "https://mrtmovie.com"}]
+
 },	
 ]
 }
