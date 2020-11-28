@@ -6,6 +6,30 @@
 "info": "", "stations": 
 [ 
 {
+"name":"2012 (2009)",
+"image":"https://movie.mthai.com/app/uploads/2009/11/53.jpg",
+"url":"https://sm-cache1.mrtmovie.com/hls/content/nas04/mvc/m/inter/2012/2012-T.mp4/index.m3u8",
+"referer": "https://mrtmovie.com"
+}, 
+{
+"name":"A Knight's Tale (2001)",
+"image":"https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/AKnightsTale.jpg/220px-AKnightsTale.jpg",
+"url":"https://sm-cache1.mrtmovie.com/hls/content/nas04/mvc/m/inter/A-Knights-Tale/AKnightsTale-T.mp4/index.m3u8",
+"referer": "https://mrtmovie.com"
+}, 
+{
+"name":"Aladdin (2019)",
+"image":"https://www.newmovie-hd.org/wp-content/uploads/2020/07/Aladdin.jpg",
+"url":"https://sm-cache1.mrtmovie.com/hls/content/nas04/mvc/m/inter/Aladdin/Aladdin-2019_SHD.mp4/index.m3u8",
+"referer": "https://mrtmovie.com"
+}, 
+{
+"name":"Angel Has Fallen (2019)",
+"image":"https://miro.medium.com/max/336/1*6JK4Gk4Sze3glzt7w3c4pQ.png",
+"url":"https://s5.streamkuy.com/hls/nmrgd424gjjxt3mawh5utrvd2t332ez2o34t3phwkdobpb72tiwd5cshux3q/index-v1-a1.m3u8",
+"referer": "https://boxofficedd.com"
+}, 
+{
 "name":"Armageddon (1998)",
 "image":"https://www.doomovie-hd.com/assets/movie_poster/c/ce758e9907ec29c941f3614de47a1de0.jpg",
 "url":"https://sm-cache1.mrtmovie.com/hls/content/nas03/mvc/m/inter/Armageddon/Armageddon_T.mp4/index.m3u8",
@@ -33,7 +57,13 @@
 "name":"Pearl Harbor (2001)",
 "image":"https://www.freemoviesth.com/wp-content/uploads/2019/11/Pearl-Harbor.jpg",
 "url":"https://sm-cache1.mrtmovie.com/hls/content/nas05/mvc/M/Inter/Pearl-Harbor-2001/Pearl-Harbor-2001-T.mp4/index.m3u8",
-"referer": "https://mrtmovie.com"}]
+"referer": "https://mrtmovie.com"
+}, 
+{
+"name":"Titanic (1997)",
+"image":"https://cdn.shopify.com/s/files/1/1416/8662/products/titanic_1997_intl_styleB_original_film_art_26ebb90d-daf2-4f1b-81a6-34a152ec56b8_5000x.jpg",
+"url":"https://s5.streamkuy.com/hls/nmrgpqwfgjjxt3mawh6etsngqga4jl7la2a2rp7puiqbj6itoicyijrytgja/index-v1-a1.m3u8",
+"referer": "https://boxofficedd.com"}]
 },
 
 ]
