@@ -80,7 +80,7 @@ https://cdn6.goprimetime.info/feed/chmchannel/index.m3u8
 #EXTINF:-1 group-title='TV Digtal'tvg-logo="https://www.doohdbox.com/assets/201805190857281326975546.jpg",Phoenix infonews
 http://dootvthai-hd.com/cmd/api/true/PHOENIX-INFONEWS/playlist.m3u8
 #EXTINF:-1 group-title='TV Digtal'tvg-logo="https://images.ufoiptv.com/channels/sd-tppy.jpg",Trueปลูกปัญญา
-http://160.119.77.50/iptv/sd-tppy.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-tppy.stream/playlist.m3u8
 #EXTINF:-1 group-title='TV Digtal'tvg-logo="https://www.doohdbox.com/assets/20180726161726109987244.jpg" ,superบันเทิง
 http://dootvthai-hd.com/cmd/api/true/Super-entertain/playlist.m3u8
 #EXTINF:-1 group-title='TV Digtal'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGWUN-wRpmAbtaMUYfIfi1PT5PfHs6lXPuktYklFK22Jn6N3ML&usqp=CAU",Yateem
@@ -257,7 +257,7 @@ https://www.we-play.tv/videos/tv-entertainment/true-film-hd-2
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/sd-filmasia.jpg",TRUE Film Asia
 http://27.254.149.109:8081/tumlive/FLA/playlist.m3u8
  #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/sd-asianseries.jpg",True Asian Series
-http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-asian.stream/playlist.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/sd-moviehits.jpg",True Movie Hit
 http://27.254.149.109:8081/tumlive/MOVH/playlist.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://images.ufoiptv.com/channels/sd-thaifilm.jpg",TRUE THAIFILM
@@ -278,25 +278,25 @@ https://www.we-play.tv/videos/tv-entertainment/waku-waku-japan/
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVCUxU9syAZYzwMpPFiVpaVpPA8Zno6O1Ozl-WAQJFPsilDooF&usqp=CAU",ComedCentral
 https://freetvdd.com/ทีวีดิจิตอล/comedy-central-2/
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Channel_5_Star.svg/1280px-Channel_5_Star.svg.png",5 Star
-http://160.119.77.50/iptv/uk-5star.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-5star.stream/playlist.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGiePeLJ6mYs7xZHJtsEUA_UDgzKGwBaJ9tOgYoFzKEgKqotOt&usqp=CAU",i HOT
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT781720200408005449062567
 
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtOdL3_aDLpQIFtu8TjI-nT3Ut3OHjKc0t2rDpaUAf6MhV5uaJ&usqp=CAU",ITV 1
-http://160.119.77.50/iptv/uk-itv1hd.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-itv1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0U_g5xaYPvV_qN_20DCPGj-_vHPFG10FFGFjOiExADdaUyxko&usqp=CAU",ITV 2
-http://160.119.77.50/iptv/uk-itv2.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-itv2.stream/playlist.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSnNFXzqbR3qLCWMUTDR013jw6MDVEXeMbI5qTdlExJbIxoA6m&usqp=CAU",ITV 3
-http://160.119.77.50/iptv/uk-itv3.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-itv3.stream/playlist.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKOpO_M95uo8tqH3Er1N-Jzn0Ped4gWgGJhz0P94tsfcmERp65&usqp=CAU",ITV 4
-http://160.119.77.50/iptv/uk-itv4.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-itv4.stream/playlist.m3u8
 
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQl6bVDza1xBLnUz0u6pXVsXREk82iYYW-Vww&usqp=CAU",China Movie
 http://220.158.149.14:9999/live/TV00000000000000000105@HHZT;LIVE
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/67/Mediacorp_Channel_8.png/revision/latest/top-crop/width/220/height/220?cb=20190812125618",mediacorp 8
 http://d34e90s3s13i7n.cloudfront.net:80/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/400px-Sun_TV_logo.svg.png",Sun TV
-http://160.119.77.50/iptv/in-suntv.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/in-suntv.stream/playlist.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUwHKRjows111CG1FuDSuQkjpWJg2q1tNVlw&usqp=CAU",Series+HD
 http://27.254.149.109:8081/tumlive/ipmaser.stream/chunks.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png",Movie Now
@@ -345,7 +345,7 @@ http://dootvthai-hd.com/cmd/true/ep1-1/playlist.m3u8
 http://ip2121.com:8081/at1/ENG1/playlist.m3u8
 
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//60624fac39763a17fdf31e5737f9fcba.jpg",PremieLeague1 
-http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//60624fac39763a17fdf31e5737f9fcba.jpg",PremieLeague1
 http://103.208.24.234:1935/thaisport/epl-1.stream/chunklist.m3u8
@@ -360,7 +360,7 @@ http://dootvthai-hd.com/cmd/true/ep2-1/playlist.m3u8
 http://ip2121.com:8081/at1/ENG2/playlist.m3u8
 
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//71a64db009b3c16d5bbfb0fa86b894ae.jpg",PremieLeague2
-http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//71a64db009b3c16d5bbfb0fa86b894ae.jpg",PremieLeague2
 http://103.208.24.234:1935/thaisport/epl-2.stream/chunklist.m3u8
@@ -375,7 +375,7 @@ http://dootvthai-hd.com/cmd/true/ep3-1/playlist.m3u8
 http://ip2121.com:8081/at1/ENG3/playlist.m3u8
  
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//e04a25f442d123945288474eac4177a8.jpg",PremieLeague3
-http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//e04a25f442d123945288474eac4177a8.jpg",PremieLeague3
 http://103.208.24.234:1935/thaisport/epl-3.stream/chunklist.m3u8
@@ -390,7 +390,7 @@ http://dootvthai-hd.com/cmd/true/ep4-1/playlist.m3u8
 http://ip2121.com:8081/at1/ENG4/playlist.m3u8
 
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//0aeca742025316b2890528949dd28095.jpg",PremieLeague4
-http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
  
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//0aeca742025316b2890528949dd28095.jpg",PremieLeague4
 http://103.208.24.234:1935/thaisport/epl-4.stream/chunklist.m3u8
@@ -405,7 +405,7 @@ http://dootvthai-hd.com/cmd/true/ep5-1/playlist.m3u8
 http://ip2121.com:8081/at1/ENG5/playlist.m3u8
  
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//2bb517734d9fa267742613f4f1017a70.jpg",PremieLeague5
-http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//2bb517734d9fa267742613f4f1017a70.jpg",PremieLeague5
 http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8
@@ -420,7 +420,7 @@ http://dootvthai-hd.com/cmd/true/Truesport-HD2/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://www.doohdbox.com/assets/20191031210219558958694.jpg",TrueSport HD3
 http://dootvthai-hd.com/cmd/true/Truesport-HD3/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://www.doohdbox.com/assets/20191031210227112975786.jpg",TrueSport HD 4
-http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-tsport4.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://www.doohdbox.com/assets/201910312102381219585376.jpg",TrueSport 2
 http://103.208.24.234:1935/thaisport/sd-tsport2.stream/chunklist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://www.doohdbox.com/assets/201910312102451734108811.jpg",TrueSport 5
@@ -428,9 +428,9 @@ http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://www.doohdbox.com/assets/20191031210252320946587.jpg",TrueSport 6
 http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://www.doohdbox.com/assets/201910312103032084179461.jpg",TrueSport 7
-http://160.119.77.50/iptv/sd-tsport7.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-tsport7.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//23a6894f648594b0e1314a458a8c4589.jpg",True tennis
-http://160.119.77.50/iptv/hd-tennis.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-tennis.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRhsqb4cB2IM1BqKXMnw7TwujPH8wCc3avwtw&usqp=CAU",WTA
 http://ms003.happytv.com.tw:80/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKNeW80645b2R-sKWgOyTPQT4-mxLaDsVIngk7axfRj5lGNFhx&usqp=CAU",TENNIS CHANNEL
@@ -440,22 +440,22 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEsfoiE0d5XVYbNvyn5vb9GC8NsKDq5ny7dVfrTqp458UdP-TT&usqp=CAU",TENNIS TV
 http://203.154.243.89:11739
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5dCLWF1Wx5JxMFbOXY2aVPU0hQ-HBFp-HoA&usqp=CAU",GOLF NBC
-http://160.119.77.50/iptv/hd-golfeng.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-golfeng.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9ojSQovxu9wNvYE80sSQUqUkoUBmHAwP4sg&usqp=CAU",Sky Sport GOLF
 http://139.99.17.52:8081/liveorigin/uk-skysports-golf_720/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYZX7ncrSavLWDmb63UbFzrHXosjdwTLJnoTcK1fF6aDSSsNqF&usqp=CAU",Golf Channel
-http://160.119.77.50/iptv/hd-golf.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-golf.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-512.png",ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 
 
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://images.ufoiptv.com/channels/uk-btsport1.jpg",BT SPORT 1
-http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://images.ufoiptv.com/channels/uk-btsport2.jpg",BT SPORT 2
-http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport3hd.png",BT SPORT 3
-http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-foxsports1.jpg",Fox Sport 1
 http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-HD/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-foxsports1.jpg",FOX SPORT 1
@@ -476,9 +476,9 @@ http://w4.mostvideo.tv:80/tv/ch1.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//c3dbf7c2276382c0c59db19c45fb9643.jpg",REDBULL
 http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRfbrvVRlAzLNT6VeHaFLye2ghrckmHVJpzRIrvt172V8XDiO0a&usqp=CAU",Sky Racing
-http://160.119.77.50/iptv/uk-attheraces.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-attheraces.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQphhwSzy4Mt42dA8bjMNTUzy8JvpYedse6zIoGo_X5AqnL1Pq&usqp=CAU",Racing TV
-http://160.119.77.50/iptv/uk-racing.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-racing.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMK5lU2n_i8-SBjKQBNR_y7k_ACmcEjiSRu8N6bejD2x5Vcnum&usqp=CAU",Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwfii0KN3qPXnZH-EfPmBACbmSiwiPULteRUyPMuNwpdxjK8kn&usqp=CAU",WORLD SNOOKER
@@ -507,43 +507,43 @@ http://dootvthai-hd.com/cmd/api/true/MOTOR-VISION/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTN5glDV8Jd9ZpV4yNhTM5vhMZmoRnff_zc-93HoTdc9WbmCd29&usqp=CAU",Xcorps
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/9.jpg",Premiersports 1
-http://160.119.77.50/iptv/uk-premiersports.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzr_-E6oD9xi14mm0bS_XVzHKsTIJEixhSfA&usqp=CAU",MOTO GP
 r5r1L3pTc_Y
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://images.iptvhero.com//channel//uk-skysportsf1.jpg",Sky Sport F1
-http://160.119.77.50/iptv/uk-skysports-f1.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://images.iptvhero.com//channel//uk-skysports1.jpg",Sky Sport event
-http://160.119.77.50/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://images.iptvhero.com//channel//uk-skysports3.jpg",Sky sport Action
-http://160.119.77.50/iptv/uk-skysports-action.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-skysports-action.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://images.iptvhero.com//channel//uk-skysports4.jpg",Sky sport Golf
-http://160.119.77.50/iptv/uk-skysports-golf.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-skysports-golf.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://images.iptvhero.com//channel//uk-skysports5.jpg",Sky sport EPL
-http://160.119.77.50/iptv/uk-skysports-epl.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://images.iptvhero.com//channel//uk-skysportsfoot.jpg",Sky sport football
-http://160.119.77.50/iptv/uk-skysports-football.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://images.iptvhero.com//channel//uk-skysportsarena.jpg",Sky sport arena
-http://160.119.77.50/iptv/uk-skysports-arena.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-skysports-arena.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://images.iptvhero.com//channel//uk-skysportsmix.jpg",Sky sport mix
-http://160.119.77.50/iptv/uk-skysports-mix.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-skysports-mix.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://images.iptvhero.com//channel//uk-skysports2.jpg",Sky sport cricket
-http://160.119.77.50/iptv/uk-skysports-cricket.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://images.iptvhero.com//channel//uk-skysportsnews.jpg",Sky sport news
-http://160.119.77.50/iptv/uk-skysports-news.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-skysports-news.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//204bb8e27199b2c3bb4de0ff5c11c510.jpg",Sky net 1080p
-http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-skynetsportshd.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//294c335686378eaea641fdf3ae50864a.jpg",Sky net 1
-http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-skynetsports1.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//34c877277998ff91f8d8350a45a425b8.jpg",Sky net 2
-http://160.119.77.50/iptv/sd-skynetsports2.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-skynetsports2.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//f741af40e6e7172a8b4c3df7abbfdca0.jpg",Sky net 3
-http://160.119.77.50/iptv/sd-skynetsports3.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-skynetsports3.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//d2bd89780e0eec0ab8a10a80717682c1.jpg",Sky net 4
-http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-skynetsports4.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//961b97cbf3dfda66450b05120054fce9.jpg",Sky net 5
-http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-skynetsports5.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//d526135e36fd974ca7cc6604174029f6.jpg",Sky net 6
-http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-skynetsports6.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/Pos/831_300.png",ASTRO 1
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/my-asp1hd/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/Pos/832_300.png",ASTRO 2
@@ -565,9 +565,9 @@ http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://sv1.picz.in.th/images/2020/07/19/5v0xfR.png",NEW TV SPORT
 http://111.40.205.66:80/wh7f454c46tw738525610_570116101/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://images.ufoiptv.com/channels/uk-liverpool.jpg",LFC TV
-http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-lfctv.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://images.ufoiptv.com/channels/uk-mutv.jpg",MU TV
-http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-mutv.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSLqQf-N86QFVNeIj5ovZe79CavzFuMmWOpaii-bXk5JM9ZG7Th&usqp=CAU",STADIUM
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/4.m3u8
 
@@ -576,9 +576,9 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY LIVE"tvg-logo="https://images.ufoiptv.com/channels/hd-natgeowild.jpg",NAT GEO Wild TH
-http://160.119.77.50/iptv/hd-natgeowildeng.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-natgeowildeng.stream/playlist.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-natgeo.jpg",NAT GEO TH
-http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-natgeo.stream/playlist.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",Nat Geo people
 http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/18570
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/sd-dmax.jpg",D-MAX
@@ -586,7 +586,7 @@ https://freetvdd.com/สารคดี/dmax/
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/sd-discovery.jpg",Discovery
 https://www.we-play.tv/videos/สารคดี/discovery-channel/
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/sd-discovery.jpg",Discovery UK
-http://160.119.77.50/iptv/uk-discovery.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-discovery.stream/playlist.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-history.jpg",History TH
 http://dootvthai-hd.com/cmd/api/true/HISTORY-CHANNEL-HD/playlist.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-history.jpg",HISTORY EN
@@ -594,7 +594,7 @@ http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/546
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-history2.jpg",H2 TH
 http://dootvthai-hd.com/cmd/api/true/H2/playlist.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-history2.jpg",H2 EN
-http://160.119.77.50/iptv/uk-history2.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-history2.stream/playlist.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-discovery.jpg",Dis Asia TH
 https://www.we-play.tv/videos/สารคดี/discovery-asia/
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="http://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png",Lovenature-4k
@@ -620,27 +620,27 @@ https://www.we-play.tv/videos/สารคดี/animal-planet/
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTSVhk5hrWG-4pAUSy9VCEtKFKtb15b1r0iA&usqp=CAU",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-food.jpg",Food Network USA
-http://160.119.77.50/iptv/uk-foodnetwork.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-foodnetwork.stream/playlist.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-food.jpg",Food Channel TH
 https://www.we-play.tv/videos/tv-entertainment/food-network/
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png",เอเชีย ฟู้ด
-http://160.119.77.50/iptv/sd-asianfood.stream/chunks.m3u8
+http://160.119.77.116:8081/iptv/sd-asianfood.stream/chunks.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-bbclifestyle.jpg",bbc lifestyle
 http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/18609
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Outdoor_Channel.svg/1024px-Outdoor_Channel.svg.png",The Outdoor
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/sd-expsci.jpg",True SCI
-http://160.119.77.50/iptv/sd-expsci.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-expsci.stream/playlist.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/sd-explife.jpg",True Life
-http://160.119.77.50/iptv/sd-explife.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-explife.stream/playlist.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/sd-expwild.jpg",True Wild
-http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-expwild.stream/playlist.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://images.ufoiptv.com/channels/hd-xzyte.jpg",TRUE X-ZYTE
-http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-xzyte.stream/playlist.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDRHGBwxTZ5KWvVzZXVJcM86HDIbHyHGD7PQ&usqp=CAU",Discovery ID
-http://160.119.77.50/iptv/uk-id.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-id.stream/playlist.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://cdn.aenetworks.tv/styles/medium/s3/network-images/cilogo_500px.png?Ld6rme6rNB8n0XejwXJSq5TINc4dKF.i",UK CI
-http://160.119.77.50/iptv/uk-ci.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-ci.stream/playlist.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTz3snGoPeep88qfRQfm-IlZssj4MNukTqT4A&usqp=CAU",docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://4.bp.blogspot.com/-IFC9CcD_8gE/Ua7NIouICJI/AAAAAAAAAII/-rr9Zl-9lSI/s1600/1245043200.png",PSI
@@ -652,7 +652,7 @@ http://61.58.60.230:9319/live/257.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4C_UYLJIRmEN0T79Oqk6-42Rx_wgsoP66_Q&usqp=CAU",AMAZING
 http://203.154.243.89:1214
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://1.bp.blogspot.com/-AC01i9_GVds/TrLddTaboqI/AAAAAAAACl8/VI-e70TnTv0/s1600/More4+logo+2012.png", More 4 UK
-http://160.119.77.50/iptv/uk-more4.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-more4.stream/playlist.m3u8
 #EXTINF:-1 group-title='DISCOVERY LIVE'tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1280px-Motor_Trend_logo.svg.png",MOTOR TREND
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 
@@ -667,7 +667,7 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 #EXTINF:-1 group-title='Cartoon Live'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBQJJFWoCIjDooT_CN_hQvoLTD1vlsWjuDO5DGB9twwLIfzwoQ&usqp=CAU",Boomerang TH
 https://free2.fwstream.com:1215/freelive-edge/_definst_/boomerang/chunklist.m3u8
 #EXTINF:-1 group-title='Cartoon Live'tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1024px-Nick_Jr._logo_2009.svg.png",NickJr
-http://160.119.77.50/iptv/sd-nickjr.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-nickjr.stream/playlist.m3u8
 #EXTINF:-1 group-title='Cartoon Live'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdFHaPeBhaJ7Fz95Sqje31XIOvVu-ZmG7pRg&usqp=CAU",Larva
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
 #EXTINF:-1 group-title='Cartoon Live'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBhOFsQtwBxL62oh9vqPp_9RoDeGnd3BW_juWoeWvQHz_LnbaG&usqp=CAU",TOONEE
@@ -691,9 +691,9 @@ https://www.we-play.tv/videos/รายการเด็ก/nickelodeon/
 #EXTINF:-1 group-title='Cartoon Live'tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",Disney Channel
 https://www.we-play.tv/videos/รายการเด็ก/disney-channel/
 #EXTINF:-1 group-title='Cartoon Live'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//a77fa6944362494fd7a2e5963e8d8709.jpg",True-Jump
-http://160.119.77.50/iptv/sd-sparkjump.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
 #EXTINF:-1 group-title='Cartoon Live'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//0c024a8c5717279bc040b8b55daeb0a3.jpg",TRUE-PLAY
-http://160.119.77.50/iptv/sd-sparkplay.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-sparkplay.stream/playlist.m3u8
 #EXTINF:-1 group-title='Cartoon Live'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//f1081cf5c36ae2f5bb4cf5408504ba9a.jpg",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 #EXTINF:-1 group-title='Cartoon Live'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRhzK58ZYW7_fdfh4LxWuntNLStG3eDKVjhoqbzpU0oRstqpqNe&usqp=CAU",KAKU
@@ -762,9 +762,9 @@ http://592f16fa90d9b.streamlock.net:80/retrotv/smil:retrotv2.smil/chunklist.m3u8
 #EXTINF:-1 group-title='Variety Live'tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/500px-MTV_Logo_2010.svg.png",MTV Now
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 group-title='Variety Live'tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1044px-MTV_Hits_2017_logo.svg.png",MTV His
-http://160.119.77.50/iptv/sd-mtvasia.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-mtvasia.stream/playlist.m3u8
 #EXTINF:-1 group-title='Variety Live'tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/250px-MTV_Live_HD_2017_logo.svg.png",MTV Live
-http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-mtvlive.stream/playlist.m3u8
 #EXTINF:-1 group-title='Variety Live'tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/f396b061-4869-44b2-939e-f69df768550f.png",TVN
 http://cdn764.stm.trueid.net:80/live3/096_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=kXbNWcJhZhvSkQYNnLLl0Z2fzZQAosHMmoaJzu4wrDvF0rknYYiO8rJER8ZeW2Wjz2aWbqDrlcxp5C1g55sRLJ23pnx82gIODjaZoTl7BR86OiOR1VadpYSUIutUjpuEcCA
 #EXTINF:-1 group-title='Variety Live'tvg-logo="https://images.ufoiptv.com/channels/sd-very.jpg",True Very
@@ -778,7 +778,7 @@ https://moviektu.com/cdn.livetv.streamingtv/true/n3P0yMe27ZK
 #EXTINF:-1 group-title='Variety Live'tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",KM TV.
 https://moviektu.com/cdn.livetv.streamingtv/true/omneMllBYBj
 #EXTINF:-1 group-title='Variety Live'tvg-logo="https://images.ufoiptv.com/channels/hd-xzyte.jpg",TRUE X-ZYTE
-http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-xzyte.stream/playlist.m3u8
 #EXTINF:-1 group-title='Variety Live'tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/81WTeWFM1LL.jpg",Radio Pescara
 http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title='Variety Live'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa80qcSef-cFwLLZ7ZzGdoCbQpXRfWsAExdA&usqp=CAU",Tmz
@@ -810,7 +810,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.in
 #EXTINF:-1 group-title='Variety Live'tvg-logo="https://sv1.picz.in.th/images/2020/08/18/Eu8W3l.png",NB EDY CHANNEL
 http://195.29.70.82/PLTV/88888888/224/3221226407/04.m3u8
 #EXTINF:-1 group-title='Variety Live'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7dwZJF_4bzpFMyxvVbJeVVUIqJTNS9t6FsQ&usqp=CAU",Egg
-http://160.119.77.50/iptv/sd-eggnetwork.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-eggnetwork.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title='Variety Live'tvg-logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png/v1/fill/w_460,h_98,al_c,q_85,usm_0.66_1.00_0.01/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.webp",SBS Star
@@ -818,9 +818,9 @@ https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
 #EXTINF:-1 group-title='Variety Live'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4C_UYLJIRmEN0T79Oqk6-42Rx_wgsoP66_Q&usqp=CAU",AMAZING HD
 https://ktu.ktuiptvapp.com/8888/amazing.mkv
 #EXTINF:-1 group-title='Variety Live'tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3e%28tvchannel%29logo.png/1024px-3e%28tvchannel%29logo.png",3 E
-http://160.119.77.50/iptv/ie-3e.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/ie-3e.stream/playlist.m3u8
 #EXTINF:-1 group-title='Variety Live'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8A3yDzLEOea4Z-W2Du6TzMsxr7TuGr9h7cw&usqp=CAU",C
-http://160.119.77.50/iptv/uk-challenge.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-challenge.stream/playlist.m3u8
 
 
 
@@ -830,15 +830,15 @@ https://freetvdd.com/ข่าว/cnn-international/
 #EXTINF:-1 group-title='News WORLD'tvg-logo="https://www.doohdbox.com/assets/20171104152127375885073.jpg",Russia Today
 https://moviektu.com/cdn.livetv.streamingtv/true/G91q58rrakG
 #EXTINF:-1 group-title='News WORLD'tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1588521092694_movie_image.png&d=movie",FOX NEW
-http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-foxnews.stream/playlist.m3u8
 #EXTINF:-1 group-title='News WORLD'tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1587345943991_movie_image.png&d=movie",Fox Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 group-title='News WORLD'tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586096010405_movie_image.png&d=movie",fox business
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 group-title='News WORLD'tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1584967768667_movie_image.png&d=movie",BBC NEWS
-http://160.119.77.50/iptv/uk-bbcnewshd.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-bbcnewshd.stream/playlist.m3u8
 #EXTINF:-1 group-title='News WORLD'tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586197325203_movie_image.png&d=movie",Sky News
-http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/uk-skynews.stream/playlist.m3u8
 #EXTINF:-1 group-title='News WORLD'tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586197152609_movie_image.jpg&d=movie",SKY NEWS EXTRA
 http://skynewsau-live.akamaized.net:80/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
 #EXTINF:-1 group-title='News WORLD'tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1582886070861_movie_image.jpg&d=movie",BreaKingNews
@@ -916,7 +916,7 @@ http://weather-lh.akamaihd.net:80/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebas
 #EXTINF:-1 group-title='News WORLD'tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=158521979683_movie_image.jpg&d=movie",ELBEKANA
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 #EXTINF:-1 group-title='News WORLD'tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586198515984_movie_image.png&d=movie",TV 5 PAIFIC
-http://160.119.77.50/iptv/fr-tv5pacific.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/fr-tv5pacific.stream/playlist.m3u8
 #EXTINF:-1 group-title='News WORLD'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdcpZq_GW30ur1ZJQg5Ohb0EfbTXe7cSJsDl2N5_gjt6TpVPSd&usqp=CAU",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title='News WORLD'tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586647454919_movie_image.jpg&d=movie",FS1
