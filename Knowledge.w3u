@@ -48,6 +48,12 @@
 "referer": "https://we-play.tv/"
 },	
 {
+"name":"Hunt Channel",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201026_112842.md.png",
+"url":"https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8",
+"playInNatPlayer": "true"
+},	
+{
 "name":"LoveNature 4K",
 "image":"https://www.234.in.th/images/2020/11/20/Rounded_20201120_113846.png",
 "url":"https://www.we-play.tv/watching/tv/lovenature-4k",
@@ -56,7 +62,14 @@
 {
 "name":"LoveNature 4K (RU)",
 "image":"https://www.234.in.th/images/2020/11/20/Rounded_20201120_113846.png",
-"url":"http://a787201483-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/playlist.m3u8"
+"url":"http://a787201483-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/playlist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"NASA TV",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201102_125752.png",
+"url":"https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8",
+"playInNatPlayer": "true"
 },	
 {
 "name":"Nat Geographic",
@@ -80,12 +93,13 @@
 "name":"Samrujlok",
 "image":"https://www.234.in.th/images/2020/11/20/samrujrok.png",
 "url":"https://cdn6.goprimetime.info/feed/LC8/index.m3u8",
-"referer": "https://we-play.tv/"
+"playInNatPlayer": "true"
 },	
 {
 "name":"Saradee",
 "image":"https://www.234.in.th/images/2020/11/20/psisaradee.png",
-"url":"http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8"
+"url":"http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8",
+"playInNatPlayer": "true"
 },	
 {
 "name":"SCI",
