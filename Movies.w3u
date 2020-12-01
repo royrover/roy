@@ -31,12 +31,14 @@
 {
 "name":"Channel 8",
 "image":"https://www.234.in.th/images/2020/11/26/Rounded_20201126_083337.png",
-"url":"https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8"
+"url":"https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"Comedy Central",
 "image":"https://www.234.in.th/images/2020/11/26/Rounded_20201126_113429.png",
-"url":"http://203.154.177.124:8899/live/ch1/chunks.m3u8"
+"url":"http://203.154.177.124:8899/live/ch1/chunks.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"Fox Action Movies",
