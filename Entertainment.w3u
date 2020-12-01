@@ -26,7 +26,8 @@
 {
 "name":"Channel V Asia",
 "image":"https://www.234.in.th/images/2020/11/21/Rounded_20201107_145023.md.png",
-"url":"https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8"
+"url":"https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"Food Network",
@@ -47,6 +48,12 @@
 "referer": "https://we-play.tv/"
 },
 {
+"name":"JKN",
+"image":"https://www.234.in.th/images/2020/11/20/JKN.png",
+"url":"https://5f27aa1f6ef91.streamlock.net/jkndramax/myStream/chunklist_w1387599797.m3u8",
+"referer": "https://we-play.tv/"
+},
+{
 "name":"KBS World",
 "image":"https://www.234.in.th/images/2020/11/21/kbs.png",
 "url":"https://www.we-play.tv/watching/tv/kbs-world",
@@ -61,17 +68,20 @@
 {
 "name":"MTV ASIA",
 "image":"https://www.234.in.th/images/2020/11/21/mtvasia.png",
-"url":"http://203.154.177.124:8899/live/ch4/playlist.m3u8"
+"url":"http://203.154.177.124:8899/live/ch4/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"MTV CHINA",
 "image":"https://www.234.in.th/images/2020/11/21/Rounded_20201121_153749.png",
-"url":"http://203.154.177.124:8899/live/ch16/playlist.m3u8"
+"url":"http://203.154.177.124:8899/live/ch16/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"Sabaidee TV",
 "image":"https://www.234.in.th/images/2020/11/21/sabuydeetv.png",
-"url":"http://stream.rs.co.th/sbd-hi/index.m3u8"
+"url":"http://stream.rs.co.th/sbd-hi/index.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"True Music",
