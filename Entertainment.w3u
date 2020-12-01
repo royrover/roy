@@ -48,6 +48,12 @@
 "referer": "https://www.doomovie-hd.com/"
 },
 {
+"name":"Happy TV",
+"image":"https://www.234.in.th/images/2020/11/30/Rounded_20201030_111438.png",
+"url":"https://edge6a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist_w260432085.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name":"i-Concerts",
 "image":"https://www.234.in.th/images/2020/11/21/Rounded_20201121_152436.png",
 "url":"https://www.we-play.tv/watching/tv/stingray-iconcerts",
@@ -90,6 +96,18 @@
 "playInNatPlayer": "true"
 },
 {
+"name":"MVM",
+"image":"https://www.234.in.th/images/2020/12/01/Rounded_20201201_115013.png",
+"url":"https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2003331397.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"MVTV Five",
+"image":"https://www.234.in.th/images/2020/11/30/Rounded_20201021_084212.md.png",
+"url":"https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist_w2055129624.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name":"Sabaidee TV",
 "image":"https://www.234.in.th/images/2020/11/21/sabuydeetv.png",
 "url":"http://stream.rs.co.th/sbd-hi/index.m3u8",
@@ -106,6 +124,12 @@
 "image":"https://www.234.in.th/images/2020/11/21/truemusic.png",
 "url":"https://www.we-play.tv/watching/tv/true-music-hd",
 "referer": "https://we-play.tv/"
+},
+{
+"name":"True Thaithai",
+"image":"https://www.234.in.th/images/2020/12/01/Rounded_20201201_115800.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/sd-thaithai.stream/chunks.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"True X-ZYTE ",
