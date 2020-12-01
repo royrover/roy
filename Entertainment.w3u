@@ -6,6 +6,12 @@
 "info": "", "stations": 
 [ 
 {
+"name":"69TV สื่อออนไลน์",
+"image":"https://www.234.in.th/images/2020/11/30/Rounded_20201030_111010.md.png",
+"url":"https://edge6a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w1306517951.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name":"Asian Food Network",
 "image":"https://www.234.in.th/images/2020/11/21/Rounded_20201121_152921.png",
 "url":"https://www.we-play.tv/watching/tv/asian-food-channel",
@@ -51,7 +57,7 @@
 "name":"JKN",
 "image":"https://www.234.in.th/images/2020/11/20/JKN.png",
 "url":"https://5f27aa1f6ef91.streamlock.net/jkndramax/myStream/chunklist_w1387599797.m3u8",
-"referer": "https://we-play.tv/"
+"playInNatPlayer": "true"
 },
 {
 "name":"KBS World",
@@ -64,6 +70,12 @@
 "image":"https://www.234.in.th/images/2020/11/21/Rounded_20201121_152450.png",
 "url":"https://www.we-play.tv/watching/tv/kmtv",
 "referer": "https://we-play.tv/"
+},
+{
+"name":"Major Channel MIX ",
+"image":"https://www.234.in.th/images/2020/11/30/Rounded_20201021_095212.md.png",
+"url":"https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w2137992143.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"MTV ASIA",
@@ -81,6 +93,12 @@
 "name":"Sabaidee TV",
 "image":"https://www.234.in.th/images/2020/11/21/sabuydeetv.png",
 "url":"http://stream.rs.co.th/sbd-hi/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Thai Varaity",
+"image":"https://www.234.in.th/images/2020/11/30/Rounded_20201030_111707.png",
+"url":"https://edge6a.v2h-cdn.com/v2h/V2H11.stream_360p/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -106,6 +124,31 @@
 "image":"https://www.234.in.th/images/2020/11/21/Rounded_20201121_093508.png",
 "url":"https://www.we-play.tv/watching/tv/waku-waku-japan",
 "referer": "https://we-play.tv/"
+},
+{
+"name":"ถิ่นใต้",
+"image":"https://www.234.in.th/images/2020/12/01/Rounded_20201201_111715.png",
+"url":"https://www.fwiptv.cc/player_demo.php?channel=61235",
+"playInNatPlayer": "true"
+},
+{
+"name":"ไทบ้าน",
+"image":"https://www.234.in.th/images/2020/11/30/Rounded_20201030_110824.png",
+"url":"https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1872615169.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"บันเทิงเกินร้อย",
+"image":"https://www.234.in.th/images/2020/11/30/Rounded_20201030_111236.png",
+"url":"https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/chunklist_w1190974940.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"สามเมืองชาแนล",
+"image":"https://www.234.in.th/images/2020/12/01/Rounded_20201201_111700.png",
+"url":"https://www.fwiptv.cc/player_demo.php?channel=60257",
+"playInNatPlayer": "true"
+
 }]
 
 },	
