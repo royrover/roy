@@ -10,10 +10,10 @@ https://doomovielive.b-cdn.net/hd-ch3_720/index.m3u8|Referer=https://doomovie.co
 #EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3-hd.png",3 HD
 http://160.119.77.116:8081/iptv/hd-ch3.stream/playlist.m3u8
 #https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8
-#https://cdnlive.goprimetime.info/feed/ch3hd/index.m3u8
+#https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
 
 #EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3-hd.png",3 HD
-https://cdnlive.goprimetime.info/feed/ch3hd/index.m3u8
+https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
 
 #EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3-hd.png",3 HD
 https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8
@@ -46,10 +46,10 @@ https://doomovielive.b-cdn.net/hd-ch5_720/index.m3u8|Referer=https://doomovie.co
 http://27.254.130.56:80/live01/ch1.m3u8
 
 #EXTINF:-1 tvg-id="channel7.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch7.png",7 HD             	
-https://cdnlive.goprimetime.info/feed/ch7hd/index.m3u8
+https://streaming.livescorethai.net/iptv/hd-ch7.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="channel7.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch7.png",7 HD             	
-https://cdnlive.goprimetime.info/feed/ch7hd/index.m3u8
+https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
 
 #EXTINF:-1 tvg-id="channel7.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch7.png",7 HD TEST
 https://doomovielive.b-cdn.net/hd-ch7_720/index.m3u8|Referer=https://doomovie.com
@@ -68,7 +68,7 @@ https://doofootball.livestream-cdn.com/iptv/hd-mcot.stream/chunks.m3u8
 http://27.254.130.61/live01/ch12.m3u8?p=st
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/mcot.png",MCOT 
-https://cdnlive.goprimetime.info/feed/chmcothd/index.m3u8
+https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/mcot.png",MCOT TEST 
 https://doomovielive.b-cdn.net/hd-mcot_720/index.m3u8|Referer=https://doomovie.com
@@ -86,7 +86,7 @@ http://27.254.130.56:80/live01/ch4.m3u8
 http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/nbt.png",NBT 
-https://cdnlive.goprimetime.info/feed/chnbt/index.m3u8
+https://cdn6.goprimetime.info/feed/chnbt/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/nbt.png",NBT TEST
 https://doomovielive.b-cdn.net/sd-nbt_720/index.m3u8|Referer=https://doomovie.com
