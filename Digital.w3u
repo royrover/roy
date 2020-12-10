@@ -74,8 +74,8 @@
 {
 "name": "TNN16",  
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201113_145003.png",  
-"url": "https://cdnlive.goprimetime.info/feed/chtnn/index.m3u8",
-"playInNatPlayer": "true"
+"url": "http://sportdoofree.com/tv-online?kp=tnn%20&dd=tnn",
+"referer": "http://sportdoofree.com/"
 },
 {
 "name": "Thai TPBS",
@@ -188,14 +188,14 @@
 {
 "name": "PPTV HD",
 "image": "https://www.234.in.th/images/2020/11/17/pptv.png",
-"url": "https://doomovielive.b-cdn.net/hd-pptv_720/index.m3u8",
-"referer":"https://doomovie.com"
+"url": "https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name": "PPTV HD",
 "image": "https://www.234.in.th/images/2020/11/17/pptv.png",
-"url": "https://streaming.livescorethai.net/iptv/hd-pptv.stream/chunks.m3u8",
-"referer":"https://freetvdd.com/"
+"url": "http://27.254.130.56:80/live01/ch2.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name": "CH8",
