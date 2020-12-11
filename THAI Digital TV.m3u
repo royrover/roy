@@ -346,7 +346,8 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 http://160.119.77.116:8081/iptv/uk-foxnews.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="News World"tvg-logo="https://teevee-hd.com/img/nhkworld.png",NHK WORLD TV
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/th/playlist.m3u8
 #http://160.119.77.116:8081/iptv/sd-nhkworld.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="http://www.totiptv.com/Product/Channel/images/rt_b.png",RT TV
