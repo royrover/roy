@@ -18,6 +18,12 @@
 "referer":"https://doomovie.com/"
 },	
 {
+"name":"CH3 HD",
+"image":"https://www.234.in.th/images/2020/11/17/ch3-hd.png",
+"url": "https://www.doofootball.com/live/streaming/3hd/777777",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
 "name":"CH5 HD",
 "image":"https://www.234.in.th/images/2020/11/17/ch5.png",
 "url":"http://27.254.130.56:80/live01/ch6.m3u8",
@@ -28,6 +34,12 @@
 "image":"https://www.234.in.th/images/2020/11/17/ch5.png",
 "url": "https://doomovielive.b-cdn.net/hd-ch5_720/index.m3u8",
 "referer":"https://doomovie.com/"
+},
+{
+"name":"CH5 HD",
+"image":"https://www.234.in.th/images/2020/11/17/ch5.png",
+"url": "https://www.doofootball.com/live/streaming/5hd/777777",
+"referer": "https://www.doofootball.com/live/"
 },
 {
 "name":"CH7 HD",
@@ -42,6 +54,12 @@
 "referer":"https://doomovie.com/"
 },
 {
+"name":"CH7 HD",
+"image":"https://www.234.in.th/images/2020/11/17/ch7.png",
+"url": "https://www.doofootball.com/live/streaming/7hd/777778",
+"referer": "https://www.doofootball.com/live/"
+},
+{
 "name": "MCOT HD",  
 "image": "https://www.234.in.th/images/2020/11/17/mcot.png",  
 "url": "http://27.254.130.61/live01/ch12.m3u8?p=st",
@@ -52,6 +70,12 @@
 "image": "https://www.234.in.th/images/2020/11/17/mcot.png",  
 "url": "https://doomovielive.b-cdn.net/hd-mcot_720/index.m3u8",
 "referer":"https://doomovie.com/"
+},
+{
+"name": "MCOT HD",  
+"image": "https://www.234.in.th/images/2020/11/17/mcot.png",
+"url": "https://www.doofootball.com/live/streaming/mcot/351420",
+"referer": "https://www.doofootball.com/live/"
 },
 {
 "name": "NBT",  
@@ -66,6 +90,12 @@
 "playInNatPlayer": "true"
 },
 {
+"name":"NBT",
+"image":"https://www.234.in.th/images/2020/11/17/nbt.png",
+"url": "https://www.doofootball.com/live/streaming/nbt/777779",
+"referer": "https://www.doofootball.com/live/"
+},
+{
 "name": "TNN16",  
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201113_145003.png",  
 "url": "https://cdn6.goprimetime.info/feed/chtnn/index.m3u8",
@@ -74,8 +104,14 @@
 {
 "name": "TNN16",  
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201113_145003.png",  
-"url": "http://sportdoofree.com/tv-online?kp=tnn%20&dd=tnn",
-"referer": "http://sportdoofree.com/"
+"url": "https://www.doofootball.com/live/streaming/tnn/351420",
+"referer": "https://www.doofootball.com/live/"
+},
+{
+"name": "TNN16",  
+"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201113_145003.png",  
+"url": "https://doomovie.com/live/tnn24",
+"referer": "https://doomovie.com/"
 },
 {
 "name": "Thai TPBS",
@@ -86,8 +122,14 @@
 {
 "name": "Thai TPBS",
 "image": "https://www.234.in.th/images/2020/11/17/thaipbs.png",  
-"url": "https://doomovielive.b-cdn.net/hd-tpbs_720/index.m3u8",
+"url": "https://doomovie.com/live/thai-pbs",
 "referer":"https://doomovie.com/"
+},
+{
+"name": "Thai TPBS",
+"image": "https://www.234.in.th/images/2020/11/17/thaipbs.png",  
+"url": "https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name": "Nation TV",
@@ -99,6 +141,12 @@
 "name": "Nation TV",
 "image": "https://www.234.in.th/images/2020/11/17/nation.png",  
 "url": "http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nation TV",
+"image": "https://www.234.in.th/images/2020/11/17/nation.png",  
+"url": "https://cdn6.goprimetime.info/feed/chnation/index.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -114,6 +162,12 @@
 "referer":"https://doomovie.com"
 },
 {
+"name": "Workpoint TV",  
+"image": "https://www.234.in.th/images/2020/11/17/workpoint.png",  
+"url": "https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name": "TRUE4U",
 "image": "https://www.234.in.th/images/2020/11/17/true4u.png",
 "url": "http://183.182.100.184/live/true4u/chunklist.m3u8",
@@ -124,6 +178,12 @@
 "image": "https://www.234.in.th/images/2020/11/17/true4u.png",
 "url": "https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",
 "playInNatPlayer": "true"
+},
+{
+"name": "TRUE4U",
+"image": "https://www.234.in.th/images/2020/11/17/true4u.png",
+"url": "https://doomovie.com/live/true4u",
+"referer":"https://doomovie.com"
 },
 {
 "name": "GMM Channel",
@@ -138,6 +198,12 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "GMM Channel",
+"image": "https://www.234.in.th/images/2020/11/17/gmm.png",
+"url": "https://doomovie.com/live/gmm-channel",
+"referer":"https://doomovie.com"
+},
+{
 "name": "MONO29",
 "image": "https://www.234.in.th/images/2020/11/17/mono29.png",
 "url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8",
@@ -148,6 +214,12 @@
 "image": "https://www.234.in.th/images/2020/11/17/mono29.png",
 "url": "https://cdn6.goprimetime.info//feed//chmono29//index.m3u8",
 "playInNatPlayer": "true"
+},
+{
+"name": "MONO29",
+"image": "https://www.234.in.th/images/2020/11/17/mono29.png",
+"url": "https://freetvdd.com/%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95%e0%b9%8c/mono-29/",
+"referer":"https://freetvdd.com/"
 },
 {
 "name": "ONE",
@@ -162,6 +234,12 @@
 "referer":"https://www.one31.net/"
 },
 {
+"name": "ONE",
+"image": "https://www.234.in.th/images/2020/11/17/onehd.png",
+"url": "https://doomovie.com/live/gmm-one",
+"referer":"https://doomovie.com"
+},
+{
 "name": "Thairath TV",
 "image": "https://www.234.in.th/images/2020/11/17/thairath.png",
 "url": "http://live.thairath.co.th/trtv2/playlist.m3u8",
@@ -172,6 +250,12 @@
 "image": "https://www.234.in.th/images/2020/11/17/thairath.png",
 "url": "https://streaming.livescorethai.net/iptv/hd-thairath.stream/chunks.m3u8",
 "referer":"https://freetvdd.com/"
+},
+{
+"name": "Thairath TV",
+"image": "https://www.234.in.th/images/2020/11/17/thairath.png",
+"url": "https://doomovie.com/live/%e0%b9%84%e0%b8%97%e0%b8%a2%e0%b8%a3%e0%b8%b1%e0%b8%90%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5",
+"referer":"https://doomovie.com"
 },
 {
 "name": "AMARIN TV",
@@ -186,6 +270,12 @@
 "referer":"https://freetvdd.com/"
 },
 {
+"name": "AMARIN TV",
+"image": "https://www.234.in.th/images/2020/11/17/amarin.png",
+"url": "https://cdn6.goprimetime.info/feed/chamarin/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name": "PPTV HD",
 "image": "https://www.234.in.th/images/2020/11/17/pptv.png",
 "url": "https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8",
@@ -195,6 +285,12 @@
 "name": "PPTV HD",
 "image": "https://www.234.in.th/images/2020/11/17/pptv.png",
 "url": "http://27.254.130.56:80/live01/ch2.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV HD",
+"image": "https://www.234.in.th/images/2020/11/17/pptv.png",
+"url": "http://183.182.100.184/live/pptvthai/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
