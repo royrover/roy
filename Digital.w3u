@@ -20,7 +20,7 @@
 {
 "name":"CH3 HD",
 "image":"https://www.234.in.th/images/2020/11/17/ch3-hd.png",
-"url": "https://www.doofootball.com/live/streaming/3hd/777777",
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-ch3.stream/chunks.m3u8",
 "referer": "https://www.doofootball.com/live/"
 },	
 {
@@ -38,7 +38,7 @@
 {
 "name":"CH5 HD",
 "image":"https://www.234.in.th/images/2020/11/17/ch5.png",
-"url": "https://www.doofootball.com/live/streaming/5hd/777777",
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/chunks.m3u8",
 "referer": "https://www.doofootball.com/live/"
 },
 {
@@ -56,8 +56,8 @@
 {
 "name":"CH7 HD",
 "image":"https://www.234.in.th/images/2020/11/17/ch7.png",
-"url": "https://www.doofootball.com/live/streaming/7hd/777778",
-"referer": "https://www.doofootball.com/live/"
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-ch7.stream/chunks.m3u8",
+"referer": "https://doofootball.livestream-cdn.com/"
 },
 {
 "name": "MCOT HD",  
@@ -74,7 +74,7 @@
 {
 "name": "MCOT HD",  
 "image": "https://www.234.in.th/images/2020/11/17/mcot.png",
-"url": "https://www.doofootball.com/live/streaming/mcot/351420",
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-mcot.stream/chunks.m3u8",
 "referer": "https://www.doofootball.com/live/"
 },
 {
@@ -92,7 +92,7 @@
 {
 "name":"NBT",
 "image":"https://www.234.in.th/images/2020/11/17/nbt.png",
-"url": "https://www.doofootball.com/live/streaming/nbt/777779",
+"url": "https://doofootball.livestream-cdn.com/iptv/sd-nbt.stream/chunks.m3u8",
 "referer": "https://www.doofootball.com/live/"
 },
 {
@@ -104,7 +104,7 @@
 {
 "name": "TNN16",  
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201113_145003.png",  
-"url": "https://www.doofootball.com/live/streaming/tnn/351420",
+"url": "https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/chunks.m3u8",
 "referer": "https://www.doofootball.com/live/"
 },
 {
@@ -290,14 +290,20 @@
 {
 "name": "PPTV HD",
 "image": "https://www.234.in.th/images/2020/11/17/pptv.png",
-"url": "http://183.182.100.184/live/pptvthai/playlist.m3u8",
-"playInNatPlayer": "true"
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-pptv.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },
 {
 "name": "CH8",
 "image": "https://www.234.in.th/images/2020/11/17/ch8.png",
 "url": "https://www.thaich8.com/live?var_link=720p",
 "referer": "https://www.thaich8.com/"
+},
+{
+"name": "CH8",
+"image": "https://www.234.in.th/images/2020/11/17/ch8.png",
+"url": "http://stream.rs.co.th/ch8-hi/index.m3u8",
+"referer": "http://stream.rs.co.th/"
 },
 {
 "name": "VOICE TV",
