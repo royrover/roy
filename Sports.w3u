@@ -9,31 +9,36 @@
 "name":"โปรแกรมฟุตบอล",
 "image":"https://www.234.in.th/images/2020/12/08/unnamed.png",
 "url":"https://www.chklive.com/",
+"webviewType": "chrome",
 "embed": true
 },	
 {
 "name":"DOOFOOTBALL",
 "image":"https://www.doofootball.com/dfbgame/images/team/default.png",
 "url":"https://www.doofootball.com/",
+"webviewType": "chrome",
 "embed": true
 },	
 {
 "name":"DOOBALL66",
 "image":"https://www.234.in.th/images/2020/12/08/logo-square3.png",
 "url":"https://dooball66.com/",
+"webviewType": "chrome",
 "embed": true
 },	
 {
 "name":"HDFOOTBALL",
 "image":"https://img.apksum.com/43/live.footballtvfree/3.0.0/icon.png",
 "url":"https://hdfootball.net/",
+"webviewType": "chrome",
 "embed": true
 },	
 {
-"name":"Premiere 1",
-"image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
-"url":"https://www.we-play.tv/watching/tv/true-premier-football-hd-1",
-"referer": "https://we-play.tv/"
+"name":"Sportdoofree",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20200929_144454.png",
+"url":"http://sportdoofree.com/live",
+"webviewType": "chrome",
+"embed": true
 },	
 {
 "name":"Premiere 1",
@@ -58,6 +63,18 @@
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
 "url":"http://103.208.24.234:1935/thaisport/epl-1.stream/chunklist.m3u8",
 "playInNatPlayer": "true"
+},	
+{
+"name":"Premiere 1",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
+"url":"https://www.doofootball.com/live/streaming/epl1backup/552903",
+"referer": "https://doofootball.com/"
+},	
+{
+"name":"Premiere 1",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
+"url":"https://www.we-play.tv/watching/tv/true-premier-football-hd-1",
+"referer": "https://we-play.tv/"
 },	
 {
 "name":"Premiere 2",
@@ -204,10 +221,76 @@
 "referer": "https://www.doofootball.com/"
 },	
 {
+"name":"Bein Sports 1 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--752.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-1/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 2 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--753.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-2/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 3 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--754.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-3/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 4 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--755.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-4/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 5 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--756.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-5/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 6 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--757.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-6/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 7 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--758.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-7/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 8 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--759.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-8/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 9 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--760.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein9.stream/chunks.m3u8",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 10 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--761.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein10.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
 "name":"Bein 1 France",
 "image":"https://sport-tv-guide.live/images/stations/a400.png",
 "url":"http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8",
 "playInNatPlayer": "true"
+},	
+{
+"name":"Bein 1 France",
+"image":"https://sport-tv-guide.live/images/stations/a400.png",
+"url":"https://www.doofootball.com/live/streaming/beinsport1fr/578604",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Bein 2 France",
@@ -216,10 +299,52 @@
 "playInNatPlayer": "true"
 },	
 {
+"name":"Bein 2 France",
+"image":"https://sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png",
+"url":"https://www.doofootball.com/live/streaming/beinsport2fr/578604",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
 "name":"Bein 3 France",
 "image":"https://sport-tv-guide.live/images/tv-station-fr-bein-sports-3-402.png",
 "url":"http://160.119.77.116:8081/iptv/fr-bein3hd.stream/playlist.m3u8",
 "playInNatPlayer": "true"
+},	
+{
+"name":"Bein 3 France",
+"image":"https://sport-tv-guide.live/images/tv-station-fr-bein-sports-3-402.png",
+"url":"https://www.doofootball.com/live/streaming/beinsport3fr/578604",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"Bein 4 Max",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--403.png",
+"url":"https://www.doofootball.com/live/streaming/beinmax4fr/582059",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"Bein 5 Max",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--404.png",
+"url":"https://www.doofootball.com/live/streaming/beinmax5fr/543039",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"Bein 6 Max",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--405.png",
+"url":"https://www.doofootball.com/live/streaming/beinmax6fr/543035",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"Bein 1 TU",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",
+"url":"https://www.doofootball.com/live/streaming/beinsports1tu/558946",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"Bein 2 TU",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--641.png",
+"url":"https://www.doofootball.com/live/streaming/beinsports2tu/558946",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"True Sport HD",
@@ -234,6 +359,12 @@
 "referer": "https://doomovie.com/"
 },	
 {
+"name":"True Sport HD",
+"image":"https://www.234.in.th/images/2020/11/20/tsphd1.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-tsport1.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
 "name":"True Sport HD2",
 "image":"https://www.234.in.th/images/2020/11/20/tsphd2.png",
 "url":"https://www.we-play.tv/watching/tv/true-sports-hd-2",
@@ -244,6 +375,12 @@
 "image":"https://www.234.in.th/images/2020/11/20/tsphd2.png",
 "url":"https://doomovie.com/live/sport-hd-2",
 "referer": "https://doomovie.com/"
+},	
+{
+"name":"True Sport HD2",
+"image":"https://www.234.in.th/images/2020/11/20/tsphd2.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-tsport2.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"True Sport HD3",
@@ -258,10 +395,22 @@
 "referer": "https://doomovie.com/"
 },	
 {
+"name":"True Sport HD3",
+"image":"https://www.234.in.th/images/2020/11/20/tsphd3.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-tsport3.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
 "name":"True Sport HD4",
 "image":"https://www.234.in.th/images/2020/11/20/tsphd4.png",
 "url":"https://doomovie.com/live/sport-hd-4",
 "referer": "https://doomovie.com/"
+},	
+{
+"name":"True Sport HD4",
+"image":"https://www.234.in.th/images/2020/11/20/tsphd4.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-tsport4.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"True Sport HD4",
@@ -324,6 +473,12 @@
 "referer":"https://doomovie.com/"
 },	
 {
+"name":"T-Sport",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201111_113016.png",
+"url":"https://www.doofootball.com/live/streaming/tsports/999999",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
 "name":"True Tennis HD",
 "image":"https://www.234.in.th/images/2020/11/20/tennis.png",
 "url":"https://www.we-play.tv/watching/tv/true-tennis",
@@ -334,6 +489,12 @@
 "image":"https://www.234.in.th/images/2020/11/20/tennis.png",
 "url":"https://doomovie.com/live/tennis-hd",
 "referer":"https://doomovie.com/"
+},	
+{
+"name":"True Tennis HD",
+"image":"https://www.234.in.th/images/2020/11/20/tennis.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-tennis.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Golf Channel",
@@ -348,6 +509,12 @@
 "referer": "https://doomovie.com/"
 },	
 {
+"name":"Golf Channel",
+"image":"https://www.234.in.th/images/2020/11/20/golf.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-golf.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
 "name":"NBA HD",
 "image":"https://www.234.in.th/images/2020/11/20/nba.png",
 "url":"https://www.we-play.tv/watching/tv/nba-tv",
@@ -358,6 +525,12 @@
 "image":"https://www.234.in.th/images/2020/11/20/nba.png",
 "url":"https://doomovie.com/live/nba-tv",
 "referer": "https://doomovie.com/"
+},	
+{
+"name":"NBA HD",
+"image":"https://www.234.in.th/images/2020/11/20/nba.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-nba.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"NFL Network",
@@ -424,6 +597,30 @@
 "image":"https://www.234.in.th/images/2020/11/20/foxsport3.png",
 "url":"https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8",
 "playInNatPlayer": "true"
+},	
+{
+"name":"Fox Sport 1NL",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--241.png",
+"url":"https://www.doofootball.com/live/streaming/foxsport1nl/592555",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"Fox Sport 2NL",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--242.png",
+"url":"https://www.doofootball.com/live/streaming/foxsport2nl/592555",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"Fox Sport 3NL",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--243.png",
+"url":"https://www.doofootball.com/live/streaming/foxsport3nl/592555",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"Fox Sport 4NL",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--244.png",
+"url":"https://www.doofootball.com/live/streaming/foxsport4nl/592555",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"BT ESPN",
@@ -534,6 +731,72 @@
 "referer": "https://www.doofootball.com/live/"
 },	
 {
+"name":"Astro Sports 1",
+"image":"https://www.234.in.th/images/2020/11/20/astro1.png",
+"url":"http://stream2.a-play.online:8888/Astro1/index.m3u8",
+"referer": "http://totalsport.me/"
+},	
+{
+"name":"Astro Sports 2",
+"image":"https://www.234.in.th/images/2020/11/20/astro2.png",
+"url":"http://stream2.a-play.online:8888/Astro2/index.m3u8",
+"referer": "http://totalsport.me/"
+},	
+{
+"name":"Astro Sports 3",
+"image":"https://www.234.in.th/images/2020/11/20/astro3.png",
+"url":"http://stream2.a-play.online:8888/Astro3/index.m3u8",
+"referer": "http://totalsport.me/"
+},	
+{
+"name":"Astro Sports 4",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201110_093002.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/my-asp4.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"SKYNET SPORT HD",
+"image":"https://www.234.in.th/images/2020/11/20/skynetsport.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/skynetsport-hd/",
+"referer": "https://www.andaman888th.com/"
+},	
+{
+"name":"SKYNET SPORT 1",
+"image":"https://www.234.in.th/images/2020/11/20/skynetsport1.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/skynetsport-1",
+"referer": "https://www.andaman888th.com/"
+},	
+{
+"name":"SKYNET SPORT 2",
+"image":"https://www.234.in.th/images/2020/11/20/skynetsport2.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/skynetsport-2",
+"referer": "https://www.andaman888th.com/"
+},	
+{
+"name":"SKYNET SPORT 3",
+"image":"https://www.234.in.th/images/2020/11/20/skynetsport3.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/skynetsport-3",
+"referer": "https://www.andaman888th.com/"
+},	
+{
+"name":"SKYNET SPORT 4",
+"image":"https://www.234.in.th/images/2020/11/20/skynetsport4.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/skynetsport-4",
+"referer": "https://www.andaman888th.com/"
+},	
+{
+"name":"SKYNET SPORT 5",
+"image":"https://www.234.in.th/images/2020/11/20/skynetsport5.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/skynetsport-5",
+"referer": "https://www.andaman888th.com/"
+},	
+{
+"name":"SKYNET SPORT 6",
+"image":"https://www.234.in.th/images/2020/11/20/skynetsport6.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/skynetsport-6",
+"referer": "https://www.andaman888th.com/"
+},	
+{
 "name":"SPORTTV1",
 "image":"https://www.234.in.th/images/2020/11/20/tv-station--450.png",
 "url":"https://we-play.tv/watching/tv/sport-tv-1",
@@ -588,16 +851,142 @@
 "referer":"https://www.doomovie-hd.com/"
 },	
 {
+"name":"11",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1787.png",
+"url":"https://www.doofootball.com/live/streaming/canal11pt/604129",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"C MORE FOTBOLL",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--482.png",
+"url":"https://www.doofootball.com/live/streaming/cmorefootball/578983",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"ELEVEN SPORT 1",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1500.png",
+"url":"https://www.doofootball.com/live/streaming/elevensports1pt/578983",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"FreeSport",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--817.png",
+"url":"https://www.doofootball.com/live/streaming/freesportuk/578988",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"GOL",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--369.png",
+"url":"https://www.doofootball.com/live/streaming/gol/604092",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"NOVA SPORT",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1058.png",
+"url":"https://www.doofootball.com/live/streaming/novasport/606806",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"PFC",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1446.png",
+"url":"https://www.doofootball.com/live/streaming/pfc/596867",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"SK 1",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--341.png",
+"url":"https://www.doofootball.com/live/streaming/sportklub1slovenia/606806",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"SK 2",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--334.png",
+"url":"https://www.doofootball.com/live/streaming/sportklub2slovenia/621462",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"SK 3",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--335.png",
+"url":"https://www.doofootball.com/live/streaming/sportklub3slovenia/606806",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"SK 4",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--336.png",
+"url":"https://www.doofootball.com/live/streaming/sportklub4slovenia/606806",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"SPORTV",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1239.png",
+"url":"https://www.doofootball.com/live/streaming/sportv/0",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"Super Sport 1",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--691.png",
+"url":"https://www.doofootball.com/live/streaming/supersport1al/582059",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"Super Sport 2",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--692.png",
+"url":"https://www.doofootball.com/live/streaming/supersport2al/582059",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"TELEKOM SPORT 1",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--884.png",
+"url":"https://www.doofootball.com/live/streaming/telekomsport1ro/593692",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"TV3 MAX",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1219.png",
+"url":"https://www.doofootball.com/live/streaming/tv3max/593697",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"TV3 Sport 1",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--440.png",
+"url":"https://www.doofootball.com/live/streaming/tv3sport1/593613",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"Ziggo Sport",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",
+"url":"https://www.doofootball.com/live/streaming/ziggosportselect/618379",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
 "name":"LFCTV",
 "image":"https://www.234.in.th/images/2020/11/20/lfctv.png",
 "url":"https://doomovie.com/live/lfc-tv",
 "referer": "https://doomovie.com/"
 },	
 {
+"name":"LFCTV",
+"image":"https://www.234.in.th/images/2020/11/20/lfctv.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/uk-lfctv.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
 "name":"MUTV",
 "image":"https://www.234.in.th/images/2020/11/20/mutv.png",
 "url":"https://doomovie.com/live/mutv",
 "referer": "https://doomovie.com/"
+},	
+{
+"name":"MUTV",
+"image":"https://www.234.in.th/images/2020/11/20/mutv.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/uk-mutv.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"MUTV",
+"image":"https://www.234.in.th/images/2020/11/20/mutv.png",
+"url":"https://www.doofootball.com/live/streaming/mutv/588666",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"FC Bayern TV",
@@ -678,10 +1067,22 @@
 "referer":"https://doomovie.com/"
 },	
 {
+"name":"Eurosport-1",
+"image":"https://www.234.in.th/images/2020/11/20/a88.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/uk-eurosport.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
 "name":"Eurosport-2",
 "image":"https://www.234.in.th/images/2020/11/20/a89.png",
 "url":"https://doomovie.com/live/eurosport-2",
 "referer":"https://doomovie.com/"
+},	
+{
+"name":"Eurosport-2",
+"image":"https://www.234.in.th/images/2020/11/20/a89.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/uk-eurosport2.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Motor Visions",
@@ -694,8 +1095,6 @@
 "image":"https://www.234.in.th/images/2020/12/09/Rounded_20201117_113717.png",
 "url":"http://cdnak10.cast4u.info/channels/4/10804.m3u8",
 "playInNatPlayer": "true"
-
-
 }]
 
 },	
