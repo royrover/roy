@@ -25,13 +25,26 @@
 {
 "name":"Boomerang ",
 "image":"https://www.234.in.th/images/2020/11/20/boomerang.png",
-"url":"http://27.254.130.61/live01/ch18.m3u8?p=st"
+"url":"https://doomovie.com/live/boomerang",
+"referer": "https://doomovie.com/"
+},	
+{
+"name":"Boomerang ",
+"image":"https://www.234.in.th/images/2020/11/20/boomerang.png",
+"url":"http://27.254.130.61/live01/ch18.m3u8?p=st",
+"playInNatPlayer": "true"
 },	
 {
 "name":"Cartoon Network",
 "image":"https://www.234.in.th/images/2020/11/20/cartoonnetwork.png",
 "url":"https://www.we-play.tv/watching/tv/cartoon-network",
 "referer": "https://we-play.tv/"
+},	
+{
+"name":"Cartoon Network",
+"image":"https://www.234.in.th/images/2020/11/20/cartoonnetwork.png",
+"url":"https://doomovie.com/live/cartoon-network",
+"referer": "https://doomovie.com/"
 },	
 {
 "name":"Disney XD",
@@ -69,10 +82,22 @@
 "referer": "https://we-play.tv/"
 },	
 {
+"name":"True Spark Jump",
+"image":"https://www.234.in.th/images/2020/11/20/jump.png",
+"url":"https://doomovie.com/live/spark-jump",
+"referer": "https://doomovie.com/"
+},	
+{
 "name":"True Spark Play",
 "image":"https://www.234.in.th/images/2020/11/20/play.png",
 "url":"https://www.we-play.tv/watching/tv/true-spark-play",
 "referer": "https://we-play.tv/"
+},	
+{
+"name":"True Spark Play",
+"image":"https://www.234.in.th/images/2020/11/20/play.png",
+"url":"https://doomovie.com/live/spark-play",
+"referer": "https://doomovie.com/"
 }]
 
 },	
