@@ -8,7 +8,8 @@
 {
 "name":"ANIMAX",
 "image":"https://www.234.in.th/images/2020/11/20/animax.png",
-"url":"http://203.154.177.124:8899/live/ch5/playlist.m3u8"
+"url":"http://203.154.177.124:8899/live/ch5/playlist.m3u8",
+"playInNatPlayer": "true"
 },	
 {
 "name":"ANIPLUS",
@@ -50,7 +51,13 @@
 "name":"Disney XD",
 "image":"https://www.234.in.th/images/2020/11/20/disneyxd.png",
 "url":"https://doomovie.com/live/disney-xd",
-"referer": "https://doomovie.com/"
+"referer": "https://we-play.tv/"
+},	
+{
+"name":"Disney XD",
+"image":"https://www.234.in.th/images/2020/11/20/disneyxd.png",
+"url":"https://www.we-play.tv/watching/tv/disney-xd",
+"referer": "https://we-play.tv/"
 },	
 {
 "name":"Disney Channel",
@@ -61,7 +68,8 @@
 {
 "name":"MIAO MI",
 "image":"https://www.234.in.th/images/2020/11/21/Rounded_20200926_130021.png",
-"url":"http://203.154.177.124:8899/live/ch20/playlist.m3u8"
+"url":"http://203.154.177.124:8899/live/ch20/playlist.m3u8",
+"playInNatPlayer": "true"
 },	
 {
 "name":"Nickelodeon",
