@@ -1043,10 +1043,22 @@
 "referer": "https://www.doofootball.com/live/"
 },	
 {
+"name":"Eurosport 4K",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201106_151726.png",
+"url":"http://a3569457550-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw20000000/playlist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
 "name":"Motor Visions",
 "image":"https://www.234.in.th/images/2020/11/20/Rounded_20201111_134902.png",
 "url":"https://www.we-play.tv/watching/tv/motor-vision",
 "referer": "https://we-play.tv/"
+},	
+{
+"name":"Fight Sport",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201112_125937.png",
+"url":"http://203.154.177.124:8899/live/ch22/playlist.m3u8",
+"playInNatPlayer": "true"
 },	
 {
 "name":"WWE Network",
