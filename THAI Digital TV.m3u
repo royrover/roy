@@ -1063,7 +1063,7 @@ http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 #https://live.we-play.tv/android/tpf5/playlist.m3u8
 #http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://www.234.in.th/images/2020/11/19/premierfootball1.png" group-title="Sports",Premier HD1 BKP      
-https://365liveball.com/%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%AA%E0%B8%94?channel=epl1
+http://103.208.24.234:1935/thaisport/epl-1.stream/chunklist.m3u80%B8%94?channel=epl1
 #http://tv10.chang55.com/epl-1/playlist.m3u8
 #http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://www.234.in.th/images/2020/11/19/premierfootball2.png" group-title="Sports",Premier HD2 BKP
@@ -1082,11 +1082,8 @@ http://103.208.24.234:1935/thaisport/epl-2.stream/chunklist.m3u8
 #http://54.37.82.205:8081/liveorigin/epl-1_720/playlist.m3u8
 #http://tv10.chang55.com/epl-5/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://teevee-hd.com/img/idstation.png",ID Station
-#http://dootvthai-hd.com/cmd/api/true/idstation/playlist.m3u8
-#EXTINF:-1 group-title="Sports"tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/13/cd083b90-4e15-11ea-b7f0-270d555231ee_320.png",TOYOTA E LEAGUE
-
+http://dootvthai-hd.com/cmd/api/true/idstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i7.pngflow.com/pngimage/90/727/png-golf-channel-on-nbc-logo-trademark-golf-player-game-trademark-logo-golf-clipart.png" group-title="Sports",NBC Golf
 #http://160.119.77.116:8081/iptv/hd-golfeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png" group-title="Sports",Sky Sports Golf
