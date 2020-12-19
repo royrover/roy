@@ -639,7 +639,7 @@ https://doomovielive.b-cdn.net/sd-thaifilm_480/index.m3u8|Referer=https://doomov
 #EXTINF:-1 tvg-id="" group-title="Movies Live" tvg-logo="https://teevee-hd.com/img/truexzyte.png",True X-zyte 
 #http://160.119.77.116:8081/iptv/hd-xzyte.stream/playlist.m3u8
 #http://54.37.82.205:8081/liveorigin/hd-xzyte_720/playlist.m3u8
-#http://dootvthai-hd.com/cmd/true/TRUE-X-ZYTE-HD/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/TRUE-X-ZYTE-HD/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies Live" tvg-logo="https://teevee-hd.com/img/tvb.png",TVB ไทย
 https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/chunklist_w1540067969.m3u8
@@ -759,7 +759,7 @@ https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist.m3u8
 #http://kodinew.dyndns.tv:9981/stream/channelid/417735839?ticket=A8BD3CE4B249000F301E6E10C50877703FE48194&profile=pass
 
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/kbs.png",KBS WORLD HD
-#http://dootvthai-hd.com/cmd/api/true/KBS-World-HD/playlist.m3u8
+http://dootvthai-hd.com/cmd/api/true/KBS-World-HD/playlist.m3u8
 #http://160.119.77.116:8081/iptv/hd-kbsworld.stream/playlist.m3u8
 #http://54.37.82.205:8081/liveorigin/hd-kbsworld_720/playlist.m3u8
 
