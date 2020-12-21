@@ -271,6 +271,12 @@
 {
 "name":"Warner TV",
 "image":"https://www.234.in.th/images/2020/11/20/Rounded_20201120_164102.png",
+"url":"https://www.we-play.tv/watching/tv/warner-tv",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"Warner TV",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201120_164102.png",
 "url":"http://203.154.177.124:8899/live/ch12/playlist.m3u8",
 "playInNatPlayer": "true"
 },
@@ -278,7 +284,7 @@
 "name":"Zeenung",
 "image":"https://www.234.in.th/images/2020/11/26/Rounded_20201126_094013.png",
 "url":"https://cdnlive.goprimetime.info/feed/chzeenung/index.m3u8",
-"referer": "https://we-play.tv/"
+"playInNatPlayer": "true"
 },
 {
 "name":"Zeenung",
