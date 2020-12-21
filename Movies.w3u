@@ -6,6 +6,12 @@
 "info": "", "stations": 
 [ 
 {
+"name":"ACTION HOLLYWOOD MOVIES",
+"image":"https://www.234.in.th/images/2020/12/21/Rounded_20201221_092032.png",
+"url":"http://203.154.177.124:8899/live/ch7/chunks.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name":"AXN HD",
 "image":"https://www.234.in.th/images/2020/11/20/axn.png",
 "url":"http://160.119.77.116:8081/iptv/hd-axn.stream/playlist.m3u8",
@@ -97,8 +103,8 @@
 {
 "name":"Fox Movies",
 "image":"https://www.234.in.th/images/2020/11/20/Fox_movies.png",
-"url":"http://77.83.117.60:8888/02_FoxMoviesHD_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/"
+"url":"https://www.we-play.tv/watching/tv/fox-movies-soundtrack",
+"referer": "https://we-play.tv/"
 },
 {
 "name":"FOXไทย",
@@ -111,24 +117,6 @@
 "image":"https://www.234.in.th/images/2020/11/24/Rounded_20201121_132616.png",
 "url":"https://doomovie.com/live/fox-thai",
 "referer":"https://doomovie.com"
-},
-{
-"name":"FWMOV",
-"image":"https://www.234.in.th/images/2020/12/01/Rounded_20201201_092259.png",
-"url":"https://www.fwiptv.cc/player_demo.php?channel=89782",
-"playInNatPlayer": "true"
-},
-{
-"name":"FWSOV",
-"image":"https://www.234.in.th/images/2020/12/01/Rounded_20201201_092318.png",
-"url":"https://www.fwiptv.cc/player_demo.php?channel=89781",
-"playInNatPlayer": "true"
-},
-{
-"name":"FWTOON",
-"image":"https://www.234.in.th/images/2020/12/01/Rounded_20201201_092244.png",
-"url":"https://www.fwiptv.cc/player_demo.php?channel=89780",
-"playInNatPlayer": "true"
 },
 {
 "name":"HBO HD",
@@ -201,6 +189,12 @@
 "image":"https://www.234.in.th/images/2020/11/20/paramount.png",
 "url":"https://www.we-play.tv/watching/tv/paramount-channel",
 "referer": "https://we-play.tv/"
+},
+{
+"name":"Paramount CHANNEL",
+"image":"https://www.234.in.th/images/2020/11/20/paramount.png",
+"url":"http://203.154.177.124:8899/live/ch3/chunks.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"Red By HBO",
