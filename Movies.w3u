@@ -61,8 +61,8 @@
 {
 "name":"FOX family MOVIES ",
 "image":"https://www.234.in.th/images/2020/11/20/Rounded_20201107_083812.png",
-"url":"https://www.we-play.tv/watching/tv/fox-family-movies",
-"referer":"https://www.doomovie-hd.com/"
+"url":"https://doomovie.com/live/fox-family-movies",
+"referer":"https://doomovie.com/"
 },
 {
 "name":"FOX Life",
@@ -119,10 +119,22 @@
 "playInNatPlayer": "true"
 },
 {
+"name":"FX",
+"image":"https://www.234.in.th/images/2020/11/20/fxhd.png",
+"url":"https://watchnewslive.tv/fx/",
+"referer": "https://watchnewslive.tv/"
+},
+{
 "name":"HBO HD",
 "image":"https://www.234.in.th/images/2020/11/20/hbohd.png",
 "url":"https://www.we-play.tv/watching/tv/hbo-hd",
 "referer": "https://we-play.tv/"
+},
+{
+"name":"HBO HD",
+"image":"https://www.234.in.th/images/2020/11/20/hbohd.png",
+"url":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"HBO Family",
@@ -131,16 +143,34 @@
 "referer": "https://we-play.tv/"
 },
 {
+"name":"HBO Family",
+"image":"https://www.234.in.th/images/2020/11/20/hbofam.png",
+"url":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name":"HBO Hits",
 "image":"https://www.234.in.th/images/2020/11/20/hbohits.png",
 "url":"https://www.we-play.tv/watching/tv/hbo-hits",
 "referer": "https://we-play.tv/"
 },
 {
+"name":"HBO Hits",
+"image":"https://www.234.in.th/images/2020/11/20/hbohits.png",
+"url":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name":"HBO Signature",
 "image":"https://www.234.in.th/images/2020/11/20/hbosig.png",
 "url":"https://www.we-play.tv/watching/tv/hbo-signature",
 "referer": "https://we-play.tv/"
+},
+{
+"name":"HBO Signature",
+"image":"https://www.234.in.th/images/2020/11/20/hbosig.png",
+"url":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"Hits",
@@ -164,6 +194,12 @@
 "name":"Paramount CHANNEL",
 "image":"https://www.234.in.th/images/2020/11/20/paramount.png",
 "url":"https://www.we-play.tv/watching/tv/paramount-channel",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"Red By HBO",
+"image":"https://www.234.in.th/images/2020/11/20/red.png",
+"url":"https://www.we-play.tv/watching/tv/red-by-hbo",
 "referer": "https://we-play.tv/"
 },
 {
