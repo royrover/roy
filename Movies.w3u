@@ -193,8 +193,8 @@
 {
 "name":"Paramount CHANNEL",
 "image":"https://www.234.in.th/images/2020/11/20/paramount.png",
-"url":"http://203.154.177.124:8899/live/ch3/chunks.m3u8",
-"playInNatPlayer": "true"
+"url":"https://www.we-play.tv/watching/tv/paramount-channel",
+"referer": "https://we-play.tv/"
 },
 {
 "name":"Red By HBO",
@@ -277,8 +277,8 @@
 {
 "name":"Warner TV",
 "image":"https://www.234.in.th/images/2020/11/20/Rounded_20201120_164102.png",
-"url":"http://203.154.177.124:8899/live/ch12/playlist.m3u8",
-"playInNatPlayer": "true"
+"url":"https://doomovie.com/live/warner-tv-hd",
+"referer":"https://doomovie.com"
 },
 {
 "name":"Zeenung",
