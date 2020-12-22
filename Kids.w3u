@@ -8,13 +8,20 @@
 {
 "name":"ANIMAX",
 "image":"https://www.234.in.th/images/2020/11/20/animax.png",
-"url":"http://203.154.177.124:8899/live/ch5/chunks.m3u8"
+"url":"http://203.154.177.124:8899/live/ch5/chunks.m3u8",
+"playInNatPlayer": "true"
 },	
 {
 "name":"ANIPLUS",
 "image":"https://www.234.in.th/images/2020/11/20/aniplus.png",
 "url":"https://www.we-play.tv/watching/tv/aniplus",
 "referer": "https://we-play.tv/"
+},	
+{
+"name":"BabyFirst TV",
+"image":"https://www.234.in.th/images/2020/12/22/Rounded_20201222_112658.png",
+"url":"https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8",
+"playInNatPlayer": "true"
 },	
 {
 "name":"Baby TV",
