@@ -14,8 +14,8 @@
 {
 "name":"ANIMAX",
 "image":"https://www.234.in.th/images/2020/11/20/animax.png",
-"url":"http://203.154.177.124:8899/live/ch5/chunks.m3u8",
-"playInNatPlayer": "true"
+"url":"https://www.we-play.tv/watching/tv/animax",
+"referer": "https://we-play.tv/"
 },	
 {
 "name":"ANIPLUS",
@@ -82,12 +82,6 @@
 "image":"https://www.234.in.th/images/2020/11/20/disney.png",
 "url":"http://77.83.117.60:8888/02_DisneyXD_720p/chunklist.m3u8",
 "referer": "https://www.doomovie-hd.com/"
-},	
-{
-"name":"MIAO MI",
-"image":"https://www.234.in.th/images/2020/11/21/Rounded_20200926_130021.png",
-"url":"http://203.154.177.124:8899/live/ch20/playlist.m3u8",
-"playInNatPlayer": "true"
 },	
 {
 "name":"Nickelodeon",
