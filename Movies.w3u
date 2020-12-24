@@ -145,6 +145,12 @@
 {
 "name":"HBO Family",
 "image":"https://www.234.in.th/images/2020/11/20/hbofam.png",
+"url":"https://dootvgun.com/hbotv/hbofam/playlist.m3u8",
+"referer": "https://dootvgun.com/"
+},
+{
+"name":"HBO Family",
+"image":"https://www.234.in.th/images/2020/11/20/hbofam.png",
 "url":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8",
 "playInNatPlayer": "true"
 },
