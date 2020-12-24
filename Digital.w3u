@@ -324,10 +324,22 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "NEWTV",
+"image": "https://www.234.in.th/images/2020/11/17/newtv.png",
+"url": "http://160.119.77.116:8081/iptv/sd-new.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name": "NEW1",
 "image": "https://www.234.in.th/images/2020/11/17/news1.png",
 "url": "https://server1.streamssl.com/stream/news1_hi.m3u8",
 "playInNatPlayer": "true"
+},
+{
+"name": "NEW1",
+"image": "https://www.234.in.th/images/2020/11/17/news1.png",
+"url": "https://www.doo2you.com/news-1/",
+"referer": "https://www.doo2you.com/"
 },
 {
 "name": "TPTV",
