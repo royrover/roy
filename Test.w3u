@@ -1,0 +1,35 @@
+ 
+{
+"name": "Kids",
+"author": "royrover",
+"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201001_092306.png",
+"url": "https://raw.githubusercontent.com/royrover/roy/master/Kids.w3u",
+"info": "", "stations": 
+[ 
+{
+"name":"ANIMAX",
+"image":"https://www.234.in.th/images/2020/11/20/animax.png",
+"url":"http://193.42.99.130:23455/3720/playlist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"ANIMAX",
+"image":"https://www.234.in.th/images/2020/11/20/animax.png",
+"url":"http://203.154.177.124:8899/live/ch5/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
+"name": "PremieLeague1 FHD",
+"image":"https://sv1.picz.in.th/images/2020/11/21/bmNdnq.png",
+"url": "https://stream.warpballsod.tv/epl1.m3u8",
+"referer": "https://www.warpballsod.tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+}]
+
+},	
+]
+}
