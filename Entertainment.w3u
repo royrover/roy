@@ -86,7 +86,17 @@
 {
 "name":"MTV ASIA",
 "image":"https://www.234.in.th/images/2020/11/21/mtvasia.png",
-"url":"http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8",
+"url":"http://203.154.177.124:8899/live/ch4/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name":"MTV CHINA",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20201121_153749.png",
+"url":"http://203.154.177.124:8899/live/ch16/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
 },
 {
@@ -111,6 +121,8 @@
 "name":"Music For You",
 "image":"https://www.234.in.th/images/2020/12/02/Rounded_20201114_113313.png",
 "url":"http://203.154.243.89:1213",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
 },
 {
