@@ -8,14 +8,10 @@
 {
 "name":"ANIMAX",
 "image":"https://www.234.in.th/images/2020/11/20/animax.png",
-"url":"http://193.42.99.130:23455/3720/playlist.m3u8",
+"url":"http://203.154.177.124:8899/live/ch5/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
-},	
-{
-"name":"ANIMAX",
-"image":"https://www.234.in.th/images/2020/11/20/animax.png",
-"url":"https://www.we-play.tv/watching/tv/animax",
-"referer": "https://we-play.tv/"
 },	
 {
 "name":"ANIPLUS",
@@ -81,7 +77,18 @@
 "name":"Disney Channel",
 "image":"https://www.234.in.th/images/2020/11/20/disney.png",
 "url":"http://77.83.117.60:8888/02_DisneyXD_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/"
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
+"name":"MIAO MI",
+"image":"https://www.234.in.th/images/2020/11/21/Rounded_20200926_130021.png",
+"url":"http://203.154.177.124:8899/live/ch20/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
 },	
 {
 "name":"Nickelodeon",
