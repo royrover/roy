@@ -6,6 +6,14 @@
 "info": "", "stations": 
 [ 
 {
+"name":"ACTION HOLLYWOOD MOVIES",
+"image":"https://www.234.in.th/images/2020/12/21/Rounded_20201221_092032.png",
+"url":"http://203.154.177.124:8899/live/ch7/chunks.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
 "name":"AXN HD",
 "image":"https://www.234.in.th/images/2020/11/20/axn.png",
 "url":"https://doomovie.com/live/axn-hd",
@@ -128,19 +136,28 @@
 "name":"FWMOV",
 "image":"https://www.234.in.th/images/2020/12/01/Rounded_20201201_092259.png",
 "url":"https://www.fwiptv.cc/player_demo.php?channel=89782",
-"referer": "https://www.fwiptv.cc/"
+"referer": "https://www.fwiptv.cc/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
 },
 {
 "name":"FWSOV",
 "image":"https://www.234.in.th/images/2020/12/01/Rounded_20201201_092318.png",
 "url":"https://www.fwiptv.cc/player_demo.php?channel=89781",
-"referer": "https://www.fwiptv.cc/"
+"referer": "https://www.fwiptv.cc/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
 },
 {
 "name":"FWTOON",
 "image":"https://www.234.in.th/images/2020/12/01/Rounded_20201201_092244.png",
 "url":"https://www.fwiptv.cc/player_demo.php?channel=89780",
-"referer":"https://www.fwiptv.cc/"
+"referer":"https://www.fwiptv.cc/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
 },
 {
 "name":"HBO HD",
@@ -223,8 +240,10 @@
 {
 "name":"Paramount CHANNEL",
 "image":"https://www.234.in.th/images/2020/11/20/paramount.png",
-"url":"https://www.we-play.tv/watching/tv/paramount-channel",
-"referer": "https://we-play.tv/"
+"url":"http://203.154.177.124:8899/live/ch3/chunks.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
 },
 {
 "name":"Red By HBO",
@@ -309,6 +328,14 @@
 "image":"https://www.234.in.th/images/2020/11/20/Rounded_20201120_164102.png",
 "url":"https://doomovie.com/live/warner-tv-hd",
 "referer":"https://doomovie.com"
+},
+{
+"name":"Warner TV",
+"image":"https://www.234.in.th/images/2020/11/20/Rounded_20201120_164102.png",
+"url":"http://203.154.177.124:8899/live/ch12/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
 },
 {
 "name":"Zeenung",
