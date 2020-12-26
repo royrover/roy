@@ -83,6 +83,15 @@
 "playInNatPlayer": "true"
 },	
 {
+"name":"Disney Channel UK",
+"image":"https://www.234.in.th/images/2020/11/20/disney.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/uk-disney.stream/chunks.m3u8",
+"referer": "https://doofootball.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},	
+{
 "name":"MIAO MI",
 "image":"https://www.234.in.th/images/2020/11/21/Rounded_20200926_130021.png",
 "url":"http://203.154.177.124:8899/live/ch20/playlist.m3u8",
