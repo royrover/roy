@@ -176,6 +176,14 @@
 "referer": "https://we-play.tv/"
 },	
 {
+"name":"Pet Club TV",
+"image":"https://www.234.in.th/images/2020/12/26/Rounded_20201226_101356.png",
+"url":"http://203.154.177.124:8899/live/ch9/chunks.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
 "name":"Samrujlok",
 "image":"https://www.234.in.th/images/2020/11/20/samrujrok.png",
 "url":"https://cdn6.goprimetime.info/feed/LC8/index.m3u8",
