@@ -1,0 +1,430 @@
+{
+"name": "Digital TV",
+"author": "royrover",
+"image": "https://www.dropbox.com/s/khk919ocl53midu/Rounded_20201001_092306.png?dl=1",
+"url": "http://tiny.cc/dig015",
+"info": "", "stations": 
+[ 
+{
+"name":"CH3 HD",
+"image":"https://www.dropbox.com/s/2d2iztfhqgoic6p/Rounded_20201113_144757.png?dl=1",
+"url": "http://160.119.77.116:8081/iptv/hd-ch3.stream/playlist.m3u8",
+"referer":"https://doomovie.com/"
+},	
+{
+"name":"CH3 HD",
+"image":"https://www.dropbox.com/s/2d2iztfhqgoic6p/Rounded_20201113_144757.png?dl=1",
+"url": "https://cdn6.goprimetime.info//feed//ch3hd//index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name":"CH3 HD",
+"image":"https://www.dropbox.com/s/2d2iztfhqgoic6p/Rounded_20201113_144757.png?dl=1",
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-ch3.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name":"CH5 HD",
+"image":"https://www.dropbox.com/s/s92v8c6plr9vgbi/Rounded_20201113_144910.png?dl=1",
+"url": "https://cdn6.goprimetime.info//feed//ch5hd//index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name":"CH5 HD",
+"image":"https://www.dropbox.com/s/s92v8c6plr9vgbi/Rounded_20201113_144910.png?dl=1",
+"url":"http://160.119.77.116:8081/iptv/hd-ch5.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"CH5 HD",
+"image":"https://www.dropbox.com/s/s92v8c6plr9vgbi/Rounded_20201113_144910.png?dl=1",
+"url": "http://27.254.130.56:80/live01/ch6.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"CH7 HD",
+"image":"https://www.dropbox.com/s/cgjhwr134adksmw/ch7.png?dl=1",
+"url":"https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_3/chunklist.m3u8",
+"referer": "https://www.ch7.com/"
+},
+{
+"name":"CH7 HD",
+"image":"https://www.dropbox.com/s/cgjhwr134adksmw/ch7.png?dl=1",
+"url": "https://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8",
+"referer":"https://doomovie.com/"
+},
+{
+"name":"CH7 HD",
+"image":"https://www.dropbox.com/s/cgjhwr134adksmw/ch7.png?dl=1",
+"url": "https://cdn6.goprimetime.info//feed//ch7hd//index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "MCOT HD",  
+"image": "https://www.dropbox.com/s/fiwqv7urzqhgr3u/mcot.png?dl=1",  
+"url": "https://bettopfivemovie.com/9-mcot/",
+"referer": "https://bettopfivemovie.com/"
+},
+{
+"name": "MCOT HD",  
+"image": "https://www.dropbox.com/s/fiwqv7urzqhgr3u/mcot.png?dl=1",   
+"url": "http://160.119.77.116:8081/iptv/hd-mcot.stream/playlist.m3u8",
+"referer":"https://doomovie.com/"
+},
+{
+"name": "MCOT HD",  
+"image": "https://www.dropbox.com/s/fiwqv7urzqhgr3u/mcot.png?dl=1", 
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-mcot.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
+},
+{
+"name": "NBT",  
+"image": "https://www.dropbox.com/s/oz1jkdpub2woyqe/nbt.png?dl=1",  
+"url": "https://cdn6.goprimetime.info/feed/chnbt/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name":"NBT",
+"image": "https://www.dropbox.com/s/oz1jkdpub2woyqe/nbt.png?dl=1",
+"url": "http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8",
+"referer": "https://doomovie.com/live/"
+},
+{
+"name":"NBT",
+"image": "https://www.dropbox.com/s/oz1jkdpub2woyqe/nbt.png?dl=1",
+"url": "https://doofootball.livestream-cdn.com/iptv/sd-nbt.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
+},
+{
+"name": "TNN16",  
+"image": "https://www.dropbox.com/s/zsx8qnturcxh75o/Rounded_20201113_145003.png?dl=1",  
+"url": "http://160.119.77.116:8081/iptv/sd-tnn24.stream/playlist.m3u8",
+"referer": "https://doomovie.com/"
+},
+{
+"name": "TNN16",  
+"image": "https://www.dropbox.com/s/zsx8qnturcxh75o/Rounded_20201113_145003.png?dl=1",  
+"url": "https://www.doo2you.com/tnn16/",
+"referer": "https://www.doo2you.com/"
+},
+{
+"name": "TNN16",  
+"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201113_145003.png",  
+"url": "https://www.doofree88.com/live/tnn24",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thai TPBS",
+"image": "https://www.dropbox.com/s/rknrh0pgqdpmuxw/thaipbs.png?dl=1",  
+"url": "http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8",
+"referer": "https://www.thaipbs.or.th/"
+},
+{
+"name": "Thai TPBS",
+"image": "https://www.dropbox.com/s/rknrh0pgqdpmuxw/thaipbs.png?dl=1",  
+"url": "https://bettopfivemovie.com/thaipbs/",
+"referer":"https://doomovie.com/"
+},
+{
+"name": "Thai TPBS",
+"image": "https://www.dropbox.com/s/rknrh0pgqdpmuxw/thaipbs.png?dl=1",  
+"url": "https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nation TV",
+"image": "https://www.dropbox.com/s/cq9g9zfx7io4m46/7a71eba5cab8e4f1df9944395977a971.png?dl=1",  
+"url": "https://edge6a.v2h-cdn.com/m2i1/Nation.stream_720p/chunklist_w480654805.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nation TV",
+"image": "https://www.dropbox.com/s/cq9g9zfx7io4m46/7a71eba5cab8e4f1df9944395977a971.png?dl=1",  
+"url": "http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nation TV",
+"image": "https://www.dropbox.com/s/cq9g9zfx7io4m46/7a71eba5cab8e4f1df9944395977a971.png?dl=1",  
+"url": "https://cdn6.goprimetime.info/feed/chnation/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Workpoint TV",  
+"image": "https://www.dropbox.com/s/h5sbcc5wtjn1fcb/Rounded_20201113_144935.png?dl=1",  
+"url": "http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Workpoint TV",  
+"image": "https://www.dropbox.com/s/h5sbcc5wtjn1fcb/Rounded_20201113_144935.png?dl=1",   
+"url": "https://bettopfivemovie.com/workpoint-tv/",
+"referer":"https://doomovie.com"
+},
+{
+"name": "Workpoint TV",  
+"image": "https://www.dropbox.com/s/h5sbcc5wtjn1fcb/Rounded_20201113_144935.png?dl=1",  
+"url": "https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRUE4U",
+"image": "https://www.dropbox.com/s/w3gficlz4gjel3f/true4u.png?dl=1",
+"url": "https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRUE4U",
+"image": "https://www.dropbox.com/s/w3gficlz4gjel3f/true4u.png?dl=1",
+"url": "https://ball8k.com/m/ch.php?stream=true4u",
+"referer":"https://ball8k.com/"
+},
+{
+
+"name": "TRUE4U",
+"image": "https://www.dropbox.com/s/w3gficlz4gjel3f/true4u.png?dl=1",
+"url": "http://160.119.77.116:8081/iptv/sd-24u.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "GMM Channel",
+"image": "https://www.dropbox.com/s/98vzozcyqqapo9w/Rounded_20201113_144923.png?dl=1",
+"url": "http://160.119.77.116:8081/iptv/sd-gmmchannel.stream/playlist.m3u8",
+"referer":"https://www.gmm25.com/"
+},
+{
+"name": "GMM Channel",
+"image": "https://www.dropbox.com/s/98vzozcyqqapo9w/Rounded_20201113_144923.png?dl=1",
+"url": "http://27.254.130.61/live01/ch11.m3u8?p=st",
+"playInNatPlayer": "true"
+},
+{
+"name": "GMM Channel",
+"image": "https://www.dropbox.com/s/98vzozcyqqapo9w/Rounded_20201113_144923.png?dl=1",
+"url": "https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "MONO29",
+"image": "https://www.dropbox.com/s/hfeq4bp27po1s2d/mono29.png?dl=1",
+"url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8",
+"referer": "https://mono29.com/"
+},
+{
+"name": "MONO29",
+"image": "https://www.dropbox.com/s/hfeq4bp27po1s2d/mono29.png?dl=1",
+"url": "https://cdn6.goprimetime.info//feed//chmono29//index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "MONO29",
+"image": "https://www.dropbox.com/s/hfeq4bp27po1s2d/mono29.png?dl=1",
+"url": "https://bettopfivemovie.com/mono-29/",
+"referer": "https://bettopfivemovie.com/"
+},
+{
+"name": "ONE",
+"image": "https://www.dropbox.com/s/uttu6twaym4aziv/onehd.png?dl=1",
+"url": "https://bettopfivemovie.com/one31/",
+"referer": "https://freetvdd.com/"
+},
+{
+"name": "ONE",
+"image": "https://www.dropbox.com/s/uttu6twaym4aziv/onehd.png?dl=1",
+"url": "http://one31-rlbwkq.cdn.byteark.com:80/live/playlist_720p/index.m3u8",
+"referer":"https://www.one31.net/"
+},
+{
+"name": "ONE",
+"image": "https://www.dropbox.com/s/uttu6twaym4aziv/onehd.png?dl=1",
+"url": "https://www.one31.net/live",
+"referer":"https://doomovie.com"
+},
+{
+"name": "Thairath TV",
+"image": "https://www.dropbox.com/s/r2p52d0wcufvn5e/thairath.png?dl=1",
+"url": "https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thairath TV",
+"image": "https://www.dropbox.com/s/r2p52d0wcufvn5e/thairath.png?dl=1",
+"url": "https://bettopfivemovie.com/thairathtv/",
+"referer":"https://freetvdd.com/"
+},
+{
+"name": "Thairath TV",
+"image": "https://www.dropbox.com/s/r2p52d0wcufvn5e/thairath.png?dl=1",
+"url": "http://160.119.77.116:8081/iptv/hd-thairath.stream/playlist.m3u8",
+"referer":"https://doomovie.com"
+},
+{
+"name": "AMARIN TV",
+"image": "https://www.dropbox.com/s/im2cyxi5x9c3e40/amarin.png?dl=1",
+"url": "http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8",
+"referer":"https://doomovie.com"
+},
+{
+"name": "AMARIN TV",
+"image": "https://www.dropbox.com/s/im2cyxi5x9c3e40/amarin.png?dl=1",
+"url": "https://bettopfivemovie.com/amarin-tv-hd/",
+"referer":"https://freetvdd.com/"
+},
+{
+"name": "AMARIN TV",
+"image": "https://www.dropbox.com/s/im2cyxi5x9c3e40/amarin.png?dl=1",
+"url": "https://cdn6.goprimetime.info/feed/chamarin/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV HD",
+"image": "https://www.dropbox.com/s/lgf6vdbesg66ub9/pptv.png?dl=1",
+"url": "https://bettopfivemovie.com/pptv-hd-36/",
+"referer":"https://freetvdd.com/"
+},
+{
+"name": "PPTV HD",
+"image": "https://www.dropbox.com/s/lgf6vdbesg66ub9/pptv.png?dl=1",
+"url": "http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8",
+"referer":"https://doomovie.com"
+},
+{
+"name": "PPTV HD",
+"image": "https://www.dropbox.com/s/lgf6vdbesg66ub9/pptv.png?dl=1",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-pptv&api_key=hmcb4rf66f&ref=none",
+"referer": "https://dooball66.com",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH8",
+"image": "https://www.dropbox.com/s/pwr638uta3imkwd/ch8.png?dl=1",
+"url": "https://bettopfivemovie.com/ch8/",
+"referer": "https://bettopfivemovie.com/"
+},
+{
+"name": "CH8",
+"image": "https://www.dropbox.com/s/pwr638uta3imkwd/ch8.png?dl=1",
+"url": "http://stream.rs.co.th/ch8-hi/index.m3u8",
+"referer": "http://stream.rs.co.th/"
+},
+{
+"name": "CH8",
+"image": "https://www.dropbox.com/s/pwr638uta3imkwd/ch8.png?dl=1",
+"url": "https://www.thaich8.com/live?var_link=720p",
+"referer": "https://www.thaich8.com/"
+},
+{
+"name": "NEWTV",
+"image": "https://www.dropbox.com/s/3nncjlt0aeunn3g/newtv.png?dl=1",
+"url": "http://160.119.77.116:8081/iptv/sd-new.stream/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "NEWTV",
+"image": "https://www.dropbox.com/s/3nncjlt0aeunn3g/newtv.png?dl=1",
+"url": "https://p1.cdn.vet/live/ch30/i/ch30i.m3u8?sid=bjeZmE3MjcwOWE1OWYzZDk0NTNmOQNzdiOGEyNWIzNjEzNjA4",
+"referer": "https://www.adintrend.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "NEWTV",
+"image": "https://www.dropbox.com/s/3nncjlt0aeunn3g/newtv.png?dl=1",
+"url": "https://www.beeduball.com/channel-newtv/",
+"referer": "https://www.beeduball.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "NEW1",
+"image": "https://www.dropbox.com/s/8at5psc3p5xax7y/news1.png?dl=1",
+"url": "https://server1.streamssl.com/stream/news1_hi.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "NEW1",
+"image": "https://www.dropbox.com/s/8at5psc3p5xax7y/news1.png?dl=1",
+"url": "http://news1.live14.com/stream/news1_hi.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "NEW1",
+"image": "https://www.dropbox.com/s/8at5psc3p5xax7y/news1.png?dl=1",
+"url": "https://www.doo2you.com/news-1/",
+"referer": "https://www.doo2you.com/"
+},
+{
+"name": "TPTV",
+"image": "https://www.dropbox.com/s/25dj797k1l5j3eu/Rounded_20201119_085533.png?dl=1",
+"url": "http://49.231.66.85:1935/live/tptv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "TPTV",
+"image": "https://www.dropbox.com/s/25dj797k1l5j3eu/Rounded_20201119_085533.png?dl=1",
+"url":"http://live.parliament.go.th/livestream/encoder3/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "TPTV",
+"image": "https://www.dropbox.com/s/25dj797k1l5j3eu/Rounded_20201119_085533.png?dl=1",
+"url":"https://doofootball.livestream-cdn.com/iptv/sd-tptv.stream/chunks.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+}, 
+{
+"name": "ALTV4",
+"image": "https://www.dropbox.com/s/9ry3odbs6mamkbu/Rounded_20201117_143034.png?dl=1",
+"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+"referer": "https://www.thaipbs.or.th/"
+}, 
+{
+"name": "Voice TV",
+"image": "https://dl.dropbox.com/s/szbx4zlau4mueck/voicetv.png?dl=0",             
+"url": "https://www.doo2you.com/voice-tv/",
+"referer": "https://www.doo2you.com/",
+"playInNatPlayer": "true"
+}, 
+{
+"name": "ฟ้าวันใหม่", 
+"image": "https://dl.dropbox.com/s/0twm7mxz2nzylud/Rounded_20201001_081520.png?dl=0",          
+"url":"https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/chunklist_w1819939365.m3u8",
+"referer": "https://www.blueskychannel.tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+
+
+
+}]
+
+},	
+]
+}
