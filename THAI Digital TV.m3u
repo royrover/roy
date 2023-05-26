@@ -975,8 +975,13 @@ http://160.119.77.116:8081/iptv/sd-nickjr.stream/playlist.m3u8
 #https://cdn.moviektu.com/th1080p/nickjr.m3u8
 #http://27.254.149.109:8081/tumlive/Nick/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.234.in.th/images/2020/11/20/nickelodeon.png" group-title="Kids",Nickelodeon
-#http://dootvthai-hd.com/cmd/true/nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/auhzjs3pktbg90w/nick.png" group-title="Kids",Nick 🇺🇸
+#http://dootvthai-hd.com/cmd/true/nickelodeon/playlist.m3u8|Referer=https://doomovie.com
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/auhzjs3pktbg90w/nick.png" group-title="Kids",Nick 🇺🇸
+https://ddy1.salamus1.lol/ddy1/premium330/tracks-v1a1/mono.m3u8|Referer=https://ntuplay.xyz
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.234.in.th/images/2020/11/21/Rounded_20200926_130021.png",MIAO MI
