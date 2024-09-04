@@ -6,12 +6,11 @@ $link = "https://sportsonline.gl/prog.txt";
 $result = curl_exec($ch);
 
 curl_close($ch);
-echo $result;
+#echo $result;
 
 $DAY = array();
 $url1 = array();
-$title_final = array();
-$url_final = array();
+
 
 date_default_timezone_set("Asia/Bangkok");
 
