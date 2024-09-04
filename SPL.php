@@ -54,7 +54,7 @@ for ($j = 0; $j<count($title); $j++) {
 	  $time_1 = substr($star_piece,0,5);
       $d=date_create($time_1);
       date_add($d,date_interval_create_from_date_string("+6 Hours"));				
-	  $tot =  date_format($d,"H:i - d/m/Y");
+	  $tot =  date_format($d,"H:i");
       $name_group = $tot.' '.substr($star_piece,6);
 	  $piece = $url_0[$j];
 
