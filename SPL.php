@@ -77,5 +77,5 @@ echo  '{ "name": "<span style="color:blue;font-weight:light">'.$name_group.'</sp
 
 }
 echo ']<br>},<br>';
-}
+
 ?>
