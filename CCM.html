@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>NUTV 3BB - Full Screen</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" type="text/css" href="/clap.css">
+    <script src="//cdn.jsdelivr.net/npm/@clappr/player@0.4.0/dist/clappr.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/level-selector@latest/dist/level-selector.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/clappr-chromecast-plugin@latest/dist/clappr-chromecast-plugin.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/clappr-pip@latest/dist/clappr-pip.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/clappr-playback-rate-plugin@latest/dist/clappr-playback-rate-plugin.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background-color: #000;
+            font-family: Arial, sans-serif;
+            overflow: hidden;
+            height: 100vh;
+            width: 100vw;
+        }
+        #player-wrapper { position: relative; width: 100%; height: 100%; }
+        #player { width: 100%; height: 100%; }
+        .nutv-label {
+            position: absolute; bottom: 20px; right: 20px;
+            font-size: 18px; font-weight: bold; color: #ff0;
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 5px 10px; border-radius: 5px;
+            z-index: 1000;
+        }
+        .controls {
+            position: absolute; bottom: 20px; left: 20px;
+            z-index: 1000; display: flex; gap: 10px;
+            opacity: 0; transition: opacity 0.5s ease;
+        }
+        .controls.show { opacity: 1; }
+        .control-btn {
+            background-color: rgba(0, 0, 0, 0.7);
+            color: white; border: 1px solid #ff0;
+            padding: 8px 15px; border-radius: 5px;
+            cursor: pointer; font-size: 14px; transition: all 0.3s;
+        }
+        .control-btn:hover { background-color: rgba(255, 255, 0, 0.2); }
+        .fullscreen { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 9999; }
+        .loading {
+            position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            color: white; font-size: 18px; z-index: 1001;
+        }
+        .loading:after { content: '...'; animation: dots 1.5s steps(5, end) infinite; }
+        @keyframes dots {
+            0%, 20% { color: rgba(255,255,255,0); text-shadow: .25em 0 0 rgba(255,255,255,0), .5em 0 0 rgba(255,255,255,0); }
+            40% { color: white; text-shadow: .25em 0 0 rgba(255,255,255,0), .5em 0 0 rgba(255,255,255,0); }
+            60% { text-shadow: .25em 0 0 white, .5em 0 0 rgba(255,255,255,0); }
+            80%, 100% { text-shadow: .25em 0 0 white, .5em 0 0 white; }
+        }
+        .volume-control {
+            position: absolute; top: 20px; right: 20px; z-index: 1000;
+            display: flex; align-items: center; gap: 10px;
+            opacity: 0; transition: opacity 0.5s ease;
+        }
+        .volume-control.show { opacity: 1; }
+        .volume-btn {
+            background-color: rgba(0, 0, 0, 0.7);
+            color: white; border: 1px solid #ff0;
+            width: 40px; height: 40px; border-radius: 50%;
+            cursor: pointer; display: flex; align-items: center; justify-content: center;
+            font-size: 20px; transition: all 0.3s;
+        }
+        .volume-btn:hover { background-color: rgba(255, 255, 0, 0.2); }
+        .volume-slider {
+            width: 100px; height: 5px; -webkit-appearance: none;
+            background: rgba(255, 255, 255, 0.3); border-radius: 5px; outline: none;
+        }
+        .volume-slider::-webkit-slider-thumb {
+            -webkit-appearance: none; width: 15px; height: 15px;
+            border-radius: 50%; background: #ff0; cursor: pointer;
+        }
+        @media (max-width: 768px) {
+            .volume-control { top: 10px; right: 10px; }
+            .volume-slider { width: 80px; }
+            .controls { bottom: 10px; left: 10px; }
+            .nutv-label { bottom: 10px; right: 10px; font-size: 14px; }
+        }
+    </style>
+</head>
+<body>
+    <div id="player-wrapper">
+        <div id="player"></div>
+        <div class="loading">กำลังโหลด NUTV</div>
+        <span class="nutv-label"><em>NUTV</em></span>
+        <div class="controls" id="screen-controls">
+            <button class="control-btn" id="fullscreen-btn">เต็มจอ</button>
+            <button class="control-btn" id="normal-screen-btn">จอปกติ</button>
+        </div>
+        <div class="volume-control" id="volume-control">
+            <button class="volume-btn" id="mute-btn">🔊</button>
+            <input type="range" min="0" max="100" value="100" class="volume-slider" id="volume-slider">
+        </div>
+    </div>
+
+    <script>
+        function toggleFullscreen(element) {
+            if (!document.fullscreenElement) {
+                element.requestFullscreen?.() || element.webkitRequestFullscreen?.() || element.msRequestFullscreen?.();
+            } else {
+                document.exitFullscreen?.() || document.webkitExitFullscreen?.() || document.msExitFullscreen?.();
+            }
+        }
+
+        function showControlsTemporarily() {
+            const controls = document.getElementById('screen-controls');
+            const volumeControl = document.getElementById('volume-control');
+            controls.classList.add('show');
+            volumeControl.classList.add('show');
+            setTimeout(() => {
+                controls.classList.remove('show');
+                volumeControl.classList.remove('show');
+            }, 3000);
+        }
+
+        // ✅ ตัวเล่น M3U8
+        var player = new Clappr.Player({
+            source: 'http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C3:27:AC&stream=115802&extension=m3u8',
+            mimeType: 'application/x-mpegURL',
+            height: '100%',
+            width: '100%',
+            autoPlay: true,
+            plugins: [LevelSelector, Clappr.MediaControl],
+            events: {
+                onReady: function() {
+                    document.querySelector('.loading').style.display = 'none';
+                    var plugin = this.getPlugin('click_to_pause');
+                    plugin && plugin.disable();
+                    this.setVolume(100);
+                    showControlsTemporarily();
+                },
+                onError: function(e) {
+                    document.querySelector('.loading').textContent = 'เกิดข้อผิดพลาดในการโหลดวิดีโอ';
+                }
+            },
+            parentId: '#player'
+        });
+
+        document.getElementById('fullscreen-btn').addEventListener('click', function() {
+            toggleFullscreen(document.getElementById('player-wrapper'));
+            showControlsTemporarily();
+        });
+        document.getElementById('normal-screen-btn').addEventListener('click', function() {
+            if (document.fullscreenElement) toggleFullscreen(document.getElementById('player-wrapper'));
+            showControlsTemporarily();
+        });
+
+        const volumeSlider = document.getElementById('volume-slider');
+        const muteBtn = document.getElementById('mute-btn');
+        let isMuted = false;
+        let previousVolume = 100;
+
+        function updateVolume(value) {
+            player.setVolume(value);
+            volumeSlider.value = value;
+            if (value == 0) { muteBtn.textContent = '🔇'; isMuted = true; }
+            else if (value < 50) { muteBtn.textContent = '🔈'; isMuted = false; }
+            else { muteBtn.textContent = '🔊'; isMuted = false; }
+        }
+
+        volumeSlider.addEventListener('input', function() { updateVolume(this.value); });
+        muteBtn.addEventListener('click', function() {
+            if (isMuted) updateVolume(previousVolume);
+            else { previousVolume = volumeSlider.value; updateVolume(0); }
+            showControlsTemporarily();
+        });
+
+        document.addEventListener('fullscreenchange', handleFullscreenChange);
+        document.addEventListener('webkitfullscreenchange', handleFullscreenChange);
+        function handleFullscreenChange() {
+            const wrapper = document.getElementById('player-wrapper');
+            if (document.fullscreenElement) wrapper.classList.add('fullscreen');
+            else wrapper.classList.remove('fullscreen');
+        }
+
+        document.getElementById('player-wrapper').addEventListener('mousemove', function(e) {
+            const rect = this.getBoundingClientRect();
+            if (rect.height - (e.clientY - rect.top) < 100) showControlsTemporarily();
+        });
+        document.getElementById('player-wrapper').addEventListener('touchstart', showControlsTemporarily);
+    </script>
+</body>
+</html>
