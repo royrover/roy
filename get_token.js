@@ -49,7 +49,7 @@ const puppeteer = require('puppeteer');
   await browser.close();
 
   if (token) {
-    require('fs').writeFileSync('ais_token.json', JSON.stringify(token, null, 2));
+    require('fs').writeFileSync('roy_token.json', JSON.stringify(token, null, 2));
     console.log('Token saved successfully');
   } else {
     console.error('Token not found');
