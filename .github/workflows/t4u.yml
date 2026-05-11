@@ -1,0 +1,33 @@
+name: True4U Scraper
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # รันทุก 12 ชั่วโมง
+  workflow_dispatch: # กดรันเองได้ด้วย
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install cloudscraper
+
+      - name: Run scraper
+        run: python t4u.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "Update data.json [skip ci]" || exit 0
+          git push
