@@ -19,51 +19,8 @@ jobs:
         run: npm install puppeteer
 
       - name: Get AIS Token
-        run: |
-          cat << 'EOF' > get_token.js
-          const puppeteer = require('puppeteer');
-
-          (async () => {
-            const browser = await puppeteer.launch({
-              args: ['--no-sandbox', '--disable-setuid-sandbox']
-            });
-            const page = await browser.newPage();
-
-            let token = null;
-
-            page.on('request', request => {
-              const url = request.url();
-              if (url.includes('metadata.json')) {
-                const u = new URL(url);
-                token = {
-                  tt:    u.searchParams.get('tt'),
-                  tpbk:  u.searchParams.get('tpbk'),
-                  tttlt: u.searchParams.get('tttlt'),
-                  tuid:  u.searchParams.get('tuid'),
-                  tdid:  u.searchParams.get('tdid'),
-                  updated: new Date().toISOString()
-                };
-              }
-            });
-
-            await page.goto('https://aisplay.ais.co.th/portal/live?vid=5f9e908c12008d9caab3cf3b', {
-              waitUntil: 'networkidle2',
-              timeout: 30000
-            });
-
-            await new Promise(r => setTimeout(r, 5000));
-            await browser.close();
-
-            if (token) {
-              require('fs').writeFileSync('ais_token.json', JSON.stringify(token, null, 2));
-              console.log('Token saved:', token);
-            } else {
-              console.error('Token not found');
-              process.exit(1);
-            }
-          })();
-          EOF
-          node get_token.js
+        timeout-minutes: 5
+        run: node get_token.js
 
       - name: Commit token
         run: |
