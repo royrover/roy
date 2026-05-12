@@ -41,13 +41,12 @@ async function getToken(context, targetUrl, label) {
 
     const results = {};
 
-    // ดึงกลุ่ม B-TL
-    const ctx1 = await browser.createIncognitoBrowserContext();
+    // แยก Context เพื่อให้ได้ Token คนละชุดกันจริง ๆ
+    const ctx1 = await browser.createBrowserContext();
     results["B-TL"] = await getToken(ctx1, 'https://aisplay.ais.co.th/portal/live?vid=5f9e908c12008d9caab3cf3b', 'B-TL');
     await ctx1.close();
 
-    // ดึงกลุ่ม V
-    const ctx2 = await browser.createIncognitoBrowserContext();
+    const ctx2 = await browser.createBrowserContext();
     results["V"] = await getToken(ctx2, 'https://aisplay.ais.co.th/portal/live?vid=612e7228b48eb0aad1c66193', 'V');
     await ctx2.close();
 
@@ -55,7 +54,7 @@ async function getToken(context, targetUrl, label) {
 
     if (results["B-TL"] || results["V"]) {
         fs.writeFileSync('roy_token.json', JSON.stringify(results, null, 2));
-        console.log('All tokens saved successfully');
+        console.log('Tokens updated and saved');
     } else {
         process.exit(1);
     }
