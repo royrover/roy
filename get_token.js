@@ -1,61 +1,57 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-async function getToken(context, targetUrl, label) {
-    console.log(`Getting token for ${label}...`);
-    const page = await context.newPage();
-    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
-
-    let token = null;
-    page.on('response', async response => {
-        const url = response.url();
-        if (url.includes('metadata.json')) {
-            const u = new URL(url);
-            token = {
-                tt: u.searchParams.get('tt'),
-                tpbk: u.searchParams.get('tpbk'),
-                tttlt: u.searchParams.get('tttlt'),
-                tuid: u.searchParams.get('tuid'),
-                tdid: u.searchParams.get('tdid'),
-                updated: new Date().toISOString()
-            };
-            console.log(`Found ${label} token`);
-        }
-    });
-
-    try {
-        await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
-        await new Promise(r => setTimeout(r, 15000)); 
-    } catch (e) {
-        console.error(`Error loading ${label}:`, e.message);
-    } finally {
-        await page.close();
-    }
-    return token;
-}
-
-(async () => {
+async function run() {
     const browser = await puppeteer.launch({
         args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-web-security']
     });
 
+    const targets = [
+        { label: "B-TL", url: 'https://aisplay.ais.co.th/portal/live?vid=5f9e908c12008d9caab3cf3b' },
+        { label: "V", url: 'https://aisplay.ais.co.th/portal/live?vid=612e7228b48eb0aad1c66193' }
+    ];
+
     const results = {};
 
-    // แยก Context เพื่อให้ได้ Token คนละชุดกันจริง ๆ
-    const ctx1 = await browser.createBrowserContext();
-    results["B-TL"] = await getToken(ctx1, 'https://aisplay.ais.co.th/portal/live?vid=5f9e908c12008d9caab3cf3b', 'B-TL');
-    await ctx1.close();
+    for (const target of targets) {
+        console.log(`Processing ${target.label}...`);
+        const page = await browser.newPage();
+        await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
-    const ctx2 = await browser.createBrowserContext();
-    results["V"] = await getToken(ctx2, 'https://aisplay.ais.co.th/portal/live?vid=612e7228b48eb0aad1c66193', 'V');
-    await ctx2.close();
+        let token = null;
+        page.on('response', async response => {
+            const url = response.url();
+            if (url.includes('metadata.json')) {
+                const u = new URL(url);
+                token = {
+                    tt: u.searchParams.get('tt'),
+                    tpbk: u.searchParams.get('tpbk'),
+                    tttlt: u.searchParams.get('tttlt'),
+                    tuid: u.searchParams.get('tuid'),
+                    tdid: u.searchParams.get('tdid'),
+                    updated: new Date().toISOString()
+                };
+            }
+        });
+
+        try {
+            await page.goto(target.url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+            await new Promise(r => setTimeout(r, 15000));
+            results[target.label] = token;
+            
+            // ล้าง Cookies/Cache ทันทีหลังจบแต่ละรอบ
+            const client = await page.target().createCDPSession();
+            await client.send('Network.clearBrowserCookies');
+            await client.send('Network.clearBrowserCache');
+        } catch (e) {
+            console.error(`Error ${target.label}:`, e.message);
+        } finally {
+            await page.close();
+        }
+    }
 
     await browser.close();
+    fs.writeFileSync('roy_token.json', JSON.stringify(results, null, 2));
+}
 
-    if (results["B-TL"] || results["V"]) {
-        fs.writeFileSync('roy_token.json', JSON.stringify(results, null, 2));
-        console.log('Tokens updated and saved');
-    } else {
-        process.exit(1);
-    }
-})();
+run();
