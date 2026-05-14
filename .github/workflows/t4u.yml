@@ -2,7 +2,7 @@ name: True4U Scraper
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # รันทุก 12 ชั่วโมง
+    - cron: '0 */6 * * *' # รันทุก 6 ชั่วโมง
   workflow_dispatch: # กดรันเองได้ด้วย
 
 jobs:
