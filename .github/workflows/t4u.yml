@@ -1,9 +1,12 @@
-name: True4U Scraper
+name: True4U & Amarin Scraper
 
 on:
   schedule:
     - cron: '0 */6 * * *' # รันทุก 6 ชั่วโมง
-  workflow_dispatch: # กดรันเองได้ด้วย
+  workflow_dispatch: # กดรันเองได้
+
+permissions:
+  contents: write # อนุญาตให้บอทเขียนไฟล์ลง Repo ได้
 
 jobs:
   build:
@@ -21,13 +24,21 @@ jobs:
         run: |
           pip install cloudscraper
 
-      - name: Run scraper
-        run: python t4u.py
+      - name: Run Scrapers
+        run: |
+          python t4u.py
+          python amarin.py
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json
-          git commit -m "Update data.json [skip ci]" || exit 0
-          git push
+          # เพิ่มไฟล์ทั้งหมดที่เกี่ยวข้อง
+          git add data.json amarin.json
+          # Commit เฉพาะเมื่อมีการเปลี่ยนแปลงไฟล์จริงๆ
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update Scraper Data [skip ci]"
+            git push
+          fi
