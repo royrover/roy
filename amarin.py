@@ -7,7 +7,6 @@ def get_data():
         "Referer": "https://www.amarintv.com/",
     }
 
-    # สร้าง scraper จำลอง Browser
     scraper = cloudscraper.create_scraper(
         browser={"browser": "chrome", "platform": "windows", "mobile": False}
     )
@@ -16,28 +15,32 @@ def get_data():
         response = scraper.get("https://www.amarintv.com/live", headers=headers)
 
         if response.status_code == 200:
-            # ค้นหา URL .m3u8
             match = re.search(r'"(https[^"]+\.m3u8[^"]*)"', response.text)
             if match:
                 raw_url = match.group(1)
 
-                # 1. แปลง \\u0026 ให้เป็น & และจัดการ unicode อื่นๆ
-                # 2. ลบ \ ที่ค้างอยู่ออกให้หมด
-                final_url = raw_url.encode().decode('unicode_escape').replace('\\', '')
+                # --- ส่วนที่แก้ไขเพื่อป้องกัน Error ---
+                # 1. ลบเครื่องหมาย \ ที่ปิดท้ายออกก่อน (ถ้ามี) เพื่อป้องกัน unicodeescape error
+                clean_raw = raw_url.rstrip('\\')
                 
-                # ลบเครื่องหมาย \ หรือช่องว่างที่หัวท้ายถ้ายังมีเหลือ
+                # 2. แปลง \\u0026 เป็น & (unicode_escape)
+                final_url = clean_raw.encode().decode('unicode_escape')
+                
+                # 3. กวาดล้าง \ ที่อาจหลงเหลืออยู่ในจุดอื่นๆ ออกให้หมด
+                final_url = final_url.replace('\\', '')
+                
+                # 4. ตัดช่องว่างหัวท้ายให้ชัวร์
                 final_url = final_url.strip()
 
-                # เขียนลงไฟล์เป็นข้อความตรงๆ ไม่ใช้ json.dump
+                # เขียนลงไฟล์แบบ Plain Text (ไม่ใช้ JSON)
                 with open("amarin.json", "w", encoding="utf-8") as f:
                     f.write(final_url)
 
-                print(f"✅ Success! URL saved to amarin.json")
-                print(f"🔗 URL: {final_url}")
+                print(f"✅ Success! URL saved: {final_url}")
             else:
-                print("❌ No M3U8 source found in the page.")
+                print("❌ No M3U8 found.")
         else:
-            print(f"❌ Failed! Status code: {response.status_code}")
+            print(f"❌ Status: {response.status_code}")
 
     except Exception as e:
         print(f"⚠️ Error: {e}")
