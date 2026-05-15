@@ -38,7 +38,7 @@ def get_data():
                 final_url = final_url.strip("\\")
 
                 # เซฟเป็น JSON เพื่อให้ PHP อ่านง่าย
-                data = {"url": final_url}
+                data = final_url
                 with open("amarin.json", "w", encoding="utf-8") as f:
                     json.dump(data, f, ensure_ascii=False, indent=4)
 
