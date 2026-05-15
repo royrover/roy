@@ -1,7 +1,5 @@
 import cloudscraper
 import re
-import json
-
 
 def get_data():
     headers = {
@@ -9,7 +7,7 @@ def get_data():
         "Referer": "https://www.amarintv.com/",
     }
 
-    # สร้าง scraper ที่จำลอง Chrome บน Windows
+    # สร้าง scraper จำลอง Browser
     scraper = cloudscraper.create_scraper(
         browser={"browser": "chrome", "platform": "windows", "mobile": False}
     )
@@ -23,24 +21,16 @@ def get_data():
             if match:
                 raw_url = match.group(1)
 
-                try:
-                    # เติมคำพูดครอบเพื่อให้เป็น JSON String ที่สมบูรณ์ แล้วโหลดเข้าไป
-                    final_url = raw_url
-                except:
-                    # หากวิธีแรกพลาด ให้ใช้การลบตัวอักษร \ ที่ค้างอยู่ออกตรงๆ
-                    final_url = (
-                        raw_url.encode()
-                        .decode("unicode_escape", errors="ignore")
-                        .replace("\\", "")
-                    )
+                # 1. แปลง \\u0026 ให้เป็น & และจัดการ unicode อื่นๆ
+                # 2. ลบ \ ที่ค้างอยู่ออกให้หมด
+                final_url = raw_url.encode().decode('unicode_escape').replace('\\', '')
+                
+                # ลบเครื่องหมาย \ หรือช่องว่างที่หัวท้ายถ้ายังมีเหลือ
+                final_url = final_url.strip()
 
-                # แถม: ลบเครื่องหมาย \ ที่อาจจะหลงเหลืออยู่ตัวสุดท้ายออก (ถ้ามี)
-                final_url = final_url.strip("\\")
-
-                # เซฟเป็น JSON เพื่อให้ PHP อ่านง่าย
-                data = final_url
+                # เขียนลงไฟล์เป็นข้อความตรงๆ ไม่ใช้ json.dump
                 with open("amarin.json", "w", encoding="utf-8") as f:
-                    json.dump(data, f, ensure_ascii=False, indent=4)
+                    f.write(final_url)
 
                 print(f"✅ Success! URL saved to amarin.json")
                 print(f"🔗 URL: {final_url}")
@@ -51,7 +41,6 @@ def get_data():
 
     except Exception as e:
         print(f"⚠️ Error: {e}")
-
 
 if __name__ == "__main__":
     get_data()
