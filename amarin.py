@@ -25,7 +25,7 @@ def get_data():
 
                 try:
                     # เติมคำพูดครอบเพื่อให้เป็น JSON String ที่สมบูรณ์ แล้วโหลดเข้าไป
-                    final_url = json.loads(f'"{raw_url}"')
+                    final_url = raw_url
                 except:
                     # หากวิธีแรกพลาด ให้ใช้การลบตัวอักษร \ ที่ค้างอยู่ออกตรงๆ
                     final_url = (
