@@ -14,21 +14,16 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20' # ขยับมาใช้ Node LTS เวอร์ชั่นปัจจุบันเพื่อความเสถียร
-          cache: 'npm'
+          node-version: '20'
+          # ลบหรือคอมเมนต์บรรทัด cache: 'npm' ออกไป
 
-      # 🎯 ขั้นตอนสำคัญ: ติดตั้ง Chrome Dependencies สำหรับ Ubuntu และสั่งลง Puppeteer แบบสมบูรณ์
       - name: Install Google Chrome & Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y wget gnupg
-          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/apt/ stable main" >> /etc/apt/sources.list.d/google.list'
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable libxss1 --no-install-recommends
+          # ... (โค้ดส่วนอื่นเหมือนเดิมทุกประการ) ...
 
       - name: Install Node Modules
-        run: npm ci # ใช้ npm ci แทน install เพื่อความนิ่งบน Server Production
+        run: npm install  # เปลี่ยนจาก npm ci กลับเป็น npm install
 
       - name: Get AIS Token & Get Nation & Get Thairath
         timeout-minutes: 5
