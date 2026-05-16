@@ -4,7 +4,6 @@ const fs = require('fs');
 async function fetchNationMediaUrl(url, label) {
     const browser = await puppeteer.launch({
         headless: "new",
-        // เพิ่ม flags บังคับเปิดเสียงและข้ามระบบล็อกของเบราว์เซอร์บน Linux
         args: [
             '--no-sandbox', 
             '--disable-setuid-sandbox', 
@@ -17,12 +16,18 @@ async function fetchNationMediaUrl(url, label) {
 
     let tokenData = null;
 
+    // 🎯 เปลี่ยนมาใช้ตรวจเช็คทราฟฟิกฝั่ง Request โดยเน้นการหาข้อความตรงๆ ไม่พึ่งพา JSON.parse ที่เปราะบาง
+    await page.setRequestInterception(true);
+    
     page.on('request', request => {
-        const u = request.url();
-        if (u.includes('batch/v2/events') && request.method() === 'POST') {
-            try {
-                const postDataString = request.postData();
-                if (postDataString) {
+        const reqUrl = request.url();
+        
+        if (reqUrl.includes('batch/v2/events') && request.method() === 'POST') {
+            const postDataString = request.postData();
+            
+            if (postDataString && postDataString.includes('media_url')) {
+                try {
+                    // หากแปลง JSON ปกติได้ ให้แปลงเลย
                     const payload = JSON.parse(postDataString);
                     if (payload && payload.media_url) {
                         tokenData = {
@@ -32,34 +37,47 @@ async function fetchNationMediaUrl(url, label) {
                             media_url: payload.media_url,
                             updated: new Date().toISOString()
                         };
+                        console.log(`✅เจอลิงก์แล้ว (${label}):`, payload.media_url);
+                    }
+                } catch (e) {
+                    // 💥 แผนสำรอง: หาก JSON.parse พังเพราะเจออักขระพิเศษ ให้ใช้ Regex ขูดเอา media_url ออกมาดื้อๆ เลย
+                    const match = postDataString.match(/"media_url"\s*:\s*"([^"]+)"/);
+                    if (match && match[1]) {
+                        tokenData = {
+                            media_url: match[1].replace(/\\/g, ''), // ล้าง backslash ออก
+                            updated: new Date().toISOString()
+                        };
+                        console.log(`✅เจอลิงก์แล้ว [Regex Fallback] (${label}):`, tokenData.media_url);
                     }
                 }
-            } catch (e) {}
+            }
         }
+        request.continue();
     });
 
     try {
-        // เปลี่ยนเป็นโหลดหน้าเว็บจนเคลียร์ Network
-        await page.goto(url, { waitUntil: 'networkidle0', timeout: 60000 });
+        // โหลดหน้าเว็บ
+        await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
         
         console.log('หน้าเว็บโหลดเสร็จแล้ว กำลังกระตุ้นให้ Player ทำงาน...');
-
-        // 🎯 สั่งคลิกหน้าจอ 1 ที เพื่อหลอกเบราว์เซอร์ว่าผู้ใช้มีปฏิสัมพันธ์ (Interaction)
         await page.click('body');
 
-        // 🎯 ส่งสคริปต์เข้าไปกดเล่นวิดีโอและเปิดเสียงในระดับชั้นของ ByteArk Iframe ตรงๆ
+        // สั่งเล่นวิดีโอเพื่อกระตุ้นให้ Beacon Events ส่งข้อมูลออกไปหาเซิร์ฟเวอร์ ByteArk
         await page.evaluate(() => {
-            // ค้นหาแท็ก video ทั้งหมดในหน้าเว็บ (รวมถึงใน iframe ถ้าทะลุผ่านเข้าไปได้)
             const videos = document.querySelectorAll('video');
             videos.forEach(video => {
-                video.muted = false; // เปิดเสียง
+                video.muted = false;
                 video.volume = 0.5;
-                video.play().catch(e => console.log("Autoplay blocked, trying forced play"));
+                video.play().catch(() => {});
             });
         });
 
-        // รออีก 15 วินาทีเพื่อให้เวลาวิดีโอสตรีมและส่ง Payload ออกมา
-        await new Promise(r => setTimeout(r, 15000));
+        // ลูปเช็คเรื่อยๆ ทุกๆ 500ms ถ้าเจอ Token ปุ๊บให้หลุดลูปทันที ไม่ต้องรอจนครบ 15 วินาทีให้เสียเวลา
+        for (let i = 0; i < 30; i++) {
+            if (tokenData) break;
+            await new Promise(r => setTimeout(r, 500));
+        }
+
     } catch (e) {
         console.error(`${label} error:`, e.message);
     } finally {
@@ -70,7 +88,9 @@ async function fetchNationMediaUrl(url, label) {
 
 (async () => {
     const results = {};
-    results["NationTV"] = await fetchNationMediaUrl('https://www.thairath.co.th/tv/live', 'ThaiRath TV');
+    // แก้ไข Key ให้ตรงกับ Label เพื่อป้องกันความสับสนครับ
+    results["ThaiRathTV"] = await fetchNationMediaUrl('https://www.thairath.co.th/tv/live', 'ThaiRath TV');
+    
     fs.writeFileSync('thairath_token.json', JSON.stringify(results, null, 2));
-    console.log('ThaiRath TV Process Done.');
+    console.log('ThaiRath TV Process Done. ผลลัพธ์ถูกบันทึกลงไฟล์เรียบร้อยแล้ว!');
 })();
