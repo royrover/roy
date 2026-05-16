@@ -1,4 +1,4 @@
-name: Update AIS Token & Get Nation
+name: Update AIS Token & Get Nation & Get ThaiRath
 on:
   schedule:
     - cron: '0 */12 * * *'
@@ -18,16 +18,17 @@ jobs:
       - name: Install Puppeteer
         run: npm install puppeteer
 
-      - name: Get AIS Token & Get Nation
+      - name: Get AIS Token & Get Nation & Get Thairath
         timeout-minutes: 5
         run: |
           node get_token.js
           node get_media_url.js
+          node get_thairth.js
 
       - name: Commit token
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add roy_token.json nation_token.json
-          git diff --staged --quiet || git commit -m "Update AIS token & Get Nation"
+          git add roy_token.json nation_token.json thairath_token.json
+          git diff --staged --quiet || git commit -m "Update AIS token & Get Nation & Get Thairath"
           git push
