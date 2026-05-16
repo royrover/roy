@@ -32,7 +32,7 @@ jobs:
         run: |
           node get_token.js
           node get_media_url.js
-          node get_thairth.js
+          node get_thairath.js
 
       - name: Commit token
         run: |
