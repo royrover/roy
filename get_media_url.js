@@ -1,66 +1,76 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-async function fetchMediaUrl(url, label) {
+async function fetchNationMediaUrl(url, label) {
     const browser = await puppeteer.launch({
-        headless: true, // หรือเปลี่ยนเป็น false ถ้าต้องการเปิดจอมาดูมันรัน
-        args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-web-security']
+        headless: "new",
+        // เพิ่ม flags บังคับเปิดเสียงและข้ามระบบล็อกของเบราว์เซอร์บน Linux
+        args: [
+            '--no-sandbox', 
+            '--disable-setuid-sandbox', 
+            '--disable-web-security',
+            '--autoplay-policy=no-user-gesture-required'
+        ]
     });
     const page = await browser.newPage();
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36');
 
-    let resultData = null;
+    let tokenData = null;
 
-    // เปลี่ยนจาก 'response' มาใช้ 'request' เพราะเราต้องการแงะดู POST Payload (Body)
     page.on('request', request => {
-        const reqUrl = request.url();
-        
-        // เจาะจงไปที่ endpoint ที่คุณส่งมา และต้องเป็น POST Method เท่านั้น
-        if (reqUrl.includes('watch-duration/events') && request.method() === 'POST') {
+        const u = request.url();
+        if (u.includes('watch-duration/events') && request.method() === 'POST') {
             try {
-                // ดึงข้อมูลดิบใน Body (Payload ที่ส่งไป)
                 const postDataString = request.postData();
                 if (postDataString) {
                     const payload = JSON.parse(postDataString);
-                    
-                    // ฉกเอา media_url และค่าสำคัญอื่นๆ ออกมาตรงๆ
                     if (payload && payload.media_url) {
-                        resultData = {
+                        tokenData = {
                             project_id: payload.project_id,
                             video_id: payload.video_id,
                             playback_id: payload.playback_id,
-                            media_url: payload.media_url, // 🎯 นี่คือสิ่งที่คุณอยากได้
+                            media_url: payload.media_url,
                             updated: new Date().toISOString()
                         };
                     }
                 }
-            } catch (err) {
-                // ป้องกันกรณี JSON Parse พัง
-            }
+            } catch (e) {}
         }
     });
 
     try {
-        // วิ่งไปที่หน้าเว็บเป้าหมาย
-        await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
+        // เปลี่ยนเป็นโหลดหน้าเว็บจนเคลียร์ Network
+        await page.goto(url, { waitUntil: 'networkidle0', timeout: 60000 });
         
-        // รอ 15 วินาทีเท่าเดิม เพื่อให้ระบบฝั่งเครื่องเล่นวิดีโอทำงานและยิง Event ออกมา
+        console.log('หน้าเว็บโหลดเสร็จแล้ว กำลังกระตุ้นให้ Player ทำงาน...');
+
+        // 🎯 สั่งคลิกหน้าจอ 1 ที เพื่อหลอกเบราว์เซอร์ว่าผู้ใช้มีปฏิสัมพันธ์ (Interaction)
+        await page.click('body');
+
+        // 🎯 ส่งสคริปต์เข้าไปกดเล่นวิดีโอและเปิดเสียงในระดับชั้นของ ByteArk Iframe ตรงๆ
+        await page.evaluate(() => {
+            // ค้นหาแท็ก video ทั้งหมดในหน้าเว็บ (รวมถึงใน iframe ถ้าทะลุผ่านเข้าไปได้)
+            const videos = document.querySelectorAll('video');
+            videos.forEach(video => {
+                video.muted = false; // เปิดเสียง
+                video.volume = 0.5;
+                video.play().catch(e => console.log("Autoplay blocked, trying forced play"));
+            });
+        });
+
+        // รออีก 15 วินาทีเพื่อให้เวลาวิดีโอสตรีมและส่ง Payload ออกมา
         await new Promise(r => setTimeout(r, 15000));
     } catch (e) {
         console.error(`${label} error:`, e.message);
     } finally {
-        await browser.close(); 
+        await browser.close();
     }
-    return resultData;
+    return tokenData;
 }
 
 (async () => {
     const results = {};
-    
-    console.log('Starting grab Nation TV Media URL...');
-    results["NationTV"] = await fetchMediaUrl('https://www.nationtv.tv/category/nationtv/live', 'NationTV');
-    
-    // บันทึกผลลงไฟล์ JSON โครงสร้างแบบเดิมที่คุณคุ้นเคย
+    results["NationTV"] = await fetchNationMediaUrl('https://www.nationtv.tv/category/nationtv/live', 'NationTV');
     fs.writeFileSync('nation_token.json', JSON.stringify(results, null, 2));
-    console.log('Done. ตรวจสอบลิงก์ได้ที่ไฟล์ nation_token.json');
+    console.log('Nation TV Process Done.');
 })();
