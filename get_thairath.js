@@ -4,11 +4,15 @@ const fs = require('fs');
 async function fetchNationMediaUrl(url, label) {
     const browser = await puppeteer.launch({
         headless: "new",
+        // บังคับให้ใช้ Chrome Path ที่ดึงมาจาก Environment Variable ของ GitHub Actions
+        executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || null, 
         args: [
             '--no-sandbox', 
             '--disable-setuid-sandbox', 
             '--disable-web-security',
-            '--autoplay-policy=no-user-gesture-required'
+            '--autoplay-policy=no-user-gesture-required',
+            '--disable-dev-shm-usage', // 🎯 ป้องกันการแครชจากปัญหา Memory (Shared Memory) บน Linux Docker
+            '--disable-gpu'            // 🎯 ปิดการใช้การ์ดจอ เพราะรันบน Server ไม่มีหน้าจอจริง
         ]
     });
     const page = await browser.newPage();
