@@ -3,18 +3,39 @@ const fs = require('fs');
 
 async function fetchToken(url, label) {
     const browser = await puppeteer.launch({
-        // headless: false, // แนะนำให้เปิดบรรทัดนี้เป็น false ก่อนในช่วงทดสอบ เพื่อดูว่าหน้าเว็บโหลดเสร็จจริงไหม
-        args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-web-security']
+        // ระบุเส้นทางสำหรับ GitHub Actions / Server
+        executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || null, 
+        headless: 'new', // หรือ true สำหรับระบบ Server
+        args: [
+            '--no-sandbox', 
+            '--disable-setuid-sandbox', 
+            '--disable-web-security',
+            // --- เพิ่ม Arguments เหล่านี้เพื่อหลบเลี่ยงการตรวจจับและเปิดเล่นวิดีโอบน Server ---
+            '--disable-blink-features=AutomationControlled', // ซ่อนความเป็นบอท
+            '--window-size=1920,1080',
+            '--mute-audio',
+            '--no-first-run',
+            '--no-default-browser-check'
+        ]
     });
+    
     const page = await browser.newPage();
-    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+    
+    // ตั้งค่าหน้าจอจำลองให้เหมือนคนใช้งานจริง
+    await page.setViewport({ width: 1920, height: 1080 });
+
+    // ปลอมแปลงคุณสมบัติของหน้าเว็บเพื่อหลบ Bot Detection
+    await page.evaluateOnNewDocument(() => {
+        Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+    });
+
+    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
 
     let token = null;
 
-    // สร้าง Promise เพื่อล็อกให้ฟังก์ชันรอจนกว่าจะเจอ metadata.json หรือหมดเวลา
     const waitForToken = new Promise((resolve) => {
-        // ตั้ง Timeout สูงสุด 30 วินาที ถ้ายังไม่เจอให้ข้าม เผื่อหน้าเว็บค้าง
-        const timeoutId = setTimeout(() => resolve(null), 30000); 
+        // เพิ่มเวลาเป็น 45 วินาที เผื่อเซิร์ฟเวอร์ดาวน์โหลดหน้าเว็บช้ากว่าปกติ
+        const timeoutId = setTimeout(() => resolve(null), 45000); 
 
         page.on('response', async response => {
             try {
@@ -30,28 +51,29 @@ async function fetchToken(url, label) {
                         updated: new Date().toISOString()
                     };
                     clearTimeout(timeoutId);
-                    resolve(token); // เจอแล้ว! ส่งค่ากลับไป
+                    resolve(token);
                 }
-            } catch (err) {
-                // ป้องกันโค้ดพังในกรณีที่อ่าน URL ของบาง Response ไม่ได้
-            }
+            } catch (err) {}
         });
     });
 
     try {
-        // ใช้ networkidle2 เพื่อให้มั่นใจว่าโหลดพวกสคริปต์และโฆษณาในหน้าเว็บนิ่งแล้ว
+        // ใช้ networkidle2 เพื่อให้หน้าเว็บโหลดสคริปต์สตรีมมิ่งเสร็จสมบูรณ์
         await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
         
-        // รอให้ Promise ด้านบนทำงานเสร็จ (ไม่ว่าจะเจอ Token หรือหมดเวลา 30 วิ)
+        // รอให้ระบบดักเจอบล็อกข้อมูล
         token = await waitForToken; 
         
     } catch (e) {
         console.error(`${label} error:`, e.message);
     } finally {
-        await browser.close(); // ปิด Browser หลังจากที่ได้ Token หรือหมดเวลาอย่างปลอดภัย
+        await browser.close(); 
     }
     return token;
 }
+
+// ... ส่วนที่เหลือของโค้ดคงเดิม ...
+
 
 (async () => {
     const results = {};
