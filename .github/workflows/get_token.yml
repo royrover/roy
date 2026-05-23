@@ -2,7 +2,7 @@ name: Fetch and Save Dailymotion Token
 
 on:
   schedule:
-    - cron: '0 * * * *' # รันอัตโนมัติทุก ๆ ต้นชั่วโมง
+    #- cron: '0 * * * *' # รันอัตโนมัติทุก ๆ ต้นชั่วโมง
   workflow_dispatch: # เปิดให้กดปุ่มรันเองแบบ Manual ได้
 
 jobs:
