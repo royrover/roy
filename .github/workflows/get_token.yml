@@ -1,0 +1,35 @@
+name: Fetch and Save Dailymotion Token
+
+on:
+  schedule:
+    - cron: '0 * * * *' # รันอัตโนมัติทุก ๆ ต้นชั่วโมง
+  workflow_dispatch: # เปิดให้กดปุ่มรันเองแบบ Manual ได้
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true # บังคับใช้สิทธิ์สำหรับการ Push ไฟล์กลับ
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Puppeteer
+        run: npm install puppeteer
+
+      - name: Run Extractor Script
+        run: node extractor.js
+
+      - name: Commit and Push Token File
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add token_raw.json
+          # ตรวจสอบว่ามีการเปลี่ยนแปลงจริงไหม ถ้ามีให้ทำการอัปเดตไฟล์ขึ้นระบบ
+          git diff-index --quiet HEAD || git commit -m "🤖 อัปเดต Token อัตโนมัติ"
+          git push origin main
