@@ -2,7 +2,6 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 
 async function run() {
-    // 1. จำลองการเปิดเบราว์เซอร์ให้เหมือนมนุษย์ที่สุด ปิดสถิติบอททุกช่องทาง
     const browser = await puppeteer.launch({
         headless: true,
         args: [
@@ -14,63 +13,68 @@ async function run() {
     });
     
     const page = await browser.newPage();
-    
-    // ตั้งค่าขนาดหน้าจอจำลองเพื่อบังคับให้เว็บเรนเดอร์ UI เต็มรูปแบบ
     await page.setViewport({ width: 1280, height: 720 });
-    
-    // ปลอมแปลง Header เพื่อให้ระบบปลายทางคิดว่าเป็นโครมธรรมดาบน Windows
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
 
     try {
-        console.log("กำลังวิ่งเข้าหน้าเว็บเพลย์ลิสต์ Dailymotion...");
-        
-        // 2. วิ่งเข้าหน้าเว็บโดยรอให้ Network นิ่งอย่างน้อย 2 วินาที
+        console.log("กำลังเปิดหน้าเว็บเพลย์ลิสต์ Dailymotion...");
         await page.goto('https://www.dailymotion.com/playlist/x469d3', { 
             waitUntil: 'networkidle2',
             timeout: 60000 
         });
         
-        // หน่วงเวลาเพิ่มอีก 4 วินาทีเพื่อให้มั่นใจว่าพวกตัวแปรเบื้องหลังทำเซสชันเสร็จ
-        await new Promise(resolve => setTimeout(resolve, 4000));
+        // หน่วงเวลารอระบบสร้าง iframe ตัวเล่นสักครู่
+        await new Promise(resolve => setTimeout(resolve, 5000));
 
-        console.log("หน้าเว็บโหลดเสร็จสิ้น กำลังเริ่มค้นหา Token...");
+        console.log("ค้นหาเฟรมตัวเล่นวิดีโอ (geo.dailymotion.com)...");
 
-        // 3. เริ่มกระบวนการแกะรอยหา Token (รองรับ 3 แผนสำรอง)
-        const token = await page.evaluate(() => {
-            // [แผนที่ 1]: ดึงผ่านออบเจกต์หน้าต่างหลักตัวที่ 1
-            let tok = window.__PLAYER_CONFIG__?.context?.metadata?.access_token 
-                   || window.__PLAYER_CONFIG__?.state?.player?.accessToken;
-            
-            if (tok) return tok;
+        // 🛠️ แผนเด็ด: ค้นหาทุกลิงก์ iframe ที่แอบส่งพิกัดเล่นวิดีโอในหน้าเว็บ
+        const frames = page.frames();
+        let targetFrame = null;
+        let token = null;
 
-            // [แผนที่ 2]: ดึงผ่านออบเจกต์หน้าต่างหลักตัวที่ 2 (หากระบบเพิ่งอัปเดต)
-            tok = window.__state__?.entities?.player?.accessToken 
-               || window.__state__?.player?.token;
-            
-            if (tok) return tok;
-
-            // [แผนที่ 3]: ขุดซากอารยธรรมจากแท็ก <script> ในซอร์สโค้ดดิบ
-            const scripts = Array.from(document.querySelectorAll('script'));
-            for (let script of scripts) {
-                const content = script.textContent;
-                if (content && content.includes('accessToken')) {
-                    const match = content.match(/"accessToken"\s*:\s*"([^"]+)"/);
-                    if (match && match[1]) return match[1];
-                }
-                if (content && content.includes('access_token')) {
-                    const match = content.match(/"access_token"\s*:\s*"([^"]+)"/);
-                    if (match && match[1]) return match[1];
-                }
+        // วนลูปหาเฟรมที่เป็นของดาราดังอย่าง geo.dailymotion
+        for (const frame of frames) {
+            const url = frame.url();
+            if (url.includes('geo.dailymotion.com/player')) {
+                targetFrame = frame;
+                console.log("พบเฟรมเป้าหมาย:", url);
+                break;
             }
+        }
 
-            return null;
-        });
+        // [กรณีเจอ iframe ของตัวเล่น] -> เจาะเข้าไปคุยในโลกของเฟรมนั้นเพื่อควัก Token
+        if (targetFrame) {
+            token = await targetFrame.evaluate(() => {
+                return window.__PLAYER_CONFIG__?.context?.metadata?.access_token 
+                    || window.__PLAYER_CONFIG__?.state?.player?.accessToken
+                    || window.__state__?.entities?.player?.accessToken
+                    || null;
+            });
+        }
+
+        // [กรณีแผน 1 พัง หรือไม่เจอเฟรม] -> ดึงข้อมูลจากโค้ดดิบที่มีสิทธิ์สร้าง iframe ซะเลย
+        if (!token) {
+            console.log("ไม่พบ Token ในเฟรมหลัก กำลังสแกนหาตัวแปรแฝงในสคริปต์...");
+            token = await page.evaluate(() => {
+                const scripts = Array.from(document.querySelectorAll('script'));
+                for (let script of scripts) {
+                    const content = script.textContent;
+                    if (content) {
+                        // เจาะหา Token ที่อาจหลุดมากับ config ตัวเล่นในหน้าหลัก
+                        const match = content.match(/"accessToken"\s*:\s*"([^"]+)"/) 
+                                   || content.match(/"access_token"\s*:\s*"([^"]+)"/);
+                        if (match && match[1]) return match[1];
+                    }
+                }
+                return null;
+            });
+        }
 
         if (token) {
-            console.log("=== [SUCCESS] พบ Token สำเร็จรูป! ===");
-            console.log("ค่าที่ได้ (ย่อ):", token.substring(0, 20) + "...");
+            console.log("=== [SUCCESS] เจาะดึง Token สำเร็จ! ===");
+            console.log("ค่า Token (ย่อ):", token.substring(0, 25) + "...");
             
-            // เตรียมจัดรูปแบบ JSON ดิบเขียนลงตลับไฟล์ตามสเปกที่คุณกำหนด
             const jsonContent = JSON.stringify({
                 "status": "success",
                 "updated_at": new Date().toISOString(),
@@ -78,16 +82,19 @@ async function run() {
             }, null, 4);
 
             fs.writeFileSync('token_raw.json', jsonContent);
-            console.log("อัปเดตไฟล์ token_raw.json ลงบน workspace สำเร็จ!");
+            console.log("บันทึกตลับไฟล์ token_raw.json เรียบร้อย!");
         } else {
-            // หากดึงไม่ได้ ให้สั่งแคปเจอร์ซอร์สโค้ดมาวิเคราะห์ใน Log ของ GitHub เผื่อตรวจสอบภายหลัง
-            console.log("=== [FAILED] ไม่พบ Token ในระบบโครงสร้างปัจจุบัน ===");
-            const bodyHtml = await page.evaluate(() => document.body.innerHTML.substring(0, 1000));
-            console.log("ตัวอย่างโครงสร้าง HTML หน้าบ้านช่วงต้น:\n", bodyHtml);
+            console.log("=== [FAILED] สิ้นสุดการค้นหา ไม่พบ Token ในทุกมิติ ===");
+            
+            // พ่นโครงสร้างสคริปต์ในเฟรมออกมาดูเพิ่มเพื่อการตัดสินใจรอบหน้า
+            if (targetFrame) {
+                const frameHtml = await targetFrame.evaluate(() => document.body.innerHTML.substring(0, 500));
+                console.log("โครงสร้างเนื้อหาภายใน iframe:\n", frameHtml);
+            }
             process.exit(1);
         }
     } catch (error) {
-        console.error("เกิดข้อผิดพลาดรุนแรงระหว่างทำงานบน GitHub:", error);
+        console.error("เกิดข้อผิดพลาดรุนแรงบนเซิร์ฟเวอร์:", error);
         process.exit(1);
     } finally {
         await browser.close();
