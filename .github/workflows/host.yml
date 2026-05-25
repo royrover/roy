@@ -1,0 +1,42 @@
+name: Update Hosts JSON
+
+on:
+  schedule:
+    # ทุกวัน 19:00 ไทย = 12:00 UTC
+    - cron: '0 12 * * *'
+
+  workflow_dispatch:
+
+jobs:
+  update-hosts:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run Script
+        run: |
+          python domain.py
+
+      - name: Commit hosts.json
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add hosts.json
+
+          git diff --cached --quiet || git commit -m "Auto update hosts.json"
+
+          git push
