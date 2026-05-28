@@ -1,9 +1,9 @@
 name: Update Hosts JSON
 
 on:
-  schedule:
+  #schedule:
     # ทุกวัน 19:00 ไทย = 12:00 UTC
-    - cron: '0 12 * * *'
+    #- cron: '0 12 * * *'
 
   workflow_dispatch:
 
