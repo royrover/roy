@@ -147,7 +147,7 @@ def main():
 
     output_data = {"groups": final_groups}
 
-    with open("sports.json", "w", encoding="utf-8") as f:
+    with open("sportsonline_api.json", "w", encoding="utf-8") as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
     print(json.dumps(output_data, indent=2, ensure_ascii=False))
 
