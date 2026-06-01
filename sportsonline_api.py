@@ -4,8 +4,10 @@ import json
 import urllib.request
 
 
+SPORTSONLINE = os.getenv("SPORTSONLINE")
+
 def main():
-    url = "https://sportsonline.sc/prog.txt"
+    url = SPORTSONLINE
     req = urllib.request.Request(
         url,
         headers={
