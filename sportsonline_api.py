@@ -2,7 +2,7 @@ import datetime
 import re
 import json
 import urllib.request
-
+import os
 
 SPORTSONLINE = os.getenv("SPORTSONLINE")
 
