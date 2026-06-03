@@ -1,61 +1,8 @@
 {
   "groups": [
     {
-      "date": "2026-06-04",
+      "date": "2026-06-03",
       "matches": [
-        {
-          "time": "01:00",
-          "title": "Congo DR x Denmark",
-          "urls": [
-            "https://ww2.sporttsonline.click/channels/hd/hd10.php",
-            "https://ww2.sporttsonline.click/channels/pt/sporttv1.php"
-          ]
-        },
-        {
-          "time": "01:00",
-          "title": "Albania x Israel",
-          "urls": [
-            "https://ww2.sporttsonline.click/channels/hd/hd9.php"
-          ]
-        },
-        {
-          "time": "01:45",
-          "title": "Netherlands x Algeria",
-          "urls": [
-            "https://ww2.sporttsonline.click/channels/hd/hd5.php",
-            "https://ww2.sporttsonline.click/channels/hd/hd3.php",
-            "https://ww2.sporttsonline.click/channels/hd/hd4.php",
-            "https://ww2.sporttsonline.click/channels/pt/sporttv2.php",
-            "https://ww2.sporttsonline.click/channels/bra/br2.php"
-          ]
-        },
-        {
-          "time": "01:45",
-          "title": "Luxembourg x Italy",
-          "urls": [
-            "https://ww2.sporttsonline.click/channels/hd/hd2.php",
-            "https://ww2.sporttsonline.click/channels/hd/hd7.php",
-            "https://ww2.sporttsonline.click/channels/pt/sporttv3.php",
-            "https://ww2.sporttsonline.click/channels/bra/br3.php"
-          ]
-        },
-        {
-          "time": "01:45",
-          "title": "Poland x Nigeria",
-          "urls": [
-            "https://ww2.sporttsonline.click/channels/hd/hd1.php",
-            "https://ww2.sporttsonline.click/channels/hd/hd8.php",
-            "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
-            "https://ww2.sporttsonline.click/channels/bra/br1.php"
-          ]
-        },
-        {
-          "time": "03:00",
-          "title": "Hockey: FC Porto x Sporting CP",
-          "urls": [
-            "https://ww2.sporttsonline.click/channels/pt/eleven1.php"
-          ]
-        },
         {
           "time": "07:10",
           "title": "San Lorenzo x Deportivo Riestra",
@@ -69,7 +16,12 @@
           "urls": [
             "https://ww2.sporttsonline.click/channels/hd/hd2.php"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "matches": [
         {
           "time": "18:00",
           "title": "Golf: DP World Tour - KLM Open D1",
