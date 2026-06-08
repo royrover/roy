@@ -1,33 +1,5 @@
 [
     {
-        "match_id": "1647673",
-        "sport_type": "Soccer",
-        "league": "Worldwide -Soccer:International Friendlies",
-        "date": "",
-        "time": "01:45",
-        "live_time": "48'",
-        "is_live": true,
-        "is_single_event": false,
-        "title": "",
-        "home_team": "Netherlands",
-        "away_team": "Uzbekistan",
-        "score_or_vs": "1 - 0"
-    },
-    {
-        "match_id": "1647672",
-        "sport_type": "Soccer",
-        "league": "Worldwide -Soccer:International Friendlies",
-        "date": "",
-        "time": "02:10",
-        "live_time": "45+3",
-        "is_live": true,
-        "is_single_event": false,
-        "title": "",
-        "home_team": "France",
-        "away_team": "N.Ireland",
-        "score_or_vs": "1 - 0"
-    },
-    {
         "match_id": "1647649",
         "sport_type": "Baseball",
         "league": "United States -Baseball:MLB",
@@ -137,6 +109,20 @@
         "title": "",
         "home_team": "Boston Red Sox",
         "away_team": "Texas Rangers",
+        "score_or_vs": "vs"
+    },
+    {
+        "match_id": "1649169",
+        "sport_type": "Baseball",
+        "league": "United States -Baseball:MLB",
+        "date": "13/06",
+        "time": "06:40",
+        "live_time": "",
+        "is_live": false,
+        "is_single_event": false,
+        "title": "",
+        "home_team": "Chicago White Sox",
+        "away_team": "Los Angeles Dodgers",
         "score_or_vs": "vs"
     },
     {
@@ -851,6 +837,20 @@
         "title": "",
         "home_team": "St Helens",
         "away_team": "Warrington Wolves",
+        "score_or_vs": "vs"
+    },
+    {
+        "match_id": "1649215",
+        "sport_type": "Rugby",
+        "league": "England -Rugby:English Rugby League Super League",
+        "date": "13/06",
+        "time": "02:00",
+        "live_time": "",
+        "is_live": false,
+        "is_single_event": false,
+        "title": "",
+        "home_team": "Hull Kingston Rovers",
+        "away_team": "York City Knights",
         "score_or_vs": "vs"
     },
     {
