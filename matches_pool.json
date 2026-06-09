@@ -1,47 +1,5 @@
 [
     {
-        "match_id": "1647958",
-        "sport_type": "Cricket",
-        "league": "England -Cricket:English t20 Blast",
-        "date": "",
-        "time": "01:00",
-        "live_time": "",
-        "is_live": true,
-        "is_single_event": false,
-        "title": "",
-        "home_team": "Essex Eagles",
-        "away_team": "Kent Spitfires",
-        "score_or_vs": "vs"
-    },
-    {
-        "match_id": "1648032",
-        "sport_type": "Soccer",
-        "league": "Worldwide -Soccer:International Friendlies",
-        "date": "",
-        "time": "01:00",
-        "live_time": "",
-        "is_live": true,
-        "is_single_event": false,
-        "title": "",
-        "home_team": "San Marino",
-        "away_team": "Azerbaijan",
-        "score_or_vs": "vs"
-    },
-    {
-        "match_id": "1649421",
-        "sport_type": "Soccer",
-        "league": "Spain -Soccer:Spanish La Liga 2",
-        "date": "",
-        "time": "01:52",
-        "live_time": "45+4",
-        "is_live": true,
-        "is_single_event": false,
-        "title": "",
-        "home_team": "Almeria",
-        "away_team": "Castell n",
-        "score_or_vs": "1 - 0"
-    },
-    {
         "match_id": "1650652",
         "sport_type": "Baseball",
         "league": "United States -Baseball:MLB",
@@ -151,6 +109,20 @@
         "title": "",
         "home_team": "Boston Red Sox",
         "away_team": "Texas Rangers",
+        "score_or_vs": "vs"
+    },
+    {
+        "match_id": "1649164",
+        "sport_type": "Baseball",
+        "league": "United States -Baseball:MLB",
+        "date": "13/06",
+        "time": "06:37",
+        "live_time": "",
+        "is_live": false,
+        "is_single_event": false,
+        "title": "",
+        "home_team": "Toronto Blue Jays",
+        "away_team": "New York Yankees",
         "score_or_vs": "vs"
     },
     {
@@ -658,7 +630,7 @@
         "score_or_vs": "vs"
     },
     {
-        "match_id": "1650787",
+        "match_id": "1650786",
         "sport_type": "Motorsport",
         "league": "France -Motorsport:FIA World Endurance Championship",
         "date": "13/06",
@@ -672,7 +644,7 @@
         "score_or_vs": "vs"
     },
     {
-        "match_id": "1650786",
+        "match_id": "1650787",
         "sport_type": "Motorsport",
         "league": "France -Motorsport:FIA World Endurance Championship",
         "date": "13/06",
@@ -1442,6 +1414,20 @@
         "score_or_vs": "vs"
     },
     {
+        "match_id": "1649730",
+        "sport_type": "Rugby",
+        "league": "England -Rugby:English Rugby League Super League",
+        "date": "14/06",
+        "time": "00:00",
+        "live_time": "",
+        "is_live": false,
+        "is_single_event": false,
+        "title": "",
+        "home_team": "Catalans Dragons",
+        "away_team": "Castleford Tigers",
+        "score_or_vs": "vs"
+    },
+    {
         "match_id": "1648670",
         "sport_type": "Soccer",
         "league": "Worldwide -Soccer:FIFA World Cup",
@@ -1747,6 +1733,20 @@
         "title": "",
         "home_team": "Saskatchewan Roughriders",
         "away_team": "BC Lions",
+        "score_or_vs": "vs"
+    },
+    {
+        "match_id": "1649651",
+        "sport_type": "Rugby",
+        "league": "Worldwide -Rugby:Super Rugby",
+        "date": "12/06",
+        "time": "14:05",
+        "live_time": "",
+        "is_live": false,
+        "is_single_event": false,
+        "title": "",
+        "home_team": "Chiefs Super Rugby",
+        "away_team": "Crusaders Super Rugby",
         "score_or_vs": "vs"
     },
     {
