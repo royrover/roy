@@ -58,9 +58,13 @@ async function fetchToken(url, label) {
                     token = {
                         tt: params.get('tt'),
                         tpbk: params.get('tpbk'),
+                        tfa: params..get('tfa'),
                         tttlt: params.get('tttlt'),
+                        cdn: params.get('cdn'),
                         tuid: params.get('tuid'),
                         tdid: params.get('tdid'),
+                        chunkHttps: params.get('chunkHttps'),
+                        origin: params.get('origin'),
                         updated: new Date().toISOString(),
                         source_url: u // เก็บ URL ต้นทางไว้ด้วย
                     };
