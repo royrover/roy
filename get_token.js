@@ -58,7 +58,7 @@ async function fetchToken(url, label) {
                     token = {
                         tt: params.get('tt'),
                         tpbk: params.get('tpbk'),
-                        tfa: params..get('tfa'),
+                        tfa: params.get('tfa'),
                         tttlt: params.get('tttlt'),
                         cdn: params.get('cdn'),
                         tuid: params.get('tuid'),
