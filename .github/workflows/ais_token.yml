@@ -1,4 +1,4 @@
-name: Update AIS Token & Get Nation & Get ThaiRath
+name: Update AIS Token & Get Nation
 on:
   schedule:
     - cron: '0 */12 * * *'
@@ -32,14 +32,13 @@ jobs:
         run: |
           node get_token.js
           node get_media_url.js
-          node get_thairath.js
 
       - name: Commit token
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # ใส่เผื่อไว้ในกรณีที่บางไฟล์ยังไม่ถูกสร้าง จะได้ไม่พังที่บรรทัด git add
-          touch roy_token.json nation_token.json thairath_token.json 
-          git add roy_token.json nation_token.json thairath_token.json
+          touch roy_token.json nation_token.json 
+          git add roy_token.json nation_token.json 
           git diff --staged --quiet || git commit -m "🤖 Auto-Update Tokens [$(date +'%Y-%m-%d %H:%M:%S')]"
           git push
