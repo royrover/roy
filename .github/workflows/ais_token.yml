@@ -30,7 +30,7 @@ jobs:
         env:
           PUPPETEER_EXECUTABLE_PATH: /usr/bin/google-chrome-stable # บังคับให้ใช้ Chrome ตัวเต็มของระบบ
         run: |
-          
+          node get_token.js
           node get_media_url.js
           node get_thairath.js
 
@@ -39,7 +39,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # ใส่เผื่อไว้ในกรณีที่บางไฟล์ยังไม่ถูกสร้าง จะได้ไม่พังที่บรรทัด git add
-          touch nation_token.json thairath_token.json 
-          git add nation_token.json thairath_token.json
+          touch roy_token.json nation_token.json thairath_token.json 
+          git add roy_token.json nation_token.json thairath_token.json
           git diff --staged --quiet || git commit -m "🤖 Auto-Update Tokens [$(date +'%Y-%m-%d %H:%M:%S')]"
           git push
