@@ -125,14 +125,14 @@ async function fetchToken(url, label) {
     const results = {};
     
     console.log('\n=== Fetching B-TL ===');
-    results["B-TL"] = await fetchToken('https://aisplay.ais.co.th/portal/live?vid=5f9e908c12008d9caab3cf3b', 'B-TL');
+    results["B-TL"] = await fetchToken('https://app.ais-vidnt.com/portal/live?vid=5d4bebb6aae7315312049035', 'B-TL');
     console.log('B-TL Result:', results["B-TL"] ? '✓ Success' : '✗ Failed');
     
     console.log('\n=== Waiting for session clear ===');
     await new Promise(r => setTimeout(r, 5000)); 
 
     console.log('\n=== Fetching V ===');
-    results["V"] = await fetchToken('https://aisplay.ais.co.th/portal/live?vid=612e7228b48eb0aad1c66193', 'V');
+    results["V"] = await fetchToken('https://app.ais-vidnt.com/portal/live?vid=68f6eac91b3e3ed505a5f154', 'V');
     console.log('V Result:', results["V"] ? '✓ Success' : '✗ Failed');
 
     console.log('\n=== Final Results ===');
