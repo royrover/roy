@@ -82,24 +82,22 @@ async function fetchToken(url, label) {
         console.log(`${label}: Navigating to ${url}`);
         await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
         
-        // รอให้หน้าเว็บโหลดเสร็จ
-        await page.waitForTimeout(3000);
+        // แก้ไขจุดนี้: ใช้ setTimeout ครอบด้วย Promise แทนการเรียก waitForTimeout
+        await new Promise(r => setTimeout(r, 3000));
         
-        // พยายามหา video element และกดเล่น
         try {
             console.log(`${label}: Looking for video player...`);
             
-            // รอให้ video element โหลด
+            // รอให้ video element โหลดขึ้นมา
             await page.waitForSelector('video', { timeout: 10000 });
             
-            // คลิกที่วิดีโอเพื่อเริ่มเล่น
+            // คลิกที่วิดีโอเพื่อเริ่มเล่น (กระตุ้น Network Request)
             await page.evaluate(() => {
                 const video = document.querySelector('video');
                 if (video) {
                     console.log('Video found, attempting to play...');
                     video.play().catch(e => console.log('Play failed:', e));
                     
-                    // ลองคลิกที่ play button ด้วย
                     const playBtn = document.querySelector('[class*="play"]') || 
                                    document.querySelector('button[aria-label*="play"]') ||
                                    document.querySelector('.vjs-big-play-button');
@@ -113,7 +111,7 @@ async function fetchToken(url, label) {
             console.log(`${label}: Could not find/play video:`, e.message);
         }
         
-        // รอให้ token ถูกดักจับ
+        // รอให้ token ถูกดักจับจาก event response
         token = await waitForToken; 
         
     } catch (e) {
