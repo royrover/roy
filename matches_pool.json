@@ -3,15 +3,15 @@
         "match_id": "1653595",
         "sport_type": "Soccer",
         "league": "Worldwide -Soccer:FIFA World Cup",
-        "date": "23/06",
+        "date": "",
         "time": "00:00",
-        "live_time": "",
-        "is_live": false,
+        "live_time": "74'",
+        "is_live": true,
         "is_single_event": false,
         "title": "",
         "home_team": "Argentina",
         "away_team": "Austria",
-        "score_or_vs": "vs"
+        "score_or_vs": "1 - 0"
     },
     {
         "match_id": "1653625",
@@ -462,20 +462,6 @@
         "score_or_vs": "vs"
     },
     {
-        "match_id": "1653582",
-        "sport_type": "Baseball",
-        "league": "United States -Baseball:MLB",
-        "date": "23/06",
-        "time": "05:40",
-        "live_time": "",
-        "is_live": false,
-        "is_single_event": false,
-        "title": "",
-        "home_team": "Miami Marlins",
-        "away_team": "Texas Rangers",
-        "score_or_vs": "vs"
-    },
-    {
         "match_id": "1653578",
         "sport_type": "Baseball",
         "league": "United States -Baseball:MLB",
@@ -616,6 +602,20 @@
         "score_or_vs": "vs"
     },
     {
+        "match_id": "1654476",
+        "sport_type": "Basketball",
+        "league": "United States -Basketball:WNBA",
+        "date": "25/06",
+        "time": "09:00",
+        "live_time": "",
+        "is_live": false,
+        "is_single_event": false,
+        "title": "",
+        "home_team": "Golden State Valkyries",
+        "away_team": "Atlanta Dream",
+        "score_or_vs": "vs"
+    },
+    {
         "match_id": "1654984",
         "sport_type": "Basketball",
         "league": "United States -Basketball:WNBA",
@@ -641,6 +641,34 @@
         "title": "VcG Neuhof Open Round 1",
         "home_team": "",
         "away_team": "",
+        "score_or_vs": "vs"
+    },
+    {
+        "match_id": "1656279",
+        "sport_type": "Soccer",
+        "league": "World -Soccer:HS PL",
+        "date": "23/06",
+        "time": "13:50",
+        "live_time": "",
+        "is_live": false,
+        "is_single_event": false,
+        "title": "",
+        "home_team": "RATWINIT BANGKAEW",
+        "away_team": "ASSUMPTION SRIRACHA",
+        "score_or_vs": "vs"
+    },
+    {
+        "match_id": "1656280",
+        "sport_type": "Soccer",
+        "league": "World -Soccer:HS PL",
+        "date": "23/06",
+        "time": "15:50",
+        "live_time": "",
+        "is_live": false,
+        "is_single_event": false,
+        "title": "",
+        "home_team": "MAREE SATHON",
+        "away_team": "MONTHONG WITTAYA",
         "score_or_vs": "vs"
     },
     {
@@ -728,6 +756,20 @@
         "score_or_vs": "vs"
     },
     {
+        "match_id": "1656281",
+        "sport_type": "Fighting",
+        "league": "World -Fighting:Muay Thai",
+        "date": "23/06",
+        "time": "18:00",
+        "live_time": "",
+        "is_live": false,
+        "is_single_event": true,
+        "title": "MUAY MAN SANAN MUANG 2026",
+        "home_team": "",
+        "away_team": "",
+        "score_or_vs": "vs"
+    },
+    {
         "match_id": "1652739",
         "sport_type": "Volleyball",
         "league": "World -Volleyball:Volleyball Nations League - Men",
@@ -739,20 +781,6 @@
         "title": "",
         "home_team": "( ) China Volleyball Women",
         "away_team": "( ) Turkiye Volleyball Women",
-        "score_or_vs": "vs"
-    },
-    {
-        "match_id": "1654295",
-        "sport_type": "Volleyball",
-        "league": "World -Volleyball:Volleyball Nations League - Men",
-        "date": "24/06",
-        "time": "21:30",
-        "live_time": "",
-        "is_live": false,
-        "is_single_event": false,
-        "title": "",
-        "home_team": "Ukraine Volleyball Women",
-        "away_team": "( ) Brazil Volleyball Women",
         "score_or_vs": "vs"
     },
     {
@@ -809,20 +837,6 @@
         "title": "",
         "home_team": "Ukraine Volleyball",
         "away_team": "( ) Italy Volleyball",
-        "score_or_vs": "vs"
-    },
-    {
-        "match_id": "1655936",
-        "sport_type": "Volleyball",
-        "league": "World -Volleyball:FIVB Volleyball Mens Nations League",
-        "date": "24/06",
-        "time": "21:30",
-        "live_time": "",
-        "is_live": false,
-        "is_single_event": false,
-        "title": "",
-        "home_team": "",
-        "away_team": "( ) Germany Volleyball Women",
         "score_or_vs": "vs"
     },
     {
@@ -1036,6 +1050,20 @@
         "score_or_vs": "vs"
     },
     {
+        "match_id": "1655429",
+        "sport_type": "American_Football",
+        "league": "Canada -American Football:CFL",
+        "date": "27/06",
+        "time": "08:00",
+        "live_time": "",
+        "is_live": false,
+        "is_single_event": false,
+        "title": "",
+        "home_team": "Saskatchewan Roughriders",
+        "away_team": "Toronto Argonauts",
+        "score_or_vs": "vs"
+    },
+    {
         "match_id": "1655005",
         "sport_type": "Cricket",
         "league": "England -Cricket:English t20 Blast",
@@ -1047,6 +1075,20 @@
         "title": "",
         "home_team": "Kent Spitfires",
         "away_team": "Notts Outlaws",
+        "score_or_vs": "vs"
+    },
+    {
+        "match_id": "1656009",
+        "sport_type": "Australian_Football",
+        "league": "Australia -Australian Football:Australian AFL",
+        "date": "27/06",
+        "time": "13:15",
+        "live_time": "",
+        "is_live": false,
+        "is_single_event": false,
+        "title": "",
+        "home_team": "Collingwood Football Club",
+        "away_team": "Richmond Football Club",
         "score_or_vs": "vs"
     },
     {
