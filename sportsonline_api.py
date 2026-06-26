@@ -3,31 +3,42 @@ import re
 import json
 import urllib.request
 import os
+import sys
 
 SPORTSONLINE = os.getenv("SPORTSONLINE")
 
 def main():
     url = SPORTSONLINE
+    if not url:
+        print("❌ ไม่พบแปรสภาพแวดล้อม SPORTSONLINE (Environment Variable)")
+        sys.exit(1)
+
     req = urllib.request.Request(
         url,
         headers={
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
         },
     )
 
     try:
+        # กำหนด timeout เผื่อเน็ตเวิร์กของ GitHub Actions หน่วง
         with urllib.request.urlopen(req, timeout=30) as response:
             html = response.read().decode("utf-8", errors="ignore")
     except Exception as e:
         print(f"❌ โหลดข้อมูลไม่สำเร็จ: {e}")
-        return
+        sys.exit(1)
 
-    lines = [line.strip() for line in html.split("\n") if line.strip()]
+    # ปรับจุดที่ 1: ใช้ splitlines() เพื่อจัดการปัญหา \r\n (CRLF) บน Linux GitHub Actions
+    lines = [line.strip() for line in html.splitlines() if line.strip()]
 
     # 1. แผนผังวันที่ระบบ (หาจุดตั้งต้นจากวันปัจจุบัน)
     file_days = [
         line.upper() for line in lines if re.match(r"^[A-Z]+DAY$", line.upper())
     ]
+    
+    # 💡 บน GitHub Actions ตัวเซิร์ฟเวอร์จะเป็นเวลา UTC เสมอ 
+    # แต่เนื่องจากลอจิกใช้คำนวณหา index ของวันในสัปดาห์ (weekday) ความเสี่ยงจึงต่ำ 
+    # ยกเว้นช่วงรอยต่อเวลา 00:00 น. แนะนำให้ใช้เวลาปัจจุบันของระบบเป็นตัวตั้ง
     today_name = datetime.datetime.now().strftime("%A").upper()
     today_date = datetime.datetime.now()
 
@@ -43,10 +54,7 @@ def main():
         day_dates_map[fd] = calc_date.strftime("%d-%m-%Y")
 
     current_day_name = None
-
-    # เปลี่ยนมาใช้กลุ่มหลักที่เก็บข้อมูลแยกตามวันที่อย่างเดียว
     grouped_by_date = {}
-
     last_hour = -1
     day_offset = 0
 
@@ -71,7 +79,8 @@ def main():
         ):
             continue
 
-        match = re.match(r"^(\d{2}:\d{2})\s+([^|]+)(?:\|\s*(https?://\S+))?", line)
+        # ปรับจุดที่ 2: แก้ไขโครงสร้างดีเทลเพื่อรองรับการเว้นวรรคไม่สม่ำเสมอตรงเครื่องหมาย |
+        match = re.match(r"^(\d{2}:\d{2})\s+([^|]+?)(?:\s*\|\s*(https?://\S+))?$", line)
         if match:
             if not current_day_name or current_day_name not in day_dates_map:
                 continue
@@ -92,7 +101,7 @@ def main():
 
             current_hour = int(orig_time.split(":")[0])
 
-            # ลอจิกชั่วโมงย้อนศรคุมทิศทางวันข้ามคืน
+            # ลอจิกชั่วโมงย้อนศรคุมทิศทางวันข้ามคืน (คงไว้ตามโครงสร้างเดิมของคุณ)
             if last_hour != -1 and current_hour < last_hour:
                 day_offset += 1
 
@@ -116,7 +125,6 @@ def main():
                 th_date = base_dt.strftime("%Y-%m-%d")
                 th_time = orig_time
 
-            # 💡 แตกคีย์จัดกลุ่มแยกตามวันที่ปลายทางในชั้นนี้เลย
             if th_date not in grouped_by_date:
                 grouped_by_date[th_date] = {}
 
@@ -136,12 +144,10 @@ def main():
             ):
                 grouped_by_date[th_date][match_key]["urls"].append(station_url)
 
-    # 3. จัดโครงสร้างข้อมูลให้เรียงลำดับเวลา (Sort) และพ่นออกเป็นรูปแบบ Array ตามสากล API
+    # 3. จัดโครงสร้างข้อมูลให้เรียงลำดับเวลา (Sort)
     final_groups = []
 
-    # เรียงลำดับจากวันที่เก่าไปใหม่
     for date_key in sorted(grouped_by_date.keys()):
-        # เรียงลำดับคู่บอลข้างในตามเวลาเตะเช้าไปค่ำ
         sorted_matches = list(grouped_by_date[date_key].values())
         sorted_matches.sort(key=lambda x: x["time"])
 
@@ -149,9 +155,11 @@ def main():
 
     output_data = {"groups": final_groups}
 
+    # พ่นออกเป็นไฟล์สากล API
     with open("sportsonline_api.json", "w", encoding="utf-8") as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
-    print(json.dumps(output_data, indent=2, ensure_ascii=False))
+    
+    print("✅ บันทึกไฟล์สำเร็จ! จำนวนกลุ่มวันที่จับคู่ได้:", len(final_groups))
 
 
 if __name__ == "__main__":
