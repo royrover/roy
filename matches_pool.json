@@ -3,26 +3,12 @@
         "match_id": "1656386",
         "sport_type": "Motorsport",
         "league": "Worldwide -Motorsport:MotoGP",
-        "date": "26/06",
+        "date": "",
         "time": "13:55",
         "live_time": "",
-        "is_live": false,
+        "is_live": true,
         "is_single_event": true,
         "title": "MotoGP 2026 Netherlands GP - Moto3 Moto2 Free Practice 1",
-        "home_team": "",
-        "away_team": "",
-        "score_or_vs": "vs"
-    },
-    {
-        "match_id": "1656387",
-        "sport_type": "Motorsport",
-        "league": "Worldwide -Motorsport:MotoGP",
-        "date": "26/06",
-        "time": "18:10",
-        "live_time": "",
-        "is_live": false,
-        "is_single_event": true,
-        "title": "MotoGP 2026 Netherlands GP - Moto3 Moto2 MotoGP Practice",
         "home_team": "",
         "away_team": "",
         "score_or_vs": "vs"
@@ -345,6 +331,20 @@
         "is_live": false,
         "is_single_event": true,
         "title": "Formula 1 2026 Austrian Grand Prix - Practice 2",
+        "home_team": "",
+        "away_team": "",
+        "score_or_vs": "vs"
+    },
+    {
+        "match_id": "1656387",
+        "sport_type": "Motorsport",
+        "league": "Worldwide -Motorsport:MotoGP",
+        "date": "26/06",
+        "time": "18:10",
+        "live_time": "",
+        "is_live": false,
+        "is_single_event": true,
+        "title": "MotoGP 2026 Netherlands GP - Moto3 Moto2 MotoGP Practice",
         "home_team": "",
         "away_team": "",
         "score_or_vs": "vs"
@@ -756,6 +756,20 @@
         "score_or_vs": "vs"
     },
     {
+        "match_id": "1657197",
+        "sport_type": "Baseball",
+        "league": "United States -Baseball:MLB",
+        "date": "27/06",
+        "time": "06:10",
+        "live_time": "",
+        "is_live": false,
+        "is_single_event": false,
+        "title": "",
+        "home_team": "Boston Red Sox",
+        "away_team": "New York Yankees",
+        "score_or_vs": "vs"
+    },
+    {
         "match_id": "1655427",
         "sport_type": "Baseball",
         "league": "United States -Baseball:MLB",
@@ -767,6 +781,20 @@
         "title": "",
         "home_team": "New York Mets",
         "away_team": "Philadelphia Phillies",
+        "score_or_vs": "vs"
+    },
+    {
+        "match_id": "1654966",
+        "sport_type": "Baseball",
+        "league": "United States -Baseball:MLB",
+        "date": "27/06",
+        "time": "06:40",
+        "live_time": "",
+        "is_live": false,
+        "is_single_event": false,
+        "title": "",
+        "home_team": "Chicago White Sox",
+        "away_team": "Kansas City Royals",
         "score_or_vs": "vs"
     },
     {
