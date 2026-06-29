@@ -56,6 +56,7 @@ async function fetchToken(url, label) {
                 if (u.includes('metadata.json')) {
                     const params = new URL(u).searchParams;
                     token = {
+                        https_streaming: params.get('https_streaming'),
                         tt: params.get('tt'),
                         tpbk: params.get('tpbk'),
                         tfa: params.get('tfa'),
