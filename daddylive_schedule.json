@@ -1,5 +1,55 @@
 {
     "Wednesday 01st July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "05:00",
+                "event": "Short Track Super Series at Fonda",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "28"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5027"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "USAC BC39 at The Dirt Track at IMS",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "29"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5028"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "PA Speedweek at Port Royal",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "30"
+                    }
+                ]
+            },
+            {
+                "time": "06:45",
+                "event": "Farmington Empire Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5029"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "10:30",
