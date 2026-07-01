@@ -34,13 +34,14 @@ jobs:
           python amarin.py
           python d66_mid.py
           python sportsonline_api.py
+          python ddl.py
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           # เพิ่มไฟล์ทั้งหมดที่เกี่ยวข้อง
-          git add data.json amarin.json matches_pool.json sportsonline_api.json
+          git add data.json amarin.json matches_pool.json sportsonline_api.json daddylive_schedule.json
           # Commit เฉพาะเมื่อมีการเปลี่ยนแปลงไฟล์จริงๆ
           if git diff --staged --quiet; then
             echo "No changes to commit"
