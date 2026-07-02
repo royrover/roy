@@ -1,5 +1,69 @@
 {
     "Thursday 02nd July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "05:45",
+                "event": "ESS Sprints at Utica-Rome",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "16"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "SuperDirtCar Series Land of Legends",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "17"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "2026 Race of Champions Ol' Boy Cup at Lancaster Motorplex",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "18"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "Hagerstown Speedway - Pa Speedweek",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5021"
+                    }
+                ]
+            },
+            {
+                "time": "06:15",
+                "event": "DirtCar Summer Nationals Lincoln Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "19"
+                    }
+                ]
+            }
+        ],
+        "Poker 2026 (WSOP)": [
+            {
+                "time": "07:00",
+                "event": "World Series of Poker 2026 (WSOP) Main Event",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "30"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "10:30",
@@ -2910,7 +2974,7 @@
         ],
         "🎾 ATP - Singles: Wimbledon / 🎾 WTA - Singles: Wimbledon / 🎾 ATP - Doubles / 🎾 WTA - Doubles": [
             {
-                "time": "02:35",
+                "time": "05:25",
                 "event": "Wimbledon Open",
                 "channels": [
                     {
