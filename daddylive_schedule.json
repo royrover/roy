@@ -2,8 +2,8 @@
     "Saturday 04th July 2026 - Schedule Time UK GMT": {
         "🏁 PPV EVENTS 🏁": [
             {
-                "time": "19:44",
-                "event": "🕒 03:00 🏎️ 2026 SMART Modified Tour at Caraway Speedway 🏁",
+                "time": "04:30",
+                "event": "🏎️ 2026 SMART Modified Tour at Caraway Speedway 🏁",
                 "channels": [
                     {
                         "channel_name": "📺 FloRacing",
@@ -12,8 +12,8 @@
                 ]
             },
             {
-                "time": "19:44",
-                "event": "🕞 03:30 🏁 2026 NASCAR Weekly Racing at Berlin Raceway 🏎️",
+                "time": "05:00",
+                "event": "🏁 2026 NASCAR Weekly Racing at Berlin Raceway 🏎️",
                 "channels": [
                     {
                         "channel_name": "📺 FloRacing",
@@ -22,8 +22,8 @@
                 ]
             },
             {
-                "time": "19:44",
-                "event": "🕞 03:30 🏎️ 2026 PA Speedweek – Greg Hodnett Classic at Port Royal Speedway 🏁",
+                "time": "05:00",
+                "event": "🏎️ 2026 PA Speedweek – Greg Hodnett Classic at Port Royal Speedway 🏁",
                 "channels": [
                     {
                         "channel_name": "📺 FloRacing",
@@ -32,8 +32,8 @@
                 ]
             },
             {
-                "time": "19:44",
-                "event": "🕞 03:30 🏎️ 2026 Ohio Wheelman Series at Jennerstown Speedway 🏁",
+                "time": "05:00",
+                "event": "🏎️ 2026 Ohio Wheelman Series at Jennerstown Speedway 🏁",
                 "channels": [
                     {
                         "channel_name": "📺 FloRacing",
@@ -42,8 +42,8 @@
                 ]
             },
             {
-                "time": "19:44",
-                "event": "🕞 03:30 🤼 GCW: Bash at the Ballpark 2026 💥",
+                "time": "05:00",
+                "event": "🤼 GCW: Bash at the Ballpark 2026 💥",
                 "channels": [
                     {
                         "channel_name": "📺 TrillerTV",
@@ -52,8 +52,8 @@
                 ]
             },
             {
-                "time": "19:44",
-                "event": "🕒 03:45 🏁 2026 Lucas Oil Late Model Dirt Series at Muskingum County Speedway 🏎️",
+                "time": "05:15",
+                "event": "🏁 2026 Lucas Oil Late Model Dirt Series at Muskingum County Speedway 🏎️",
                 "channels": [
                     {
                         "channel_name": "📺 FloRacing",
@@ -62,8 +62,8 @@
                 ]
             },
             {
-                "time": "19:44",
-                "event": "🕒 03:45 🎆 2026 Independence Day Spectacular at Oswego Speedway 🏁",
+                "time": "05:15",
+                "event": "🎆 2026 Independence Day Spectacular at Oswego Speedway 🏁",
                 "channels": [
                     {
                         "channel_name": "📺 FloRacing",
@@ -72,8 +72,8 @@
                 ]
             },
             {
-                "time": "19:44",
-                "event": "🕒 03:45 🏎️ 2026 USAC Sprintacular at Lincoln Park Speedway 🏁",
+                "time": "05:15",
+                "event": "🏎️ 2026 USAC Sprintacular at Lincoln Park Speedway 🏁",
                 "channels": [
                     {
                         "channel_name": "📺 FloRacing",
@@ -82,8 +82,8 @@
                 ]
             },
             {
-                "time": "19:44",
-                "event": "🕓 04:00 🏁 Land of Legends Raceway – Late Models 🚗",
+                "time": "05:30",
+                "event": "🏁 Land of Legends Raceway – Late Models 🚗",
                 "channels": [
                     {
                         "channel_name": "📺 Event PPV",
@@ -92,8 +92,8 @@
                 ]
             },
             {
-                "time": "19:44",
-                "event": "🕟 04:15 🏁 DIRTcar Summer Nationals – Late Models (Highland Speedway) 🚗",
+                "time": "05:45",
+                "event": "🏁 DIRTcar Summer Nationals – Late Models (Highland Speedway) 🚗",
                 "channels": [
                     {
                         "channel_name": "📺 DIRTVision",
@@ -102,8 +102,8 @@
                 ]
             },
             {
-                "time": "19:44",
-                "event": "🕟 04:30 🏎️ 2026 Virginia Sprint Cars at Langley Speedway 🏁",
+                "time": "06:00",
+                "event": "🏎️ 2026 Virginia Sprint Cars at Langley Speedway 🏁",
                 "channels": [
                     {
                         "channel_name": "📺 FloRacing",
@@ -112,8 +112,8 @@
                 ]
             },
             {
-                "time": "19:44",
-                "event": "🕔 05:00 🏎️ 2026 USAC Avanti CRA / Western States Midgets at Santa Maria Speedway 🏁",
+                "time": "06:30",
+                "event": "🏎️ 2026 USAC Avanti CRA / Western States Midgets at Santa Maria Speedway 🏁",
                 "channels": [
                     {
                         "channel_name": "📺 FloRacing",
@@ -122,8 +122,8 @@
                 ]
             },
             {
-                "time": "19:44",
-                "event": "🕔 05:00 🏁 Knoxville Raceway Sprint Cars 🚗",
+                "time": "06:30",
+                "event": "🏁 Knoxville Raceway Sprint Cars 🚗",
                 "channels": [
                     {
                         "channel_name": "📺 Event PPV",
@@ -1468,6 +1468,10 @@
                         "channel_id": "111"
                     },
                     {
+                        "channel_name": "ITV1 UK",
+                        "channel_id": "350"
+                    },
+                    {
                         "channel_name": "TSN3",
                         "channel_id": "113"
                     },
@@ -1850,6 +1854,30 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7051"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7052"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7053"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7054"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7055"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7056"
                     }
                 ]
             },
@@ -1870,6 +1898,96 @@
                     {
                         "channel_name": "FOX Sports 2 USA",
                         "channel_id": "758"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Ecuador Liga Pro Serie A : Libertad vs Leones",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6019"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Chile Copa Chile : Magallanes vs Palestino",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6020"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Chile Copa Chile : Union San Felipe vs Union La Calera",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6021"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Brazil - Brasileirão Série B : Novorizontino vs Atletico Goianiense",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6022"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Brazil - Brasileirão Série B : Londrina vs CRB",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6023"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Brazil - Brasileirão Série B : Criciuma vs Sport",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6024"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "Canada - Northern Super League : Montreal Roses W vs Vancouver Rise W",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6025"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "Chile Copa Chile : San Luis vs Everton CD",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6026"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "Chile Copa Chile : Deportes Iquique vs Coquimbo Unido",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6027"
                     }
                 ]
             },
@@ -2688,7 +2806,7 @@
         ],
         "🏆 🎾 Wimbledon 2026 – Court-wise Listing": [
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Center Court ◆",
                 "channels": [
                     {
@@ -2698,7 +2816,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Center Court 4K ◆",
                 "channels": [
                     {
@@ -2708,7 +2826,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.1 ◆",
                 "channels": [
                     {
@@ -2718,7 +2836,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.2 ◆",
                 "channels": [
                     {
@@ -2728,7 +2846,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.3 ◆",
                 "channels": [
                     {
@@ -2738,7 +2856,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.4 ◆",
                 "channels": [
                     {
@@ -2748,7 +2866,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.5 ◆",
                 "channels": [
                     {
@@ -2758,7 +2876,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.6 ◆",
                 "channels": [
                     {
@@ -2768,7 +2886,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.7 ◆",
                 "channels": [
                     {
@@ -2778,7 +2896,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.8 ◆",
                 "channels": [
                     {
@@ -2788,7 +2906,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.9 ◆",
                 "channels": [
                     {
@@ -2798,7 +2916,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.10 ◆",
                 "channels": [
                     {
@@ -2808,7 +2926,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.11 ◆",
                 "channels": [
                     {
@@ -2818,7 +2936,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.12 ◆",
                 "channels": [
                     {
@@ -2828,7 +2946,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.13 ◆",
                 "channels": [
                     {
@@ -2838,7 +2956,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.14 ◆",
                 "channels": [
                     {
@@ -2848,7 +2966,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.15 ◆",
                 "channels": [
                     {
@@ -2858,7 +2976,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.16 ◆",
                 "channels": [
                     {
@@ -2868,7 +2986,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.17 ◆",
                 "channels": [
                     {
@@ -2878,7 +2996,7 @@
                 ]
             },
             {
-                "time": "19:44",
+                "time": "02:00",
                 "event": "🏆 🎾 Wimbledon 2026 Court No.18 ◆",
                 "channels": [
                     {
@@ -5412,6 +5530,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4017"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2041"
                     }
                 ]
             },
@@ -5438,6 +5560,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4018"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2042"
                     }
                 ]
             },
@@ -5464,6 +5590,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2043"
                     }
                 ]
             },
@@ -5482,6 +5612,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2044"
                     }
                 ]
             },
@@ -5500,6 +5634,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2045"
                     }
                 ]
             },
@@ -5522,6 +5660,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2046"
                     }
                 ]
             },
@@ -5540,6 +5682,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2047"
                     }
                 ]
             },
@@ -5558,6 +5704,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4024"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2048"
                     }
                 ]
             },
@@ -5576,6 +5726,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4025"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2049"
                     }
                 ]
             },
@@ -5594,6 +5748,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4026"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2050"
                     }
                 ]
             },
@@ -5612,6 +5770,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4027"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2051"
                     }
                 ]
             },
@@ -5630,6 +5792,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4028"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2052"
                     }
                 ]
             },
@@ -5648,6 +5814,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4029"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2053"
                     }
                 ]
             }
@@ -5744,6 +5914,26 @@
                 ]
             },
             {
+                "time": "05:00",
+                "event": "FIFA World Cup : Uruguay vs Cuba",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6017"
+                    }
+                ]
+            },
+            {
+                "time": "07:10",
+                "event": "FIFA World Cup : Panama vs Argentina",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6018"
+                    }
+                ]
+            },
+            {
                 "time": "22:00",
                 "event": "Fiba u17 (m) : Semi-final 1",
                 "channels": [
@@ -5810,6 +6000,10 @@
                     {
                         "channel_name": "WNBA League Pass",
                         "channel_id": "21"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2058"
                     }
                 ]
             }
@@ -5830,6 +6024,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "3007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2054"
                     }
                 ]
             },
@@ -5852,6 +6050,10 @@
                     {
                         "channel_name": "ESPNU USA",
                         "channel_id": "3003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2055"
                     }
                 ]
             },
@@ -5862,6 +6064,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "23"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2056"
                     }
                 ]
             },
@@ -5872,6 +6078,10 @@
                     {
                         "channel_name": "ESPNU USA",
                         "channel_id": "316"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2057"
                     }
                 ]
             }
