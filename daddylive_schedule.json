@@ -1,5 +1,47 @@
 {
     "Sunday 05th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "02:00",
+                "event": "GCW: Backyard Wrestling 8",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "04:45",
+                "event": "2026 USAC Sumar Classic at Terre Haute Action Track",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "05:20",
+                "event": "2026 Weekly Racing at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "05:45",
+                "event": "DIRTCar Summer Nationals Macon Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "164"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "10:30",
@@ -1772,6 +1814,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7056"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7057"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7058"
                     }
                 ]
             },
@@ -2252,6 +2302,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7056"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7057"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7058"
                     }
                 ]
             },
@@ -2986,8 +3044,8 @@
         ],
         "🎾 ATP - Singles: Wimbledon / 🎾 WTA - Singles: Wimbledon / 🎾 ATP - Doubles / 🎾 WTA - Doubles / 🎾 Mixed Doubles": [
             {
-                "time": "17:56",
-                "event": "🏟️15:30 Court 17: 🇩🇪Kevin Krawietz/🇩🇪Tim Pütz v 🇵🇹Francisco Cabral/🇦🇹Lucas Miedler",
+                "time": "17:00",
+                "event": "Court 17: 🇩🇪Kevin Krawietz/🇩🇪Tim Pütz v 🇵🇹Francisco Cabral/🇦🇹Lucas Miedler",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2996,8 +3054,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️15:30 Court 3: 🇹🇼Hsieh Su-wei/🇨🇳Wang Xinyu v 🇧🇪Elise Mertens/🇨🇳Zhang Shuai",
+                "time": "17:00",
+                "event": "Court 3: 🇹🇼Hsieh Su-wei/🇨🇳Wang Xinyu v 🇧🇪Elise Mertens/🇨🇳Zhang Shuai",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3006,8 +3064,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️15:30 Court 12: 🇯🇵Shuko Aoyama/🇹🇼Liang En-shuo v 🇦🇺Kimberly Birrell/🇦🇺Talia Gibson",
+                "time": "17:00",
+                "event": "Court 12: 🇯🇵Shuko Aoyama/🇹🇼Liang En-shuo v 🇦🇺Kimberly Birrell/🇦🇺Talia Gibson",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3016,8 +3074,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "📺15:30 2026 Wimbledon Championships ESPN",
+                "time": "17:00",
+                "event": "2026 Wimbledon Championships ESPN",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3026,8 +3084,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️15:40 Court 14: 🇹🇼Ray Ho/🇩🇪Hendrik Jebens v 🇦🇷Guido Andreozzi/🇫🇷Manuel Guinard",
+                "time": "17:10",
+                "event": "Court 14: 🇹🇼Ray Ho/🇩🇪Hendrik Jebens v 🇦🇷Guido Andreozzi/🇫🇷Manuel Guinard",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3036,8 +3094,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️15:40 Court 2: 🇫🇮Harri Heliövaara/🇬🇧Henry Patten v 🇨🇿Adam Pavlásek/🇨🇿Patrik Rikl",
+                "time": "17:10",
+                "event": "Court 2: 🇫🇮Harri Heliövaara/🇬🇧Henry Patten v 🇨🇿Adam Pavlásek/🇨🇿Patrik Rikl",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3046,8 +3104,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️17:00 Court 2: 🇨🇿Karolína Muchová v 🇨🇿Barbora Krejčíková",
+                "time": "18:30",
+                "event": "Court 2: 🇨🇿Karolína Muchová v 🇨🇿Barbora Krejčíková",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3056,8 +3114,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️17:00 Court 17: 🇵🇱Katarzyna Piter/🇨🇿Anna Sisková v 🇨🇿Miriam Škoch/🇨🇿Jesika Malečková",
+                "time": "18:30",
+                "event": "Court 17: 🇵🇱Katarzyna Piter/🇨🇿Anna Sisková v 🇨🇿Miriam Škoch/🇨🇿Jesika Malečková",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3066,8 +3124,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️17:00 Court 12: 🇨🇴Camila Osorio/🇦🇷Solana Sierra v 🇦🇺Ellen Perez/🇳🇱Demi Schuurs",
+                "time": "18:30",
+                "event": "Court 12: 🇨🇴Camila Osorio/🇦🇷Solana Sierra v 🇦🇺Ellen Perez/🇳🇱Demi Schuurs",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3076,8 +3134,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️17:00 Court 14: 🇪🇪Ingrid Neel/🇲🇽Giuliana Olmos v 🇳🇴Ulrikke Eikeri/🇺🇸Quinn Gleason",
+                "time": "18:30",
+                "event": "Court 14: 🇪🇪Ingrid Neel/🇲🇽Giuliana Olmos v 🇳🇴Ulrikke Eikeri/🇺🇸Quinn Gleason",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3086,8 +3144,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️17:00 Court 3: 🇺🇦Yulia Starodubtseva/🇺🇸Peyton Stearns v 🇺🇸Asia Muhammad/🇭🇺Fanny Stollár",
+                "time": "18:30",
+                "event": "Court 3: 🇺🇦Yulia Starodubtseva/🇺🇸Peyton Stearns v 🇺🇸Asia Muhammad/🇭🇺Fanny Stollár",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3096,8 +3154,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️17:30 Court 1: 🇺🇸Jessica Pegula v 🇺🇸Iva Jović",
+                "time": "19:00",
+                "event": "Court 1: 🇺🇸Jessica Pegula v 🇺🇸Iva Jović",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3106,8 +3164,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️18:00 Centre Court: 🇷🇺Roman Safiullin v 🇷🇸Novak Djokovic",
+                "time": "19:30",
+                "event": "Centre Court: 🇷🇺Roman Safiullin v 🇷🇸Novak Djokovic",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3116,8 +3174,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️18:30 Court 2: 🇵🇱Hubert Hurkacz v 🇩🇪Jan-Lennard Struff",
+                "time": "20:00",
+                "event": "Court 2: 🇵🇱Hubert Hurkacz v 🇩🇪Jan-Lennard Struff",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3126,8 +3184,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️18:30 Court 17: 🇮🇹Nicole Fossa Huergo/🇩🇪Tamara Korpatsch v 🇨🇿Linda Nosková/🇸🇰Rebecca Šramková",
+                "time": "20:00",
+                "event": "Court 17: 🇮🇹Nicole Fossa Huergo/🇩🇪Tamara Korpatsch v 🇨🇿Linda Nosková/🇸🇰Rebecca Šramková",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3136,8 +3194,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️18:30 Court 3: 🇬🇧Marcus Willis/🇬🇧Heather Watson v 🇺🇸Christian Harrison/🇨🇳Zhang Shuai",
+                "time": "20:00",
+                "event": "Court 3: 🇬🇧Marcus Willis/🇬🇧Heather Watson v 🇺🇸Christian Harrison/🇨🇳Zhang Shuai",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3146,8 +3204,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️18:30 Court 12: 🇬🇧Lloyd Glasspool/🇸🇰Tereza Mihalíková v 🇫🇷Édouard Roger-Vasselin/🇩🇪Laura Siegemund",
+                "time": "20:00",
+                "event": "Court 12: 🇬🇧Lloyd Glasspool/🇸🇰Tereza Mihalíková v 🇫🇷Édouard Roger-Vasselin/🇩🇪Laura Siegemund",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3156,8 +3214,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️18:30 Court 14: 🇦🇷Guido Andreozzi/🇮🇩Aldila Sutjiadi v 🇰🇿Anna Danilina/🇺🇸James Tracy",
+                "time": "20:00",
+                "event": "Court 14: 🇦🇷Guido Andreozzi/🇮🇩Aldila Sutjiadi v 🇰🇿Anna Danilina/🇺🇸James Tracy",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3166,8 +3224,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️18:30 Court 18: 🇦🇷Andrés Molteni/🇭🇷Darija Jurak Schreiber v 🇸🇻Marcelo Arévalo/🇱🇻Jeļena Ostapenko",
+                "time": "20:00",
+                "event": "Court 18: 🇦🇷Andrés Molteni/🇭🇷Darija Jurak Schreiber v 🇸🇻Marcelo Arévalo/🇱🇻Jeļena Ostapenko",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3176,8 +3234,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️19:00 Court 1: 🇨🇦Félix Auger-Aliassime v 🇪🇸Alejandro Davidovich Fokina",
+                "time": "20:30",
+                "event": "Court 1: 🇨🇦Félix Auger-Aliassime v 🇪🇸Alejandro Davidovich Fokina",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3186,8 +3244,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️20:00 Centre Court: 🇧🇾Aryna Sabalenka v 🇯🇵Naomi Osaka",
+                "time": "21:30",
+                "event": "Centre Court: 🇧🇾Aryna Sabalenka v 🇯🇵Naomi Osaka",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3196,8 +3254,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️20:00 Court 17: 🇮🇹Andrea Vavassori/🇮🇹Sara Errani v 🇦🇺Marc Polmans/🇦🇺Storm Hunter",
+                "time": "21:30",
+                "event": "Court 17: 🇮🇹Andrea Vavassori/🇮🇹Sara Errani v 🇦🇺Marc Polmans/🇦🇺Storm Hunter",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3206,8 +3264,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️20:00 Court 14: 🇨🇦Gabriela Dabrowski/🇺🇸Evan King v 🇭🇺Fanny Stollár/🇭🇷Mate Pavić",
+                "time": "21:30",
+                "event": "Court 14: 🇨🇦Gabriela Dabrowski/🇺🇸Evan King v 🇭🇺Fanny Stollár/🇭🇷Mate Pavić",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3216,8 +3274,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️20:00 Court 18: 🇬🇧Joe Salisbury/🇨🇦Leylah Annie Fernandez v 🇬🇧Maia Lumsden/🇬🇧Ben Jones",
+                "time": "21:30",
+                "event": "Court 18: 🇬🇧Joe Salisbury/🇨🇦Leylah Annie Fernandez v 🇬🇧Maia Lumsden/🇬🇧Ben Jones",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3226,8 +3284,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️20:00 Court 12: 🇦🇺Ellen Perez/🇵🇹Francisco Cabral v 🇬🇧Neal Skupski/🇺🇸Desirae Krawczyk",
+                "time": "21:30",
+                "event": "Court 12: 🇦🇺Ellen Perez/🇵🇹Francisco Cabral v 🇬🇧Neal Skupski/🇺🇸Desirae Krawczyk",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3236,8 +3294,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️21:00 Court 1: 🇨🇭Belinda Bencic v 🇺🇸Coco Gauff",
+                "time": "22:30",
+                "event": "Court 1: 🇨🇭Belinda Bencic v 🇺🇸Coco Gauff",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3246,8 +3304,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️21:30 Centre Court: 🇮🇹Jannik Sinner v 🇯🇵Shintaro Mochizuki",
+                "time": "23:00",
+                "event": "Centre Court: 🇮🇹Jannik Sinner v 🇯🇵Shintaro Mochizuki",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3256,8 +3314,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🏟️21:30 Court 17: 🇫🇷Sadio Doumbia/🇫🇷Fabien Reboul v 🇧🇪Sander Gillé/🇳🇱Sem Verbeek",
+                "time": "23:00",
+                "event": "Court 17: 🇫🇷Sadio Doumbia/🇫🇷Fabien Reboul v 🇧🇪Sander Gillé/🇳🇱Sem Verbeek",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3266,8 +3324,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "📺21:30 2026 Wimbledon Championships ABC",
+                "time": "23:00",
+                "event": "2026 Wimbledon Championships ABC",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -3276,8 +3334,8 @@
                 ]
             },
             {
-                "time": "17:56",
-                "event": "🕝02:30 2026 Wimbledon Highlight Show",
+                "time": "04:00",
+                "event": "2026 Wimbledon Highlight Show",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -4738,6 +4796,10 @@
                     {
                         "channel_name": "Arena Sport 3 Croatia",
                         "channel_id": "434"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4015"
                     }
                 ]
             },
@@ -4748,6 +4810,10 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4016"
                     }
                 ]
             },
@@ -4758,6 +4824,10 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4017"
                     }
                 ]
             },
@@ -4772,6 +4842,10 @@
                     {
                         "channel_name": "SPORT1+ DE",
                         "channel_id": "640"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4018"
                     }
                 ]
             },
@@ -4782,6 +4856,10 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4019"
                     }
                 ]
             },
@@ -4800,6 +4878,10 @@
                     {
                         "channel_name": "SPORT1+ DE",
                         "channel_id": "640"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4020"
                     }
                 ]
             },
@@ -4814,6 +4896,10 @@
                     {
                         "channel_name": "NBCS Philadelphia USA",
                         "channel_id": "777"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4021"
                     }
                 ]
             },
@@ -4824,6 +4910,10 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4022"
                     }
                 ]
             },
@@ -4834,6 +4924,10 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "17"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4023"
                     }
                 ]
             },
@@ -4848,6 +4942,10 @@
                     {
                         "channel_name": "NBCS Bay Area USA",
                         "channel_id": "753"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4024"
                     }
                 ]
             },
@@ -4858,6 +4956,10 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4025"
                     }
                 ]
             },
@@ -4868,6 +4970,10 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "20"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4026"
                     }
                 ]
             },
@@ -4882,6 +4988,10 @@
                     {
                         "channel_name": "TVA Sports",
                         "channel_id": "833"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4027"
                     }
                 ]
             },
@@ -4924,6 +5034,10 @@
                     {
                         "channel_name": "ESPN3 Argentina",
                         "channel_id": "798"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4028"
                     }
                 ]
             },
@@ -4938,6 +5052,10 @@
                     {
                         "channel_name": "NESN USA",
                         "channel_id": "762"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4029"
                     }
                 ]
             }
@@ -5248,6 +5366,14 @@
                     {
                         "channel_name": "TSN5",
                         "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2010"
                     }
                 ]
             },
@@ -5282,6 +5408,14 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2011"
                     }
                 ]
             }
@@ -5294,6 +5428,14 @@
                     {
                         "channel_name": "NBA TV USA",
                         "channel_id": "404"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2012"
                     }
                 ]
             },
@@ -5308,6 +5450,14 @@
                     {
                         "channel_name": "ESPN4 MX",
                         "channel_id": "928"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2013"
                     }
                 ]
             },
@@ -5322,6 +5472,14 @@
                     {
                         "channel_name": "NBC Sports California",
                         "channel_id": "755"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2014"
                     }
                 ]
             },
@@ -5336,6 +5494,14 @@
                     {
                         "channel_name": "NBCS Bay Area USA",
                         "channel_id": "753"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4068"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2015"
                     }
                 ]
             }
