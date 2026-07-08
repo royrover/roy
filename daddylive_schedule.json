@@ -1092,6 +1092,10 @@
                         "channel_id": "540"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9003"
+                    },
+                    {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
                     }
@@ -1158,6 +1162,10 @@
                     {
                         "channel_name": "Ziggo Sport 2 NL",
                         "channel_id": "398"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9004"
                     },
                     {
                         "channel_name": "Sportdigital FUSSBALL",
@@ -1312,6 +1320,10 @@
                         "channel_id": "398"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9003"
+                    },
+                    {
                         "channel_name": "RTL+ DE",
                         "channel_id": "15"
                     },
@@ -1340,6 +1352,16 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "3083"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Morocco Coupe du Trone : FAR Rabat vs Stade Marocain",
+                "channels": [
+                    {
+                        "channel_name": "Morocco Stream",
+                        "channel_id": "9005"
                     }
                 ]
             },
@@ -2300,7 +2322,7 @@
         ],
         "🎾 ATP - Singles: Wimbledon / 🎾 WTA - Singles: Wimbledon / 🎾 ATP - Doubles / 🎾 WTA - Doubles / 🎾 Mixed Doubles": [
             {
-                "time": "14:34",
+                "time": "21:59",
                 "event": "🎾 Wimbledon Open",
                 "channels": [
                     {
