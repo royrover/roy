@@ -1,5 +1,77 @@
 {
     "Thursday 09th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "04:45",
+                "event": "DIRTcar Summer Nationals Butler",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "Summer Shootout at Charlotte",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "World of Outlaws Sprints Hartford",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "USAC National at Sweet Springs",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "Short Track Super Series Outlaw",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "06:15",
+                "event": "Lucas Oil Late Models 34 Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "Jackson Motorplex",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "10:30",
@@ -1466,6 +1538,18 @@
                         "channel_id": "839"
                     },
                     {
+                        "channel_name": "BAckup Stream Arabic",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "BAckup Stream Arabic",
+                        "channel_id": "9003"
+                    },
+                    {
+                        "channel_name": "BAckup Stream English",
+                        "channel_id": "9008"
+                    },
+                    {
                         "channel_name": "TVE La 1 Spain",
                         "channel_id": "533"
                     },
@@ -2916,6 +3000,10 @@
                     {
                         "channel_name": "5 Star Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4015"
                     }
                 ]
             },
@@ -2930,6 +3018,10 @@
                     {
                         "channel_name": "SportsNet New York USA",
                         "channel_id": "759"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4016"
                     }
                 ]
             },
@@ -2952,6 +3044,10 @@
                     {
                         "channel_name": "MLB Network USA",
                         "channel_id": "399"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4017"
                     }
                 ]
             },
@@ -2962,6 +3058,14 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4018"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2010"
                     }
                 ]
             },
@@ -2980,6 +3084,14 @@
                     {
                         "channel_name": "Chicago Sports Network",
                         "channel_id": "776"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2011"
                     }
                 ]
             },
@@ -3006,6 +3118,14 @@
                     {
                         "channel_name": "Fox Sports 3 Argentina",
                         "channel_id": "789"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2012"
                     }
                 ]
             },
@@ -3020,6 +3140,14 @@
                     {
                         "channel_name": "NBC Sports California",
                         "channel_id": "755"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2013"
                     }
                 ]
             },
@@ -3034,6 +3162,14 @@
                     {
                         "channel_name": "beIN Sports 5 Max France",
                         "channel_id": "495"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2014"
                     }
                 ]
             },
@@ -3056,6 +3192,14 @@
                     {
                         "channel_name": "NBC Sports Philadelphia",
                         "channel_id": "777"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2015"
                     }
                 ]
             },
@@ -3074,6 +3218,14 @@
                     {
                         "channel_name": "ESPN4 Brazil",
                         "channel_id": "85"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4024"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2016"
                     }
                 ]
             },
@@ -3084,6 +3236,14 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4025"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2017"
                     }
                 ]
             },
@@ -3098,6 +3258,14 @@
                     {
                         "channel_name": "MLB Network USA",
                         "channel_id": "399"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4026"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2018"
                     }
                 ]
             },
@@ -3112,6 +3280,14 @@
                     {
                         "channel_name": "NBC Sports Bay Area",
                         "channel_id": "753"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4027"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2019"
                     }
                 ]
             }
@@ -3160,6 +3336,14 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020"
                     }
                 ]
             },
@@ -3170,6 +3354,14 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
                     }
                 ]
             },
@@ -3192,6 +3384,14 @@
                     {
                         "channel_name": "ESPN3 MX",
                         "channel_id": "927"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4068"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022"
                     }
                 ]
             },
@@ -3202,6 +3402,14 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "17"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4069"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2023"
                     }
                 ]
             },
@@ -3224,6 +3432,14 @@
                     {
                         "channel_name": "ESPN3 MX",
                         "channel_id": "927"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2024"
                     }
                 ]
             },
@@ -3250,6 +3466,14 @@
                     {
                         "channel_name": "5 Star Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2025"
                     }
                 ]
             }
@@ -3262,6 +3486,14 @@
                     {
                         "channel_name": "WNBA League Pass",
                         "channel_id": "105"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4072"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2026"
                     }
                 ]
             },
@@ -3272,6 +3504,14 @@
                     {
                         "channel_name": "WNBA League Pass",
                         "channel_id": "106"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4074"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2027"
                     }
                 ]
             },
@@ -3282,6 +3522,14 @@
                     {
                         "channel_name": "WNBA League Pass",
                         "channel_id": "107"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4073"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2028"
                     }
                 ]
             }
