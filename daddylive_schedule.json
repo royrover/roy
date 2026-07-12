@@ -1,5 +1,87 @@
 {
     "Sunday 12th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "00:30",
+                "event": "MotoAmerica Superbike Monterey",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "2026 Race of Champions Modifieds at Shangri-La II Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "03:15",
+                "event": "Zenith Racing Series Road America",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "GCW: Melee in Manchester 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "04:45",
+                "event": "DIRTcar Summer Nationals Late Models Wayne County",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "2026 Prelude to the Nationals at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "Southern Nationals Wythe Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "Husets Speedway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "10:30",
@@ -3676,7 +3758,7 @@
         ],
         "All-Star Game ⚾": [
             {
-                "time": "21:16",
+                "time": "00:47",
                 "event": "⚾ 21:30 All-Star Futures Game: American League All-Stars vs National League All-Stars",
                 "channels": [
                     {
