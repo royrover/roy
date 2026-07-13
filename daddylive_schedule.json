@@ -64,6 +64,16 @@
                 ]
             },
             {
+                "time": "15:00",
+                "event": "Hamburg European Open (Women's Tennis) | 19–26 July 2026",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports Tennis DE",
+                        "channel_id": "884"
+                    }
+                ]
+            },
+            {
                 "time": "16:30",
                 "event": "Motorrad Grand Prix Deutschland (MotoGP), 10 – 12 July 2026 Sachsenring, Germany",
                 "channels": [
@@ -130,6 +140,40 @@
                     {
                         "channel_name": "NBA TV USA",
                         "channel_id": "404"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "Athletics London Diamond League (Track & Field) | 18 July 2026",
+                "channels": [
+                    {
+                        "channel_name": "BBC One UK",
+                        "channel_id": "356"
+                    },
+                    {
+                        "channel_name": "BBC Two UK",
+                        "channel_id": "357"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "UCI BMX Racing World Championships (BMX Racing) | 17–25 July 2026",
+                "channels": [
+                    {
+                        "channel_name": "SBS Australia",
+                        "channel_id": "241"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "Formula 1 Hungarian Grand Prix | Budapest, Hungary | 24–26 July 2026",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports F1 UK",
+                        "channel_id": "60"
                     }
                 ]
             },
@@ -1404,7 +1448,7 @@
         ],
         "Tennis 🎾 ATP - SINGLES: Bastad (Sweden) - clay": [
             {
-                "time": "00:22",
+                "time": "02:29",
                 "event": "🎾 Wimbledon Open",
                 "channels": [
                     {
