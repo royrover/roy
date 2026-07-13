@@ -1,9 +1,21 @@
 {
     "Monday 13 th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "05:00",
+                "event": "High Limit Racing hosts Interstate Batteries at Fremont Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "55"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
-                "event": "📺 Big Brother 👁️ 28 CAM 1",
+                "event": "📺 Big Brother 👁️ 28 Live Feeds Cam 1",
                 "channels": [
                     {
                         "channel_name": "BB Cam Live",
@@ -13,7 +25,7 @@
             },
             {
                 "time": "01:30",
-                "event": "📺 Big Brother 👁️ 28 CAM 2",
+                "event": "📺 Big Brother 👁️ 28 Live Feeds Cam 2",
                 "channels": [
                     {
                         "channel_name": "BB Cam Live",
@@ -23,7 +35,7 @@
             },
             {
                 "time": "01:30",
-                "event": "📺 Big Brother 👁️ 28 CAM 3",
+                "event": "📺 Big Brother 👁️ 28 Live Feeds Cam 3",
                 "channels": [
                     {
                         "channel_name": "BB Cam Live",
@@ -33,7 +45,7 @@
             },
             {
                 "time": "01:30",
-                "event": "📺 Big Brother 👁️ 28 CAM 4",
+                "event": "📺 Big Brother 👁️ 28 Live Feeds Cam 4",
                 "channels": [
                     {
                         "channel_name": "BB Cam Live",
@@ -43,7 +55,7 @@
             },
             {
                 "time": "01:30",
-                "event": "📺 Big Brother 👁️ 28 Quadview",
+                "event": "📺 Big Brother 👁️ 28 Live Feeds Quadview",
                 "channels": [
                     {
                         "channel_name": "BB Cam Live",
@@ -1448,7 +1460,7 @@
         ],
         "Tennis 🎾 ATP - SINGLES: Bastad (Sweden) - clay": [
             {
-                "time": "02:29",
+                "time": "05:11",
                 "event": "🎾 Wimbledon Open",
                 "channels": [
                     {
