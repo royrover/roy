@@ -1532,6 +1532,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004"
                     }
                 ]
             }
@@ -1620,12 +1624,282 @@
                 ]
             },
             {
+                "time": "01:30",
+                "event": "Club Friendly : Doncaster vs St. Patricks",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6030"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Club Friendly : Nairn County vs Ross County",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6031"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Scottish League Cup : Annan Athletic vs Dundee",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6032"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Scottish League Cup : Brechin City vs Livingston",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6033"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Scottish League Cup : Brora Rangers vs Aberdeen",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6034"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Scottish League Cup : Clyde vs Airdrieonians",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6035"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Scottish League Cup : Cove Rangers vs East Kilbride",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6036"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Scottish League Cup : Dunfermline Athletic vs Dumbarton",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6037"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Scottish League Cup : East Fife vs Greenock Morton",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6038"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Scottish League Cup : Edinburgh City vs Alloa Athletic",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6039"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Scottish League Cup : Elgin City vs Peterhead",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6040"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Scottish League Cup : Falkirk vs Ayr United",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6041"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Scottish League Cup : Forfar Athletic vs Partick Thistle",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6042"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Scottish League Cup : Kelty Hearts vs Queen's Park",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6043"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Scottish League Cup : Kilmarnock vs Raith Rovers",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6044"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Scottish League Cup : Linlithgow Rose vs St Johnstone",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6045"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Scottish League Cup : Montrose vs Dundee United",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6046"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Scottish League Cup : Spartans FC vs Stirling Albion",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6047"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Club Friendly : Cork City vs Cardiff",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6048"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Club Friendly : FC Halifax vs Chesterfield",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6049"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Club Friendly : Hitchin vs Dag & Red",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6050"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "⭐ UEFA Champions League : Larne vs Tre Fiori",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6051"
+                    }
+                ]
+            },
+            {
                 "time": "02:00",
                 "event": "⭐ UEFA Champions League: 🇮🇪 Shamrock Rovers vs 🇲🇹 Floriana",
                 "channels": [
                     {
                         "channel_name": "LOITV",
                         "channel_id": "17"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "⭐ Europe UEFA Conference League :",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6052"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "Ecuador Liga Pro Serie A : Macara vs Mushuc Runa",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6053"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "Bolivia División Profesional : Real Oruro vs Always Ready",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6054"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "Ecuador Liga Pro Serie A : Manta F.C. vs Delfin",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6055"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "Bolivia División Profesional : Blooming vs GV San Jose",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6056"
                     }
                 ]
             }
