@@ -1290,128 +1290,24 @@
                         "channel_id": "5064"
                     },
                     {
-                        "channel_name": "Backup Stream (FusballTV1)",
+                        "channel_name": "Backup Stream (RAI IT 4K)",
                         "channel_id": "5065"
                     },
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "2001"
-                    },
-                    {
-                        "channel_name": "TSN1",
-                        "channel_id": "3031"
-                    },
-                    {
-                        "channel_name": "MagentaTV",
-                        "channel_id": "3011"
-                    },
-                    {
-                        "channel_name": "DAZN Mundial ES",
-                        "channel_id": "4000"
-                    },
-                    {
-                        "channel_name": "M6 France",
-                        "channel_id": "3056"
-                    },
-                    {
-                        "channel_name": "ITV 1",
-                        "channel_id": "3001"
-                    },
-                    {
-                        "channel_name": "HRT 2 Crotia",
-                        "channel_id": "3070"
-                    },
-                    {
-                        "channel_name": "NPO 1 NL",
-                        "channel_id": "3088"
-                    },
-                    {
-                        "channel_name": "TVP Sport Poland",
-                        "channel_id": "3060"
-                    },
-                    {
-                        "channel_name": "Sport TV1 Portugal",
-                        "channel_id": "3021"
-                    },
-                    {
-                        "channel_name": "TV4 Sweden",
-                        "channel_id": "3074"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4001"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4002"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4003"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4001"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4002"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4003"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5020"
-                    },
-                    {
-                        "channel_name": "Backup Stream (4K Quality)",
-                        "channel_id": "5021"
-                    },
-                    {
-                        "channel_name": "Backup Stream (ITV UK)",
-                        "channel_id": "5022"
-                    },
-                    {
-                        "channel_name": "Backup Stream (TSN)",
-                        "channel_id": "5023"
+                        "channel_name": "Backup Stream (BBC ONE 4K)",
+                        "channel_id": "5066"
                     },
                     {
                         "channel_name": "Backup Stream (TSN 4K)",
-                        "channel_id": "5024"
+                        "channel_id": "5067"
                     },
                     {
-                        "channel_name": "Backup Stream (Bein Max AR)",
-                        "channel_id": "5025"
+                        "channel_name": "Backup Stream (Bein Arabic 4K)",
+                        "channel_id": "5068"
                     },
                     {
-                        "channel_name": "Backup Stream (Bein Max 4K)",
-                        "channel_id": "5026"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5027"
-                    },
-                    {
-                        "channel_name": "Backup Stream (Fussbaltv 4K)",
-                        "channel_id": "5028"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4001"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4002"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4003"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4004"
+                        "channel_name": "Backup Stream (BBC London)",
+                        "channel_id": "5069"
                     }
                 ]
             }
@@ -1676,6 +1572,76 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "6009"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "UEFA Conference League : Decic vs FK Liepaja",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6015"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "UEFA Champions League : Egnatia vs Petrocub",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6016"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "UEFA Champions League : FK Sutjeska vs Kairat Almaty",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6017"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "Ecuador Liga Pro Serie A : Leones vs Deportivo Cuenca",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6018"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "Ecuador Liga Pro Serie A : Universidad Catolica vs Liga de Quito",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6019"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "Bolivia División Profesional : Real Potosi vs SA Bulo Bulo",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6020"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "Bolivia División Profesional : The Strongest vs Oriente Petrolero",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6021"
                     }
                 ]
             }
@@ -2722,6 +2688,14 @@
                     {
                         "channel_name": "NBA TV USA",
                         "channel_id": "404"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
                     }
                 ]
             },
@@ -2748,6 +2722,14 @@
                     {
                         "channel_name": "Sport 5 Plus Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066"
                     }
                 ]
             },
@@ -2758,6 +2740,14 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
                     }
                 ]
             },
@@ -2788,6 +2778,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4105"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4068"
                     }
                 ]
             },
@@ -2798,6 +2796,14 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4069"
                     }
                 ]
             },
@@ -2832,6 +2838,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4102"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
                     }
                 ]
             },
@@ -2842,6 +2856,14 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
                     }
                 ]
             },
@@ -2872,6 +2894,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4105"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4072"
                     }
                 ]
             }
@@ -2884,6 +2914,14 @@
                     {
                         "channel_name": "WNBA League Pass",
                         "channel_id": "22"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4073"
                     }
                 ]
             },
@@ -2898,6 +2936,14 @@
                     {
                         "channel_name": "Spectrum SportsNet USA",
                         "channel_id": "982"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4074"
                     }
                 ]
             },
@@ -2930,6 +2976,14 @@
                     {
                         "channel_name": "USA Network",
                         "channel_id": "343"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4075"
                     }
                 ]
             }
