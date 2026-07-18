@@ -80,6 +80,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "163"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013"
                     }
                 ]
             },
@@ -1592,20 +1596,40 @@
                         "channel_id": "5003"
                     },
                     {
-                        "channel_name": "Backup Stream (ENG)",
+                        "channel_name": "Backup Stream (DE)",
                         "channel_id": "5004"
                     },
                     {
-                        "channel_name": "Backup Stream (TSN 4K)",
+                        "channel_name": "Backup Stream (Fussballtv1 4K)",
                         "channel_id": "5005"
                     },
                     {
-                        "channel_name": "Backup Stream (Bein AR)",
+                        "channel_name": "Backup Stream (BBC ONE 4K)",
                         "channel_id": "5006"
                     },
                     {
-                        "channel_name": "Backup Stream (ESP)",
+                        "channel_name": "Backup Stream (bein Sports UHD)",
                         "channel_id": "5007"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Rai 1 IT 4K)",
+                        "channel_id": "5008"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Now 4K HK)",
+                        "channel_id": "5009"
+                    },
+                    {
+                        "channel_name": "Backup Stream (MG France)",
+                        "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "Backup Stream (BBC ONE)",
+                        "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Bein Max Arabic)",
+                        "channel_id": "5012"
                     },
                     {
                         "channel_name": "Backup Stream (Fox USA)",
@@ -1616,40 +1640,32 @@
                         "channel_id": "5061"
                     },
                     {
-                        "channel_name": "Backup Stream (Telemundo)",
+                        "channel_name": "Backup Stream (BBC ONE)",
                         "channel_id": "5062"
                     },
                     {
-                        "channel_name": "Backup Stream (TSN1)",
+                        "channel_name": "Backup Stream (BBC ONE 4K)",
                         "channel_id": "5063"
                     },
                     {
-                        "channel_name": "(Bein Max Arabic)",
+                        "channel_name": "Backup Stream (TSN)",
                         "channel_id": "5064"
                     },
                     {
-                        "channel_name": "Backup Stream (RAI IT 4K)",
+                        "channel_name": "Backup Stream ((Bein Max Arabic))",
                         "channel_id": "5065"
                     },
                     {
-                        "channel_name": "Backup Stream (BBC ONE 4K)",
+                        "channel_name": "Backup Stream ((Bein Max Arabic 4K)",
                         "channel_id": "5066"
                     },
                     {
-                        "channel_name": "Backup Stream (TSN 4K)",
+                        "channel_name": "Backup Stream (Telemundo)",
                         "channel_id": "5067"
                     },
                     {
-                        "channel_name": "Backup Stream (Bein Arabic 4K)",
+                        "channel_name": "Backup Stream (Fusbbaltv1 4K)",
                         "channel_id": "5068"
-                    },
-                    {
-                        "channel_name": "Backup Stream (BBC London)",
-                        "channel_id": "5069"
-                    },
-                    {
-                        "channel_name": "Backup Stream (BBC London)",
-                        "channel_id": "5070"
                     },
                     {
                         "channel_name": "Backup Stream (Daznmundial-ES)",
@@ -2654,7 +2670,9 @@
                         "channel_id": "85"
                     }
                 ]
-            },
+            }
+        ],
+        "🏏 Cricket 🏆": [
             {
                 "time": "16:30",
                 "event": "🏏 Vitality Blast Semifinal : 🇬🇧 Northants vs 🇬🇧 Somerset",
@@ -4311,7 +4329,7 @@
                 "channels": [
                     {
                         "channel_name": "TrillerTV",
-                        "channel_id": "55"
+                        "channel_id": "28"
                     },
                     {
                         "channel_name": "ESPN3 Argentina",
@@ -4431,7 +4449,7 @@
             },
             {
                 "time": "04:00",
-                "event": "🥊 Professional Fighters League Prelims : 🇺🇸 Johnny Eblen vs 🇺🇸 Impa Kasanganay",
+                "event": "🥊 (PFL) Professional Fighters League Prelims : 🇺🇸 Johnny Eblen vs 🇺🇸 Impa Kasanganay",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4648,6 +4666,10 @@
                     {
                         "channel_name": "SuperSport Action",
                         "channel_id": "3007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5016"
                     }
                 ]
             }
