@@ -1,5 +1,67 @@
 {
     "Sunday 19th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "01:45",
+                "event": "NASCAR Whelen Modified Tour (NWMT) White Mountain",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Big Block Special at Utica-Rome",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "30"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "GCW: The Tussle in Tulsa 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
+                "time": "05:45",
+                "event": "Husets Speedway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "2026 Southern Nationals at Swainsboro Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "2026 Small Car Nationals at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "107"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
@@ -1352,8 +1414,16 @@
                         "channel_id": "239"
                     },
                     {
+                        "channel_name": "DIRECTV Sports Argentina",
+                        "channel_id": "619"
+                    },
+                    {
                         "channel_name": "NBC UNIVERSO",
                         "channel_id": "845"
+                    },
+                    {
+                        "channel_name": "CTV Canada",
+                        "channel_id": "602"
                     },
                     {
                         "channel_name": "TSN1",
@@ -1608,86 +1678,6 @@
                         "channel_id": "140"
                     },
                     {
-                        "channel_name": "Backup Stream (ENG)",
-                        "channel_id": "5001"
-                    },
-                    {
-                        "channel_name": "Backup Stream (4K)",
-                        "channel_id": "5002"
-                    },
-                    {
-                        "channel_name": "Backup Stream (ENG)",
-                        "channel_id": "5003"
-                    },
-                    {
-                        "channel_name": "Backup Stream (ENG)",
-                        "channel_id": "5004"
-                    },
-                    {
-                        "channel_name": "Backup Stream (TSN 4K)",
-                        "channel_id": "5005"
-                    },
-                    {
-                        "channel_name": "Backup Stream (Bein AR)",
-                        "channel_id": "5006"
-                    },
-                    {
-                        "channel_name": "Backup Stream (ESP)",
-                        "channel_id": "5007"
-                    },
-                    {
-                        "channel_name": "Backup Stream (Fox USA)",
-                        "channel_id": "5060"
-                    },
-                    {
-                        "channel_name": "Backup Stream (Fox 4K)",
-                        "channel_id": "5061"
-                    },
-                    {
-                        "channel_name": "Backup Stream (Telemundo)",
-                        "channel_id": "5062"
-                    },
-                    {
-                        "channel_name": "Backup Stream (TSN1)",
-                        "channel_id": "5063"
-                    },
-                    {
-                        "channel_name": "(Bein Max Arabic)",
-                        "channel_id": "5064"
-                    },
-                    {
-                        "channel_name": "Backup Stream (RAI IT 4K)",
-                        "channel_id": "5065"
-                    },
-                    {
-                        "channel_name": "Backup Stream (BBC ONE 4K)",
-                        "channel_id": "5066"
-                    },
-                    {
-                        "channel_name": "Backup Stream (TSN 4K)",
-                        "channel_id": "5067"
-                    },
-                    {
-                        "channel_name": "Backup Stream (Bein Arabic 4K)",
-                        "channel_id": "5068"
-                    },
-                    {
-                        "channel_name": "Backup Stream (BBC London)",
-                        "channel_id": "5069"
-                    },
-                    {
-                        "channel_name": "Backup Stream (BBC London)",
-                        "channel_id": "5070"
-                    },
-                    {
-                        "channel_name": "Backup Stream (Daznmundial-ES)",
-                        "channel_id": "5071"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "2001"
-                    },
-                    {
                         "channel_name": "TSN1",
                         "channel_id": "3031"
                     },
@@ -1728,64 +1718,116 @@
                         "channel_id": "3074"
                     },
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4001"
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5001"
                     },
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4002"
+                        "channel_name": "Backup Stream (4K)",
+                        "channel_id": "5002"
                     },
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4003"
+                        "channel_name": "Backup Stream (Telemundo)",
+                        "channel_id": "5003"
                     },
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4001"
+                        "channel_name": "Backup Stream (NBC UNIVERSO)",
+                        "channel_id": "5004"
                     },
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4002"
+                        "channel_name": "Backup Stream (Fussballtv1 DE 4K)",
+                        "channel_id": "5005"
                     },
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4003"
+                        "channel_name": "Backup Stream (RAI 1 IT)",
+                        "channel_id": "5006"
                     },
                     {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5020"
+                        "channel_name": "Backup Stream (beIN Sports MAX Arabia 4K)",
+                        "channel_id": "5007"
                     },
                     {
-                        "channel_name": "Backup Stream (4K Quality)",
-                        "channel_id": "5021"
+                        "channel_name": "Backup Stream (ITV 1 UK)",
+                        "channel_id": "5008"
                     },
                     {
-                        "channel_name": "Backup Stream (ITV UK)",
-                        "channel_id": "5022"
+                        "channel_name": "Backup Stream (beIN Sports MAX Arabia)",
+                        "channel_id": "5009"
+                    },
+                    {
+                        "channel_name": "Backup Stream (DAZN Mundial Spain)",
+                        "channel_id": "5010"
                     },
                     {
                         "channel_name": "Backup Stream (TSN)",
-                        "channel_id": "5023"
+                        "channel_id": "5011"
                     },
                     {
-                        "channel_name": "Backup Stream (TSN 4K)",
-                        "channel_id": "5024"
+                        "channel_name": "Backup Stream (DD Sports)",
+                        "channel_id": "5012"
                     },
                     {
-                        "channel_name": "Backup Stream (Bein Max AR)",
-                        "channel_id": "5025"
+                        "channel_name": "Backup Stream (Cazetv Brazil)",
+                        "channel_id": "5013"
                     },
                     {
-                        "channel_name": "Backup Stream (Bein Max 4K)",
-                        "channel_id": "5026"
+                        "channel_name": "Backup Stream (DIRECTV Sports Argentina)",
+                        "channel_id": "5014"
+                    },
+                    {
+                        "channel_name": "Backup Stream (DIRECTV Sports Argentina)",
+                        "channel_id": "5014"
+                    },
+                    {
+                        "channel_name": "Backup Stream (TVP Sport Poland)",
+                        "channel_id": "5015"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Fox USA)",
+                        "channel_id": "5060"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Fox 4K)",
+                        "channel_id": "5061"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ITV 1 UK)",
+                        "channel_id": "5062"
+                    },
+                    {
+                        "channel_name": "Backup Stream (BBC ONE)",
+                        "channel_id": "5063"
+                    },
+                    {
+                        "channel_name": "(BBC ONE 4K)",
+                        "channel_id": "5064"
+                    },
+                    {
+                        "channel_name": "Backup Stream (TSN)",
+                        "channel_id": "5065"
+                    },
+                    {
+                        "channel_name": "Backup Stream (DIRECTV Sports Argentina)",
+                        "channel_id": "5066"
+                    },
+                    {
+                        "channel_name": "Backup Stream (beIN Sports MAX Arabia)",
+                        "channel_id": "5067"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Bein Arabic 4K)",
+                        "channel_id": "5068"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Telemundo)",
+                        "channel_id": "5069"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Fussball.TV 4K)",
+                        "channel_id": "5070"
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "5027"
-                    },
-                    {
-                        "channel_name": "Backup Stream (Fussbaltv 4K)",
-                        "channel_id": "5028"
+                        "channel_id": "2001"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -1802,6 +1844,166 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4101"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4102"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4103"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4104"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4105"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4103"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4104"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4106"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4107"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4108"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4109"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4110"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4111"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4122"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4102"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2070"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2071"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2072"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2073"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2074"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2075"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7051"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7052"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7053"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7054"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7055"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7056"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6060"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6061"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6062"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6063"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6064"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6065"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6066"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6067"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6068"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6069"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6070"
                     }
                 ]
             },
