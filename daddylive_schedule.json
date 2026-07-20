@@ -1,5 +1,41 @@
 {
     "Monday 20th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "04:45",
+                "event": "Autodrome Drummond",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "21"
+                    },
+                    {
+                        "channel_name": "Dirtvision 2",
+                        "channel_id": "5002"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "Millbridge Speedway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "22"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "2026 Wild Thing Kart Series at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "23"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
