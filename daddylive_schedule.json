@@ -210,16 +210,6 @@
                 ]
             },
             {
-                "time": "07:00",
-                "event": "NBA Draft (Basketball) | First Round Selection & Draft Coverage, 23–24 June 2026",
-                "channels": [
-                    {
-                        "channel_name": "NBA TV USA",
-                        "channel_id": "404"
-                    }
-                ]
-            },
-            {
                 "time": "08:00",
                 "event": "Formula 1 Hungarian Grand Prix | Budapest, Hungary | 24–26 July 2026",
                 "channels": [
@@ -3163,6 +3153,10 @@
                 "time": "02:00",
                 "event": "🏀 WNBA : Minnesota Lynx vs Seattle Storm",
                 "channels": [
+                    {
+                        "channel_name": "WNBA Pass",
+                        "channel_id": "30"
+                    },
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4071"
