@@ -4152,12 +4152,46 @@
         ],
         "All Soccer Events ⚽": [
             {
+                "time": "19:00",
+                "event": "⚽ Club Friendly : Rio Ave vs Nottingham Forest",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6001"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "⚽ UEFA Conference League : KF Malisheva vs Hibernian",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6002"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "⚽ UEFA Conference League : Alashkert FC vs CFR Cluj-Napoca",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6003"
+                    }
+                ]
+            },
+            {
                 "time": "22:00",
                 "event": "⚽ UEFA Conference League : 🇱🇻 Liepāja vs 🇦🇹 Austria Wien",
                 "channels": [
                     {
                         "channel_name": "Puls 4 Austria",
                         "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4103"
                     }
                 ]
             },
@@ -4168,6 +4202,44 @@
                     {
                         "channel_name": "Qazsport",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Qazsport",
+                        "channel_id": "3065"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "⚽ Club Friendly : Zorya vs Goztepe",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6004"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "⚽ Club Friendly : Sampdoria vs Cagliari",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4107"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "⚽ Club Friendly : Venezia vs Vis Pesaro",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6007"
                     }
                 ]
             },
@@ -4182,6 +4254,10 @@
                     {
                         "channel_name": "MAX Sport 2 Croatia",
                         "channel_id": "780"
+                    },
+                    {
+                        "channel_name": "MAX Sport 1 Croatia",
+                        "channel_id": "3070"
                     }
                 ]
             },
@@ -4207,6 +4283,16 @@
             },
             {
                 "time": "23:00",
+                "event": "⚽ UEFA Conference League : Flora vs The New Saints",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6008"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
                 "event": "⚽ UEFA Conference League : 🇭🇺 Debrecen vs 🇦🇲 Pyunik",
                 "channels": [
                     {
@@ -4216,6 +4302,28 @@
                     {
                         "channel_name": "Arena Sport 1 Slovakia",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "M4 Sport Hungary",
+                        "channel_id": "3064"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4105"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4106"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "⚽ UEFA Conference League :HJK Helsinki vs Coleraine",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6009"
                     }
                 ]
             },
@@ -4230,6 +4338,28 @@
                     {
                         "channel_name": "CBC Sport Azerbaijan",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "CBC Sport Azerbaijan",
+                        "channel_id": "3068"
+                    },
+                    {
+                        "channel_name": "Diema Sport Bulgaria",
+                        "channel_id": "3048"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "⚽ Club Friendly : Skive vs Holstebro",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4111"
                     }
                 ]
             },
@@ -4240,6 +4370,10 @@
                     {
                         "channel_name": "TV4 Latvia",
                         "channel_id": "17"
+                    },
+                    {
+                        "channel_name": "TV4 Latvia",
+                        "channel_id": "3058"
                     }
                 ]
             },
@@ -4250,6 +4384,10 @@
                     {
                         "channel_name": "RTVS Sport Slovakia",
                         "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "RTVS Sport Slovakia",
+                        "channel_id": "3042"
                     }
                 ]
             },
@@ -4264,6 +4402,14 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    },
+                    {
+                        "channel_name": "Cytavision Sports 1 Cyprus",
+                        "channel_id": "3025"
+                    },
+                    {
+                        "channel_name": "Sport 4 Israel",
+                        "channel_id": "3063"
                     }
                 ]
             },
@@ -4278,6 +4424,10 @@
                     {
                         "channel_name": "Prima Sport 1 Romania",
                         "channel_id": "583"
+                    },
+                    {
+                        "channel_name": "Digi Sport 1 Romania",
+                        "channel_id": "3066"
                     }
                 ]
             },
@@ -4288,16 +4438,96 @@
                     {
                         "channel_name": "M2 Moldova",
                         "channel_id": "18"
+                    },
+                    {
+                        "channel_name": "M2 Moldova",
+                        "channel_id": "3093"
                     }
                 ]
             },
             {
                 "time": "00:00",
-                "event": "⚽ UEFA Europa League : 🇲🇩 Sheriff Tiraspol vs 🇮🇱 Maccabi Tel Aviv",
+                "event": "⚽ UEFA Conference League : Tromso vs FC Hradec Kralove",
                 "channels": [
                     {
-                        "channel_name": "Sport 1 Israel",
-                        "channel_id": "140"
+                        "channel_name": "Sport 1 CZ",
+                        "channel_id": "1042"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6011"
+                    },
+                    {
+                        "channel_name": "Sport 1 CZ",
+                        "channel_id": "3092"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "⚽ UEFA Conference League : BATE Borisov vs FC Sion",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6012"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "⚽ UEFA Conference League : Dinamo Tbilisi vs Zalgiris Vilnius",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6013"
+                    },
+                    {
+                        "channel_name": "1TV Ukraine",
+                        "channel_id": "3059"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "⚽ UEFA Conference League : GAIS vs FC Nordsjaelland",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6014"
+                    },
+                    {
+                        "channel_name": "Sport Bladet Play Swden",
+                        "channel_id": "3071"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "⚽ UEFA Conference League : ML Vitebsk vs FK Sutjeska",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6015"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "⚽ UEFA Conference League : Santa Coloma vs Rapid Vienna",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6016"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "⚽ UEFA Conference League : Maccabi Haifa x Hapoel Haifa",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4109"
                     }
                 ]
             },
@@ -4308,6 +4538,10 @@
                     {
                         "channel_name": "2+2 Ukraine",
                         "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4110"
                     }
                 ]
             },
@@ -4322,6 +4556,18 @@
                     {
                         "channel_name": "Canal 11 Portugal",
                         "channel_id": "540"
+                    },
+                    {
+                        "channel_name": "Club RTL Belgium",
+                        "channel_id": "3049"
+                    },
+                    {
+                        "channel_name": "Canal 11 Portugal",
+                        "channel_id": "3022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4104"
                     }
                 ]
             },
@@ -4346,6 +4592,24 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Sport 1 Israel",
+                        "channel_id": "3043"
+                    },
+                    {
+                        "channel_name": "Diema Sport 2 Bulgaria",
+                        "channel_id": "3062"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "⚽ UEFA Conference League : FC Vaduz vs Atletic Club d'Escaldes",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6017"
                     }
                 ]
             },
@@ -4356,6 +4620,14 @@
                     {
                         "channel_name": "Pro TV Romania",
                         "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6018"
+                    },
+                    {
+                        "channel_name": "Pro TV Romania",
+                        "channel_id": "3095"
                     }
                 ]
             },
@@ -4388,6 +4660,10 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
+                    },
+                    {
+                        "channel_name": "Ziggo Sport 1 Netherlands",
+                        "channel_id": "3083"
                     }
                 ]
             },
@@ -4402,6 +4678,24 @@
                     {
                         "channel_name": "MAX Sport 1 Croatia",
                         "channel_id": "779"
+                    },
+                    {
+                        "channel_name": "Nova Sport 5 Czechia",
+                        "channel_id": "3045"
+                    },
+                    {
+                        "channel_name": "MAX Sport 1 Croatia",
+                        "channel_id": "3070"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "⚽ UEFA Conference League : Stjarnan vs Ilves",
+                "channels": [
+                    {
+                        "channel_name": "SÝN Sport 2 Island",
+                        "channel_id": "3094"
                     }
                 ]
             },
@@ -4424,6 +4718,32 @@
                     {
                         "channel_name": "Arena 4 Premium Serbia",
                         "channel_id": "22"
+                    },
+                    {
+                        "channel_name": "Skai TV Greece",
+                        "channel_id": "3024"
+                    },
+                    {
+                        "channel_name": "M4 Sport Hungary",
+                        "channel_id": "3064"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4105"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "⚽ UEFA Conference League : Polissya Zhitomir vs F.C. Kobenhavn",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6019"
+                    },
+                    {
+                        "channel_name": "MEGOGO Football 1",
+                        "channel_id": "3099"
                     }
                 ]
             },
@@ -4448,6 +4768,10 @@
                     {
                         "channel_name": "S Sport+ Türkiye",
                         "channel_id": "27"
+                    },
+                    {
+                        "channel_name": "S Sport+ Türkiye",
+                        "channel_id": "3091"
                     }
                 ]
             },
@@ -4466,6 +4790,22 @@
                     {
                         "channel_name": "JOJ Sport Slovakia",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "SRF zwei",
+                        "channel_id": "3012"
+                    },
+                    {
+                        "channel_name": "Sport TV5 Portugal",
+                        "channel_id": "3021"
+                    },
+                    {
+                        "channel_name": "JOJ Sport Slovakia",
+                        "channel_id": "3041"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4103"
                     }
                 ]
             },
@@ -4484,6 +4824,22 @@
                     {
                         "channel_name": "ESPN 1 Netherlands",
                         "channel_id": "379"
+                    },
+                    {
+                        "channel_name": "Sport 1 Hungary",
+                        "channel_id": "3067"
+                    },
+                    {
+                        "channel_name": "ESPN 1 Netherlands",
+                        "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "Sport TV1 Portugal",
+                        "channel_id": "3019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4108"
                     }
                 ]
             },
@@ -4494,6 +4850,10 @@
                     {
                         "channel_name": "RSI La 2",
                         "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "RSI La 2",
+                        "channel_id": "3013"
                     }
                 ]
             },
@@ -4504,6 +4864,10 @@
                     {
                         "channel_name": "Moldova 1",
                         "channel_id": "23"
+                    },
+                    {
+                        "channel_name": "RTRS Moldova",
+                        "channel_id": "3098"
                     }
                 ]
             },
@@ -4518,6 +4882,14 @@
                     {
                         "channel_name": "RTVS Sport Slovakia",
                         "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "TVP Sport Poland",
+                        "channel_id": "3060"
+                    },
+                    {
+                        "channel_name": "RTVS Sport Slovakia",
+                        "channel_id": "3042"
                     }
                 ]
             },
@@ -4528,6 +4900,10 @@
                     {
                         "channel_name": "ŠTV 1 Slovenia",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "ŠTV 1 Slovenia",
+                        "channel_id": "3046"
                     }
                 ]
             },
@@ -4542,6 +4918,10 @@
                     {
                         "channel_name": "MAX Sport 2 Croatia",
                         "channel_id": "780"
+                    },
+                    {
+                        "channel_name": "MAX Sport 2 Croatia",
+                        "channel_id": "3069"
                     }
                 ]
             },
@@ -4556,6 +4936,10 @@
                     {
                         "channel_name": "RTS 2 Serbia",
                         "channel_id": "24"
+                    },
+                    {
+                        "channel_name": "RTS 2 Serbia",
+                        "channel_id": "3096"
                     }
                 ]
             },
@@ -4570,6 +4954,10 @@
                     {
                         "channel_name": "Cytavision Sports 2 Cyprus",
                         "channel_id": "912"
+                    },
+                    {
+                        "channel_name": "Cytavision Sports 2 Cyprus",
+                        "channel_id": "3023"
                     }
                 ]
             },
@@ -4580,6 +4968,10 @@
                     {
                         "channel_name": "Arena Sport 1P",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "SÝN Sport 1 Ísland",
+                        "channel_id": "3097"
                     }
                 ]
             },
@@ -5914,6 +6306,10 @@
                     {
                         "channel_name": "Sky Sport 5 NZ",
                         "channel_id": "592"
+                    },
+                    {
+                        "channel_name": "Fox Soccer Plus",
+                        "channel_id": "3083"
                     }
                 ]
             }
@@ -6384,6 +6780,10 @@
                     {
                         "channel_name": "Sport 2 Hungary",
                         "channel_id": "25"
+                    },
+                    {
+                        "channel_name": "DAZN DE",
+                        "channel_id": "3017"
                     }
                 ]
             }
