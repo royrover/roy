@@ -1,5 +1,57 @@
 {
     "Thursday 23rd July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "05:00",
+                "event": "High Limit Racing at Ransomville",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "15"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "USAC Indiana Sprint Week at IMS",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "16"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "2026 Southern Nationals at Sugar Creek Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "17"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "IWR: Insane Rumble 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "18"
+                    }
+                ]
+            },
+            {
+                "time": "07:15",
+                "event": "Jackson Motorplex Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "19"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
