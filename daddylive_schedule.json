@@ -1252,6 +1252,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001"
                     }
                 ]
             },
@@ -1658,6 +1662,10 @@
                     {
                         "channel_name": "TUDN USA",
                         "channel_id": "66"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9004"
                     }
                 ]
             },
@@ -1676,6 +1684,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001"
                     }
                 ]
             },
@@ -2068,6 +2080,10 @@
                         "channel_id": "393"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001"
+                    },
+                    {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
                     },
@@ -2194,6 +2210,10 @@
                         "channel_id": "22"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9002"
+                    },
+                    {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
                     },
@@ -2230,6 +2250,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4108"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9004"
                     }
                 ]
             },
@@ -2250,6 +2274,10 @@
                     {
                         "channel_name": "DAZN IT",
                         "channel_id": "3045"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9005"
                     }
                 ]
             },
@@ -2260,6 +2288,10 @@
                     {
                         "channel_name": "DAZN IT",
                         "channel_id": "3046"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9003"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -2308,6 +2340,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4108"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9002"
                     }
                 ]
             }
@@ -2946,6 +2982,16 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1577"
+                    }
+                ]
+            },
+            {
+                "time": "09:30",
+                "event": "🇲🇽 ATP Los Cabos: Juan Alejandro Hernández Serrano 🇲🇽 vs Alan Magadán 🇲🇽",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1578"
                     }
                 ]
             }
@@ -3652,6 +3698,34 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2075"
+                    },
+                    {
+                        "channel_name": "AppleTV+",
+                        "channel_id": "5000"
+                    },
+                    {
+                        "channel_name": "Sky Sports F1 4K",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Sky Sports 1 NZ",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Sky Sports 1 NZ 4K",
+                        "channel_id": "5003"
+                    },
+                    {
+                        "channel_name": "Fox Sports 506",
+                        "channel_id": "5004"
+                    },
+                    {
+                        "channel_name": "DAZN F1 ES",
+                        "channel_id": "5005"
+                    },
+                    {
+                        "channel_name": "Eleven Sports 1 Poland",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -3856,6 +3930,34 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2075"
+                    },
+                    {
+                        "channel_name": "AppleTV+",
+                        "channel_id": "5000"
+                    },
+                    {
+                        "channel_name": "Sky Sports F1 4K",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Sky Sports 1 NZ",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Sky Sports 1 NZ 4K",
+                        "channel_id": "5003"
+                    },
+                    {
+                        "channel_name": "Fox Sports 506",
+                        "channel_id": "5004"
+                    },
+                    {
+                        "channel_name": "DAZN F1 ES",
+                        "channel_id": "5005"
+                    },
+                    {
+                        "channel_name": "Eleven Sports 1 Poland",
+                        "channel_id": "5006"
                     }
                 ]
             },
