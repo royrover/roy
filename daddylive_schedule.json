@@ -1,5 +1,67 @@
 {
     "Sunday 26th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "04:45",
+                "event": "IRA Sprints Angell Park",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "04:45",
+                "event": "USAC Indiana Sprint Week Lawrenceburg",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "World of Outlaws Sprint Cars Weedsport",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "High Limit Racing Port Royal",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "Weekly Racing Slinger",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "09:45",
+                "event": "AMSOIL Championship Off Road",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "156"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
@@ -1984,6 +2046,14 @@
                     {
                         "channel_name": "ESPN Premium",
                         "channel_id": "3084"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7061"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7062"
                     }
                 ]
             },
