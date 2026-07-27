@@ -1,5 +1,27 @@
 {
     "Monday 27th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "05:15",
+                "event": "Wild Thing Kart Series Stafford",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "05:45",
+                "event": "USAC Indiana Sprint Week Circle City",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "59"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
@@ -64,12 +86,96 @@
                 ]
             },
             {
+                "time": "13:00",
+                "event": "🏎️🇳🇱 Formula 1 Dutch Grand Prix | Zandvoort, Netherlands | 21–23 August 2026",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports F1 UK",
+                        "channel_id": "60"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "⚽🏴 Start of 2026 | 27 Premier League Season | UK | 22 August 2026",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports Premier League",
+                        "channel_id": "130"
+                    },
+                    {
+                        "channel_name": "Sky Sports Football",
+                        "channel_id": "35"
+                    },
+                    {
+                        "channel_name": "TNT Sports 1",
+                        "channel_id": "31"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "🎾🇺🇸 US Open | New York, USA | 23 August–13 September 2026",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    },
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "40"
+                    }
+                ]
+            },
+            {
                 "time": "19:00",
                 "event": "🏍️🇬🇧 British Grand Prix (MotoGP) | Silverstone, UK | 7–9 August 2026",
                 "channels": [
                     {
                         "channel_name": "CANAL+ MotoGP France",
                         "channel_id": "271"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "🏃🇨🇭 Lausanne Diamond League | Lausanne, Switzerland | 21 August 2026",
+                "channels": [
+                    {
+                        "channel_name": "Eurosport 1 GR",
+                        "channel_id": "41"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "⚽🇲🇦 Africa Women Cup of Nations | Morocco | 26 July–16 August 2026",
+                "channels": [
+                    {
+                        "channel_name": "SuperSport Football",
+                        "channel_id": "56"
+                    },
+                    {
+                        "channel_name": "beIN SPORTS 1 English",
+                        "channel_id": "61"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "⚽🇧🇦 UEFA Women's Under-19 Championship | Bosnia and Herzegovina | 27 June–10 July 2026",
+                "channels": [
+                    {
+                        "channel_name": "Eurosport 1 GR",
+                        "channel_id": "41"
+                    },
+                    {
+                        "channel_name": "Eurosport 2 GR",
+                        "channel_id": "42"
                     }
                 ]
             },
@@ -104,6 +210,20 @@
                 ]
             },
             {
+                "time": "07:30",
+                "event": "⛳🇬🇧 AIG Women's Open | Royal Lytham & St Annes, UK | 30 July–2 August 2026",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports Golf",
+                        "channel_id": "70"
+                    },
+                    {
+                        "channel_name": "GOLF Channel USA",
+                        "channel_id": "318"
+                    }
+                ]
+            },
+            {
                 "time": "10:00",
                 "event": "🤺🇭🇰 Fencing World Championships | Hong Kong | 22–30 July 2026",
                 "channels": [
@@ -114,20 +234,44 @@
                 ]
             },
             {
+                "time": "10:31",
+                "event": "🚗🇫🇮 Rally Finland (WRC) | Jyväskylä, Finland | 30 July–2 August 2026",
+                "channels": [
+                    {
+                        "channel_name": "Rally.TV",
+                        "channel_id": "607"
+                    }
+                ]
+            },
+            {
                 "time": "10:30",
-                "event": "Saturday Night Live (SNL)",
+                "event": "🤸🇩🇪 FIG Rhythmic Gymnastics World Championships | Frankfurt, Germany | 12–16 August 2026",
+                "channels": [
+                    {
+                        "channel_name": "Eurosport 1 GR",
+                        "channel_id": "41"
+                    },
+                    {
+                        "channel_name": "Eurosport 2 GR",
+                        "channel_id": "42"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "📺🇺🇸 Saturday Night Live (SNL USA)",
                 "channels": [
                     {
                         "channel_name": "Sky One USA",
                         "channel_id": "708"
                     },
                     {
-                        "channel_name": "NBCNY USA",
-                        "channel_id": "769"
-                    },
-                    {
                         "channel_name": "NBC USA",
                         "channel_id": "53"
+                    },
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
                     }
                 ]
             }
