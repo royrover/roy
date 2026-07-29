@@ -1,5 +1,47 @@
 {
     "Wednesday 29th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "05:15",
+                "event": "World of Outlaws Sprints Baps",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "Millbridge Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "USAC Indiana Sprint Week Paragon",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "Hoodslam The MidSommerSquash 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "69"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
@@ -1093,7 +1135,7 @@
                 "channels": [
                     {
                         "channel_name": "SporTV Brazil",
-                        "channel_id": "49"
+                        "channel_id": "78"
                     }
                 ]
             },
@@ -4884,6 +4926,172 @@
                     {
                         "channel_name": "SuperSport Variety 1",
                         "channel_id": "416"
+                    }
+                ]
+            }
+        ]
+    },
+    "Tuesday 28th April 2026 - Schedule Time UK GMT": {
+        "Soccer": [
+            {
+                "time": "23:00",
+                "event": "Soccer : Al-Ahli Manama vs Al Riffa",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-1",
+                        "channel_id": "1"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Soccer : Al-Shabbab vs Bahrain SC",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-2",
+                        "channel_id": "2"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Soccer : Al Shabab vs Al Fateh",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-3",
+                        "channel_id": "3"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "Soccer : Neom SC vs Al Hazem",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-4",
+                        "channel_id": "4"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Soccer : CR Belouizdad vs Khenchela",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-5",
+                        "channel_id": "5"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Soccer : Feirense vs Torreense",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-6",
+                        "channel_id": "6"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Soccer : Norrkoping vs Landskrona",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-7",
+                        "channel_id": "7"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Soccer : RFS vs Riga FC",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-8",
+                        "channel_id": "8"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Soccer : Al Hilal vs Damac",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-9",
+                        "channel_id": "9"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Soccer : Al Khaleej vs Al Najma",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-10",
+                        "channel_id": "10"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Soccer : Southampton vs Ipswich Town",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-11",
+                        "channel_id": "11"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Soccer : Northampton Town vs Barnsley",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-12",
+                        "channel_id": "12"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Soccer : Peterborough United vs Mansfield Town",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-13",
+                        "channel_id": "13"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Soccer : Stockport County vs Port Vale",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-14",
+                        "channel_id": "14"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Soccer : USM Alger vs Paradou",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-15",
+                        "channel_id": "15"
+                    }
+                ]
+            }
+        ],
+        "Cricket": [
+            {
+                "time": "21:00",
+                "event": "Indian Premier League : Kings XI Punjab vs Rajasthan Royals",
+                "channels": [
+                    {
+                        "channel_name": "Extra Stream CH-16",
+                        "channel_id": "16"
                     }
                 ]
             }
