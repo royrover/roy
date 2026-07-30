@@ -1,5 +1,37 @@
 {
     "Thursday 30th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "01:00",
+                "event": "Power Slap 22 : Bathory vs Montes",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "USAC Indiana Sprint Week Terre Haute",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "World of Outlaws Late Models Cedar Creek",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
@@ -664,6 +696,20 @@
                 ]
             },
             {
+                "time": "02:00",
+                "event": "⚽ 🇪🇺 Paraguay Primera División : San Lorenzo vs Guarani",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6045"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7051"
+                    }
+                ]
+            },
+            {
                 "time": "03:00",
                 "event": "⚽ 🌍 Women's Africa Cup of Nations: 🇲🇦 Morocco vs 🇩🇿 Algeria",
                 "channels": [
@@ -698,6 +744,50 @@
                 ]
             },
             {
+                "time": "03:30",
+                "event": "⚽ Colombia Copa DIMAYOR, Knockout Stage : Envigado FC vs Once Caldas",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6046"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "⚽ Colombia Copa DIMAYOR, Knockout Stage : Atletico Cali vs LDU Portoviejo",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6047"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "⚽ Colombia Copa DIMAYOR, Knockout Stage : Cumbaya vs Deportivo Cuenca Juniors",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6048"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "⚽ Paraguay Primera División : Libertad Asuncion vs Recoleta",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6049"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7052"
+                    }
+                ]
+            },
+            {
                 "time": "05:00",
                 "event": "⚽ 🇦🇷 Primera División: Independiente Rivadavia 🇦🇷 vs Huracán 🇦🇷",
                 "channels": [
@@ -708,6 +798,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4111"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7055"
+                    },
+                    {
+                        "channel_name": "TNT Sports Argentina",
+                        "channel_id": "3085"
                     }
                 ]
             },
@@ -726,6 +824,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4110"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7053"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7054"
+                    },
+                    {
+                        "channel_name": "ESPN Premium Argentina",
+                        "channel_id": "3084"
                     }
                 ]
             },
@@ -780,6 +890,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4118"
+                    },
+                    {
+                        "channel_name": "Sportdigital FUSSBALL",
+                        "channel_id": "3019"
+                    },
+                    {
+                        "channel_name": "beIN SPORTS en Español",
+                        "channel_id": "3040"
+                    },
+                    {
+                        "channel_name": "beIN SPORTS USA",
+                        "channel_id": "3039"
                     }
                 ]
             },
@@ -788,12 +910,16 @@
                 "event": "⚽ 🌎 CONCACAF U20 Championship: 🇨🇷 Costa Rica U20 vs 🇦🇬 Antigua and Barbuda U20",
                 "channels": [
                     {
-                        "channel_name": "Fox Sports 2 USA",
-                        "channel_id": "758"
+                        "channel_name": "Fox Soccer Plus",
+                        "channel_id": "756"
                     },
                     {
                         "channel_name": "TUDN USA",
                         "channel_id": "66"
+                    },
+                    {
+                        "channel_name": "Fox Soccer Plus",
+                        "channel_id": "3083"
                     }
                 ]
             },
@@ -832,6 +958,14 @@
                     {
                         "channel_name": "Arena 1 Premium Serbia",
                         "channel_id": "134"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4112"
+                    },
+                    {
+                        "channel_name": "Viaplay Sports 1 UK",
+                        "channel_id": "3051"
                     }
                 ]
             },
@@ -858,6 +992,44 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4101"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4119"
+                    },
+                    {
+                        "channel_name": "Viaplay Sports 2 UK",
+                        "channel_id": "3002"
+                    },
+                    {
+                        "channel_name": "VG+ Denmark",
+                        "channel_id": "3072"
+                    },
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "3003"
+                    }
+                ]
+            },
+            {
+                "time": "07:15",
+                "event": "⚽ Argentina Liga Profesional, Clausura : Central Cordoba vs Atletico Tucuman",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6051"
                     }
                 ]
             },
@@ -880,6 +1052,10 @@
                     {
                         "channel_name": "Arena Sport 2 Croatia",
                         "channel_id": "433"
+                    },
+                    {
+                        "channel_name": "ESPN Premium Argentina",
+                        "channel_id": "3084"
                     }
                 ]
             },
@@ -890,6 +1066,14 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "388"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4110"
+                    },
+                    {
+                        "channel_name": "TNT Sports Argentina",
+                        "channel_id": "3085"
                     }
                 ]
             },
@@ -912,6 +1096,10 @@
                     {
                         "channel_name": "Arena 1 Premium Serbia",
                         "channel_id": "134"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4114"
                     }
                 ]
             },
@@ -930,6 +1118,10 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
+                    },
+                    {
+                        "channel_name": "ESPN2 Argentina",
+                        "channel_id": "3026"
                     }
                 ]
             },
@@ -992,6 +1184,30 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4105"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4118"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4113"
+                    },
+                    {
+                        "channel_name": "Sportdigital FUSSBALL",
+                        "channel_id": "3019"
+                    },
+                    {
+                        "channel_name": "beIN SPORTS en Español",
+                        "channel_id": "3040"
+                    },
+                    {
+                        "channel_name": "beIN SPORTS USA",
+                        "channel_id": "3039"
                     }
                 ]
             },
@@ -1017,6 +1233,16 @@
             },
             {
                 "time": "08:00",
+                "event": "⚽ North & Central America CONCACAF Central American Cup : Herediano vs Marathon",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6052"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
                 "event": "⚽ 🌎 CONCACAF U20 Championship: 🇲🇽 Mexico U20 vs 🇬🇹 Guatemala U20",
                 "channels": [
                     {
@@ -1030,6 +1256,10 @@
                     {
                         "channel_name": "TUDN USA",
                         "channel_id": "66"
+                    },
+                    {
+                        "channel_name": "Fox Sports 2 USA",
+                        "channel_id": "3082"
                     }
                 ]
             }
@@ -1783,6 +2013,26 @@
             },
             {
                 "time": "01:45",
+                "event": "⚽ 🇪🇺 UEFA Conference League: Coleraine vs HJK Helsinki",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6040"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "⚽ 🇪🇺 UEFA Conference League: FC Koper vs NSI Runavik",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6041"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
                 "event": "⚽ 🇪🇺 UEFA Conference League: 🇸🇮 Koper vs 🇫🇴 NSÍ",
                 "channels": [
                     {
@@ -1792,6 +2042,16 @@
                     {
                         "channel_name": "ŠTV 2 Slovenia",
                         "channel_id": "3097"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "⚽ 🇪🇺 UEFA Conference League: Braga vs Zeleznicar Pancevo",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6042"
                     }
                 ]
             },
@@ -1834,6 +2094,26 @@
                     {
                         "channel_name": "SuperSport 2 Digitalb",
                         "channel_id": "3096"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "⚽ 🇪🇺 UEFA Conference League: FK Sutjeska vs ML Vitebsk",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6043"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "⚽ 🇪🇺 UEFA Conference League: Hibernian vs KF Malisheva",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6044"
                     }
                 ]
             }
@@ -3010,6 +3290,10 @@
                     {
                         "channel_name": "TNT USA",
                         "channel_id": "338"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2015"
                     }
                 ]
             },
@@ -3426,6 +3710,14 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3031"
                     }
                 ]
             }
@@ -3630,6 +3922,14 @@
                     {
                         "channel_name": "Arena Sport 1 Croatia",
                         "channel_id": "432"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4015"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8018"
                     }
                 ]
             },
@@ -3640,6 +3940,18 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4016"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8022"
                     }
                 ]
             },
@@ -3666,6 +3978,18 @@
                     {
                         "channel_name": "Chicago Sports Network",
                         "channel_id": "776"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4017"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8023"
                     }
                 ]
             },
@@ -3688,6 +4012,18 @@
                     {
                         "channel_name": "SPORT1+ DE",
                         "channel_id": "640"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4018"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8024"
                     }
                 ]
             },
@@ -3714,6 +4050,18 @@
                     {
                         "channel_name": "ESPN3 MX",
                         "channel_id": "927"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8020"
                     }
                 ]
             },
@@ -3732,6 +4080,18 @@
                     {
                         "channel_name": "beIN Sports 5 Max France",
                         "channel_id": "495"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8017"
                     }
                 ]
             },
@@ -3746,6 +4106,18 @@
                     {
                         "channel_name": "SportsNet Pittsburgh",
                         "channel_id": "922"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8015"
                     }
                 ]
             },
@@ -3764,6 +4136,14 @@
                     {
                         "channel_name": "NBCS California USA",
                         "channel_id": "755"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4022"
                     }
                 ]
             },
@@ -3778,6 +4158,14 @@
                     {
                         "channel_name": "NBCS Bay Area USA",
                         "channel_id": "753"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4023"
                     }
                 ]
             },
@@ -3800,6 +4188,18 @@
                     {
                         "channel_name": "Spectrum SportsNet LA",
                         "channel_id": "764"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4024"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8029"
                     }
                 ]
             }
@@ -3844,6 +4244,14 @@
                     {
                         "channel_name": "WNBA League Pass",
                         "channel_id": "76"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066"
                     }
                 ]
             },
@@ -3854,6 +4262,14 @@
                     {
                         "channel_name": "WNBA League Pass",
                         "channel_id": "77"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
                     }
                 ]
             },
@@ -3864,6 +4280,14 @@
                     {
                         "channel_name": "WNBA League Pass",
                         "channel_id": "86"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
                     }
                 ]
             }
