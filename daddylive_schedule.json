@@ -2,12 +2,24 @@
     "Thursday 30th July 2026 - Schedule Time UK GMT": {
         "PPV Events": [
             {
-                "time": "01:00",
-                "event": "Power Slap 22 : Bathory vs Montes",
+                "time": "02:00",
+                "event": "Lollapalooza Chicago 2026",
                 "channels": [
+                    {
+                        "channel_name": "Event Show",
+                        "channel_id": "151"
+                    },
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "152"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -910,8 +922,8 @@
                 "event": "⚽ 🌎 CONCACAF U20 Championship: 🇨🇷 Costa Rica U20 vs 🇦🇬 Antigua and Barbuda U20",
                 "channels": [
                     {
-                        "channel_name": "Fox Soccer Plus",
-                        "channel_id": "756"
+                        "channel_name": "Fox Sports 2 USA",
+                        "channel_id": "758"
                     },
                     {
                         "channel_name": "TUDN USA",
@@ -971,7 +983,7 @@
             },
             {
                 "time": "06:30",
-                "event": "⚽ 🏴 Premier League Summer Series: Sunderland 🏴 vs Leeds United 🏴",
+                "event": "⚽ 🏴 Premier League Summer Series: Sunderland 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Leeds United 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
@@ -2894,6 +2906,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -2914,6 +2930,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1553"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
                     }
                 ]
             },
@@ -2934,6 +2954,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1555"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -2954,6 +2978,14 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
                     }
                 ]
             },
@@ -2964,6 +2996,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1558"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
                     }
                 ]
             },
@@ -3004,6 +3040,14 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1562"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
                     }
                 ]
             },
@@ -3014,6 +3058,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1563"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
                     }
                 ]
             },
@@ -3034,6 +3082,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1565"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
                     }
                 ]
             },
@@ -3054,6 +3106,14 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1567"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
                     }
                 ]
             },
@@ -3064,6 +3124,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1568"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -3074,6 +3138,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1569"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -3084,6 +3152,14 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1570"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
                     }
                 ]
             },
@@ -3118,12 +3194,26 @@
                 ]
             },
             {
+                "time": "08:00",
+                "event": "🎾 ATP Los Cabos: 🇦🇷 Francisco Cerúndolo vs Arthur Géa fr",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
                 "time": "09:00",
                 "event": "🎾 ATP Los Cabos: 🇭🇰 Coleman Wong vs 🇺🇸 Jenson Brooksby",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1574"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
                     }
                 ]
             },
@@ -3134,6 +3224,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1575"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
                     }
                 ]
             },
@@ -3154,6 +3248,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1577"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
                     }
                 ]
             },
