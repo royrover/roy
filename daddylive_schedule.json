@@ -1,5 +1,197 @@
 {
     "Friday 31st July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "00:30",
+                "event": "MotoAmerica Superbikes Mid Ohio",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Zenith Racing Series Watkins Glen",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "04:15",
+                "event": "2026 Weekly Racing at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "World of Outlaws Sprint Cars Williams Grove Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "2026 Weekly Racing at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "2026 USAC Indiana Sprint Week at Bloomington Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "NAPA All Star Sprints Hartford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "05:40",
+                "event": "2026 BJJ Stars 19",
+                "channels": [
+                    {
+                        "channel_name": "Flotv",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "Albany Saratoga Speedway DIRTcar Night 15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "World of Outlaws Late Models Cedar Lake Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "2026 Night Under Fire",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "Samourai MMA 20",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "06:15",
+                "event": "Jacksonville Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "06:15",
+                "event": "2026 Race of Champions Sportsman at Spencer Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "2026 Belleville 305 Nationals",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "2026 NASCAR Weekly Racing at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "06:45",
+                "event": "IMCA Weekly Racing Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "Jackson Motorplex Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "GCW: The Top Play 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "170"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
@@ -2702,6 +2894,20 @@
                 ]
             },
             {
+                "time": "01:00",
+                "event": "🥊 Fighting : Portable vs Charles Okocha",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "3006"
+                    },
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
                 "time": "06:00",
                 "event": "🥊 🇺🇸 TBL Team Boxing League Quarterfinal : 🇺🇸 Miami Assassins vs 🇺🇸 Atlanta Attack",
                 "channels": [
@@ -2784,16 +2990,6 @@
                     {
                         "channel_name": "beIN Sport USA Espanol",
                         "channel_id": "3040"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "🥊 Fighting : Portable vs Charles Okocha",
-                "channels": [
-                    {
-                        "channel_name": "DAZN PPP",
-                        "channel_id": "3006"
                     }
                 ]
             },
