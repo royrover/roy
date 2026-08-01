@@ -42,6 +42,34 @@
                 ]
             },
             {
+                "time": "03:00",
+                "event": "Lollapalooza Chicago 2026 CORTIS",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "198"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2050"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "Lollapalooza Chicago 2026 AYYBO",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "199"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2051"
+                    }
+                ]
+            },
+            {
                 "time": "05:00",
                 "event": "🏁 NASCAR Weekly Racing: Berlin Raceway",
                 "channels": [
@@ -5395,6 +5423,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "8014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2014"
                     }
                 ]
             },
@@ -5469,6 +5501,18 @@
                     {
                         "channel_name": "RTL+ DE",
                         "channel_id": "3015"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2010"
                     }
                 ]
             },
@@ -5613,6 +5657,26 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "8012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2007"
                     }
                 ]
             }
