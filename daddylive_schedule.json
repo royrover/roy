@@ -32,6 +32,34 @@
                 ]
             },
             {
+                "time": "03:00",
+                "event": "Lollapalooza Chicago 2026 WAYLON WYATT",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2050"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "Lollapalooza Chicago 2026 ADÉLA",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2051"
+                    }
+                ]
+            },
+            {
                 "time": "05:00",
                 "event": "2026 Enduro 200 & Street Stock Special at Thunder Road Speedbowl",
                 "channels": [
@@ -2596,6 +2624,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4119"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7000"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
                     }
                 ]
             },
