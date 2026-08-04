@@ -1416,7 +1416,7 @@
                 ]
             },
             {
-                "time": "09:17",
+                "time": "12:10",
                 "event": "Uruguay Liga AUF Uruguaya, Intermedio, Serie A : Defender Sporting vs Cerro",
                 "channels": [
                     {
@@ -4130,6 +4130,34 @@
         ],
         "All Soccer Events ⚽": [
             {
+                "time": "16:30",
+                "event": "⚽ Asia ASEAN Championship : Myanmar vs Laos",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4101"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ Asia ASEAN Championship : Philippines vs Thailand",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4101"
+                    }
+                ]
+            },
+            {
                 "time": "20:15",
                 "event": "⚽ 🇷🇺 Russian Cup : Akron vs Rostov",
                 "channels": [
@@ -4140,6 +4168,14 @@
                     {
                         "channel_name": "MATCH TV Russia",
                         "channel_id": "127"
+                    },
+                    {
+                        "channel_name": "Match Premier Russia",
+                        "channel_id": "3066"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4106"
                     }
                 ]
             },
@@ -4164,6 +4200,14 @@
                     {
                         "channel_name": "Match Premier Russia",
                         "channel_id": "573"
+                    },
+                    {
+                        "channel_name": "Match Premier Russia",
+                        "channel_id": "3066"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4106"
                     }
                 ]
             },
@@ -4188,6 +4232,10 @@
                     {
                         "channel_name": "Sportklub 3 Croatia",
                         "channel_id": "103"
+                    },
+                    {
+                        "channel_name": "Diema Sport Bulgaria",
+                        "channel_id": "3048"
                     }
                 ]
             },
@@ -4198,6 +4246,10 @@
                     {
                         "channel_name": "TV4 Latvia",
                         "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "TV4 Latvia",
+                        "channel_id": "3065"
                     }
                 ]
             },
@@ -4208,6 +4260,14 @@
                     {
                         "channel_name": "Arena Sport 1 Slovakia",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Arena Sport 1 Slovakia",
+                        "channel_id": "3068"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4111"
                     }
                 ]
             },
@@ -4218,6 +4278,10 @@
                     {
                         "channel_name": "RTVS Sport Slovakia",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "RTVS Sport Slovakia",
+                        "channel_id": "3067"
                     }
                 ]
             },
@@ -4228,6 +4292,10 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4102"
                     }
                 ]
             },
@@ -4258,6 +4326,18 @@
                     {
                         "channel_name": "Diema Sport Bulgaria",
                         "channel_id": "465"
+                    },
+                    {
+                        "channel_name": "Qazsport",
+                        "channel_id": "3049"
+                    },
+                    {
+                        "channel_name": "Diema Sport Bulgaria",
+                        "channel_id": "3048"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4109"
                     }
                 ]
             },
@@ -4276,6 +4356,14 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
+                    },
+                    {
+                        "channel_name": "Sport 3 Israel",
+                        "channel_id": "3063"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4110"
                     }
                 ]
             },
@@ -4290,6 +4378,14 @@
                     {
                         "channel_name": "MATCH TV Russia",
                         "channel_id": "127"
+                    },
+                    {
+                        "channel_name": "Match Premier Russia",
+                        "channel_id": "3066"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4106"
                     }
                 ]
             },
@@ -4308,6 +4404,14 @@
                     {
                         "channel_name": "Arena 2 Premium Serbia",
                         "channel_id": "135"
+                    },
+                    {
+                        "channel_name": "Cosmote Sport 1 Greece",
+                        "channel_id": "3023"
+                    },
+                    {
+                        "channel_name": "Ziggo Sport 1 NL",
+                        "channel_id": "3088"
                     }
                 ]
             },
@@ -4326,6 +4430,10 @@
                     {
                         "channel_name": "Arena Sport 1 Slovakia",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "VG+",
+                        "channel_id": "3072"
                     }
                 ]
             },
@@ -4344,6 +4452,10 @@
                     {
                         "channel_name": "Arena Sport 1x2 Serbia",
                         "channel_id": "612"
+                    },
+                    {
+                        "channel_name": "Canal+ Foot France",
+                        "channel_id": "3055"
                     }
                 ]
             },
@@ -4362,6 +4474,10 @@
                     {
                         "channel_name": "Arena Sport 1P",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Moja TV",
+                        "channel_id": "3064"
                     }
                 ]
             },
@@ -4536,6 +4652,26 @@
         ],
         "Club Friendly ⚽": [
             {
+                "time": "19:00",
+                "event": "⚽ Club Friendly : Tenerife vs Tamaraceite",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6002"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "⚽ Club Friendly : AFC Bournemouth vs Genoa",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6003"
+                    }
+                ]
+            },
+            {
                 "time": "18:00",
                 "event": "⚽ Club Friendly : 🇰🇷 Jeju United vs 🇩🇪 Bayern München",
                 "channels": [
@@ -4546,6 +4682,18 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    },
+                    {
+                        "channel_name": "VG+ Norway",
+                        "channel_id": "3072"
+                    },
+                    {
+                        "channel_name": "Sport TV1 Portugal",
+                        "channel_id": "3021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4118"
                     }
                 ]
             },
@@ -4560,19 +4708,38 @@
                 ]
             },
             {
+                "time": "19:30",
+                "event": "⚽ Club Friendly : Bangkok Glass vs Aston Villa",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6004"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "⚽ Club Friendly : Norwich City vs Cambridge United",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6005"
+                    }
+                ]
+            },
+            {
                 "time": "23:00",
                 "event": "⚽ Club Friendly : 🇫🇷 Strasbourg vs 🇩🇪 Elversberg",
                 "channels": [
                     {
                         "channel_name": "Ligue 1+ France",
                         "channel_id": "960"
+                    },
+                    {
+                        "channel_name": "Ligue 1+ France",
+                        "channel_id": "3050"
                     }
                 ]
-            },
-            {
-                "time": "23:30",
-                "event": "⚽ Club Friendly : 🇪🇸 Huesca vs 🇪🇸 UD Logroñés",
-                "channels": []
             },
             {
                 "time": "01:45",
@@ -4585,6 +4752,18 @@
                     {
                         "channel_name": "Arena 4 Premium Serbia",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Ligue1+ France",
+                        "channel_id": "3050"
+                    },
+                    {
+                        "channel_name": "VG+",
+                        "channel_id": "3073"
+                    },
+                    {
+                        "channel_name": "Sport TV1 Portugal",
+                        "channel_id": "3021"
                     }
                 ]
             }
