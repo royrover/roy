@@ -1226,9 +1226,23 @@
                 ]
             },
             {
+                "time": "05:00",
+                "event": "⚽ Bolivia División Profesional : Club Independiente Petrolero vs Club Aurora",
+                "channels": [
+                    {
+                        "channel_name": "Bolivia TV",
+                        "channel_id": "7014"
+                    }
+                ]
+            },
+            {
                 "time": "05:30",
                 "event": "⚽ Brazil Copa Betano do Brasil : Juventude vs Atlético Mineiro",
                 "channels": [
+                    {
+                        "channel_name": "Prime Video",
+                        "channel_id": "7013"
+                    },
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7053"
@@ -2072,7 +2086,7 @@
                 ]
             }
         ],
-        "Tennis 🎾 WTA - Singles: Toronto (Canada), Hard": [
+        "Tennis 🎾 WTA Toronto (Canada), Hard": [
             {
                 "time": "22:00",
                 "event": "Tennis WTA Toronto Centre Court",
@@ -2812,6 +2826,10 @@
                     {
                         "channel_name": "MASN USA",
                         "channel_id": "829"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7018"
                     }
                 ]
             },
@@ -2826,6 +2844,10 @@
                     {
                         "channel_name": "NBCS California USA",
                         "channel_id": "755"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7017"
                     }
                 ]
             },
@@ -2840,6 +2862,10 @@
                     {
                         "channel_name": "SportsNet New York USA",
                         "channel_id": "759"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7016"
                     }
                 ]
             },
@@ -2854,6 +2880,10 @@
                     {
                         "channel_name": "NBCS Philadelphia USA",
                         "channel_id": "777"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7015"
                     }
                 ]
             },
