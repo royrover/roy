@@ -6,8 +6,32 @@
                 "event": "AMA Motocross Championship at Loretta Lynn's - Day 2",
                 "channels": [
                     {
+                        "channel_name": "Event PPV",
+                        "channel_id": "28"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "2001"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "STSS Action Track USA",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "06:45",
+                "event": "NWMT Thompson",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "30"
                     }
                 ]
             }
