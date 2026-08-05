@@ -596,12 +596,42 @@
         ],
         "All Soccer Events ⚽": [
             {
-                "time": "21:00",
-                "event": "⚽ 🇪🇺 Europe - UEFA Women's Champions League : Apollon Limassol 🇨🇾 vs Czarni Sosnowiec 🇵🇱",
+                "time": "19:30",
+                "event": "⚽ 🇪🇺 UEFA Women's Champions League Qualification : Sporting CP Women 🇵🇹 vs FC Seasters Odesa Women 🇺🇦",
                 "channels": [
                     {
-                        "channel_name": "Cytavision Sports 2 Cyprus",
-                        "channel_id": "912"
+                        "channel_name": "Event Stream",
+                        "channel_id": "7001"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ 🇪🇺 UEFA Women's Champions League Qualification : Ajax Women 🇳🇱 vs Brøndby IF Women 🇩🇰",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7002"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "⚽ 🇪🇺 UEFA Women's Champions League Qualification : Gintra Universitetas Women 🇱🇹 vs Heart of Midlothian Women 🇸🇨",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7003"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "⚽ 🇪🇺 UEFA Women's Champions League Qualification : Hammarby IF Women 🇸🇪 vs FK Apolonia Fier Women 🇦🇱",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7004"
                     }
                 ]
             },
@@ -642,20 +672,6 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "6005"
-                    }
-                ]
-            },
-            {
-                "time": "21:30",
-                "event": "⚽ 🇪🇺 Europe - UEFA Women's Champions League : Ferencváros 🇭🇺 vs PAOK 🇬🇷",
-                "channels": [
-                    {
-                        "channel_name": "M4 Sports Hungary",
-                        "channel_id": "265"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4108"
                     }
                 ]
             },
