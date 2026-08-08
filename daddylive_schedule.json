@@ -2,7 +2,7 @@
     "Saturday 08th Aug 2026 - Schedule Time UK GMT": {
         "PPV Events": [
             {
-                "time": "12:39",
+                "time": "15:43",
                 "event": "AMA Motocross Championship at Loretta Lynn's - Day 5",
                 "channels": [
                     {
@@ -6450,6 +6450,10 @@
                     {
                         "channel_name": "ESPN2 Argentina",
                         "channel_id": "150"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "7004"
                     }
                 ]
             },
