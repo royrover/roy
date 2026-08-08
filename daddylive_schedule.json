@@ -32,6 +32,10 @@
                     {
                         "channel_name": "FloRacing",
                         "channel_id": "165"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -42,6 +46,10 @@
                     {
                         "channel_name": "FloRacing",
                         "channel_id": "166"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -72,6 +80,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "169"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -122,6 +134,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "174"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5005"
                     }
                 ]
             },
@@ -132,6 +148,10 @@
                     {
                         "channel_name": "FloRacing",
                         "channel_id": "175"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004"
                     }
                 ]
             },
@@ -142,6 +162,10 @@
                     {
                         "channel_name": "FloRacing",
                         "channel_id": "176"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -152,6 +176,10 @@
                     {
                         "channel_name": "UFC Fight Pass",
                         "channel_id": "177"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5008"
                     }
                 ]
             }
@@ -2002,6 +2030,16 @@
                 ]
             },
             {
+                "time": "05:10",
+                "event": "⚽ Liga AUF Uruguaya : Cerro Largo vs. Juventud",
+                "channels": [
+                    {
+                        "channel_name": "ESPN UR",
+                        "channel_id": "7013"
+                    }
+                ]
+            },
+            {
                 "time": "05:30",
                 "event": "⚽ 🇦🇷 Argentine Primera División : Rosario Central 🇦🇷 vs Aldosivi 🇦🇷",
                 "channels": [
@@ -2012,6 +2050,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2029"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7011"
                     }
                 ]
             },
@@ -2022,6 +2064,10 @@
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7012"
                     }
                 ]
             },
@@ -4052,6 +4098,10 @@
                     {
                         "channel_name": "ESPN4 Brazil",
                         "channel_id": "85"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5007"
                     }
                 ]
             }
@@ -4644,6 +4694,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7015"
                     }
                 ]
             },
@@ -4678,6 +4732,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7016"
                     }
                 ]
             },
@@ -4696,6 +4754,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7014"
                     }
                 ]
             },
@@ -4947,7 +5009,7 @@
                 "channels": [
                     {
                         "channel_name": "WNBA League Pass",
-                        "channel_id": "10"
+                        "channel_id": "18"
                     },
                     {
                         "channel_name": "Backup Stream",
