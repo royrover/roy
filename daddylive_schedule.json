@@ -2,7 +2,7 @@
     "Saturday 08th Aug 2026 - Schedule Time UK GMT": {
         "PPV Events": [
             {
-                "time": "15:43",
+                "time": "19:04",
                 "event": "AMA Motocross Championship at Loretta Lynn's - Day 5",
                 "channels": [
                     {
@@ -476,6 +476,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "168"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
                     },
                     {
                         "channel_name": "Nova Sport Bulgaria",
@@ -1512,6 +1516,10 @@
                         "channel_id": "14"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7013"
+                    },
+                    {
                         "channel_name": "Arena Sport 2 Slovakia",
                         "channel_id": "20"
                     },
@@ -1534,6 +1542,10 @@
                         "channel_id": "15"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7012"
+                    },
+                    {
                         "channel_name": "Sportklub 7 Croatia",
                         "channel_id": "105"
                     },
@@ -1554,6 +1566,10 @@
                     {
                         "channel_name": "Magenta Sport 305",
                         "channel_id": "3096"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7011"
                     }
                 ]
             },
@@ -1568,6 +1584,10 @@
                     {
                         "channel_name": "Magenta Sport 304",
                         "channel_id": "3095"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7010"
                     }
                 ]
             },
@@ -1580,12 +1600,56 @@
                         "channel_id": "18"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7009"
+                    },
+                    {
                         "channel_name": "Sportklub 10 Croatia",
                         "channel_id": "108"
                     },
                     {
                         "channel_name": "Magenta Sport 303",
                         "channel_id": "3094"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "⚽ Denmark 1st Division : Aarhus Fremad vs Koge",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7014"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "⚽ CSL : Yunnan Yukun vs Chengdu Rongcheng",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7015"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "⚽ CSL : Zhejiang Professional vs Wuhan Three Towns",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7016"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "⚽ CSL : Dalian Yingbo vs Liaoning Tieren",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7017"
                     }
                 ]
             },
@@ -1606,6 +1670,10 @@
                     {
                         "channel_name": "TV 2 Play Norway",
                         "channel_id": "3069"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
                     }
                 ]
             },
@@ -1616,6 +1684,10 @@
                     {
                         "channel_name": "Match Premier Russia",
                         "channel_id": "573"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
                     }
                 ]
             },
@@ -1626,6 +1698,10 @@
                     {
                         "channel_name": "UPL.TV",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
                     }
                 ]
             },
@@ -1650,6 +1726,10 @@
                     {
                         "channel_name": "Canal+ Sport 3 Poland",
                         "channel_id": "259"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
                     },
                     {
                         "channel_name": "Arena Sport 3 Croatia",
@@ -8143,7 +8223,7 @@
             },
             {
                 "time": "01:00",
-                "event": "🏒 🇨🇦 Hlinka Gretzky Cup Bronze Medal Game : Teams TBA",
+                "event": "🏒 🇨🇦 Hlinka Gretzky Cup Bronze Medal Game : Finland U18 vs Slovakia U18",
                 "channels": [
                     {
                         "channel_name": "NHL Network",
@@ -8157,7 +8237,7 @@
             },
             {
                 "time": "06:00",
-                "event": "🏒 🇨🇦 Hlinka Gretzky Cup Gold Medal Game : Teams TBA",
+                "event": "🏒 🇨🇦 Hlinka Gretzky Cup Gold Medal Game : Canada U18 vs USA U18",
                 "channels": [
                     {
                         "channel_name": "NHL Network",
