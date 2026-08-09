@@ -524,6 +524,10 @@
                         "channel_id": "74"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7009"
+                    },
+                    {
                         "channel_name": "Abu Dhabi Sports 1",
                         "channel_id": "600"
                     },
@@ -700,6 +704,10 @@
                     {
                         "channel_name": "Cytavision Sports 1 Cyprus",
                         "channel_id": "911"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
                     }
                 ]
             },
@@ -769,6 +777,16 @@
             },
             {
                 "time": "17:00",
+                "event": "⚽Ukraine Premier League : Zoria Luhansk vs FC Kryvbas Kryvyi Rih",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
                 "event": "⚽ 🇺🇦 Ukrainian Premier League : Zorya 🇺🇦 vs Kryvbas 🇺🇦",
                 "channels": [
                     {
@@ -826,6 +844,10 @@
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "379"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
                     }
                 ]
             },
@@ -836,6 +858,10 @@
                     {
                         "channel_name": "ESPN 2 NL",
                         "channel_id": "386"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
                     },
                     {
                         "channel_name": "Arena 3 Premium Serbia",
@@ -902,6 +928,40 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "6002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7015"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "- Sweden Ettan Norra : Umeå vs AFC Eskilstuna",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7011"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "- Denmark Betinia Liga : Hvidovre vs Esbjerg FB",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7012"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "- China Chinese Super League : Henan FC vs Qingdao West Coast",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7013"
                     }
                 ]
             },
@@ -1194,6 +1254,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7018"
                     }
                 ]
             },
@@ -1212,6 +1276,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7017"
                     }
                 ]
             },
@@ -1222,6 +1290,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "6003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
                     }
                 ]
             },
@@ -1246,6 +1318,30 @@
                     {
                         "channel_name": "TV 2 Play Norway",
                         "channel_id": "3068"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7026"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "- Finland Ykkosliiga : HJK Klubi 04 vs KTP",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7003"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "- Finland Veikkausliiga : Kuopion Palloseura vs Turun Palloseura",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7014"
                     }
                 ]
             },
@@ -1256,6 +1352,10 @@
                     {
                         "channel_name": "UPL.TV",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7026"
                     }
                 ]
             },
@@ -1432,6 +1532,10 @@
                     {
                         "channel_name": "SuperSport PSL",
                         "channel_id": "413"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7019"
                     }
                 ]
             },
@@ -1442,6 +1546,10 @@
                     {
                         "channel_name": "Sky Sport Premier League DE",
                         "channel_id": "21"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7016"
                     },
                     {
                         "channel_name": "Sky Sport News HD DE",
@@ -1490,6 +1598,56 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4113"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ Denmark Betinia Liga : FC Fredericia vs Vendsyssel FF",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7022"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ Sweden Superettan : Varbergs BoIS vs Sandvikens IF",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7020"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ Latvia Virsliga : SK Super Nova vs FK Liepaj",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7023"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ Latvia Virsliga : FS Jelgava vs FK Auda",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7024"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ Kazakhstan Premier League : Astana vs FC Okzhetpes",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7025"
                     }
                 ]
             },
@@ -1842,6 +2000,10 @@
                     {
                         "channel_name": "Oneplay Sport 3 CZ",
                         "channel_id": "1029"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7021"
                     }
                 ]
             },
@@ -5184,7 +5346,7 @@
         ],
         "Snooker 🎱": [
             {
-                "time": "16:40",
+                "time": "18:55",
                 "event": "Snooker China Open Table 1",
                 "channels": [
                     {
@@ -5194,7 +5356,7 @@
                 ]
             },
             {
-                "time": "16:40",
+                "time": "18:55",
                 "event": "Snooker China Open Table 2",
                 "channels": [
                     {
