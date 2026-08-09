@@ -1,5 +1,47 @@
 {
     "Sunday 09th Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "03:00",
+                "event": "🏎️ Weekly Racing Thunder Road",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "🏎️ Capitani Classic Knoxville",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "🏎️ Mid-Am Racing Slinger",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "🤼 UWN Red Carpet Rumble 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
@@ -2497,7 +2539,7 @@
             },
             {
                 "time": "23:50",
-                "event": "⚽ 🌍 Africa Cup of Nations : Cameroon 🇨🇲 vs Algeria 🇩🇿",
+                "event": "⚽ 🌍 Africa Cup of Nations : Cameroon W 🇨🇲 vs Nigeria W 🇩🇿",
                 "channels": [
                     {
                         "channel_name": "beIN Sports Malaysia",
@@ -2760,6 +2802,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4111"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7051"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7052"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7053"
                     }
                 ]
             },
@@ -2810,6 +2864,20 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "14"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7054"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "⚽ Uruguay Liga : Defender Sporting vs Wanderers",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7055"
                     }
                 ]
             },
@@ -2966,6 +3034,10 @@
                     {
                         "channel_name": "TNT SPORTS Premium Chile",
                         "channel_id": "642"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7060"
                     }
                 ]
             },
@@ -3056,6 +3128,14 @@
                     {
                         "channel_name": "Viaplay Sports 1 UK",
                         "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7056"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7057"
                     }
                 ]
             },
@@ -3066,6 +3146,14 @@
                     {
                         "channel_name": "Premiere 3 Brazil",
                         "channel_id": "55"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7058"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7059"
                     }
                 ]
             },
@@ -3100,6 +3188,14 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2028"
                     }
                 ]
             },
@@ -3266,6 +3362,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7063"
                     }
                 ]
             },
@@ -3276,6 +3376,10 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "388"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7064"
                     }
                 ]
             },
@@ -3296,6 +3400,14 @@
                     {
                         "channel_name": "Win+ Futbol",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7065"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7066"
                     }
                 ]
             },
@@ -3306,6 +3418,20 @@
                     {
                         "channel_name": "TNT SPORTS Premium Chile",
                         "channel_id": "642"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7067"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "⚽ Uruguay Liga AUF Uruguaya : Nacional vs Boston River",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7068"
                     }
                 ]
             },
@@ -3448,6 +3574,14 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2030"
                     }
                 ]
             },
@@ -3474,6 +3608,14 @@
                     {
                         "channel_name": "Univision",
                         "channel_id": "132"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2029"
                     }
                 ]
             },
@@ -3508,6 +3650,10 @@
                     {
                         "channel_name": "Sportdigital FUSSBALL",
                         "channel_id": "571"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2031"
                     }
                 ]
             },
@@ -3518,6 +3664,10 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "77"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2032"
                     }
                 ]
             },
@@ -3554,6 +3704,10 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "86"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2033"
                     }
                 ]
             },
@@ -3574,6 +3728,10 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "105"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2034"
                     }
                 ]
             },
@@ -3608,6 +3766,10 @@
                     {
                         "channel_name": "TUDN MX",
                         "channel_id": "935"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2035"
                     }
                 ]
             }
@@ -5392,7 +5554,7 @@
         ],
         "Snooker 🎱": [
             {
-                "time": "22:37",
+                "time": "01:34",
                 "event": "Snooker China Open Table 1",
                 "channels": [
                     {
@@ -5402,7 +5564,7 @@
                 ]
             },
             {
-                "time": "22:37",
+                "time": "01:34",
                 "event": "Snooker China Open Table 2",
                 "channels": [
                     {
@@ -5732,6 +5894,14 @@
                     {
                         "channel_name": "NESN USA",
                         "channel_id": "762"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4017"
                     }
                 ]
             },
@@ -5750,6 +5920,14 @@
                     {
                         "channel_name": "YES USA",
                         "channel_id": "763"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4016"
                     }
                 ]
             },
@@ -5768,6 +5946,14 @@
                     {
                         "channel_name": "SportsNet Pittsburgh",
                         "channel_id": "922"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4019"
                     }
                 ]
             },
@@ -5798,6 +5984,14 @@
                     {
                         "channel_name": "Arena Sport 3 Serbia",
                         "channel_id": "431"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4018"
                     }
                 ]
             },
@@ -5808,6 +6002,14 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "26"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2015"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4020"
                     }
                 ]
             },
@@ -5822,6 +6024,14 @@
                     {
                         "channel_name": "Marquee Sports Network USA",
                         "channel_id": "770"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2016"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4021"
                     }
                 ]
             },
@@ -5836,6 +6046,14 @@
                     {
                         "channel_name": "Chicago Sports Network",
                         "channel_id": "776"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2017"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4023"
                     }
                 ]
             },
@@ -5846,6 +6064,14 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2018"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4022"
                     }
                 ]
             },
@@ -5856,6 +6082,14 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4024"
                     }
                 ]
             },
@@ -5870,6 +6104,14 @@
                     {
                         "channel_name": "MASN USA",
                         "channel_id": "829"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4025"
                     }
                 ]
             },
@@ -5884,6 +6126,14 @@
                     {
                         "channel_name": "NBCS Bay Area USA",
                         "channel_id": "753"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4026"
                     }
                 ]
             },
@@ -5906,6 +6156,14 @@
                     {
                         "channel_name": "Spectrum SportsNet LA",
                         "channel_id": "764"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4028"
                     }
                 ]
             },
@@ -5916,6 +6174,32 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4027"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7061"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "⚾ Peru Liga 1, Clausura : Melgar vs FC Cajamarca",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7062"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7063"
                     }
                 ]
             },
@@ -5970,6 +6254,14 @@
                     {
                         "channel_name": "ESPN2 Mexico",
                         "channel_id": "926"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2024"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4029"
                     }
                 ]
             }
@@ -6122,6 +6414,10 @@
                     {
                         "channel_name": "Sport 5 Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
                     }
                 ]
             },
@@ -6132,6 +6428,14 @@
                     {
                         "channel_name": "Monumental Sports Network",
                         "channel_id": "778"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2025"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
                     }
                 ]
             },
@@ -6150,6 +6454,14 @@
                     {
                         "channel_name": "NBCNY USA",
                         "channel_id": "769"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2026"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4072"
                     }
                 ]
             },
@@ -6180,6 +6492,14 @@
                     {
                         "channel_name": "ESPN4 Brazil",
                         "channel_id": "85"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2027"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4073"
                     }
                 ]
             }
