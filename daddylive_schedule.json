@@ -3356,6 +3356,24 @@
                 ]
             },
             {
+                "time": "03:30",
+                "event": "⚾ Peru Liga 1, Clausura : Melgar vs FC Cajamarca",
+                "channels": [
+                    {
+                        "channel_name": "Liga 1 Max Peru",
+                        "channel_id": "7003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7062"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7063"
+                    }
+                ]
+            },
+            {
                 "time": "03:45",
                 "event": "⚽ 🇦🇷 Argentina Primera División : Defensa y Justicia 🇦🇷 vs Newell's Old Boys 🇦🇷",
                 "channels": [
@@ -3366,6 +3384,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7063"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7063"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
                     }
                 ]
             },
@@ -3380,6 +3406,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7064"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
                     }
                 ]
             },
@@ -3390,6 +3420,26 @@
                     {
                         "channel_name": "FUTV",
                         "channel_id": "2"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "⚽ Ecuador Lig aPro Serie A Primera : Delfín vs Orense SC",
+                "channels": [
+                    {
+                        "channel_name": "ECDF",
+                        "channel_id": "7006"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "⚽ 🇧🇷 Brazil Brasileirão Série B : Cuiabá vs Fortaleza",
+                "channels": [
+                    {
+                        "channel_name": "BRTV",
+                        "channel_id": "7012"
                     }
                 ]
             },
@@ -3408,6 +3458,20 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7066"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
+                    }
+                ]
+            },
+            {
+                "time": "04:15",
+                "event": "⚽ Bolivia División Profesional : Real Potosí vs Blooming",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
                     }
                 ]
             },
@@ -3422,6 +3486,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7067"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7009"
                     }
                 ]
             },
@@ -3430,8 +3498,12 @@
                 "event": "⚽ Uruguay Liga AUF Uruguaya : Nacional vs Boston River",
                 "channels": [
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Uruguay Stream",
                         "channel_id": "7068"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7010"
                     }
                 ]
             },
@@ -3484,6 +3556,16 @@
                     {
                         "channel_name": "Viaplay Sports 1 UK",
                         "channel_id": "3001"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "⚽ Paraguay Primera División Clausura : Nacional Asunción vs Guaraní",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7011"
                     }
                 ]
             },
@@ -5554,7 +5636,7 @@
         ],
         "Snooker 🎱": [
             {
-                "time": "01:34",
+                "time": "04:36",
                 "event": "Snooker China Open Table 1",
                 "channels": [
                     {
@@ -5564,7 +5646,7 @@
                 ]
             },
             {
-                "time": "01:34",
+                "time": "04:36",
                 "event": "Snooker China Open Table 2",
                 "channels": [
                     {
@@ -6186,20 +6268,6 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7061"
-                    }
-                ]
-            },
-            {
-                "time": "03:30",
-                "event": "⚾ Peru Liga 1, Clausura : Melgar vs FC Cajamarca",
-                "channels": [
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "7062"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "7063"
                     }
                 ]
             },
@@ -7096,6 +7164,56 @@
                     {
                         "channel_name": "Polsat Sport Extra 2 Poland",
                         "channel_id": "994"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "Volleyball : World South America Copa América : Colombia vs Chile",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6021"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "Volleyball : World South America Copa América : USA vs Costa Rica",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6022"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "Volleyball : World South America Copa América : Cuba vs Dominican Republic",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6023"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "Volleyball : World South America Copa América : Argentina vs Brazil",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6024"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "Volleyball : World South America Copa América : Mexico vs Curacao",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6025"
                     }
                 ]
             }
