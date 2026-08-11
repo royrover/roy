@@ -1007,6 +1007,16 @@
         "All Soccer Events ⚽": [
             {
                 "time": "21:00",
+                "event": "⚽ Asia AFC Challenge League : 🇰🇬 FC Dordoi Bishkek vs 🇸🇾 Homs Al Fidaa SC",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7003"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
                 "event": "⚽ 🇷🇺 Russian Cup : Dinamo St. Petersburg 🇷🇺 vs Dinamo St. Petersburg 🇷🇺",
                 "channels": [
                     {
