@@ -1,5 +1,37 @@
 {
     "Wednesday 12th Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "04:00",
+                "event": "🏎️ Hasty Bake High Limit Room Knoxville",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "🏎️ Tekton 250 Battle Berlin",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "🏎️ Nos Energy Knoxville Nationals",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "152"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
@@ -514,6 +546,14 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7063"
                     }
                 ]
             },
@@ -528,6 +568,10 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005"
                     }
                 ]
             },
@@ -566,6 +610,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4105"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2006"
                     }
                 ]
             },
@@ -576,6 +624,10 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2007"
                     }
                 ]
             },
@@ -598,6 +650,10 @@
                     {
                         "channel_name": "Fox Sports 1 USA",
                         "channel_id": "3081"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2008"
                     }
                 ]
             },
@@ -612,6 +668,10 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "3035"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2009"
                     }
                 ]
             },
@@ -626,6 +686,10 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "3034"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2010"
                     }
                 ]
             }
@@ -962,6 +1026,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7025"
                     }
                 ]
             }
@@ -1500,6 +1568,20 @@
                 ]
             },
             {
+                "time": "02:30",
+                "event": "⚽ Paraguay Copa Paraguay : Sportivo Iteño vs Guaraní",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7027"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7051"
+                    }
+                ]
+            },
+            {
                 "time": "03:00",
                 "event": "⚽ 🇧🇷 Brazil Paulista, Feminino: Mirassol 🇧🇷 vs Corinthians 🇧🇷",
                 "channels": [
@@ -1532,6 +1614,10 @@
                     {
                         "channel_name": "5 Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7026"
                     }
                 ]
             },
@@ -1558,6 +1644,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4113"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7057"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7058"
                     }
                 ]
             },
@@ -1576,6 +1670,14 @@
                     {
                         "channel_name": "ESPN2 Argentina",
                         "channel_id": "3084"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7059"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7060"
                     }
                 ]
             },
@@ -1594,6 +1696,14 @@
                     {
                         "channel_name": "beIN SPORTS Xtra",
                         "channel_id": "3038"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7055"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7056"
                     }
                 ]
             },
@@ -1668,6 +1778,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4118"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7052"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7053"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7054"
                     }
                 ]
             },
@@ -1678,6 +1800,18 @@
                     {
                         "channel_name": "TyC Sports Argentina",
                         "channel_id": "746"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7061"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7062"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7030"
                     }
                 ]
             },
@@ -3544,6 +3678,10 @@
                     {
                         "channel_name": "Fox Sports Premium MX",
                         "channel_id": "830"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2011"
                     }
                 ]
             }
@@ -3762,6 +3900,10 @@
                     {
                         "channel_name": "5Sport plus Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7028"
                     }
                 ]
             },
@@ -4264,6 +4406,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4070"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2001"
                     }
                 ]
             },
@@ -4290,6 +4436,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4071"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2002"
                     }
                 ]
             },
@@ -4304,6 +4454,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4072"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003"
                     }
                 ]
             }
@@ -4614,6 +4768,10 @@
                     {
                         "channel_name": "M4 Sport Hungary",
                         "channel_id": "265"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7028"
                     }
                 ]
             },
