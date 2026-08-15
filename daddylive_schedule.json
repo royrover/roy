@@ -8,6 +8,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "201"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "2020"
                     }
                 ]
             },
@@ -1316,6 +1320,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
                     }
                 ]
             },
@@ -1338,6 +1346,10 @@
                     {
                         "channel_name": "TSN5",
                         "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022"
                     }
                 ]
             },
@@ -1352,6 +1364,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2023"
                     }
                 ]
             },
@@ -1366,6 +1382,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2024"
                     }
                 ]
             },
@@ -1384,6 +1404,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3034"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2025"
                     }
                 ]
             },
@@ -1398,6 +1422,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3035"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2026"
                     }
                 ]
             },
@@ -1412,6 +1440,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3036"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2027"
                     }
                 ]
             },
@@ -1426,6 +1458,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2028"
                     }
                 ]
             },
@@ -1440,6 +1476,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3038"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2029"
                     }
                 ]
             },
@@ -1454,6 +1494,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2030"
                     }
                 ]
             },
@@ -1468,6 +1512,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2031"
                     }
                 ]
             }
@@ -1824,7 +1872,7 @@
                 ]
             },
             {
-                "time": "01:43",
+                "time": "04:38",
                 "event": "9:30 ⚽ 🌍 Friendly : Leeds United 🏴 vs Augsburg 🇩🇪",
                 "channels": [
                     {
@@ -4680,6 +4728,10 @@
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7025"
                     }
                 ]
             },
@@ -4690,6 +4742,30 @@
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7023"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "⚽ 🇧🇷 Brazil - Serie B : Atletico GO vs Vila Nova FC",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7021"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "⚽ 🇧🇷 Brazil - Serie B : Ceara vs Cuiaba",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7022"
                     }
                 ]
             },
@@ -4704,6 +4780,10 @@
                     {
                         "channel_name": "MAX Sport 1 Croatia",
                         "channel_id": "3070"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7020"
                     }
                 ]
             },
@@ -4714,6 +4794,10 @@
                     {
                         "channel_name": "Arena 5 Premium Serbia",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7024"
                     }
                 ]
             },
@@ -4724,6 +4808,36 @@
                     {
                         "channel_name": "Arena Sport 10 Serbia",
                         "channel_id": "945"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "⚽ Bolivia División Profesional : Real Oruro vs Oriente Petrolero",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7017"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "⚽ Ecuador Liga Pro Serie A : Manta vs Leones del Norte",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7018"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "⚽ Paraguay Primera División : Guarani vs Rubio Nu",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7019"
                     }
                 ]
             },
@@ -4770,6 +4884,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4107"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7027"
                     }
                 ]
             },
@@ -4832,6 +4950,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4118"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7031"
                     }
                 ]
             },
@@ -4938,6 +5060,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4118"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7033"
                     }
                 ]
             },
@@ -4988,6 +5114,10 @@
                     {
                         "channel_name": "#Vamos ES",
                         "channel_id": "3030"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7030"
                     }
                 ]
             },
@@ -5010,6 +5140,20 @@
                     {
                         "channel_name": "LALIGA TV Hypermotion",
                         "channel_id": "3026"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7032"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "⚽ Uruguay Liga AUF Uruguaya Clausura : Racing Montevideo vs Nacional",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7029"
                     }
                 ]
             },
@@ -5036,6 +5180,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "3084"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7034"
                     }
                 ]
             },
@@ -5056,6 +5204,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7035"
                     }
                 ]
             },
@@ -5074,6 +5226,40 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "3083"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7040"
+                    }
+                ]
+            },
+            {
+                "time": "04:15",
+                "event": "⚽ Bolivia División Profesional Guabirá vs The Strongest",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7041"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "⚽ Ecuador LigaPro Serie A, Primera Etapa : Guayaquil City vs Libertad",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7042"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "⚽ Paraguay Primera División, Clausura : Sportivo Trinidense vs Nacional Asunción",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7043"
                     }
                 ]
             },
@@ -5096,6 +5282,10 @@
                     {
                         "channel_name": "Sportdigital FUSSBALL DE",
                         "channel_id": "3019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7046"
                     }
                 ]
             },
@@ -5110,6 +5300,20 @@
                     {
                         "channel_name": "TNT SPORTS Premium HD Chile",
                         "channel_id": "3010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7044"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "⚽ Brazil Brasileirão Série B : Juventude vs Fortaleza",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7045"
                     }
                 ]
             },
@@ -6768,6 +6972,30 @@
                     {
                         "channel_name": "UFC Fight Pass",
                         "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "UFC Stream",
+                        "channel_id": "7036"
+                    },
+                    {
+                        "channel_name": "UFC Stream",
+                        "channel_id": "7037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5030"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -6806,6 +7034,30 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4101"
+                    },
+                    {
+                        "channel_name": "UFC Stream",
+                        "channel_id": "7036"
+                    },
+                    {
+                        "channel_name": "UFC Stream",
+                        "channel_id": "7037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5030"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -6896,6 +7148,26 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5006"
+                    },
+                    {
+                        "channel_name": "UFC Stream",
+                        "channel_id": "7036"
+                    },
+                    {
+                        "channel_name": "UFC Stream",
+                        "channel_id": "7037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5030"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5040"
                     }
                 ]
             }
@@ -7562,6 +7834,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4034"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7039"
                     }
                 ]
             },
@@ -7580,6 +7860,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7038"
                     }
                 ]
             },
@@ -7602,6 +7890,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4035"
                     }
                 ]
             },
@@ -7628,6 +7920,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4036"
                     }
                 ]
             }
@@ -8180,6 +8476,10 @@
                     {
                         "channel_name": "TVA Sports CA",
                         "channel_id": "833"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4017"
                     }
                 ]
             },
@@ -8194,6 +8494,10 @@
                     {
                         "channel_name": "NBCS Bay Area USA",
                         "channel_id": "753"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4018"
                     }
                 ]
             },
@@ -8216,6 +8520,10 @@
                     {
                         "channel_name": "Fox Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4019"
                     }
                 ]
             },
@@ -8230,6 +8538,10 @@
                     {
                         "channel_name": "MASN USA",
                         "channel_id": "829"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4020"
                     }
                 ]
             },
@@ -8240,6 +8552,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4021"
                     }
                 ]
             },
@@ -8250,6 +8566,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4022"
                     }
                 ]
             },
@@ -8264,6 +8584,10 @@
                     {
                         "channel_name": "NBCS Philadelphia USA",
                         "channel_id": "777"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4023"
                     }
                 ]
             },
@@ -8278,6 +8602,10 @@
                     {
                         "channel_name": "Space City Home Network",
                         "channel_id": "921"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4024"
                     }
                 ]
             },
@@ -8288,6 +8616,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4025"
                     }
                 ]
             },
@@ -8310,6 +8642,10 @@
                     {
                         "channel_name": "FOXNY USA",
                         "channel_id": "768"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4026"
                     }
                 ]
             },
@@ -8332,6 +8668,10 @@
                     {
                         "channel_name": "beIN Sports MAX 4 France",
                         "channel_id": "494"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4027"
                     }
                 ]
             },
@@ -9142,6 +9482,10 @@
                     {
                         "channel_name": "Sportsnet World",
                         "channel_id": "410"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7026"
                     }
                 ]
             }
