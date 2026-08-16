@@ -1,5 +1,67 @@
 {
     "Sunday 16th Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "04:00",
+                "event": "🤼 GCW Homecoming Part 2",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "04:45",
+                "event": "🏎️ Super DIRTcar Series: Weedsport",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "🏎️ USAC National Midgets: Jacksonville",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "🏎️ GO Kart Night: Slinger",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "🥊 Anthony Pettis FC 24",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "🤼 Primos Pro Wrestling: Scorched Summer 2",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "30"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
@@ -590,6 +652,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2024"
                     }
                 ]
             },
@@ -608,6 +674,10 @@
                     {
                         "channel_name": "TSN5",
                         "channel_id": "3035"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2025"
                     }
                 ]
             },
@@ -626,6 +696,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2027"
                     }
                 ]
             },
@@ -4588,6 +4662,10 @@
                     {
                         "channel_name": "TUDN USA",
                         "channel_id": "66"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2026"
                     }
                 ]
             },
@@ -4660,6 +4738,10 @@
                     {
                         "channel_name": "TUDN USA",
                         "channel_id": "66"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2028"
                     }
                 ]
             },
@@ -8116,6 +8198,10 @@
                     {
                         "channel_name": "ESPN4 Brazil",
                         "channel_id": "85"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
                     }
                 ]
             },
@@ -8126,6 +8212,10 @@
                     {
                         "channel_name": "WNBA League Pass",
                         "channel_id": "157"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020"
                     }
                 ]
             },
@@ -8152,6 +8242,10 @@
                     {
                         "channel_name": "ESPN4 Brazil",
                         "channel_id": "85"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022"
                     }
                 ]
             }
