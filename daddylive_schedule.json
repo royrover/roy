@@ -464,6 +464,36 @@
         ],
         "All Soccer Events ⚽": [
             {
+                "time": "18:30",
+                "event": "⚽ 🇨🇳 Chinese Super League : Shanghai Shenhua 🇨🇳 vs Beijing Guoan 🇨🇳",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ 🇹🇿 Tanzania Premier League : Fountain Gate 🇹🇿 vs Mashujaa FC 🇹🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ 🏆 ASEAN Championship : Thailand 🇹🇭 vs Singapore 🇸🇬",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "20"
+                    }
+                ]
+            },
+            {
                 "time": "21:30",
                 "event": "⚽ Asia ASEAN Championship, Final : Thailand vs Singapore",
                 "channels": [
@@ -1380,6 +1410,22 @@
                     {
                         "channel_name": "SuperSport Grandstand",
                         "channel_id": "412"
+                    }
+                ]
+            }
+        ],
+        "Badminton 🎾": [
+            {
+                "time": "10:00",
+                "event": "🏸 BWF World Championships 2026 : Round of 64/48/32",
+                "channels": [
+                    {
+                        "channel_name": "L'Équipe France",
+                        "channel_id": "645"
+                    },
+                    {
+                        "channel_name": "TV2 Sport Denmark",
+                        "channel_id": "810"
                     }
                 ]
             }
