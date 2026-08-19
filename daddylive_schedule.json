@@ -1,5 +1,57 @@
 {
     "Wednesday 19th Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "04:45",
+                "event": "🏁 Super DIRTcar Series: Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision PPV",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "🏁 Weekly Racing: Millbridge Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision PPV",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "05:45",
+                "event": "🏁 FloRacing Night in America: Mason City Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "09:30",
+                "event": "🥊 Tuff-N-UFF 156: Mullen vs Charlton",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "🥊 INKA MMA 60: Morillo vs Sanchez",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "30"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
@@ -778,6 +830,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "153"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "170"
                     }
                 ]
             },
@@ -1879,7 +1935,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "2004"
+                        "channel_id": "2008"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -2033,7 +2089,17 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "6"
+                        "channel_id": "6006"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "⚽ Colombia Liga DIMAYOR, Finalizacion : Aguilas 🇩🇴 vs Llaneros 🇻🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162"
                     }
                 ]
             },
@@ -2104,6 +2170,30 @@
                     {
                         "channel_name": "beIN Sports Xtra",
                         "channel_id": "3009"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "⚽ Bolivia Copa Bolivia : Independiente 🇦🇷 vs Blooming 🇧🇴",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "⚽ North & Central America CONCACAF Caribbean Cup : Delfines del Este 🇩🇴 vs Violette 🇭🇹",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
                     }
                 ]
             },
@@ -2118,6 +2208,10 @@
                     {
                         "channel_name": "beIN Sports MENA English 1",
                         "channel_id": "61"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "167"
                     }
                 ]
             },
@@ -2144,6 +2238,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4113"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
                     }
                 ]
             },
@@ -2158,6 +2256,20 @@
                     {
                         "channel_name": "Sport TV2 Portugal",
                         "channel_id": "74"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "⚽ Brazil Brasileirão Série B : Avaí 🇧🇷 vs Sport Recife 🇧🇷",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "171"
                     }
                 ]
             },
@@ -2168,6 +2280,10 @@
                     {
                         "channel_name": "ESPN4 Brazil",
                         "channel_id": "85"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "172"
                     }
                 ]
             },
@@ -3432,6 +3548,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2016"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
                     }
                 ]
             },
@@ -3458,6 +3578,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2017"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "173"
                     }
                 ]
             },
@@ -3476,6 +3600,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2018"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "175"
                     }
                 ]
             },
@@ -3490,6 +3618,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2019"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "174"
                     }
                 ]
             },
@@ -3516,6 +3648,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2020"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "176"
                     }
                 ]
             },
