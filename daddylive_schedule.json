@@ -864,6 +864,46 @@
         ],
         "All Soccer Events ⚽": [
             {
+                "time": "18:00",
+                "event": "⚽ 🇹🇿 Tanzania Ligi Kuu Bara : Mbeya City 🇹🇿 vs Dodoma Jiji 🇹🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "18:35",
+                "event": "⚽ 🇨🇳 China Super League : Shanghai Port 🇨🇳 vs Dalian Yingbo 🇨🇳",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ 🌏 ASEAN Championship : Vietnam 🇻🇳 vs Malaysia 🇲🇾",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "20:15",
+                "event": "⚽ 🇹🇿 Tanzania Ligi Kuu Bara : Pamba 🇹🇿 vs Simba 🇹🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
                 "time": "20:15",
                 "event": "⚽ 🇷🇺 Russia - Russian Cup : Krylya Sovetov 🇷🇺 vs Zenit 🇷🇺",
                 "channels": [
@@ -874,6 +914,10 @@
                     {
                         "channel_name": "MATCH TV Russia",
                         "channel_id": "127"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77"
                     }
                 ]
             },
@@ -3144,6 +3188,10 @@
                     {
                         "channel_name": "TNT Sports 4 UK",
                         "channel_id": "34"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "68"
                     }
                 ]
             },
