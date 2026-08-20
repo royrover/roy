@@ -508,6 +508,46 @@
                 ]
             },
             {
+                "time": "23:30",
+                "event": "Sweden Svenska Cupen : Vasalund vs Norrkoping",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Sweden Svenska Cupen : Pitea vs AIK",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Sweden Svenska Cupen : Hassleholms IF vs Landskrona",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Sweden Svenska Cupen : Arlanda vs Ostersund0",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
                 "time": "00:00",
                 "event": "⚽ 🇵🇱 UEFA Europa League : Lech Poznań 🇵🇱 vs Thun 🇨🇭",
                 "channels": [
@@ -522,6 +562,14 @@
                     {
                         "channel_name": "SRF zwei",
                         "channel_id": "3016"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6008"
                     }
                 ]
             },
@@ -532,6 +580,14 @@
                     {
                         "channel_name": "S Sport+ Turkey",
                         "channel_id": "3091"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6005"
                     }
                 ]
             },
@@ -554,6 +610,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4110"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6009"
                     }
                 ]
             },
@@ -568,6 +632,14 @@
                     {
                         "channel_name": "Cytavision Sports 1 Cyprus",
                         "channel_id": "3024"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6010"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "176"
                     }
                 ]
             },
@@ -590,6 +662,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4111"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "174"
                     }
                 ]
             },
@@ -612,6 +688,10 @@
                     {
                         "channel_name": "Cosmote Sport 1 Greece",
                         "channel_id": "3023"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "175"
                     }
                 ]
             },
@@ -626,6 +706,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4125"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
                     }
                 ]
             }
@@ -633,11 +717,29 @@
         "UEFA Conference League ⚽": [
             {
                 "time": "00:00",
+                "event": "⚽ 🇩🇰 UEFA Conference League : Midtjylland vs Rijeka",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "167"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6002"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
                 "event": "⚽ 🇩🇰 UEFA Conference League : Nordsjælland 🇩🇰 vs St. Gallen 🇨🇭",
                 "channels": [
                     {
                         "channel_name": "SRF Zwei",
                         "channel_id": "439"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
                     }
                 ]
             },
@@ -648,6 +750,52 @@
                     {
                         "channel_name": "VG+",
                         "channel_id": "3076"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "⚽ 🇩🇰 UEFA Conference League : Univ Craiova vs Ararat-Armenia",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "170"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6006"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "⚽ 🇩🇰 UEFA Conference League : Egnatia vs Lillestrom",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "171"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6007"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "⚽ 🇩🇰 UEFA Conference League : Klaksvik vs Riga FC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "172"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6012"
                     }
                 ]
             },
@@ -666,6 +814,14 @@
                     {
                         "channel_name": "Open TV Greece",
                         "channel_id": "3025"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "173"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6013"
                     }
                 ]
             },
@@ -692,6 +848,28 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4104"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "178"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6014"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "⚽ 🇬🇷 UEFA Conference League : Drita vs Inter Escaldes",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "177"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6015"
                     }
                 ]
             },
@@ -722,6 +900,28 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4108"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "179"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6016"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "⚽ 🇳🇱 UEFA Conference League : Vikingur Reykjavik vs Borac Banja Luka",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "180"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6017"
                     }
                 ]
             },
@@ -736,6 +936,14 @@
                     {
                         "channel_name": "Ziggo Sport NL",
                         "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "181"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6019"
                     }
                 ]
             },
@@ -750,6 +958,14 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "184"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6022"
                     }
                 ]
             },
@@ -772,6 +988,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4103"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "185"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6023"
                     }
                 ]
             },
@@ -790,6 +1014,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4109"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "186"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6024"
                     }
                 ]
             },
@@ -820,6 +1052,28 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4107"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "182"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6020"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "⚽ 🇮🇹 UEFA Conference League : Gent vs Hibernian",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "183"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6021"
                     }
                 ]
             },
@@ -846,6 +1100,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4105"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "187"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6026"
                     }
                 ]
             },
@@ -864,6 +1126,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4102"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6025"
                     }
                 ]
             },
@@ -882,6 +1152,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4122"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
                     }
                 ]
             },
@@ -900,6 +1174,10 @@
                     {
                         "channel_name": "SuperSport 1 Digitalb",
                         "channel_id": "3099"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "167"
                     }
                 ]
             },
@@ -914,6 +1192,10 @@
                     {
                         "channel_name": "STV 1 Slovenia",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
                     }
                 ]
             },
@@ -924,6 +1206,30 @@
                     {
                         "channel_name": "Hajduk TV Croatia",
                         "channel_id": "158"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "⚽ 🇭🇷 UEFA Conference League : Shamrock Rovers vs KuPS",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "⚽ Club Friendly : Real Madrid II vs Zamora",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6018"
                     }
                 ]
             }
@@ -1102,6 +1408,20 @@
                 ]
             },
             {
+                "time": "00:00",
+                "event": "Denmark Betinia Liga : Vendsyssel vs Hillerod",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "158"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6004"
+                    }
+                ]
+            },
+            {
                 "time": "00:45",
                 "event": "⚽ 🇷🇺 Russian Cup : Baltika 🇷🇺 vs Dynamo Makhachkala 🇷🇺",
                 "channels": [
@@ -1112,6 +1432,10 @@
                     {
                         "channel_name": "Match TV Russia",
                         "channel_id": "127"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "161"
                     }
                 ]
             },
@@ -1162,6 +1486,20 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4118"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "⚽ Tanzania Premier League : Azam FC vs TRA United SC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
                     }
                 ]
             },
@@ -1342,6 +1680,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4123"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
                     }
                 ]
             },
@@ -1404,6 +1746,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4101"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
                     }
                 ]
             },
@@ -3514,6 +3860,14 @@
                         "channel_id": "1557"
                     },
                     {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1071"
                     }
@@ -3536,6 +3890,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1559"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     },
                     {
                         "channel_name": "Tennis HD Stream",
@@ -3626,6 +3984,14 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1566"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
                     }
                 ]
             },
@@ -3636,6 +4002,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1567"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     },
                     {
                         "channel_name": "Tennis HD Stream",
@@ -4290,6 +4660,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "157"
                     }
                 ]
             },
@@ -4308,6 +4682,10 @@
                     {
                         "channel_name": "Arena Sport 4 Croatia",
                         "channel_id": "580"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "159"
                     }
                 ]
             },
@@ -4326,6 +4704,10 @@
                     {
                         "channel_name": "Sportsnet West",
                         "channel_id": "407"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "160"
                     }
                 ]
             },
