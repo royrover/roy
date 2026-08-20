@@ -858,6 +858,26 @@
         ],
         "All Soccer Events ⚽": [
             {
+                "time": "19:00",
+                "event": "⚽ 🇦🇲 Armenia Premier League : Van 🇦🇲 vs Syunik 🇦🇲",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ 🇹🇿 Tanzania Ligi Kuu Bara : Polisi Tanzania 🇹🇿 vs JKT Tanzania 🇹🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
                 "time": "21:00",
                 "event": "⚽ 🇷🇴 Romania - Cupa României : Steaua Bucureşti 🇷🇴 vs Csikszereda 🇷🇴",
                 "channels": [
