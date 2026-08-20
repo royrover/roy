@@ -384,12 +384,46 @@
         ],
         "UEFA Europa League ⚽": [
             {
+                "time": "21:30",
+                "event": "⚽ 🇷🇴 Romania Cup : Selimbar 🇷🇴 vs FC Botosani 🇷🇴",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "⚽ 🇫🇮 Finland Ykkosliiga : KaPa 🇫🇮 vs Jippo 🇫🇮",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "⚽ 🇺🇿 Uzbekistan Super League : Xorazm Urganch 🇺🇿 vs Lokomotiv Tashkent 🇺🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
                 "time": "22:00",
                 "event": "⚽ 🇰🇿 UEFA Europa League : Kairat 🇰🇿 vs Anderlecht 🇧🇪",
                 "channels": [
                     {
                         "channel_name": "QazSport",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "106"
                     },
                     {
                         "channel_name": "Arena 1 Premium Serbia",
@@ -424,6 +458,30 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4103"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "⚽ 🇬🇮 UEFA Conference League : Lincoln Red Imps 🇬🇮 vs Larne 🇬🇧",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "⚽ 🇫🇮 UEFA Conference League : Inter Turku 🇫🇮 vs FC Copenhagen 🇩🇰",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "152"
                     }
                 ]
             },
@@ -442,6 +500,10 @@
                     {
                         "channel_name": "Polsat Sport Premium 1 Poland",
                         "channel_id": "3061"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "110"
                     }
                 ]
             },
@@ -854,6 +916,16 @@
                         "channel_id": "1"
                     }
                 ]
+            },
+            {
+                "time": "02:00",
+                "event": "⚽ 🇭🇷 UEFA Conference League : HNK Hajduk Split 🇭🇷 vs Raków Częstochowa 🇵🇱",
+                "channels": [
+                    {
+                        "channel_name": "Hajduk TV Croatia",
+                        "channel_id": "158"
+                    }
+                ]
             }
         ],
         "All Soccer Events ⚽": [
@@ -888,6 +960,20 @@
                     {
                         "channel_name": "Prima Sport 1 Romania",
                         "channel_id": "583"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ 🇺🇿 Uzbekistan Super League : Bunyodkor 🇺🇿 vs Kokand 1912 🇺🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "69"
                     }
                 ]
             },
@@ -916,6 +1002,26 @@
                 ]
             },
             {
+                "time": "22:30",
+                "event": "⚽ 🇹🇿 Tanzania Ligi Kuu Bara : Young Africans 🇹🇿 vs Coastal Union 🇹🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "⚽ 🇧🇾 Belarus Vysshaya Liga : Dinamo Minsk 🇧🇾 vs Torpedo-BelAZ Zhodino 🇧🇾",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
                 "time": "23:00",
                 "event": "⚽ 🇳🇴 Norway - Toppserien : Rosenborg 🇳🇴 vs Lyn 🇳🇴",
                 "channels": [
@@ -932,6 +1038,46 @@
                     {
                         "channel_name": "Canal 11 Portugal",
                         "channel_id": "540"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "⚽ 🇸🇪 Sweden Svenska Cupen : Vasalund 🇸🇪 vs IFK Norrköping 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "⚽ 🇸🇪 Sweden Svenska Cupen : Piteå IF FF 🇸🇪 vs AIK 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "⚽ 🇸🇪 Sweden Svenska Cupen : Hässleholms IF 🇸🇪 vs Landskrona BoIS 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "⚽ 🇸🇪 Sweden Svenska Cupen : FC Arlanda 🇸🇪 vs Östersunds FK 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "156"
                     }
                 ]
             },
@@ -3658,6 +3804,10 @@
                     {
                         "channel_name": "Sky Sports Golf DE",
                         "channel_id": "785"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "68"
                     },
                     {
                         "channel_name": "ESPN USA",
