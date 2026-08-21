@@ -389,6 +389,36 @@
         "All Soccer Events ⚽": [
             {
                 "time": "21:00",
+                "event": "⚽ 🇪🇬 Egypt Premier League : Wadi Degla 🇪🇬 vs ZED 🇪🇬",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ 🇺🇿 Uzbekistan Super League : Navbahor Namangan 🇺🇿 vs Nasaf Qarshi 🇺🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ 🇦🇪 UAE Premier League : Ittihad Kalba 🇦🇪 vs Al Wasl 🇦🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
                 "event": "⚽ 🇷🇸 Serbia Serbian Women's Super League : ŽFK Spartak 🇷🇸 vs ŽFK Milutinac Zemun 2023 🇷🇸",
                 "channels": [
                     {
@@ -402,6 +432,10 @@
                 "event": "⚽ 🇶🇦 Qatar - Qatar Stars League : Al Gharafa 🇶🇦 vs Al Shahaniya 🇶🇦",
                 "channels": [
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "106"
+                    },
+                    {
                         "channel_name": "beIN Sports MENA 6",
                         "channel_id": "96"
                     }
@@ -414,6 +448,10 @@
                     {
                         "channel_name": "Digi Sport 1 Romania",
                         "channel_id": "400"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
                     },
                     {
                         "channel_name": "Prima Sport 1 Romania",
@@ -443,11 +481,35 @@
             },
             {
                 "time": "22:00",
+                "event": "⚽ 🇺🇿 Uzbekistan Super League : Pakhtakor 🇺🇿 vs Termez Surkhon 🇺🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "⚽ 🇦🇲 Armenia Premier League : Ararat 🇦🇲 vs Pyunik Yerevan 🇦🇲",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
                 "event": "⚽ 🇧🇾 Belarus - Belarus Premier League : Minsk 🇧🇾 vs Vitebsk 🇧🇾",
                 "channels": [
                     {
                         "channel_name": "Belarus 5",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
                     }
                 ]
             },
@@ -458,6 +520,10 @@
                     {
                         "channel_name": "Sport 2 Ukraine",
                         "channel_id": "21"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
                     }
                 ]
             },
@@ -468,6 +534,10 @@
                     {
                         "channel_name": "TV4 Latvia",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
                     }
                 ]
             },
@@ -482,6 +552,10 @@
                     {
                         "channel_name": "Sportklub 3 Croatia",
                         "channel_id": "103"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "170"
                     }
                 ]
             },
@@ -492,6 +566,20 @@
                     {
                         "channel_name": "M4 Sports Hungary",
                         "channel_id": "265"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "⚽ Finland Ykkosliiga : Haka vs SJK Akatemia",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "172"
                     }
                 ]
             },
@@ -520,6 +608,10 @@
                     {
                         "channel_name": "Sportklub 6 Croatia",
                         "channel_id": "151"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "174"
                     }
                 ]
             },
@@ -550,6 +642,40 @@
                     {
                         "channel_name": "TV3 Sport Denmark",
                         "channel_id": "809"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "182"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "⚽ Denmark Division : Hobro vs Aalborgv",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "183"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "⚽ Finland Ykkosliiga : PK-35 vs JaPS",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "185"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "⚽ Sweden Women Allsvenskan : Malmo FF W vs Hammarby W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "176"
                     }
                 ]
             },
@@ -560,6 +686,10 @@
                     {
                         "channel_name": "ETV 2 Estonia",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "184"
                     }
                 ]
             },
@@ -642,6 +772,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4103"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "177"
                     }
                 ]
             },
@@ -668,6 +802,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4105"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "178"
                     }
                 ]
             },
@@ -718,6 +856,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4104"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "177"
                     }
                 ]
             },
@@ -790,6 +932,20 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4118"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "181"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Poland Division 1 : Chrobry Glogow vs Warta Poznan",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "180"
                     }
                 ]
             },
@@ -800,6 +956,10 @@
                     {
                         "channel_name": "Thmanyah",
                         "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "186"
                     }
                 ]
             },
@@ -814,6 +974,10 @@
                     {
                         "channel_name": "beIN Sports MENA 2",
                         "channel_id": "92"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188"
                     }
                 ]
             },
@@ -836,6 +1000,10 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "189"
                     }
                 ]
             },
@@ -850,12 +1018,26 @@
                 ]
             },
             {
+                "time": "23:30",
+                "event": "⚽ Friendly Match : AEK Larnaca vs Omonia 29th May",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "187"
+                    }
+                ]
+            },
+            {
                 "time": "23:35",
                 "event": "⚽ 🇦🇪 United Arab Emirates - UAE Pro League : Al Nasr 🇦🇪 vs Al Wahda 🇦🇪",
                 "channels": [
                     {
                         "channel_name": "Abu Dhabi Sports 1",
                         "channel_id": "600"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "190"
                     }
                 ]
             },
@@ -2500,110 +2682,231 @@
                 ]
             }
         ],
-        "Tennis 🎾 ATP - Singles: Cincinnati (USA), hard": [
+        "🎾 ATP Cincinnati / 🎾 WTA Cincinnati": [
             {
-                "time": "02:00",
-                "event": "ATP - Singles: 🇺🇸 Taylor Fritz vs 🇺🇸 Brandon Nakashima",
+                "time": "22:00",
+                "event": "🎾 ATP Cincinnati : 🇳🇱 Robin Haase / Constantin Frantzen vs 🇫🇷 Albano Olivetti / Theo Arribage",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis HD tream",
+                        "channel_id": "1076"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "🎾 ATP Cincinnati : 🇮🇹 Luciano Darderi / Tomas Etcheverry vs 🇪🇸 Marcel Granollers / Horacio Zeballos",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    },
+                    {
+                        "channel_name": "Tennis HD tream",
+                        "channel_id": "1075"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "🎾 WTA Cincinnati : 🇱🇻 Jelena Ostapenko / 🇹🇼 Su-Wei Hsieh vs 🇷🇺 Alexandra Panova / 🇧🇪 Magali Kempen",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
+                    },
+                    {
+                        "channel_name": "Tennis HD tream",
+                        "channel_id": "1077"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "🎾 ATP Tour : 🇫🇷 Benjamin Bonzi vs 🇫🇷 Luca Van Assche",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "🎾 ATP Cincinnati : 🇫🇷 Hugo Nys / Édouard Roger-Vasselin vs 🇫🇷 Sadio Doumbia / Fabien Reboul",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1555"
+                    },
+                    {
+                        "channel_name": "Tennis HD tream",
+                        "channel_id": "1079"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "🎾 ATP Cincinnati : 🇮🇹 Simone Bolelli / Andrea Vavassori vs 🇧🇷 Orlando Luz / Rafael Matos",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1556"
+                    },
+                    {
+                        "channel_name": "Tennis HD tream",
+                        "channel_id": "1078"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "🎾 ATP Tour : 🇳🇱 Jesper de Jong vs 🇫🇷 Hugo Gaston",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "🎾 WTA Cincinnati : 🇨🇿 Sara Bejlek vs 🇺🇸 Madison Keys",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    },
+                    {
+                        "channel_name": "Tennis HD tream",
+                        "channel_id": "1071"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "🎾 WTA Cincinnati : 🇺🇸 Caty McNally / Iva Jovic vs 🇨🇿 Marie Bouzkova / Linda Noskova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1559"
+                    },
+                    {
+                        "channel_name": "Tennis HD tream",
+                        "channel_id": "1080"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "🎾 ATP Cincinnati : 🇺🇸 Taylor Fritz vs 🇺🇸 Brandon Nakashima",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1560"
+                    },
+                    {
+                        "channel_name": "Tennis HD tream",
+                        "channel_id": "1072"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "🎾 ATP Tour : 🇷🇺 Roman Safiullin vs 🇵🇱 Hubert Hurkacz",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1561"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "🎾 ATP Tour : 🇧🇪 Zizou Bergs vs 🇬🇷 Stefanos Sakellaridis",
+                "channels": []
+            },
+            {
+                "time": "04:20",
+                "event": "🎾 ATP Tour : 🇹🇳 Moez Echargui vs 🇨🇮 Moïse Kouamé",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1563"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "🎾 ATP Tour : 🇯🇵 Taro Daniel vs 🇬🇧 Jacob Fearnley",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1564"
                     }
                 ]
             },
             {
                 "time": "06:00",
-                "event": "ATP - Singles: 🇮🇹 Lorenzo Musetti vs 🇺🇸 Frances Tiafoe",
+                "event": "🎾 ATP Cincinnati : 🇮🇹 Lorenzo Musetti vs 🇺🇸 Frances Tiafoe",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis 🎾 WTA - Singles: Cincinnati (USA), hard": [
-            {
-                "time": "00:00",
-                "event": "WTA - Singles: 🇨🇿 Sara Bejlek vs 🇺🇸 Madison Keys",
-                "channels": [
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1565"
+                    },
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD tream",
+                        "channel_id": "1073"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
             {
                 "time": "07:30",
-                "event": "WTA - Singles: 🇺🇸 Coco Gauff vs 🇺🇦 Marta Kostyuk",
+                "event": "🎾 WTA Cincinnati : 🇺🇸 Coco Gauff vs 🇺🇦 Marta Kostyuk",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis 🎾 ATP - Doubles: Cincinnati (USA), hard": [
-            {
-                "time": "22:00",
-                "event": "ATP - Doubles: 🇮🇹 Luciano Darderi & 🇦🇷 Tomás Martín Etcheverry vs 🇪🇸 Marcel Granollers & 🇦🇷 Horacio Zeballos",
-                "channels": [
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1566"
+                    },
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "ATP - Doubles: 🇩🇪 Constantin Frantzen & 🇳🇱 Robin Haase vs 🇫🇷 Théo Arribagé & 🇫🇷 Albano Olivetti",
-                "channels": [
+                        "channel_name": "Tennis HD tream",
+                        "channel_id": "1074"
+                    },
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:30",
-                "event": "ATP - Doubles: 🇮🇹 Simone Bolelli & 🇮🇹 Andrea Vavassori vs 🇧🇷 Orlando Luz & 🇧🇷 Rafael Matos",
-                "channels": [
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:30",
-                "event": "ATP - Doubles: 🇳🇱 Hugo Nys & 🇫🇷 Édouard Roger-Vasselin vs 🇫🇷 Sadio Doumbia & 🇫🇷 Fabien Reboul",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis 🎾 WTA - Doubles: Cincinnati (USA), hard": [
-            {
-                "time": "22:00",
-                "event": "WTA - Doubles: 🇹🇼 Hsieh Su-wei & 🇱🇻 Jeļena Ostapenko vs 🇧🇪 Magali Kempen / 🇺🇦 Anhelina Panova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "WTA - Doubles: 🇺🇸 Iva Jovic & 🇺🇸 Caty McNally vs 🇨🇿 Marie Bouzková & 🇨🇿 Linda Nosková",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
                     }
                 ]
             }
@@ -2648,6 +2951,10 @@
                     {
                         "channel_name": "Sky Sports F1 UK",
                         "channel_id": "60"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "108"
                     },
                     {
                         "channel_name": "Sky Sports+ UK",
@@ -2878,6 +3185,30 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4102"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Backup Stream 4K",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004"
+                    },
+                    {
+                        "channel_name": "Backup Stream ES",
+                        "channel_id": "5005"
+                    },
+                    {
+                        "channel_name": "Backup Stream PL",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -3106,6 +3437,10 @@
                 "event": "⛳ DP World Tour : Nexo Championship – Day 2",
                 "channels": [
                     {
+                        "channel_name": "Sky Sports Golf UK",
+                        "channel_id": "70"
+                    },
+                    {
                         "channel_name": "GOLF Channel USA",
                         "channel_id": "318"
                     },
@@ -3168,12 +3503,20 @@
                 "event": "⛳ PGA Tour FedEx Playoffs : BMW Championship – Day 2",
                 "channels": [
                     {
+                        "channel_name": "Sky Sports Golf UK",
+                        "channel_id": "70"
+                    },
+                    {
                         "channel_name": "GOLF Channel USA",
                         "channel_id": "318"
                     },
                     {
                         "channel_name": "Sky Sports Golf DE",
                         "channel_id": "785"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "105"
                     },
                     {
                         "channel_name": "Sky Sports Main Event UK",
@@ -3297,6 +3640,10 @@
                 "time": "02:30",
                 "event": "⛳ PGA TOUR : BMW Championship – Featured Group 1 (Second Round)",
                 "channels": [
+                    {
+                        "channel_name": "Sky Sports Golf UK",
+                        "channel_id": "70"
+                    },
                     {
                         "channel_name": "GOLF Channel USA",
                         "channel_id": "318"
@@ -4000,6 +4347,10 @@
                     {
                         "channel_name": "Magenta Sport 317",
                         "channel_id": "29"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "173"
                     }
                 ]
             },
@@ -4583,6 +4934,10 @@
                 "time": "22:00",
                 "event": "🏉 🇿🇦 Currie Cup : Bulls 🇿🇦 vs Stormers 🇿🇦",
                 "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
+                    },
                     {
                         "channel_name": "Sky Sport 5 NZ",
                         "channel_id": "592"
