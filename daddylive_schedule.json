@@ -1,5 +1,177 @@
 {
     "Friday 21st Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "03:00",
+                "event": "🏁 2026 Kyle Busch Invitational at Bowman Gray Stadium",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "03:45",
+                "event": "🏁 2026 Dirt Duels at New Hampshire Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "04:15",
+                "event": "🏁 2026 Weekly Racing at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "🏁 2026 The World Fuel Altered Nationals",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "🏁 2026 Empire Super Sprints at Autodrome Granby",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "🥊 Most Valuable Promotions: Amanda Serrano vs Lucrecia Manzur",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "🥋 Bison Fighting Championship: Bison Kombat 9",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "🤼 2026 Elevate Submission Series 26",
+                "channels": [
+                    {
+                        "channel_name": "FloGrappling",
+                        "channel_id": "20"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "🏁 Attica Raceway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "21"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "🤼 Ring of Honor ROH: Death Before Dishonor! 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "22"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "🏁 Albany-Saratoga Speedway DIRTcar",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "23"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "🏁 Williams Grove Speedway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "06:15",
+                "event": "🏁 World of Outlaws Sprint Cars: Ogilvie Raceway",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "06:15",
+                "event": "🏁 World of Outlaws Late Models: Maquoketa Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "06:15",
+                "event": "🏁 2026 NAPA All Star Circuit of Champions at I-96 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "🏁 2026 NASCAR Weekly Racing at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "🏁 2026 High Limit Racing at Tulare Thunderbowl Raceway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "29"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
@@ -2382,6 +2554,40 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "⚽ Paraguay Primera División : Rubio Ñu vs Sportivo Trinidense",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "⚽ Uruguay Liga AUF Uruguaya : Liverpool UY vs CA Cerro",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "⚽ Bolivia División Profesional : The Strongest vs Club FC Universitario",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "173"
                     }
                 ]
             },
@@ -4069,6 +4275,14 @@
                     {
                         "channel_name": "NFL Game Pass",
                         "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4030"
                     }
                 ]
             },
@@ -4083,6 +4297,14 @@
                     {
                         "channel_name": "NFL Game Pass",
                         "channel_id": "3002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4031"
                     }
                 ]
             },
@@ -4105,6 +4327,14 @@
                     {
                         "channel_name": "NFL Game Pass",
                         "channel_id": "3003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4032"
                     }
                 ]
             }
@@ -4625,6 +4855,32 @@
                     {
                         "channel_name": "Monumental Sports Network",
                         "channel_id": "778"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "🏀 🇺🇸 WNBA : Golden State Valkyries W vs. Chicago Sky W",
+                "channels": [
+                    {
+                        "channel_name": "WNBA League Pass",
+                        "channel_id": "30"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2024"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
                     }
                 ]
             },
@@ -4643,6 +4899,14 @@
                     {
                         "channel_name": "TSN4",
                         "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2025"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4072"
                     }
                 ]
             }
@@ -5119,7 +5383,12 @@
             {
                 "time": "02:00",
                 "event": "🏉 🇬🇧 Rugby Super League : Leigh vs Bradford",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "190"
+                    }
+                ]
             },
             {
                 "time": "19:30",
