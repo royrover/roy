@@ -1,5 +1,55 @@
 {
     "Thursday 20th Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "06:00",
+                "event": "🏁 Southern Nationals: Toccoa",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "27"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "🥋 UFC BJJ 10: Tackett vs Gracie",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "🏁 High Limit Racing: Santa Maria",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "29"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "🤼 Primos Pro Wrestling: Scorched Summer 2",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "30"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
@@ -1909,6 +1959,26 @@
             },
             {
                 "time": "06:30",
+                "event": "⚽ Brazil Série B : Novorizontino vs America MG",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "199"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "⚽ 🇹🇹 CONCACAF Caribbean Cup : Cavalier vs Salcedo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "200"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
                 "event": "⚽ 🇺🇸 NCAA Women's Soccer : Arkansas 🇺🇸 vs North Carolina 🇺🇸",
                 "channels": [
                     {
@@ -1980,6 +2050,10 @@
                     {
                         "channel_name": "sportdigital1+",
                         "channel_id": "3020"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "206"
                     }
                 ]
             },
@@ -2022,12 +2096,36 @@
                 ]
             },
             {
+                "time": "07:30",
+                "event": "⚽ 🇧🇷 Copa Sudamericana : Botafogo 🇧🇷 vs Cienciano 🇵🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
                 "time": "08:00",
                 "event": "⚽ 🇸🇻 CONCACAF Central American Cup : Alianza 🇸🇻 vs Olimpia 🇭🇳",
                 "channels": [
                     {
                         "channel_name": "CBS Sports Golazo",
                         "channel_id": "910"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "⚽ Colombia Copa DIMAYOR : Ind Medellin vs Dep Pasto",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "208"
                     }
                 ]
             },
@@ -2048,6 +2146,10 @@
                     {
                         "channel_name": "CBS Sports Golazo",
                         "channel_id": "910"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "212"
                     }
                 ]
             }
@@ -3534,6 +3636,10 @@
                     {
                         "channel_name": "Astro Cricket",
                         "channel_id": "370"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "198"
                     }
                 ]
             }
@@ -4032,6 +4138,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1073"
                     }
                 ]
             },
@@ -4510,6 +4620,18 @@
                     {
                         "channel_name": "NFL Game Pass",
                         "channel_id": "3002"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "202"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -4532,6 +4654,18 @@
                     {
                         "channel_name": "NFL Game Pass",
                         "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "211"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004"
                     }
                 ]
             }
@@ -4838,6 +4972,10 @@
                     {
                         "channel_name": "Fox Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "203"
                     }
                 ]
             },
@@ -4852,6 +4990,10 @@
                     {
                         "channel_name": "Space City Home Network",
                         "channel_id": "921"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "204"
                     }
                 ]
             }
@@ -4896,6 +5038,10 @@
                     {
                         "channel_name": "Amazon Prime",
                         "channel_id": "68"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "201"
                     }
                 ]
             },
@@ -4906,6 +5052,10 @@
                     {
                         "channel_name": "NBCS Boston",
                         "channel_id": "754"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "209"
                     }
                 ]
             },
@@ -4916,6 +5066,10 @@
                     {
                         "channel_name": "Amazon Prime",
                         "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "210"
                     }
                 ]
             }
