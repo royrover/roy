@@ -947,7 +947,7 @@
                 "channels": [
                     {
                         "channel_name": "TV2 Sport Denmark",
-                        "channel_id": "810"
+                        "channel_id": "808"
                     },
                     {
                         "channel_name": "TV2 Sport Denmark",
@@ -1104,6 +1104,10 @@
                         "channel_id": "379"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "160"
+                    },
+                    {
                         "channel_name": "Sportsnet World",
                         "channel_id": "410"
                     },
@@ -1180,6 +1184,10 @@
                     {
                         "channel_name": "Canal+ Sport 3 Poland",
                         "channel_id": "3060"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "161"
                     }
                 ]
             },
@@ -1190,6 +1198,10 @@
                     {
                         "channel_name": "SuperSport PSL",
                         "channel_id": "413"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
                     }
                 ]
             },
@@ -1204,6 +1216,20 @@
                     {
                         "channel_name": "Prima Sport 1 Romania",
                         "channel_id": "583"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ 🇺🇾 Uruguay Liga AUF : Danubio 🇺🇾 vs Racing Montevideo 🇺🇾",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "172"
                     }
                 ]
             },
@@ -1214,6 +1240,36 @@
                     {
                         "channel_name": "Sport TV+ Portugal",
                         "channel_id": "9"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ 🇹🇿 Tanzania Ligi Kuu Bara : Mbeya City 🇹🇿 vs Mashujaa 🇹🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ 🇸🇪 Sweden Superettan : Brage 🇸🇪 vs Nordic United 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ 🇸🇪 Sweden Women Allsvenskan : Vittsjo W 🇸🇪 vs Norrkoping W 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "170"
                     }
                 ]
             },
@@ -1252,6 +1308,10 @@
                     {
                         "channel_name": "Sky Sports Premier League UK",
                         "channel_id": "130"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
                     },
                     {
                         "channel_name": "Sky Sport 7 NZ",
@@ -1370,6 +1430,10 @@
                     {
                         "channel_name": "USA Network",
                         "channel_id": "343"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162"
                     },
                     {
                         "channel_name": "Sky Sports Main Event UK",
@@ -1524,6 +1588,10 @@
                     {
                         "channel_name": "beIN SPORTS USA",
                         "channel_id": "425"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "167"
                     },
                     {
                         "channel_name": "beIN SPORTS en Español",
@@ -7569,7 +7637,7 @@
                 "channels": [
                     {
                         "channel_name": "TNT Sports 1 UK",
-                        "channel_id": "31"
+                        "channel_id": "200"
                     },
                     {
                         "channel_name": "EuroSport 1 Poland",
@@ -8560,6 +8628,10 @@
                         "channel_id": "590"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
+                    },
+                    {
                         "channel_name": "beIN Sports 2 Malaysia",
                         "channel_id": "713"
                     },
@@ -8916,6 +8988,10 @@
                     {
                         "channel_name": "SuperSport Rugby",
                         "channel_id": "421"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
                     }
                 ]
             }
