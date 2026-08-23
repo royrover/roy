@@ -594,6 +594,10 @@
                         "channel_id": "809"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "155"
+                    },
+                    {
                         "channel_name": "Arena 5 Premium Serbia",
                         "channel_id": "8"
                     },
@@ -614,6 +618,10 @@
                     {
                         "channel_name": "Match Premier Russia",
                         "channel_id": "573"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "157"
                     },
                     {
                         "channel_name": "Arena 3 Premium Serbia",
@@ -640,6 +648,10 @@
                         "channel_id": "49"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "158"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "4118"
                     }
@@ -664,8 +676,42 @@
                         "channel_id": "386"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "154"
+                    },
+                    {
                         "channel_name": "ESPN 2 NL",
                         "channel_id": "3088"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "⚽ 🇯🇵 Japan J League : Machida 🇯🇵 vs Urawa Reds 🇯🇵",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "⚽ 🇰🇷 South Korea K League : Gwangju FC 🇰🇷 vs Incheon 🇰🇷",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "⚽ 🇰🇷 South Korea K League : Daejeon 🇰🇷 vs Gangwon 🇰🇷",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "152"
                     }
                 ]
             },
@@ -690,6 +736,10 @@
                     {
                         "channel_name": "Sky Sport 3 DE",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "105"
                     },
                     {
                         "channel_name": "DAZN Eleven 1 Portugal",
@@ -726,6 +776,10 @@
                         "channel_id": "2"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77"
+                    },
+                    {
                         "channel_name": "Eleven Sports 3 Poland",
                         "channel_id": "428"
                     },
@@ -736,6 +790,56 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4110"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "⚽ 🇸🇪 Sweden Superettan : Oddevold 🇸🇪 vs Helsingborg 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "⚽ 🇸🇪 Sweden Women Allsvenskan : Hacken W 🇸🇪 vs AIK W 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "⚽ 🇨🇳 China Super League : Liaoning Tieren 🇨🇳 vs Henan Songshan Longmen 🇨🇳",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "⚽ 🇧🇾 Belarus Vysshaya Liga : Baranovici 🇧🇾 vs Dynamo Brest 🇧🇾",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "⚽ 🇩🇰 Denmark Division 1 : Koge 🇩🇰 vs Kolding IF 🇩🇰",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "107"
                     }
                 ]
             },
@@ -754,6 +858,10 @@
                     {
                         "channel_name": "CBS Sports Golazo USA",
                         "channel_id": "910"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "59"
                     },
                     {
                         "channel_name": "Sport TV2 Portugal",
@@ -6386,6 +6494,10 @@
                 "event": "🏸 🇫🇷 BWF World Championships 2026 : Final — Court 1",
                 "channels": [
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "159"
+                    },
+                    {
                         "channel_name": "L’Équipe France",
                         "channel_id": "645"
                     },
@@ -8364,6 +8476,10 @@
                     {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1569"
                     }
                 ]
             },
