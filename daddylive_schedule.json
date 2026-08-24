@@ -2282,12 +2282,46 @@
                 ]
             },
             {
+                "time": "04:30",
+                "event": "⚽ Paraguay Primera División : Libertad Asuncion vs San Lorenzo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
                 "time": "05:00",
                 "event": "⚽ Argentina - Primera División : 🇦🇷 Tigre vs Central Córdoba SdE 🇦🇷",
                 "channels": [
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "388"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "⚽ Brazil Brasileirão Série B : 🇧🇷 Athletic Club vs Novorizontino 🇧🇷",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "⚽ Brazil Brasileirão Série B : Sport Recife vs America MG",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
                     }
                 ]
             },
@@ -4190,6 +4224,10 @@
                     {
                         "channel_name": "beIN Sports MAX 4 France",
                         "channel_id": "494"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
                     }
                 ]
             },
@@ -4212,6 +4250,10 @@
                     {
                         "channel_name": "Fox Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "167"
                     }
                 ]
             },
@@ -4222,6 +4264,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
                     }
                 ]
             },
