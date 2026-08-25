@@ -1038,6 +1038,36 @@
         ],
         "All Soccer Events ⚽": [
             {
+                "time": "17:30",
+                "event": "⚽ 🇰🇷 South Korea K League : Seoul 🇰🇷 vs Bucheon FC 1995 🇰🇷",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "⚽ 🇰🇷 South Korea K League : Jeju SK 🇰🇷 vs Pohang 🇰🇷",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "⚽ 🇰🇷 South Korea K League : Gimcheon Sangmu 🇰🇷 vs Jeonbuk 🇰🇷",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
                 "time": "21:00",
                 "event": "⚽ 🇷🇺 Russia - Russian Cup : Ryazan 🇷🇺 vs FK Spartak Tambov 🇷🇺",
                 "channels": [
@@ -1048,6 +1078,56 @@
                     {
                         "channel_name": "MATCH TV Russia",
                         "channel_id": "127"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ 🇺🇿 Uzbekistan Super League : Termez Surkhon 🇺🇿 vs OKMK 🇺🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ 🇺🇿 Uzbekistan Super League : Andijan 🇺🇿 vs Xorazm Urganch 🇺🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ 🇰🇿 Kazakhstan Premier League : Tobol 🇰🇿 vs Kaisar Kyzylorda 🇰🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "⚽ 🇹🇿 Tanzania Ligi Kuu Bara : Namungo 🇹🇿 vs Fountain Gate 🇹🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "⚽ 🇺🇿 Uzbekistan Super League : Dinamo Samarkand 🇺🇿 vs Pakhtakor 🇺🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77"
                     }
                 ]
             },
@@ -1137,6 +1217,10 @@
                 "time": "23:45",
                 "event": "⚽ 🇪🇺 Europe - UEFA Champions League : Sabah FC 🇦🇿 vs Hapoel Be'er Sheva 🇮🇱",
                 "channels": [
+                    {
+                        "channel_name": "Paramoint+",
+                        "channel_id": "160"
+                    },
                     {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
@@ -1384,6 +1468,10 @@
                 "event": "⚽ 🇪🇺 Europe - UEFA Champions League : Simulcast",
                 "channels": [
                     {
+                        "channel_name": "Paramoint+",
+                        "channel_id": "162"
+                    },
+                    {
                         "channel_name": "Canal+ Extra 3 Poland",
                         "channel_id": "985"
                     }
@@ -1393,6 +1481,10 @@
                 "time": "02:00",
                 "event": "⚽ 🇦🇹 Europe - UEFA Champions League : LASK Linz 🇦🇹 vs Celtic 🇬🇧",
                 "channels": [
+                    {
+                        "channel_name": "Paramoint+",
+                        "channel_id": "161"
+                    },
                     {
                         "channel_name": "Sky Sport Austria 1",
                         "channel_id": "559"
@@ -1539,6 +1631,10 @@
                 "time": "02:00",
                 "event": "⚽ 🇳🇴 Europe - UEFA Champions League : Bodø/Glimt 🇳🇴 vs NEC Nijmegen 🇳🇱",
                 "channels": [
+                    {
+                        "channel_name": "Paramoint+",
+                        "channel_id": "163"
+                    },
                     {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
@@ -3256,6 +3352,66 @@
         ],
         "Snooker 🎱": [
             {
+                "time": "20:21",
+                "event": "🎱 🇨🇳 Wuhan Open : Table 1 🇨🇳",
+                "channels": [
+                    {
+                        "channel_name": "Snooker Event Feed",
+                        "channel_id": "224"
+                    }
+                ]
+            },
+            {
+                "time": "20:21",
+                "event": "🎱 🇨🇳 Wuhan Open : Table 2 🇨🇳",
+                "channels": [
+                    {
+                        "channel_name": "Snooker Event Feed",
+                        "channel_id": "225"
+                    }
+                ]
+            },
+            {
+                "time": "20:21",
+                "event": "🎱 🇨🇳 Wuhan Open : Table 3 🇨🇳",
+                "channels": [
+                    {
+                        "channel_name": "Snooker Event Feed",
+                        "channel_id": "226"
+                    }
+                ]
+            },
+            {
+                "time": "20:21",
+                "event": "🎱 🇨🇳 Wuhan Open : Table 4 🇨🇳",
+                "channels": [
+                    {
+                        "channel_name": "Snooker Event Feed",
+                        "channel_id": "227"
+                    }
+                ]
+            },
+            {
+                "time": "20:21",
+                "event": "🎱 🇨🇳 Wuhan Open : Table 5 🇨🇳",
+                "channels": [
+                    {
+                        "channel_name": "Snooker Event Feed",
+                        "channel_id": "228"
+                    }
+                ]
+            },
+            {
+                "time": "20:21",
+                "event": "🎱 🇨🇳 Wuhan Open : Table 6 🇨🇳",
+                "channels": [
+                    {
+                        "channel_name": "Snooker Event Feed",
+                        "channel_id": "229"
+                    }
+                ]
+            },
+            {
                 "time": "13:00",
                 "event": "🎱 Wuhan Open : Round 2 Afternoon Session",
                 "channels": [
@@ -3804,6 +3960,10 @@
                     {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "55"
                     },
                     {
                         "channel_name": "Sky Sport 1 NZ",
