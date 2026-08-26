@@ -592,12 +592,102 @@
                 ]
             },
             {
+                "time": "19:15",
+                "event": "⚽ 🇲🇾 Malaysia Super League : Johor Darul Ta'zim 🇲🇾 vs Kelantan Red Warriors 🇲🇾",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ 🌏 ASEAN Championship : Vietnam 🇻🇳 vs Thailand 🇹🇭",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ 🇲🇾 Malaysia Super League : Kuala Lumpur City 🇲🇾 vs Kuching City FC 🇲🇾",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ 🇺🇿 Uzbekistan Super League : Mash'al Muborak 🇺🇿 vs Navbahor Namangan 🇺🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ 🇺🇿 Uzbekistan Super League : Lokomotiv Tashkent 🇺🇿 vs Bunyodkor 🇺🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ 🇪🇬 Egypt Premier League : Smouha 🇪🇬 vs Asyut Petroleum 🇪🇬",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "⚽ 🇺🇿 Uzbekistan Super League : Qizilqum 🇺🇿 vs Nasaf Qarshi 🇺🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
                 "time": "22:00",
                 "event": "⚽ 🇨🇿 Sparta B vs 🇨🇿 Baník Ostrava",
                 "channels": [
                     {
                         "channel_name": "Oneplay Sport 4 CZ",
                         "channel_id": "1038"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "⚽ 🇪🇪 Estonia Meistriliiga : Tammeka 🇪🇪 vs Flora 🇪🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "⚽ 🇩🇰 Denmark Cup : Fredericia 🇩🇰 vs Odense 🇩🇰",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "151"
                     }
                 ]
             },
@@ -622,6 +712,60 @@
                     {
                         "channel_name": "Thmanyah",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "⚽ 🇸🇪 Sweden Svenska Cupen : Stockholm Internazionale 🇸🇪 vs Hammarby 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "⚽ 🇸🇪 Sweden Svenska Cupen : Skövde AIK 🇸🇪 vs Halmstad 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "⚽ 🇸🇪 Sweden Svenska Cupen : Friska Viljor 🇸🇪 vs Sirius 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "⚽ 🇸🇪 Sweden Svenska Cupen : Dalstorps 🇸🇪 vs Norrby 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "⚽ 🇸🇪 Sweden Svenska Cupen : Bollstanäs 🇸🇪 vs Nordic United 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "158"
                     }
                 ]
             },
@@ -632,6 +776,10 @@
                     {
                         "channel_name": "ORF eins",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "159"
                     },
                     {
                         "channel_name": "Canal 11 Portugal",
@@ -3056,7 +3204,7 @@
         ],
         "Snooker 🎱": [
             {
-                "time": "16:59",
+                "time": "20:17",
                 "event": "🎱 🇨🇳 Wuhan Open Table 1",
                 "channels": [
                     {
@@ -3066,7 +3214,7 @@
                 ]
             },
             {
-                "time": "16:59",
+                "time": "20:17",
                 "event": "🎱 🇨🇳 Wuhan Open Table 2",
                 "channels": [
                     {
@@ -3076,7 +3224,7 @@
                 ]
             },
             {
-                "time": "16:59",
+                "time": "20:17",
                 "event": "🎱 🇨🇳 Wuhan Open Table 3",
                 "channels": [
                     {
@@ -3086,7 +3234,7 @@
                 ]
             },
             {
-                "time": "16:59",
+                "time": "20:17",
                 "event": "🎱 🇨🇳 Wuhan Open Table 4",
                 "channels": [
                     {
@@ -3096,7 +3244,7 @@
                 ]
             },
             {
-                "time": "16:59",
+                "time": "20:17",
                 "event": "🎱 🇨🇳 Wuhan Open Table 5",
                 "channels": [
                     {
@@ -3106,7 +3254,7 @@
                 ]
             },
             {
-                "time": "16:59",
+                "time": "20:17",
                 "event": "🎱 🇨🇳 Wuhan Open Table 6",
                 "channels": [
                     {
