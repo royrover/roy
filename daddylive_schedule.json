@@ -5730,6 +5730,10 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "1115"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7053"
                     }
                 ]
             },
@@ -5748,6 +5752,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "3084"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7054"
                     }
                 ]
             },
@@ -5766,6 +5774,20 @@
                     {
                         "channel_name": "SporTV BR",
                         "channel_id": "78"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7052"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "⚽ 🇪🇨 Ecuador Liga Pro : Emelec 🇪🇨 vs Leones del Norte 🇪🇨",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "201"
                     }
                 ]
             },
@@ -5776,6 +5798,10 @@
                     {
                         "channel_name": "FOX Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7051"
                     }
                 ]
             },
@@ -5786,6 +5812,24 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "203"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7055"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "⚽ 🇧🇴 Bolivia Copa : Blooming 🇧🇴 vs Oriente Petrolero 🇧🇴",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "204"
                     }
                 ]
             },
@@ -5796,6 +5840,14 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "205"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7056"
                     }
                 ]
             },
@@ -5808,8 +5860,16 @@
                         "channel_id": "66"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "206"
+                    },
+                    {
                         "channel_name": "TUDN USA",
                         "channel_id": "3030"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7057"
                     }
                 ]
             },
@@ -5820,6 +5880,14 @@
                     {
                         "channel_name": "TNT SPORTS Premium HD Chile",
                         "channel_id": "642"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "207"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7058"
                     }
                 ]
             },
@@ -5842,6 +5910,10 @@
                         "channel_id": "388"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "208"
+                    },
+                    {
                         "channel_name": "FOX Deportes",
                         "channel_id": "643"
                     },
@@ -5860,6 +5932,10 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "3085"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7059"
                     }
                 ]
             },
@@ -5870,6 +5946,14 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "210"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7060"
                     }
                 ]
             },
@@ -5884,6 +5968,10 @@
                     {
                         "channel_name": "TUDN USA",
                         "channel_id": "3030"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "211"
                     }
                 ]
             }
@@ -5914,6 +6002,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "55"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "199"
                     },
                     {
                         "channel_name": "MAX Sport 4 Bulgaria",
@@ -5964,6 +6056,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "200"
                     }
                 ]
             }
@@ -6972,6 +7068,10 @@
                         "channel_id": "346"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "198"
+                    },
+                    {
                         "channel_name": "TNT Sports 2 UK",
                         "channel_id": "32"
                     },
@@ -7010,7 +7110,7 @@
         ],
         "Tennis US OPEN [Grand Slam] 🎾": [
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎾🏆 US Open : 🏟️ RED Zone | Multi Feed",
                 "channels": [
                     {
@@ -7020,7 +7120,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎾🏆 US Open : 🏟️ Arthur Ashe Stadium",
                 "channels": [
                     {
@@ -7030,7 +7130,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎾🏆 US Open : 🏟️ Louis Armstrong Stadium",
                 "channels": [
                     {
@@ -7040,7 +7140,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎾🏆 US Open : 🏟️ Grandstand",
                 "channels": [
                     {
@@ -7050,7 +7150,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎾🏆 US Open : 🏟️ Stadium 17",
                 "channels": [
                     {
@@ -7060,7 +7160,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎾🏆 US Open : 🎾 Court 5",
                 "channels": [
                     {
@@ -7070,7 +7170,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎾🏆 US Open : 🎾 Court 6",
                 "channels": [
                     {
@@ -7080,7 +7180,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎾🏆 US Open : 🎾 Court 7",
                 "channels": [
                     {
@@ -7090,7 +7190,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎾🏆 US Open : 🎾 Court 10",
                 "channels": [
                     {
@@ -7100,7 +7200,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎾🏆 US Open : 🎾 Court 11",
                 "channels": [
                     {
@@ -7110,7 +7210,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎾🏆 US Open : 🎾 Court 12",
                 "channels": [
                     {
@@ -7120,7 +7220,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎾🏆 US Open : 🎾 Court 13",
                 "channels": [
                     {
@@ -9518,6 +9618,10 @@
                         "channel_id": "308"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "196"
+                    },
+                    {
                         "channel_name": "TSN1",
                         "channel_id": "111"
                     },
@@ -9992,6 +10096,10 @@
                         "channel_id": "16"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "202"
+                    },
+                    {
                         "channel_name": "NBC USA",
                         "channel_id": "53"
                     },
@@ -10306,6 +10414,10 @@
                     {
                         "channel_name": "WNBA League Pass",
                         "channel_id": "86"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "197"
                     }
                 ]
             },
@@ -10316,6 +10428,10 @@
                     {
                         "channel_name": "NBCS Boston USA",
                         "channel_id": "754"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "209"
                     }
                 ]
             }
@@ -10596,7 +10712,7 @@
         ],
         "Darts 🎯": [
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎯 PDC Darts Hungarian Board 1",
                 "channels": [
                     {
@@ -10606,7 +10722,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎯 PDC Darts Hungarian Board 2",
                 "channels": [
                     {
@@ -10616,7 +10732,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎯 PDC Darts Hungarian Board 3",
                 "channels": [
                     {
@@ -10626,7 +10742,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎯 PDC Darts Hungarian Board 4",
                 "channels": [
                     {
@@ -10636,7 +10752,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎯 PDC Darts Hungarian Board 5",
                 "channels": [
                     {
@@ -10646,7 +10762,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "06:19",
                 "event": "🎯 PDC Darts Hungarian Board 6",
                 "channels": [
                     {
