@@ -1,5 +1,17 @@
 {
     "Tuesday 01st Sep 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "07:00",
+                "event": "🥊 Country Box: Where Music Meets Boxing",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "29"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
@@ -530,6 +542,10 @@
                     {
                         "channel_name": "V Sport 1 Sweden",
                         "channel_id": "3078"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2006"
                     }
                 ]
             },
@@ -548,6 +564,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2007"
                     }
                 ]
             },
@@ -566,6 +586,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "3033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2008"
                     }
                 ]
             },
@@ -592,6 +616,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4109"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2009"
                     }
                 ]
             },
@@ -614,6 +642,10 @@
                     {
                         "channel_name": "V Sport Football",
                         "channel_id": "3079"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005"
                     }
                 ]
             },
@@ -632,6 +664,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2004"
                     }
                 ]
             },
@@ -654,6 +690,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4110"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2016"
                     }
                 ]
             }
@@ -670,6 +710,10 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "211"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2010"
                     }
                 ]
             }
@@ -714,6 +758,10 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "194"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2014"
                     }
                 ]
             },
@@ -742,6 +790,10 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "196"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2013"
                     }
                 ]
             },
@@ -756,6 +808,10 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "197"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2012"
                     }
                 ]
             },
@@ -824,6 +880,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "155"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "218"
                     }
                 ]
             },
@@ -866,6 +926,10 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "204"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2011"
                     }
                 ]
             },
@@ -1290,6 +1354,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4119"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2002"
                     }
                 ]
             },
@@ -1806,6 +1874,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4113"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -1906,6 +1982,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4120"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2017"
                     }
                 ]
             },
@@ -1996,6 +2076,50 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4119"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2015"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "⚽ Peru Liga 1 Apertura : Grau vs FBC Melgar",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "⚽ Uruguay Copa : Wanderers vs CA Cerro",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "⚽ Paraguay Copa : 2 de Mayo vs Sp Luqueno",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "⚽ Ecuador Liga Pro : Delfin vs Tecnico U",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
                     }
                 ]
             },
@@ -2006,6 +2130,10 @@
                     {
                         "channel_name": "FOX Sports 2 USA",
                         "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
                     },
                     {
                         "channel_name": "RDS 2 CA",
@@ -2030,12 +2158,56 @@
                 ]
             },
             {
+                "time": "05:30",
+                "event": "⚽ Brazil Serie B : Londrina vs Juventude",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "⚽ Bolivia Copa : Universitario de Vinto vs Aurora",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "179"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "⚽ CONCACAF Caribbean Cup : Defence Force vs Sando",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "180"
+                    }
+                ]
+            },
+            {
+                "time": "06:15",
+                "event": "⚽ Uruguay Liga AUF : Montevideo City vs Danubio",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "181"
+                    }
+                ]
+            },
+            {
                 "time": "07:00",
                 "event": "⚽ 🇧🇷 Brazil - Copa do Brasil : Atlético Mineiro 🇧🇷 vs Cruzeiro 🇧🇷",
                 "channels": [
                     {
                         "channel_name": "Sportv Brazil",
                         "channel_id": "78"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "185"
                     },
                     {
                         "channel_name": "Premiere BR",
@@ -2056,12 +2228,26 @@
                 ]
             },
             {
+                "time": "07:00",
+                "event": "⚽ Ecuador Liga Pro : LDU Quito vs Mushuc Runa",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "186"
+                    }
+                ]
+            },
+            {
                 "time": "08:00",
                 "event": "⚽ 🇨🇴 Colombia - Primera A : Fortaleza CEIF 🇨🇴 vs Once Caldas 🇨🇴",
                 "channels": [
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "190"
                     }
                 ]
             }
@@ -2282,7 +2468,7 @@
         ],
         "Tennis US OPEN [All Court 🏟️] 🎾": [
             {
-                "time": "01:19",
+                "time": "06:15",
                 "event": "🎾🏆 US Open : 🏟️ RED Zone | Multi Feed",
                 "channels": [
                     {
@@ -2296,11 +2482,15 @@
                 ]
             },
             {
-                "time": "01:19",
+                "time": "06:15",
                 "event": "🎾🏆 US Open : 🏟️ Arthur Ashe Stadium",
                 "channels": [
                     {
-                        "channel_name": "Live Feed",
+                        "channel_name": "Tennis Court Feed",
+                        "channel_id": "1650"
+                    },
+                    {
+                        "channel_name": "Court Live Feed",
                         "channel_id": "1068"
                     },
                     {
@@ -2314,11 +2504,15 @@
                 ]
             },
             {
-                "time": "01:19",
+                "time": "06:15",
                 "event": "🎾🏆 US Open : 🏟️ Louis Armstrong Stadium",
                 "channels": [
                     {
-                        "channel_name": "Live Feed",
+                        "channel_name": "Tennis Court Feed",
+                        "channel_id": "1651"
+                    },
+                    {
+                        "channel_name": "Court Live Feed",
                         "channel_id": "1069"
                     },
                     {
@@ -2328,11 +2522,15 @@
                 ]
             },
             {
-                "time": "01:19",
+                "time": "06:15",
                 "event": "🎾🏆 US Open : 🏟️ Grandstand",
                 "channels": [
                     {
-                        "channel_name": "Live Feed",
+                        "channel_name": "Tennis Court Feed",
+                        "channel_id": "1652"
+                    },
+                    {
+                        "channel_name": "Court Live Feed",
                         "channel_id": "1070"
                     },
                     {
@@ -2342,17 +2540,7 @@
                 ]
             },
             {
-                "time": "01:19",
-                "event": "🎾🏆 US Open : 🏟️ Stadium 17",
-                "channels": [
-                    {
-                        "channel_name": "Live Feed",
-                        "channel_id": "1071"
-                    }
-                ]
-            },
-            {
-                "time": "01:19",
+                "time": "06:15",
                 "event": "🎾🏆 US Open : 🎾 Court 4",
                 "channels": [
                     {
@@ -2362,37 +2550,49 @@
                 ]
             },
             {
-                "time": "01:19",
+                "time": "06:15",
                 "event": "🎾🏆 US Open : 🎾 Court 5",
                 "channels": [
                     {
-                        "channel_name": "Live Feed",
+                        "channel_name": "Tennis Court Feed",
+                        "channel_id": "1655"
+                    },
+                    {
+                        "channel_name": "Court Live Feed",
                         "channel_id": "1072"
                     }
                 ]
             },
             {
-                "time": "01:19",
+                "time": "06:15",
                 "event": "🎾🏆 US Open : 🎾 Court 6",
                 "channels": [
                     {
-                        "channel_name": "Live Feed",
+                        "channel_name": "Tennis Court Feed",
+                        "channel_id": "1656"
+                    },
+                    {
+                        "channel_name": "Court Live Feed",
                         "channel_id": "1073"
                     }
                 ]
             },
             {
-                "time": "01:19",
+                "time": "06:15",
                 "event": "🎾🏆 US Open : 🎾 Court 7",
                 "channels": [
                     {
-                        "channel_name": "Live Feed",
+                        "channel_name": "Tennis Court Feed",
+                        "channel_id": "1657"
+                    },
+                    {
+                        "channel_name": "Court Live Feed",
                         "channel_id": "1074"
                     }
                 ]
             },
             {
-                "time": "01:19",
+                "time": "06:15",
                 "event": "🎾🏆 US Open : 🎾 Court 8",
                 "channels": [
                     {
@@ -2402,7 +2602,7 @@
                 ]
             },
             {
-                "time": "01:19",
+                "time": "06:15",
                 "event": "🎾🏆 US Open : 🎾 Court 9",
                 "channels": [
                     {
@@ -2412,37 +2612,49 @@
                 ]
             },
             {
-                "time": "01:19",
+                "time": "06:15",
                 "event": "🎾🏆 US Open : 🎾 Court 10",
                 "channels": [
                     {
-                        "channel_name": "Live Feed",
+                        "channel_name": "Tennis Court Feed",
+                        "channel_id": "1660"
+                    },
+                    {
+                        "channel_name": "Court Live Feed",
                         "channel_id": "1075"
                     }
                 ]
             },
             {
-                "time": "01:19",
+                "time": "06:15",
                 "event": "🎾🏆 US Open : 🎾 Court 11",
                 "channels": [
                     {
-                        "channel_name": "Live Feed",
+                        "channel_name": "Tennis Court Feed",
+                        "channel_id": "1661"
+                    },
+                    {
+                        "channel_name": "Court Live Feed",
                         "channel_id": "1076"
                     }
                 ]
             },
             {
-                "time": "01:19",
+                "time": "06:15",
                 "event": "🎾🏆 US Open : 🎾 Court 12",
                 "channels": [
                     {
-                        "channel_name": "Live Feed",
+                        "channel_name": "Tennis Court Feed",
+                        "channel_id": "1662"
+                    },
+                    {
+                        "channel_name": "Court Live Feed",
                         "channel_id": "1077"
                     }
                 ]
             },
             {
-                "time": "01:19",
+                "time": "06:15",
                 "event": "🎾🏆 US Open : 🎾 Court 13",
                 "channels": [
                     {
@@ -2452,7 +2664,7 @@
                 ]
             },
             {
-                "time": "01:19",
+                "time": "06:15",
                 "event": "🎾🏆 US Open : 🎾 Court 14",
                 "channels": [
                     {
@@ -3498,6 +3710,10 @@
                         "channel_id": "300"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "187"
+                    },
+                    {
                         "channel_name": "CW PIX 11 USA",
                         "channel_id": "280"
                     },
@@ -3522,12 +3738,24 @@
                         "channel_id": "55"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "178"
+                    },
+                    {
                         "channel_name": "RMC Sport 1 France",
                         "channel_id": "119"
                     },
                     {
                         "channel_name": "Sportsnet 360",
                         "channel_id": "409"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2001"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4048"
                     }
                 ]
             }
@@ -3670,7 +3898,7 @@
                 ]
             }
         ],
-        "Baseball (MLB) ⚾": [
+        "Baseball ⚾": [
             {
                 "time": "16:00",
                 "event": "⚾ 🇯🇵 NPB : Nippon Ham Fighters 🇯🇵 vs Fukuoka 🇯🇵",
@@ -3680,7 +3908,9 @@
                         "channel_id": "1"
                     }
                 ]
-            },
+            }
+        ],
+        "Minor League Baseball ⚾": [
             {
                 "time": "09:00",
                 "event": "⚾ 🇺🇸 Minor League Baseball : Salt Lake Bees 🇺🇸 vs Sacramento River Cats 🇺🇸",
@@ -3690,7 +3920,9 @@
                         "channel_id": "753"
                     }
                 ]
-            },
+            }
+        ],
+        "Baseball (MLB) ⚾": [
             {
                 "time": "05:40",
                 "event": "⚾ 🇺🇸 MLB : Tampa Bay Rays 🇺🇸 vs New York Mets 🇺🇸",
@@ -3698,6 +3930,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "171"
                     },
                     {
                         "channel_name": "SportsNet New York USA",
@@ -3714,6 +3950,10 @@
                         "channel_id": "2"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "174"
+                    },
+                    {
                         "channel_name": "beIN Sports 4 Max France",
                         "channel_id": "494"
                     }
@@ -3726,6 +3966,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "172"
                     },
                     {
                         "channel_name": "NBCS Bay Area USA",
@@ -3744,6 +3988,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "173"
                     },
                     {
                         "channel_name": "TVA Sports CA",
@@ -3770,6 +4018,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "175"
                     }
                 ]
             },
@@ -3780,6 +4032,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "176"
                     },
                     {
                         "channel_name": "NESN USA",
@@ -3798,6 +4054,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "182"
                     }
                 ]
             },
@@ -3808,6 +4068,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "183"
                     }
                 ]
             },
@@ -3818,6 +4082,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "184"
                     },
                     {
                         "channel_name": "truTV USA",
@@ -3846,6 +4114,10 @@
                         "channel_id": "10"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "191"
+                    },
+                    {
                         "channel_name": "NBCS California USA",
                         "channel_id": "755"
                     }
@@ -3858,6 +4130,14 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "192"
                     },
                     {
                         "channel_name": "Space City Home Network",
@@ -3878,6 +4158,10 @@
                         "channel_id": "12"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "189"
+                    },
+                    {
                         "channel_name": "MASN USA",
                         "channel_id": "829"
                     }
@@ -3890,6 +4174,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "193"
                     },
                     {
                         "channel_name": "YES USA",
@@ -3922,6 +4210,10 @@
                         "channel_id": "14"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "194"
+                    },
+                    {
                         "channel_name": "NBCS Philadelphia USA",
                         "channel_id": "777"
                     }
@@ -3934,6 +4226,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "195"
                     },
                     {
                         "channel_name": "Sportsnet Ontario",
