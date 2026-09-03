@@ -894,6 +894,10 @@
                     {
                         "channel_name": "M4 Sports Hungary",
                         "channel_id": "265"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "173"
                     }
                 ]
             },
@@ -904,6 +908,10 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "174"
                     }
                 ]
             },
@@ -914,6 +922,10 @@
                     {
                         "channel_name": "Digi Sport 1 Romania",
                         "channel_id": "400"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "172"
                     },
                     {
                         "channel_name": "Prima Sport 1 Romania",
@@ -928,6 +940,10 @@
                     {
                         "channel_name": "Thmanyah",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "176"
                     },
                     {
                         "channel_name": "Fox Soccer Plus",
@@ -976,6 +992,10 @@
                         "channel_id": "819"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "175"
+                    },
+                    {
                         "channel_name": "Sportklub 3 Croatia",
                         "channel_id": "103"
                     },
@@ -996,6 +1016,26 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4171"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "⚽ Uruguay Liga AUF : Rentistas vs Plaza Colonia",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "⚽ Uruguay Liga AUF : Albion vs Progreso",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "178"
                     }
                 ]
             },
@@ -1134,6 +1174,10 @@
                         "channel_id": "960"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77"
+                    },
+                    {
                         "channel_name": "beIN SPORTS USA",
                         "channel_id": "425"
                     },
@@ -1216,6 +1260,10 @@
                         "channel_id": "451"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "69"
+                    },
+                    {
                         "channel_name": "Premier Sports 1 Ireland",
                         "channel_id": "771"
                     },
@@ -1264,6 +1312,10 @@
                     {
                         "channel_name": "M+ LALIGA TV",
                         "channel_id": "84"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86"
                     },
                     {
                         "channel_name": "Viaplay Sports 2 UK",
@@ -1368,6 +1420,10 @@
                         "channel_id": "854"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "105"
+                    },
+                    {
                         "channel_name": "CBS Sports Golazo",
                         "channel_id": "910"
                     },
@@ -1448,6 +1504,36 @@
                 ]
             },
             {
+                "time": "02:00",
+                "event": "Ecuador Liga Pro : U Catolica vs Aucas",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "⚽ Ecuador Liga Pro : Leones del Norte vs Orense",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "⚽ Paraguay Primera Division : Recoleta vs Cerro Porteno",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
                 "time": "05:00",
                 "event": "⚽ 🇺🇸 NCAA Women's Soccer : Binghamton 🇺🇸 vs Syracuse 🇺🇸",
                 "channels": [
@@ -1464,6 +1550,10 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "110"
                     }
                 ]
             },
@@ -2428,9 +2518,13 @@
         ],
         "Tennis US OPEN [All Court 🏟️] 🎾": [
             {
-                "time": "23:24",
+                "time": "03:27",
                 "event": "🎾🏆 US Open : 🏟️ RED Zone | Multi Feed",
                 "channels": [
+                    {
+                        "channel_name": "Court Live Feed",
+                        "channel_id": "1067"
+                    },
                     {
                         "channel_name": "Sky Sports Tennis DE",
                         "channel_id": "884"
@@ -2438,7 +2532,7 @@
                 ]
             },
             {
-                "time": "23:24",
+                "time": "03:27",
                 "event": "🎾🏆 US Open : 🏟️ Arthur Ashe Stadium",
                 "channels": [
                     {
@@ -2456,7 +2550,7 @@
                 ]
             },
             {
-                "time": "23:24",
+                "time": "03:27",
                 "event": "🎾🏆 US Open : 🏟️ Louis Armstrong Stadium",
                 "channels": [
                     {
@@ -2470,7 +2564,7 @@
                 ]
             },
             {
-                "time": "23:24",
+                "time": "03:27",
                 "event": "🎾🏆 US Open : 🏟️ Grandstand",
                 "channels": [
                     {
@@ -2484,7 +2578,7 @@
                 ]
             },
             {
-                "time": "23:24",
+                "time": "03:27",
                 "event": "🎾🏆 US Open : 🏟️ Stadium 17",
                 "channels": [
                     {
@@ -2494,7 +2588,7 @@
                 ]
             },
             {
-                "time": "23:24",
+                "time": "03:27",
                 "event": "🎾🏆 US Open : 🎾 Court 4",
                 "channels": [
                     {
@@ -2504,7 +2598,7 @@
                 ]
             },
             {
-                "time": "23:24",
+                "time": "03:27",
                 "event": "🎾🏆 US Open : 🎾 Court 5",
                 "channels": [
                     {
@@ -2514,7 +2608,7 @@
                 ]
             },
             {
-                "time": "23:24",
+                "time": "03:27",
                 "event": "🎾🏆 US Open : 🎾 Court 6",
                 "channels": [
                     {
@@ -2524,7 +2618,7 @@
                 ]
             },
             {
-                "time": "23:24",
+                "time": "03:27",
                 "event": "🎾🏆 US Open : 🎾 Court 7",
                 "channels": [
                     {
@@ -2534,27 +2628,27 @@
                 ]
             },
             {
-                "time": "23:24",
+                "time": "03:27",
                 "event": "🎾🏆 US Open : 🎾 Court 8",
                 "channels": [
                     {
-                        "channel_name": "Live Feed",
+                        "channel_name": "Court Live Feed",
                         "channel_id": "1080"
                     }
                 ]
             },
             {
-                "time": "23:24",
+                "time": "03:27",
                 "event": "🎾🏆 US Open : 🎾 Court 9",
                 "channels": [
                     {
-                        "channel_name": "Live Feed",
+                        "channel_name": "Court Live Feed",
                         "channel_id": "1079"
                     }
                 ]
             },
             {
-                "time": "23:24",
+                "time": "03:27",
                 "event": "🎾🏆 US Open : 🎾 Court 10",
                 "channels": [
                     {
@@ -2564,7 +2658,7 @@
                 ]
             },
             {
-                "time": "23:24",
+                "time": "03:27",
                 "event": "🎾🏆 US Open : 🎾 Court 11",
                 "channels": [
                     {
@@ -2574,7 +2668,7 @@
                 ]
             },
             {
-                "time": "23:24",
+                "time": "03:27",
                 "event": "🎾🏆 US Open : 🎾 Court 12",
                 "channels": [
                     {
@@ -2584,22 +2678,112 @@
                 ]
             },
             {
-                "time": "23:24",
+                "time": "03:27",
                 "event": "🎾🏆 US Open : 🎾 Court 13",
                 "channels": [
                     {
-                        "channel_name": "Live Feed",
+                        "channel_name": "Court Live Feed",
                         "channel_id": "1078"
                     }
                 ]
             },
             {
-                "time": "23:24",
+                "time": "03:27",
                 "event": "🎾🏆 US Open : 🎾 Court 14",
                 "channels": [
                     {
-                        "channel_name": "Live Feed",
+                        "channel_name": "Court Live Feed",
                         "channel_id": "1082"
+                    }
+                ]
+            },
+            {
+                "time": "03:27",
+                "event": "🎾🏆 US Open : 🎾 Court 15",
+                "channels": [
+                    {
+                        "channel_name": "Court Live Feed",
+                        "channel_id": "1083"
+                    }
+                ]
+            },
+            {
+                "time": "03:27",
+                "event": "🎾🏆Tennis 🎾 US Open — Feed 1",
+                "channels": [
+                    {
+                        "channel_name": "Tennis SD Stream",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "03:27",
+                "event": "🎾🏆Tennis 🎾 US Open — Feed 2",
+                "channels": [
+                    {
+                        "channel_name": "Tennis SD Stream",
+                        "channel_id": "202"
+                    }
+                ]
+            },
+            {
+                "time": "03:27",
+                "event": "🎾🏆Tennis 🎾 US Open — Feed 3",
+                "channels": [
+                    {
+                        "channel_name": "Tennis SD Stream",
+                        "channel_id": "203"
+                    }
+                ]
+            },
+            {
+                "time": "03:27",
+                "event": "🎾🏆Tennis 🎾 US Open — Feed 4",
+                "channels": [
+                    {
+                        "channel_name": "Tennis SD Stream",
+                        "channel_id": "204"
+                    }
+                ]
+            },
+            {
+                "time": "03:27",
+                "event": "🎾🏆Tennis 🎾 US Open — Feed 5",
+                "channels": [
+                    {
+                        "channel_name": "Tennis SD Stream",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
+                "time": "03:27",
+                "event": "🎾🏆Tennis 🎾 US Open — Feed 6",
+                "channels": [
+                    {
+                        "channel_name": "Tennis SD Stream",
+                        "channel_id": "206"
+                    }
+                ]
+            },
+            {
+                "time": "03:27",
+                "event": "🎾🏆Tennis 🎾 US Open — Feed 7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis SD Stream",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "03:27",
+                "event": "Tennis 🎾 US Open — Feed 8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis SD Stream",
+                        "channel_id": "208"
                     }
                 ]
             }
@@ -3958,6 +4142,16 @@
         "College Football (NCAAF) 🏈": [
             {
                 "time": "05:00",
+                "event": "🏈 🇺🇸 College Football : Virginia vs North Carolina State",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
                 "event": "🏈 🇺🇸 College Football : UMass Amherst 🇺🇸 vs Rutgers 🇺🇸",
                 "channels": [
                     {
@@ -4857,6 +5051,10 @@
                         "channel_id": "11"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "170"
+                    },
+                    {
                         "channel_name": "Magenta Sport",
                         "channel_id": "3011"
                     }
@@ -4869,6 +5067,10 @@
                     {
                         "channel_name": "Viaplay Sweden",
                         "channel_id": "3078"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "171"
                     }
                 ]
             },
@@ -4947,6 +5149,10 @@
                         "channel_id": "37"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "106"
+                    },
+                    {
                         "channel_name": "Sportsnet World",
                         "channel_id": "410"
                     }
@@ -4971,6 +5177,10 @@
                     {
                         "channel_name": "Canal+ Sport France",
                         "channel_id": "122"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "107"
                     }
                 ]
             }
