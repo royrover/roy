@@ -22,6 +22,28 @@
                 ]
             },
             {
+                "time": "01:45",
+                "event": "Rock in Rio Lisbon 2026: September Festival Multi Feed",
+                "channels": [
+                    {
+                        "channel_name": "Multi Show PPV",
+                        "channel_id": "5030"
+                    },
+                    {
+                        "channel_name": "BIS PPV II",
+                        "channel_id": "5031"
+                    },
+                    {
+                        "channel_name": "Multi Show PPV II",
+                        "channel_id": "5032"
+                    },
+                    {
+                        "channel_name": "BIS PPV II",
+                        "channel_id": "5033"
+                    }
+                ]
+            },
+            {
                 "time": "03:00",
                 "event": "2026 SMART Modified Tour at Carteret County Speedway",
                 "channels": [
@@ -5258,6 +5280,10 @@
                         "channel_id": "110"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "250"
+                    },
+                    {
                         "channel_name": "Sportsnet World",
                         "channel_id": "410"
                     },
@@ -5321,6 +5347,16 @@
             },
             {
                 "time": "01:00",
+                "event": "⚽ Uruguay Liga AUF : Danubio vs Penarol",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "252"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
                 "event": "⚽ Saudi Arabia - Pro League : 🇸🇦 Al Ittihad 🇸🇦 vs 🇸🇦 Al Nassr 🇸🇦",
                 "channels": [
                     {
@@ -5330,6 +5366,10 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "251"
                     },
                     {
                         "channel_name": "Movistar Liga de Campeones 2",
@@ -5362,6 +5402,26 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "2041"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "⚽ Hungary NB 1 Liga : Paks vs Debrecen",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "253"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "⚽ Faroe Islands Premier League : Vikingur vs Klaksvik",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "254"
                     }
                 ]
             },
@@ -6282,6 +6342,10 @@
                     {
                         "channel_name": "ESPN Mexico",
                         "channel_id": "925"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2050"
                     }
                 ]
             },
@@ -6296,6 +6360,10 @@
                     {
                         "channel_name": "Univision",
                         "channel_id": "132"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2051"
                     }
                 ]
             },
@@ -6688,6 +6756,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "163"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2052"
                     }
                 ]
             },
@@ -6698,6 +6770,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "164"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2053"
                     }
                 ]
             },
@@ -6708,6 +6784,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "165"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2054"
                     }
                 ]
             },
@@ -6718,6 +6798,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "166"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2055"
                     }
                 ]
             },
@@ -6728,6 +6812,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "167"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2056"
                     }
                 ]
             },
@@ -6746,6 +6834,10 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2057"
                     }
                 ]
             },
@@ -6756,6 +6848,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "169"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2058"
                     }
                 ]
             },
@@ -6766,6 +6862,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "170"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2059"
                     }
                 ]
             },
@@ -6776,6 +6876,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "171"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2060"
                     }
                 ]
             },
@@ -6786,6 +6890,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "172"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2061"
                     }
                 ]
             },
@@ -6796,6 +6904,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "173"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2062"
                     }
                 ]
             },
@@ -6806,6 +6918,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "174"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2063"
                     }
                 ]
             },
@@ -6816,6 +6932,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "175"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2064"
                     }
                 ]
             },
@@ -6830,6 +6950,10 @@
                     {
                         "channel_name": "TSN5",
                         "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2065"
                     }
                 ]
             }
@@ -7248,7 +7372,7 @@
         ],
         "Tennis US OPEN [All Court 🏟️] 🎾": [
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🏟️ RED Zone | Multi Feed",
                 "channels": [
                     {
@@ -7262,7 +7386,7 @@
                 ]
             },
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🏟️ Arthur Ashe Stadium",
                 "channels": [
                     {
@@ -7280,7 +7404,7 @@
                 ]
             },
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🏟️ Louis Armstrong Stadium",
                 "channels": [
                     {
@@ -7294,7 +7418,7 @@
                 ]
             },
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🏟️ Grandstand",
                 "channels": [
                     {
@@ -7308,7 +7432,7 @@
                 ]
             },
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🏟️ Stadium 17",
                 "channels": [
                     {
@@ -7318,7 +7442,7 @@
                 ]
             },
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🎾 Court 4",
                 "channels": [
                     {
@@ -7328,7 +7452,7 @@
                 ]
             },
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🎾 Court 5",
                 "channels": [
                     {
@@ -7338,7 +7462,7 @@
                 ]
             },
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🎾 Court 6",
                 "channels": [
                     {
@@ -7348,7 +7472,7 @@
                 ]
             },
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🎾 Court 7",
                 "channels": [
                     {
@@ -7358,7 +7482,7 @@
                 ]
             },
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🎾 Court 8",
                 "channels": [
                     {
@@ -7368,7 +7492,7 @@
                 ]
             },
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🎾 Court 9",
                 "channels": [
                     {
@@ -7378,7 +7502,7 @@
                 ]
             },
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🎾 Court 10",
                 "channels": [
                     {
@@ -7388,7 +7512,7 @@
                 ]
             },
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🎾 Court 11",
                 "channels": [
                     {
@@ -7398,7 +7522,7 @@
                 ]
             },
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🎾 Court 12",
                 "channels": [
                     {
@@ -7408,7 +7532,7 @@
                 ]
             },
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🎾 Court 13",
                 "channels": [
                     {
@@ -7418,7 +7542,7 @@
                 ]
             },
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🎾 Court 14",
                 "channels": [
                     {
@@ -7428,7 +7552,7 @@
                 ]
             },
             {
-                "time": "00:25",
+                "time": "03:30",
                 "event": "🎾🏆 US Open : 🎾 Court 15",
                 "channels": [
                     {
@@ -8992,6 +9116,10 @@
                     {
                         "channel_name": "Motowizja Poland",
                         "channel_id": "563"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5017"
                     }
                 ]
             },
@@ -9062,6 +9190,10 @@
                     {
                         "channel_name": "Trutv USA",
                         "channel_id": "341"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5023"
                     }
                 ]
             },
@@ -9088,6 +9220,14 @@
                     {
                         "channel_name": "Sky Sport Select NZ",
                         "channel_id": "587"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5020"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5021"
                     }
                 ]
             },
@@ -9150,6 +9290,10 @@
                     {
                         "channel_name": "Sky Sports Mix UK",
                         "channel_id": "449"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5022"
                     }
                 ]
             }
@@ -9172,6 +9316,14 @@
                     {
                         "channel_name": "DAZN USA",
                         "channel_id": "155"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "249"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2045"
                     }
                 ]
             },
@@ -9208,6 +9360,10 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "157"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2046"
                     }
                 ]
             },
@@ -9334,6 +9490,10 @@
                     {
                         "channel_name": "SportsNet+",
                         "channel_id": "3034"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5015"
                     }
                 ]
             }
@@ -9902,6 +10062,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "167"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "255"
                     }
                 ]
             },
