@@ -1,5 +1,79 @@
 {
     "<strong>Thursday 10th Sep 2026 - Schedule Time UK GMT</strong>": {
+        "PPV Events": [
+            {
+                "time": "04:00",
+                "event": "🏁 IMCA Super Nationals",
+                "channels": [
+                    {
+                        "channel_name": "IMCA.TV",
+                        "channel_id": "5011"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "🏁 World 100 Eldora",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "28"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5038"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "🏁 HLR Tuscarora 50 Port Royal",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "29"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5039"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "🏁 Run-What-U-Brung Thunder Road",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "30"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5040"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "🤼 Insane Wrestling Revolution Aftermath",
+                "channels": [
+                    {
+                        "channel_name": "TrillerTV",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "🤼 Hoodslam Revelations",
+                "channels": [
+                    {
+                        "channel_name": "TrillerTV",
+                        "channel_id": "27"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
@@ -2184,12 +2258,56 @@
                 ]
             },
             {
+                "time": "05:00",
+                "event": "⚽ Colombia Primera B : Orsomarso vs Tigres",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "185"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "⚽ Colombia Primera B : Patriotas vs Barranquilla",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "186"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "⚽ 🇧🇷 Brazil Serie B : Vila Nova FC vs Goiás",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "187"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "⚽ Bolivia Division Profesional : Tomayapo vs Always Ready",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188"
+                    }
+                ]
+            },
+            {
                 "time": "05:30",
                 "event": "⚽ 🇧🇷 Brazil - Serie B : São Bernardo 🇧🇷 vs Londrina 🇧🇷",
                 "channels": [
                     {
                         "channel_name": "Premier Brasil",
                         "channel_id": "88"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "189"
                     }
                 ]
             },
@@ -3256,7 +3374,7 @@
         ],
         "Tennis US OPEN [All Court 🏟️] 🎾": [
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🏟️ RED Zone | Multi Feed",
                 "channels": [
                     {
@@ -3270,7 +3388,7 @@
                 ]
             },
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🏟️ Arthur Ashe Stadium",
                 "channels": [
                     {
@@ -3288,7 +3406,7 @@
                 ]
             },
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🏟️ Louis Armstrong Stadium",
                 "channels": [
                     {
@@ -3302,7 +3420,7 @@
                 ]
             },
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🏟️ Grandstand",
                 "channels": [
                     {
@@ -3316,7 +3434,7 @@
                 ]
             },
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🏟️ Stadium 17",
                 "channels": [
                     {
@@ -3326,7 +3444,7 @@
                 ]
             },
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🎾 Court 4",
                 "channels": [
                     {
@@ -3336,7 +3454,7 @@
                 ]
             },
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🎾 Court 5",
                 "channels": [
                     {
@@ -3346,7 +3464,7 @@
                 ]
             },
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🎾 Court 6",
                 "channels": [
                     {
@@ -3356,7 +3474,7 @@
                 ]
             },
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🎾 Court 7",
                 "channels": [
                     {
@@ -3366,7 +3484,7 @@
                 ]
             },
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🎾 Court 8",
                 "channels": [
                     {
@@ -3376,7 +3494,7 @@
                 ]
             },
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🎾 Court 9",
                 "channels": [
                     {
@@ -3386,7 +3504,7 @@
                 ]
             },
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🎾 Court 10",
                 "channels": [
                     {
@@ -3396,7 +3514,7 @@
                 ]
             },
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🎾 Court 11",
                 "channels": [
                     {
@@ -3406,7 +3524,7 @@
                 ]
             },
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🎾 Court 12",
                 "channels": [
                     {
@@ -3416,7 +3534,7 @@
                 ]
             },
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🎾 Court 13",
                 "channels": [
                     {
@@ -3426,7 +3544,7 @@
                 ]
             },
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🎾 Court 14",
                 "channels": [
                     {
@@ -3436,7 +3554,7 @@
                 ]
             },
             {
-                "time": "01:18",
+                "time": "05:27",
                 "event": "🎾🏆 🇺🇸 US Open : 🎾 Court 15",
                 "channels": [
                     {
