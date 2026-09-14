@@ -1,5 +1,63 @@
 {
     "Monday 14th Sep 2026 - Schedule Time UK GMT": {
+        "78th Emmy Awards 2026 ✨": [
+            {
+                "time": "05:00",
+                "event": "✨ E! Live From the Red Carpet: Emmys 2026, Episode 8 • Live",
+                "channels": [
+                    {
+                        "channel_name": "E! Entertainment Television",
+                        "channel_id": "315"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "✨ 78th Emmy Awards • Live 📺",
+                "channels": [
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    },
+                    {
+                        "channel_name": "NBC USA",
+                        "channel_id": "53"
+                    },
+                    {
+                        "channel_name": "Award Stream",
+                        "channel_id": "5004"
+                    },
+                    {
+                        "channel_name": "Backup Awards Stream",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Backup Awards Stream",
+                        "channel_id": "5008"
+                    },
+                    {
+                        "channel_name": "Backup Awards Stream",
+                        "channel_id": "5009"
+                    }
+                ]
+            }
+        ],
+        "PPV Events": [
+            {
+                "time": "07:15",
+                "event": "World of Outlaws Sprints El Paso",
+                "channels": [
+                    {
+                        "channel_name": "FLORacing PPV",
+                        "channel_id": "30"
+                    },
+                    {
+                        "channel_name": "FLORacing PPV",
+                        "channel_id": "5000"
+                    }
+                ]
+            }
+        ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
             {
                 "time": "01:30",
@@ -212,36 +270,12 @@
                 ]
             },
             {
-                "time": "05:00",
-                "event": "📺 E! Live From the Red Carpet: Emmys 2026, Episode 8 • Live",
-                "channels": [
-                    {
-                        "channel_name": "E! Entertainment Television",
-                        "channel_id": "315"
-                    }
-                ]
-            },
-            {
                 "time": "06:00",
                 "event": "📺 Jeopardy! S43, E1 • Premiere",
                 "channels": [
                     {
                         "channel_name": "ABC NY USA",
                         "channel_id": "766"
-                    }
-                ]
-            },
-            {
-                "time": "07:00",
-                "event": "📺 78th Emmy Awards • Live",
-                "channels": [
-                    {
-                        "channel_name": "NBCNY USA",
-                        "channel_id": "769"
-                    },
-                    {
-                        "channel_name": "NBC USA",
-                        "channel_id": "53"
                     }
                 ]
             },
@@ -1858,12 +1892,36 @@
                 ]
             },
             {
+                "time": "03:30",
+                "event": "⚽ 🇨🇴 Colombia Primera B : Tigres vs Bogota",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "⚽ Uruguay Liga AUF : Montevideo City vs Liverpool M",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
                 "time": "05:00",
                 "event": "⚽ 🇦🇷 Argentina - Primera División : Deportivo Riestra 🇦🇷 vs Lanús 🇦🇷",
                 "channels": [
                     {
                         "channel_name": "ESPN Argentina",
                         "channel_id": "149"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
                     },
                     {
                         "channel_name": "ESPN Premium Argentina",
@@ -1878,6 +1936,10 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "388"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
                     }
                 ]
             },
@@ -1888,6 +1950,30 @@
                     {
                         "channel_name": "ESPN4 Brazil",
                         "channel_id": "85"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "⚽ 🇧🇷 Brazil Serie B : America MG vs Sao Bernardo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "05:45",
+                "event": "⚽ 🇨🇴 Colombia Primera B : Orsomarso vs Atletico FC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "170"
                     }
                 ]
             },
@@ -2400,6 +2486,10 @@
                         "channel_id": "4"
                     },
                     {
+                        "channel_name": "Netflix PPV",
+                        "channel_id": "5010"
+                    },
+                    {
                         "channel_name": "SuperSport Variety 4",
                         "channel_id": "419"
                     },
@@ -2574,6 +2664,10 @@
                         "channel_id": "2"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
+                    },
+                    {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
                     },
@@ -2610,6 +2704,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
                     },
                     {
                         "channel_name": "Spectrum Sportsnet LA",
