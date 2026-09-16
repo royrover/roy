@@ -568,6 +568,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "174"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "220"
                     }
                 ]
             },
@@ -578,6 +582,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "175"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "219"
                     }
                 ]
             },
@@ -588,6 +596,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "176"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "221"
                     }
                 ]
             }
@@ -2074,12 +2086,36 @@
                 ]
             },
             {
+                "time": "01:00",
+                "event": "⚽ Uruguay Copa : Progreso vs Nacional",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1078"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "⚽ Uruguay Copa : Albion vs River Plate",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1079"
+                    }
+                ]
+            },
+            {
                 "time": "01:15",
                 "event": "⚽ 🇶🇦 AFC Champions League Two : Al Rayyan 🇶🇦 vs Al Faisaly 🇸🇦",
                 "channels": [
                     {
                         "channel_name": "Nova Sport Bulgaria",
                         "channel_id": "468"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1081"
                     },
                     {
                         "channel_name": "beIN Sports MENA 3",
@@ -2100,8 +2136,22 @@
                         "channel_id": "97"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1080"
+                    },
+                    {
                         "channel_name": "Sportklub 6 Croatia",
                         "channel_id": "182"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "⚽ Uruguay Copa : Rentistas vs Plaza Colonia",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "216"
                     }
                 ]
             },
@@ -2112,6 +2162,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "86"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "217"
                     },
                     {
                         "channel_name": "beIN Sports MAX 6 France",
@@ -2142,6 +2196,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "105"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "218"
                     },
                     {
                         "channel_name": "Sport TV2 Portugal",
@@ -2292,6 +2350,10 @@
                         "channel_id": "108"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "225"
+                    },
+                    {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
                     },
@@ -2382,6 +2444,10 @@
                         "channel_id": "618"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "237"
+                    },
+                    {
                         "channel_name": "Movistar Liga de Campeones 6",
                         "channel_id": "22"
                     },
@@ -2450,6 +2516,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "109"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "226"
                     },
                     {
                         "channel_name": "TNT Sports 8 UK",
@@ -2526,6 +2596,10 @@
                         "channel_id": "110"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "238"
+                    },
+                    {
                         "channel_name": "TNT Sports 7 UK",
                         "channel_id": "616"
                     },
@@ -2586,6 +2660,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "151"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "228"
                     },
                     {
                         "channel_name": "TNT Sports 5 UK",
@@ -2680,6 +2758,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "152"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "229"
                     },
                     {
                         "channel_name": "TNT Sports 4 UK",
@@ -2778,6 +2860,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "153"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "227"
                     },
                     {
                         "channel_name": "TNT Sports 2 UK",
@@ -2926,6 +3012,10 @@
                         "channel_id": "154"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "224"
+                    },
+                    {
                         "channel_name": "Sport TV3 Portugal",
                         "channel_id": "454"
                     },
@@ -2990,6 +3080,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "156"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "222"
                     },
                     {
                         "channel_name": "ITV 1 UK",
@@ -3094,6 +3188,16 @@
                 ]
             },
             {
+                "time": "02:00",
+                "event": "⚽ Bolivia Division Profesional : Guabira vs Aurora",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "240"
+                    }
+                ]
+            },
+            {
                 "time": "02:30",
                 "event": "⚽ 🇪🇸 Spain - La Liga : Barcelona 🇪🇸 vs Racing Santander 🇪🇸",
                 "channels": [
@@ -3102,8 +3206,12 @@
                         "channel_id": "538"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1084"
+                    },
+                    {
                         "channel_name": "ESPN+ USA",
-                        "channel_id": "156"
+                        "channel_id": "938"
                     },
                     {
                         "channel_name": "TSN2",
@@ -3226,6 +3334,10 @@
                     {
                         "channel_name": "M+ LALIGA TV",
                         "channel_id": "84"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1083"
                     },
                     {
                         "channel_name": "ESPN+ USA",
@@ -4512,6 +4624,10 @@
                         "channel_id": "173"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1082"
+                    },
+                    {
                         "channel_name": "Sportsnet East",
                         "channel_id": "408"
                     },
@@ -4716,11 +4832,21 @@
                         "channel_id": "145"
                     }
                 ]
+            },
+            {
+                "time": "01:00",
+                "event": "Basketball Champions League : CSM Oradea vs AEK Larnaca",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1077"
+                    }
+                ]
             }
         ],
         "Snooker": [
             {
-                "time": "23:55",
+                "time": "02:29",
                 "event": "🎱 Snooker Northern Ireland Open : Table 1",
                 "channels": [
                     {
@@ -4730,7 +4856,7 @@
                 ]
             },
             {
-                "time": "23:55",
+                "time": "02:29",
                 "event": "🎱 Snooker Northern Ireland Open : Table 2",
                 "channels": [
                     {
@@ -4740,7 +4866,7 @@
                 ]
             },
             {
-                "time": "23:55",
+                "time": "02:29",
                 "event": "🎱 Snooker Northern Ireland Open : Table 3",
                 "channels": [
                     {
@@ -4750,7 +4876,7 @@
                 ]
             },
             {
-                "time": "23:55",
+                "time": "02:29",
                 "event": "🎱 Snooker Northern Ireland Open : Table 4",
                 "channels": []
             },
@@ -5524,6 +5650,10 @@
                     {
                         "channel_name": "Polsat Sport 3 Poland",
                         "channel_id": "129"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "239"
                     },
                     {
                         "channel_name": "Match Igra Russia",
