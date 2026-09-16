@@ -22,6 +22,16 @@
                         "channel_id": "2020"
                     }
                 ]
+            },
+            {
+                "time": "05:15",
+                "event": "🏁 Millbridge Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "29"
+                    }
+                ]
             }
         ],
         "Big Brother 👁️ 28 LIVE CAMERA FEEDS": [
@@ -3414,6 +3424,10 @@
                         "channel_id": "746"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "107"
+                    },
+                    {
                         "channel_name": "Sport TV3 Portugal",
                         "channel_id": "454"
                     }
@@ -3474,6 +3488,10 @@
                         "channel_id": "372"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "108"
+                    },
+                    {
                         "channel_name": "Movistar Liga de Campeones 2",
                         "channel_id": "6"
                     },
@@ -3512,12 +3530,26 @@
                 ]
             },
             {
+                "time": "05:00",
+                "event": "⚽ Bolivia Division Profesional : Nacional Potosi vs Always Ready",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
                 "time": "05:30",
                 "event": "⚽ 🇧🇷 Brazil - Brasileirão : Botafogo 🇧🇷 vs Grêmio 🇧🇷",
                 "channels": [
                     {
                         "channel_name": "Premiere BR",
                         "channel_id": "88"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "109"
                     },
                     {
                         "channel_name": "Match Football 3 Russia",
@@ -3544,6 +3576,10 @@
                     {
                         "channel_name": "TSN5",
                         "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "TSN3",
+                        "channel_id": "3003"
                     }
                 ]
             },
@@ -3554,6 +3590,24 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "⚽ 🇲🇽 Campeones Cup 2026 : Inter Miami CF 🇺🇸 vs Cruz Azul 🇲🇽",
+                "channels": [
+                    {
+                        "channel_name": "Apple TV",
+                        "channel_id": "1108"
+                    },
+                    {
+                        "channel_name": "TUDN USA",
+                        "channel_id": "66"
+                    },
+                    {
+                        "channel_name": "TUDN MX",
+                        "channel_id": "935"
                     }
                 ]
             },
@@ -3604,6 +3658,16 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "⚽ 🇧🇷 North & Central America Campeones Cup : Inter Miami CF vs. Cruz Azul",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2001"
                     }
                 ]
             },
@@ -4494,6 +4558,10 @@
                     {
                         "channel_name": "Fox Sports Premium MX",
                         "channel_id": "830"
+                    },
+                    {
+                        "channel_name": "TSN2",
+                        "channel_id": "3002"
                     }
                 ]
             }
@@ -4646,6 +4714,10 @@
                         "channel_id": "1"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "110"
+                    },
+                    {
                         "channel_name": "NBCS California USA",
                         "channel_id": "755"
                     }
@@ -4658,6 +4730,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "152"
                     },
                     {
                         "channel_name": "Spectrum Sportsnet LA",
@@ -4674,6 +4750,10 @@
                         "channel_id": "3"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "151"
+                    },
+                    {
                         "channel_name": "SportsNet Pittsburgh",
                         "channel_id": "922"
                     }
@@ -4686,6 +4766,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "153"
                     },
                     {
                         "channel_name": "NBCS Philadelphia USA",
@@ -4846,7 +4930,7 @@
         ],
         "Snooker": [
             {
-                "time": "02:29",
+                "time": "06:12",
                 "event": "🎱 Snooker Northern Ireland Open : Table 1",
                 "channels": [
                     {
@@ -4856,7 +4940,7 @@
                 ]
             },
             {
-                "time": "02:29",
+                "time": "06:12",
                 "event": "🎱 Snooker Northern Ireland Open : Table 2",
                 "channels": [
                     {
@@ -4866,7 +4950,7 @@
                 ]
             },
             {
-                "time": "02:29",
+                "time": "06:12",
                 "event": "🎱 Snooker Northern Ireland Open : Table 3",
                 "channels": [
                     {
@@ -4876,7 +4960,7 @@
                 ]
             },
             {
-                "time": "02:29",
+                "time": "06:12",
                 "event": "🎱 Snooker Northern Ireland Open : Table 4",
                 "channels": []
             },
