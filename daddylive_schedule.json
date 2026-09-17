@@ -866,6 +866,10 @@
                         "channel_id": "128"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "182"
+                    },
+                    {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
                     },
@@ -884,6 +888,10 @@
                         "channel_id": "758"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "183"
+                    },
+                    {
                         "channel_name": "beIN Sports MENA 4",
                         "channel_id": "94"
                     }
@@ -896,6 +904,10 @@
                     {
                         "channel_name": "Viaplay Sport News Denmark",
                         "channel_id": "806"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "181"
                     },
                     {
                         "channel_name": "Viaplay Sport News Denmark",
@@ -992,6 +1004,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "55"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188"
                     },
                     {
                         "channel_name": "TNT Sports 6 UK",
@@ -1148,6 +1164,10 @@
                         "channel_id": "59"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188"
+                    },
+                    {
                         "channel_name": "TNT Sports 4 UK",
                         "channel_id": "34"
                     },
@@ -1276,6 +1296,10 @@
                     {
                         "channel_name": "ON Sport Max Egypt",
                         "channel_id": "171"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "192"
                     }
                 ]
             },
@@ -1286,6 +1310,10 @@
                     {
                         "channel_name": "DAZN LaLiga",
                         "channel_id": "538"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "190"
                     },
                     {
                         "channel_name": "ESPN+ USA",
@@ -1390,12 +1418,106 @@
                 ]
             },
             {
+                "time": "00:00",
+                "event": "⚽ Sweden Division 1 : Vasalund vs Hammarby TFF",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "196"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "⚽ Sweden Division 1 : Stockholm Internazionale vs Stocksund",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "197"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "⚽ Sweden Division 1 : Skovde AIK vs Trollhattan",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "198"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "⚽ Sweden Division 1 : Rosengard vs Trelleborg",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "199"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "⚽ Sweden Division 1 : Kristianstad vs Olympic",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "200"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "⚽ Sweden Division 1 : Eskilsminne vs Tvaaker",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "218"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "⚽ South Africa Betway Premiership : Orlando Pirates vs Durban City",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "220"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "⚽ Sweden Division 1 : Jarfalla vs Karlbergs",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "222"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "⚽ Sweden Division 1 : Assyriska FF vs AFC Eskilstuna",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "224"
+                    }
+                ]
+            },
+            {
                 "time": "00:45",
                 "event": "⚽ 🇷🇺 Russian Premier League : Dynamo Makhachkala 🇷🇺 vs CSKA Moskva 🇷🇺",
                 "channels": [
                     {
                         "channel_name": "Match Premier Russia",
                         "channel_id": "573"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "225"
                     },
                     {
                         "channel_name": "Arena Sport 9 Serbia",
@@ -1414,6 +1536,10 @@
                     {
                         "channel_name": "Arena Sport 10 Serbia",
                         "channel_id": "945"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "226"
                     },
                     {
                         "channel_name": "Arena 1 Premium Serbia",
@@ -1438,6 +1564,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "153"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "229"
                     },
                     {
                         "channel_name": "Sport TV1 Portugal",
@@ -1530,6 +1660,26 @@
                 ]
             },
             {
+                "time": "01:30",
+                "event": "⚽ Uruguay Copa : Juventud vs Racing Montevideo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "227"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "⚽ Uruguay Copa : Central Esp vs Oriental",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "228"
+                    }
+                ]
+            },
+            {
                 "time": "01:45",
                 "event": "⚽ 🇫🇷 France - Ligue 3 : Bastia 🇫🇷 vs Cannes 🇫🇷",
                 "channels": [
@@ -1550,6 +1700,10 @@
                     {
                         "channel_name": "Sky Sport Austria 1",
                         "channel_id": "559"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "238"
                     },
                     {
                         "channel_name": "Movistar Liga de Campeones 4",
@@ -1592,6 +1746,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "240"
                     },
                     {
                         "channel_name": "TNT Sports 1 UK",
@@ -1716,6 +1874,10 @@
                         "channel_id": "76"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "241"
+                    },
+                    {
                         "channel_name": "TNT Sports 2 UK",
                         "channel_id": "32"
                     },
@@ -1838,6 +2000,10 @@
                         "channel_id": "77"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "244"
+                    },
+                    {
                         "channel_name": "TNT Sports 8 UK",
                         "channel_id": "617"
                     },
@@ -1916,6 +2082,10 @@
                         "channel_id": "86"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "245"
+                    },
+                    {
                         "channel_name": "TNT Sports 9 UK",
                         "channel_id": "618"
                     },
@@ -1968,6 +2138,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "105"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "242"
                     },
                     {
                         "channel_name": "TNT Sports 4 UK",
@@ -2128,6 +2302,10 @@
                         "channel_id": "106"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "239"
+                    },
+                    {
                         "channel_name": "TNT Sports 3 UK",
                         "channel_id": "33"
                     },
@@ -2216,6 +2394,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "107"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "243"
                     },
                     {
                         "channel_name": "TNT Sports 7 UK",
@@ -2340,6 +2522,10 @@
                         "channel_id": "163"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "237"
+                    },
+                    {
                         "channel_name": "Sky Sports Football UK",
                         "channel_id": "35"
                     },
@@ -2420,6 +2606,10 @@
                     {
                         "channel_name": "DAZN LaLiga",
                         "channel_id": "538"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "249"
                     },
                     {
                         "channel_name": "DAZN LaLiga 2",
@@ -2520,6 +2710,16 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4106"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "⚽ Bolivia División Profesional : CD Real Tomayapo vs Oriente Petrolero",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "181"
                     }
                 ]
             },
@@ -3168,6 +3368,10 @@
                         "channel_id": "598"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "221"
+                    },
+                    {
                         "channel_name": "Sky Sports Cricket UK",
                         "channel_id": "65"
                     },
@@ -3416,26 +3620,90 @@
                         "channel_id": "00"
                     }
                 ]
-            }
-        ],
-        "Tennis 🎾 WTA - Singles: Guadalajara (Mexico)": [
+            },
             {
-                "time": "23:00",
-                "event": "🎾 WTA - Singles: 🇵🇱 Magdalena Frech vs 🇺🇸 Iva Jovic",
+                "time": "21:15",
+                "event": "🎾 ATP - Singles: 🇸🇾 Pieczonka Filip vs Trungelliti Marco",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
                     }
                 ]
             },
+            {
+                "time": "23:40",
+                "event": "🎾 ATP - Singles: 🇸🇾 Galan Daniel Elahi vs Sanchez-Izquierdo Nikolas",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "🎾 ATP - Singles: 🇸🇾 Barton Hynek vs Kolar Zdenek",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1556"
+                    }
+                ]
+            }
+        ],
+        "Tennis 🎾 WTA - Singles: Guadalajara (Mexico)": [
             {
                 "time": "02:00",
                 "event": "🎾 WTA - Singles: 🇪🇸 Cristina Bucsa vs 🇨🇿 Sara Bejlek",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1561"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1081"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "🎾 WTA - Singles: 🇵🇱 Magdalena Frech vs 🇺🇸 Iva Jovic",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1564"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1084"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "🎾 WTA - Singles: 🇨🇿 Marta Kostyuk vs Liudmila Samsonova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1560"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1088"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
                     }
                 ]
             },
@@ -3444,8 +3712,16 @@
                 "event": "🎾 WTA - Singles: 🇺🇸 Peyton Stearns vs 🇺🇸 Sloane Stephens",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1089"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
                     }
                 ]
             }
@@ -3456,8 +3732,12 @@
                 "event": "🎾 WTA - Singles: 🇦🇲 Elina Avanesyan vs 🇦🇲 Alina Charaeva",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1073"
                     }
                 ]
             },
@@ -3466,8 +3746,12 @@
                 "event": "🎾 WTA - Singles: 🇳🇱 Suzan Lamens vs 🇦🇷 Solana Sierra",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1074"
                     }
                 ]
             },
@@ -3476,8 +3760,12 @@
                 "event": "🎾 WTA - Singles: 🇧🇷 Nauhany Vitoria Leme Da Silva vs 🇪🇸 Kaitlin Quevedo",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1075"
                     }
                 ]
             },
@@ -3486,8 +3774,16 @@
                 "event": "🎾 WTA - Singles: 🇷🇺 Anna Blinkova vs 🇨🇿 Vendula Valdmannova",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1076"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
                     }
                 ]
             },
@@ -3496,8 +3792,16 @@
                 "event": "🎾 WTA - Singles: 🇦🇷 Jazmin Ortenzi vs 🇪🇸 Paula Badosa",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1078"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
                     }
                 ]
             },
@@ -3506,8 +3810,16 @@
                 "event": "🎾 WTA - Singles: 🇨🇿 Dominika Salkova vs 🇺🇸 Mary Stoiana",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1559"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1077"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
                     }
                 ]
             },
@@ -3516,8 +3828,16 @@
                 "event": "🎾 WTA - Singles: 🇦🇺 Eva Lys vs 🇦🇷 Nadia Podoroska",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1566"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1085"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
                     }
                 ]
             }
@@ -3540,8 +3860,8 @@
                 "event": "🎾 WTA - Doubles: 🇧🇷 Ana Candiotto / 🇧🇷 Luiza Fullana vs 🇨🇳 Yiming Dang / 🇨🇳 Xiaodi You",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1071"
                     }
                 ]
             },
@@ -3550,8 +3870,8 @@
                 "event": "🎾 WTA - Doubles: 🇨🇦 Gabriela Dabrowski / 🇧🇷 Luisa Stefani vs 🇧🇷 Rebeca Pereira / 🇧🇷 Marjorie Souza",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1072"
                     }
                 ]
             },
@@ -3560,8 +3880,12 @@
                 "event": "🎾 WTA - Doubles: 🇺🇸 Rasheeda McAdoo / 🇦🇺 Annerly Poulos vs 🇧🇷 Victoria Luiza Barros / 🇧🇷 Nauhany Vitoria Leme Da Silva",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1562"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1079"
                     }
                 ]
             },
@@ -3570,8 +3894,12 @@
                 "event": "🎾 WTA - Doubles: 🇱🇹 Justina Mikulskyte / 🇺🇸 Alana Smith vs 🇺🇦 Anastasiia Strakhova / 🇷🇺 Anastasia Tikhonova",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1563"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1080"
                     }
                 ]
             },
@@ -3580,8 +3908,8 @@
                 "event": "🎾 WTA - Doubles: 🇧🇷 Ingrid Martins / 🇦🇷 Jazmin Ortenzi vs 🇺🇸 Alycia Parks? / 🇺🇸 Anna Zmarripa",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1567"
                     }
                 ]
             },
@@ -3590,8 +3918,8 @@
                 "event": "🎾 WTA - Doubles: 🇪🇸 Kaitlin Quevedo / 🇨🇿 Dominika Salkova vs 🇦🇷 Julia Riera / 🇦🇷 Solana Sierra",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1568"
                     }
                 ]
             },
@@ -3600,8 +3928,8 @@
                 "event": "🎾 WTA - Doubles: 🇺🇦 Ekaterina Ovccharenko / 🇧🇷 Laura Pigossi vs 🇺🇸 Mary Stoiana / 🇨🇿 Vendula Valdmannova",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1569"
                     }
                 ]
             }
@@ -3612,8 +3940,12 @@
                 "event": "🎾 WTA - Doubles: 🇪🇸 Cristina Bucsa / 🇺🇸 Nicole Melichar-Martinez vs 🇷🇺 Maria Kozyreva / 🇬🇧 Maia Lumsden",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1565"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1086"
                     }
                 ]
             }
@@ -3660,7 +3992,7 @@
         ],
         "Snooker 🎱": [
             {
-                "time": "23:20",
+                "time": "02:52",
                 "event": "🎱 🇬🇧 Snooker Northern Ireland Open — Table 1",
                 "channels": [
                     {
@@ -3670,7 +4002,7 @@
                 ]
             },
             {
-                "time": "23:20",
+                "time": "02:52",
                 "event": "🎱 🇬🇧 Snooker Northern Ireland Open — Table 2",
                 "channels": [
                     {
@@ -3680,7 +4012,7 @@
                 ]
             },
             {
-                "time": "23:20",
+                "time": "02:52",
                 "event": "🎱 🇬🇧 Snooker Northern Ireland Open — Table 3",
                 "channels": [
                     {
@@ -3690,7 +4022,7 @@
                 ]
             },
             {
-                "time": "23:20",
+                "time": "02:52",
                 "event": "🎱 🇬🇧 Snooker Northern Ireland Open — Table 4",
                 "channels": [
                     {
@@ -4156,6 +4488,10 @@
                         "channel_id": "318"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "194"
+                    },
+                    {
                         "channel_name": "Sky Sports Golf UK",
                         "channel_id": "70"
                     },
@@ -4408,6 +4744,10 @@
                         "channel_id": "29"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "184"
+                    },
+                    {
                         "channel_name": "beIN Sports 3 France",
                         "channel_id": "118"
                     },
@@ -4426,6 +4766,10 @@
                         "channel_id": "30"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "185"
+                    },
+                    {
                         "channel_name": "MLB Network",
                         "channel_id": "399"
                     },
@@ -4442,6 +4786,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "167"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "219"
                     },
                     {
                         "channel_name": "Sportsnet East",
@@ -4464,6 +4812,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "168"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "248"
                     }
                 ]
             },
@@ -4854,6 +5206,10 @@
                         "channel_id": "353"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "193"
+                    },
+                    {
                         "channel_name": "Sky Sport 3 NZ",
                         "channel_id": "590"
                     },
@@ -5160,6 +5516,10 @@
                     {
                         "channel_name": "Canal+ Sport France",
                         "channel_id": "122"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "247"
                     }
                 ]
             }
@@ -5334,6 +5694,10 @@
                         "channel_id": "50"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "195"
+                    },
+                    {
                         "channel_name": "Arena Sport 6 Serbia",
                         "channel_id": "941"
                     }
@@ -5346,6 +5710,10 @@
                     {
                         "channel_name": "Polsat Sport 2 Poland",
                         "channel_id": "50"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "246"
                     },
                     {
                         "channel_name": "Rai 2 Italy",
