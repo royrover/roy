@@ -697,11 +697,35 @@
             },
             {
                 "time": "21:00",
+                "event": "⚽ 🇪🇬 Egypt Premier League : ZED 🇪🇬 vs Al Qanah 🇪🇬",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
                 "event": "⚽ 🇰🇿 Kazakhstan Premier League : Astana 🇰🇿 vs Kairat 🇰🇿",
                 "channels": [
                     {
                         "channel_name": "Qazsport",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ 🇰🇿 Kazakhstan Premier League : Tobol 🇰🇿 vs Yelimay Semey 🇰🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "156"
                     }
                 ]
             },
@@ -718,8 +742,22 @@
                         "channel_id": "915"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "158"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "4108"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "⚽ 🇰🇿 Kazakhstan Premier League : Atyrau 🇰🇿 vs Ordabasy 🇰🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "159"
                     }
                 ]
             },
@@ -730,6 +768,10 @@
                     {
                         "channel_name": "Match Premier Russia",
                         "channel_id": "573"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "161"
                     }
                 ]
             },
@@ -744,6 +786,10 @@
                     {
                         "channel_name": "Arena 4 Premium Serbia",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "160"
                     }
                 ]
             },
@@ -769,6 +815,26 @@
             },
             {
                 "time": "23:00",
+                "event": "⚽ 🇪🇪 Estonia Meistriliiga : Levadia 🇪🇪 vs Tammeka 🇪🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "⚽ 🇹🇷 Turkey Cup : Orduspor 1967 🇹🇷 vs Torul Belediye Gençlik 🇹🇷",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
                 "event": "⚽ 🇯🇴 Jordan League : Doqarah 🇯🇴 vs Al Salt 🇯🇴",
                 "channels": [
                     {
@@ -784,6 +850,10 @@
                     {
                         "channel_name": "TV2 Sport 2 Norway",
                         "channel_id": "666"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162"
                     }
                 ]
             },
@@ -926,6 +996,10 @@
                     {
                         "channel_name": "TNT Sports 6 UK",
                         "channel_id": "615"
+                    },
+                    {
+                        "channel_name": "Servus tv",
+                        "channel_id": "166"
                     },
                     {
                         "channel_name": "Sky Sport Austria 2",
@@ -3586,7 +3660,7 @@
         ],
         "Snooker 🎱": [
             {
-                "time": "17:55",
+                "time": "23:20",
                 "event": "🎱 🇬🇧 Snooker Northern Ireland Open — Table 1",
                 "channels": [
                     {
@@ -3596,7 +3670,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "23:20",
                 "event": "🎱 🇬🇧 Snooker Northern Ireland Open — Table 2",
                 "channels": [
                     {
@@ -3606,7 +3680,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "23:20",
                 "event": "🎱 🇬🇧 Snooker Northern Ireland Open — Table 3",
                 "channels": [
                     {
@@ -3616,7 +3690,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "23:20",
                 "event": "🎱 🇬🇧 Snooker Northern Ireland Open — Table 4",
                 "channels": [
                     {
@@ -3762,6 +3836,36 @@
                     {
                         "channel_name": "TNT Sports UK",
                         "channel_id": "214"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "🎱 🇬🇧 Snooker China International : Tom Ford 🇬🇧 vs David Grace 🇬🇧",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "215"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "🎱 🇬🇧 Snooker China International : Jak Jones 🇬🇧 vs Liam Pullen 🇬🇧",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "216"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "🎱 🇬🇧 Snooker China International : Matthew Stevens 🇬🇧 vs Jamie White 🇬🇧",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "217"
                     }
                 ]
             }
@@ -5162,6 +5266,10 @@
                         "channel_id": "47"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "154"
+                    },
+                    {
                         "channel_name": "Polsat Sport Extra 2 Poland",
                         "channel_id": "994"
                     },
@@ -5190,6 +5298,10 @@
                     {
                         "channel_name": "Polsat Sport 2 Poland",
                         "channel_id": "50"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "155"
                     },
                     {
                         "channel_name": "МАТЧ! Igra Russia",
