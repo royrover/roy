@@ -2590,6 +2590,36 @@
                 ]
             },
             {
+                "time": "06:00",
+                "event": "⚽ Bolivia Division Profesional : Independiente vs SA Bulo Bulo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "06:05",
+                "event": "⚽ Colombia Primera B : Patriotas vs U Magdalena",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "⚽ Brazil Serie B : Ceara vs Novorizontino",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "187"
+                    }
+                ]
+            },
+            {
                 "time": "07:15",
                 "event": "⚽ 🇦🇷 Argentina - Primera División : Racing Club 🇦🇷 vs Sarmiento 🇦🇷",
                 "channels": [
@@ -2728,6 +2758,10 @@
                     {
                         "channel_name": "TSN5",
                         "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "182"
                     }
                 ]
             }
@@ -3074,6 +3108,10 @@
                     {
                         "channel_name": "Willow Cricket",
                         "channel_id": "346"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "175"
                     },
                     {
                         "channel_name": "TNT Sports 2 UK",
@@ -4320,13 +4358,17 @@
                     {
                         "channel_name": "Ziggo Sport 3 NL",
                         "channel_id": "919"
+                    },
+                    {
+                        "channel_name": "Backup Stream HD",
+                        "channel_id": "5000"
                     }
                 ]
             }
         ],
         "MMA 🥊👊": [
             {
-                "time": "02:54",
+                "time": "06:08",
                 "event": "🤼 UFC: Weigh-in",
                 "channels": [
                     {
@@ -4834,6 +4876,10 @@
                         "channel_id": "308"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "186"
+                    },
+                    {
                         "channel_name": "TSN3",
                         "channel_id": "113"
                     },
@@ -4868,6 +4914,10 @@
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "183"
                     },
                     {
                         "channel_name": "ESPN Deportes",
@@ -5034,6 +5084,10 @@
                         "channel_id": "5"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "178"
+                    },
+                    {
                         "channel_name": "MASN USA",
                         "channel_id": "829"
                     },
@@ -5056,6 +5110,10 @@
                         "channel_id": "6"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "180"
+                    },
+                    {
                         "channel_name": "NBCS California USA",
                         "channel_id": "755"
                     },
@@ -5076,6 +5134,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "179"
                     },
                     {
                         "channel_name": "NESN USA",
@@ -5104,6 +5166,10 @@
                         "channel_id": "8"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "181"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "5157"
                     }
@@ -5116,6 +5182,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188"
                     },
                     {
                         "channel_name": "Chicago Sports Network",
@@ -5333,6 +5403,10 @@
                     },
                     {
                         "channel_name": "Event SD Stream",
+                        "channel_id": "184"
+                    },
+                    {
+                        "channel_name": "WNBA Stream",
                         "channel_id": "4081"
                     }
                 ]
@@ -5347,6 +5421,10 @@
                     },
                     {
                         "channel_name": "Event SD Stream",
+                        "channel_id": "185"
+                    },
+                    {
+                        "channel_name": "WNBA Stream",
                         "channel_id": "4080"
                     }
                 ]
@@ -5360,7 +5438,7 @@
                         "channel_id": "325"
                     },
                     {
-                        "channel_name": "Event SD Stream",
+                        "channel_name": "WNBA Stream",
                         "channel_id": "4082"
                     }
                 ]
