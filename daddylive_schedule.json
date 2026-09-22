@@ -514,6 +514,26 @@
         ],
         "All Soccer Events ⚽": [
             {
+                "time": "12:00",
+                "event": "⚽ Asian Games : Vietnam U23 vs Uzbekistan U23",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "⚽ Asian Games : Philippines U23 vs Kuwait U23",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
+                    }
+                ]
+            },
+            {
                 "time": "14:00",
                 "event": "⚽ Asian Games : South Korea W vs North Korea W",
                 "channels": [
@@ -936,8 +956,42 @@
                         "channel_id": "149"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    },
+                    {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "⚽ Colombia Primera B : Cartagena vs Envigado",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "⚽ Bolivia Copa : Independiente vs Tomayapo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "⚽ Brazil Serie B : Cuiaba vs Nautico",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     }
                 ]
             },
@@ -977,11 +1031,25 @@
         "Cricket 🏏": [
             {
                 "time": "06:30",
-                "event": "🏏 Women's Asian Games 2026 : TBC vs TBC - Bronze Medal",
+                "event": "🏏 Women's Asian Games 2026 : Bangladesh W vs Pakistan W - Bronze Medal",
                 "channels": [
                     {
                         "channel_name": "Willow Cricket",
                         "channel_id": "346"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "🏏 Cricket T20 : Japan vs India",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
                     }
                 ]
             }
@@ -1396,8 +1464,8 @@
                 "event": "🎾 WTA - Singles: 🇭🇺 Anna Bondar vs 🇲🇽 Renata Zarazua",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1076"
                     }
                 ]
             },
@@ -1406,8 +1474,8 @@
                 "event": "🎾 WTA - Singles: 🇷🇺 Alina Charaeva vs 🇺🇸 Sofia Kenin",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1087"
                     }
                 ]
             },
@@ -1416,8 +1484,8 @@
                 "event": "🎾 WTA - Singles: 🇷🇺 Alevtina Ibragimova vs 🇰🇷 Ku Yeon-woo",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1079"
                     }
                 ]
             },
@@ -1426,8 +1494,8 @@
                 "event": "🎾 WTA - Singles: 🇦🇺 Emerson Jones vs 🇨🇳 Ma Yexin",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1077"
                     }
                 ]
             },
@@ -1436,8 +1504,8 @@
                 "event": "🎾 WTA - Singles: 🇫🇷 Eva Lys vs 🇷🇴 Elena-Gabriela Ruse",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1072"
                     }
                 ]
             },
@@ -1446,8 +1514,8 @@
                 "event": "🎾 WTA - Singles: 🇱🇻 Jelena Ostapenko vs 🇷🇺 Anastasia Zakharova",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1084"
                     }
                 ]
             },
@@ -1456,8 +1524,8 @@
                 "event": "🎾 WTA - Singles: 🇰🇷 Sohyun Park vs 🇺🇸 Robin Montgomery",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1071"
                     }
                 ]
             },
@@ -1466,8 +1534,8 @@
                 "event": "🎾 WTA - Singles: 🇦🇺 Taylah Preston vs 🇯🇵 Himeno Sakatsume",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1073"
                     }
                 ]
             },
@@ -1476,8 +1544,8 @@
                 "event": "🎾 WTA - Singles: 🇸🇮 Tamara Zidansek vs 🇦🇺 Kimberly Birrell",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1080"
                     }
                 ]
             }
@@ -1596,8 +1664,8 @@
                 "event": "🎾 WTA - Singles: 🇨🇿 Barbora Krejcikova vs 🇩🇪 Anna-Lena Friedsam",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1088"
                     }
                 ]
             },
@@ -1606,8 +1674,8 @@
                 "event": "🎾 WTA - Singles: 🇷🇺 Tatiana Prozorova vs 🇧🇪 Sofia Costoulas",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1082"
                     }
                 ]
             },
@@ -1616,8 +1684,8 @@
                 "event": "🎾 WTA - Singles: 🇬🇷 Maria Sakkari vs 🇨🇿 Linda Fruhvirtova",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1089"
                     }
                 ]
             },
@@ -1626,8 +1694,8 @@
                 "event": "🎾 WTA - Singles: 🇭🇷 Donna Vekic vs 🇨🇳 Wang Xinyu",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1083"
                     }
                 ]
             },
@@ -1636,8 +1704,8 @@
                 "event": "🎾 WTA - Singles: 🇺🇸 Vivian Wolff vs 🇺🇦 Oleksandra Oliynykova",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1074"
                     }
                 ]
             }
@@ -1706,8 +1774,8 @@
                 "event": "🎾 WTA - Doubles: 🇲🇩 Anastasia Detiuc / 🇷🇺 Irina Khromacheva vs 🇦🇺 Taylah Preston / 🇹🇭 Lanlana Tararudee",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1081"
                     }
                 ]
             },
@@ -1726,8 +1794,8 @@
                 "event": "🎾 WTA - Doubles: 🇵🇹 Ines Martins / 🇲🇽 Renata Zarazua vs 🇦🇺 Priscilla Hon / 🇦🇺 Abbie Myers? Osborne",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1085"
                     }
                 ]
             }
@@ -1806,8 +1874,8 @@
                 "event": "🎾 WTA - Doubles: 🇺🇸 Storm Hunter / 🇺🇸 Desirae Krawczyk vs 🇯🇵 Miyu Ninomiya / 🇷🇸 Nika Radisic",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1086"
                     }
                 ]
             },
@@ -1816,8 +1884,8 @@
                 "event": "🎾 WTA - Doubles: 🇮🇳 Ishika Neel / 🇲🇽 Giuliana Olmos vs 🇫🇷 Kristina Mladenovic / 🇷🇺 Alexandra Panova",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1075"
                     }
                 ]
             }
@@ -1907,11 +1975,15 @@
                 "channels": [
                     {
                         "channel_name": "RAW Netflix PPV",
-                        "channel_id": "2"
+                        "channel_id": "17"
                     },
                     {
                         "channel_name": "SuperSport Variety 4",
                         "channel_id": "419"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
                     },
                     {
                         "channel_name": "SuperSport Grandstand",
@@ -1948,6 +2020,10 @@
                     {
                         "channel_name": "NFL Sunday Ticket",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     },
                     {
                         "channel_name": "ABC NY USA",
@@ -2130,6 +2206,10 @@
                         "channel_id": "6"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
+                    },
+                    {
                         "channel_name": "MLB Network",
                         "channel_id": "399"
                     },
@@ -2182,6 +2262,36 @@
                 ]
             },
             {
+                "time": "08:00",
+                "event": "🏀 Basketball Asian Games : Kazakhstan W vs Hong Kong W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "🏀 Basketball Asian Games : Japan W vs Philippines W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "Basketball Asian Games : South Korea W vs Chinese Taipei W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
+                    }
+                ]
+            },
+            {
                 "time": "16:30",
                 "event": "🏀 🇦🇺 NBL : South East Melbourne Phoenix 🇦🇺 at Tasmania JackJumpers 🇦🇺",
                 "channels": [
@@ -2200,6 +2310,10 @@
                     {
                         "channel_name": "Sky Sports Mix UK",
                         "channel_id": "449"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     },
                     {
                         "channel_name": "MY9TV USA",
@@ -2230,6 +2344,10 @@
                     {
                         "channel_name": "Sky Sports Mix UK",
                         "channel_id": "449"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
                     },
                     {
                         "channel_name": "Sky Sports+ UK",
