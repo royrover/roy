@@ -179,7 +179,7 @@
         "All Soccer Events ⚽": [
             {
                 "time": "12:00",
-                "event": "Football Asian Games : Uzbekistan U23 vs Saudi Arabia U23",
+                "event": "⚽ 🇺🇿 Football Asian Games : Uzbekistan U23 🇺🇿 vs Saudi Arabia U23 🇸🇦",
                 "channels": [
                     {
                         "channel_name": "Soccer SD Stream",
@@ -189,7 +189,7 @@
             },
             {
                 "time": "13:00",
-                "event": "Football Asian Games : North Korea W vs Chinese Taipei W",
+                "event": "⚽ 🇰🇵 Football Asian Games : North Korea W 🇰🇵 vs Chinese Taipei W 🇹🇼",
                 "channels": [
                     {
                         "channel_name": "Soccer SD Stream",
@@ -199,7 +199,7 @@
             },
             {
                 "time": "13:00",
-                "event": "Football Asian Games : China W vs Vietnam W",
+                "event": "⚽ 🇨🇳 Football Asian Games : China W 🇨🇳 vs Vietnam W 🇻🇳",
                 "channels": [
                     {
                         "channel_name": "Soccer SD Stream",
@@ -256,6 +256,10 @@
                         "channel_id": "372"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
+                    },
+                    {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49"
                     },
@@ -267,11 +271,25 @@
             },
             {
                 "time": "20:00",
+                "event": "⚽ 🇸🇩 Africa Cup of Nations Qualification : Sudan 🇸🇩 vs Ethiopia 🇪🇹",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
                 "event": "⚽ 🌍 Africa Cup of Nations Qualification : Senegal 🇸🇳 vs Mozambique 🇲🇿",
                 "channels": [
                     {
                         "channel_name": "DAZN1 DE",
                         "channel_id": "426"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
                     },
                     {
                         "channel_name": "beIN Sports 2 France",
@@ -296,6 +314,26 @@
                 ]
             },
             {
+                "time": "23:00",
+                "event": "⚽ COSAFA Champions League : Namibia U20 vs Mozambique U20",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ 🇮🇩 ASEAN Championship : Indonesia 🇮🇩 vs Singapore 🇸🇬",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    }
+                ]
+            },
+            {
                 "time": "20:00",
                 "event": "⚽ 🇭🇷 Croatia - Prva NL : NK Dinamo Zagreb 2 🇭🇷 vs Mladost Ždralovi 🇭🇷",
                 "channels": [
@@ -316,6 +354,10 @@
                     {
                         "channel_name": "ČT2 CZ",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     }
                 ]
             },
@@ -330,12 +372,46 @@
                 ]
             },
             {
+                "time": "21:00",
+                "event": "⚽ 🇮🇳 Friendly Match : India 🇮🇳 vs Panama 🇵🇦",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "⚽ Euro U21 Qualification : Iceland U21 vs France U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "⚽ Finland Ykkosliiga : KTP vs Mikkeli",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    }
+                ]
+            },
+            {
                 "time": "22:30",
                 "event": "⚽ 🇪🇺 Euro U-21 Qualifying : Finland U21 🇫🇮 vs Spain U21 🇪🇸",
                 "channels": [
                     {
                         "channel_name": "Teledeporte Spain",
                         "channel_id": "529"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     }
                 ]
             },
@@ -348,8 +424,22 @@
                         "channel_id": "465"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    },
+                    {
                         "channel_name": "Canal 11 Portugal",
                         "channel_id": "540"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "⚽ Friendly Match : Germany U20 vs France U20",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     }
                 ]
             },
@@ -360,6 +450,10 @@
                     {
                         "channel_name": "Pro Arena Romania",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
                     }
                 ]
             },
@@ -372,8 +466,32 @@
                         "channel_id": "365"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
+                    },
+                    {
                         "channel_name": "RTVS Sport Slovakia",
                         "channel_id": "3"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "⚽ Euro U21 Qualification : Estonia U21 vs Faroe Islands U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "⚽ Finland Ykkosliiga : KaPa vs Haka",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     }
                 ]
             },
@@ -496,6 +614,10 @@
                         "channel_id": "76"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    },
+                    {
                         "channel_name": "Sport TV2 Portugal",
                         "channel_id": "74"
                     },
@@ -562,6 +684,10 @@
                         "channel_id": "372"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    },
+                    {
                         "channel_name": "beIN Sports 2 Malaysia",
                         "channel_id": "713"
                     }
@@ -574,6 +700,10 @@
                     {
                         "channel_name": "beIN SPORTS USA",
                         "channel_id": "425"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     },
                     {
                         "channel_name": "Canal+ Sport 1 Afrique",
@@ -624,8 +754,32 @@
                         "channel_id": "100"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "4111"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "⚽ Africa Cup of Nations Qualification : Rwanda vs Liberia",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "⚽ Africa Cup of Nations Qualification : Malawi vs South Sudan",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     }
                 ]
             },
@@ -638,8 +792,32 @@
                         "channel_id": "812"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
+                    },
+                    {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "379"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "⚽ Sweden Division 1 : Hammarby TFF vs Stocksund",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1230"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "⚽ Sweden Division 1 : Lunds vs Kristianstad",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1231"
                     }
                 ]
             },
@@ -650,6 +828,10 @@
                     {
                         "channel_name": "Magenta Sport 310",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1229"
                     },
                     {
                         "channel_name": "Sportklub 10 Croatia",
@@ -1412,7 +1594,11 @@
                         "channel_id": "886"
                     },
                     {
-                        "channel_name": "5Sport Israel (CH-144) Event Stream",
+                        "channel_name": "5Sport Israel",
+                        "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Event Stream",
                         "channel_id": "4105"
                     }
                 ]
@@ -4042,6 +4228,10 @@
                         "channel_id": "7"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1232"
+                    },
+                    {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
                     },
@@ -4350,6 +4540,10 @@
                     {
                         "channel_name": "Magenta Sport 308",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     },
                     {
                         "channel_name": "Oneplay Sport 1 CZ",
@@ -4756,6 +4950,20 @@
                     {
                         "channel_name": "TV4 Hockey Sweden",
                         "channel_id": "700"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "🏒 Sweden HockeyAllsvenskan : Vimmerby vs Visby Roma",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
                     }
                 ]
             },
@@ -4766,6 +4974,10 @@
                     {
                         "channel_name": "TV4 Sport Live 3 Sweden",
                         "channel_id": "705"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
                     }
                 ]
             },
@@ -4776,6 +4988,10 @@
                     {
                         "channel_name": "TV4 Sport Live 1 Sweden",
                         "channel_id": "703"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1226"
                     }
                 ]
             },
@@ -4786,6 +5002,10 @@
                     {
                         "channel_name": "TV4 Sportkanalen Sweden",
                         "channel_id": "707"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1227"
                     }
                 ]
             },
@@ -4796,6 +5016,10 @@
                     {
                         "channel_name": "TV4 Sport Live 2 Sweden",
                         "channel_id": "704"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1228"
                     }
                 ]
             },
@@ -5318,6 +5542,10 @@
                     {
                         "channel_name": "Canal+ Sport France",
                         "channel_id": "122"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             },
@@ -5526,6 +5754,10 @@
                     {
                         "channel_name": "Polsat Sport 1 Poland",
                         "channel_id": "47"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     },
                     {
                         "channel_name": "TVP Sport Poland",
