@@ -87,7 +87,7 @@
                 "channels": [
                     {
                         "channel_name": "Event PPV",
-                        "channel_id": "8"
+                        "channel_id": "1250"
                     }
                 ]
             },
@@ -2786,12 +2786,26 @@
                 ]
             },
             {
+                "time": "05:00",
+                "event": "⚽ Colombia Primera B : Boca Juniors vs Patriotas",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
+                    }
+                ]
+            },
+            {
                 "time": "05:50",
                 "event": "⚽ 🇲🇽 Mexico - Liga MX : Cruz Azul 🇲🇽 vs Toluca 🇲🇽",
                 "channels": [
                     {
                         "channel_name": "TUDN Mexico",
                         "channel_id": "935"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     },
                     {
                         "channel_name": "TUDN USA",
@@ -2954,6 +2968,10 @@
                     {
                         "channel_name": "TNT Sports 2 UK",
                         "channel_id": "32"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     },
                     {
                         "channel_name": "ion USA",
@@ -7010,8 +7028,22 @@
                         "channel_id": "664"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "5140"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "🏈 🇺🇸 College Football : Texas State Bobcats vs Incarnate Word",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     }
                 ]
             },
@@ -7036,6 +7068,10 @@
                     {
                         "channel_name": "CW USA",
                         "channel_id": "300"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     },
                     {
                         "channel_name": "CW PIX 11 USA",
@@ -7706,6 +7742,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "198"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     }
                 ]
             },
@@ -7730,12 +7770,26 @@
                 ]
             },
             {
+                "time": "05:00",
+                "event": "🏈 🇺🇸 College Football : Florida International vs LIU Sharks",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    }
+                ]
+            },
+            {
                 "time": "05:30",
                 "event": "🏈 🇺🇸 College Football : Louisiana 🇺🇸 vs Charlotte 🇺🇸",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "201"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     }
                 ]
             },
