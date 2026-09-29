@@ -1,5 +1,17 @@
 {
     "Monday 28th Sep 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "08:00",
+                "event": "🤼 PPW Slave to the Deathmatch XVII",
+                "channels": [
+                    {
+                        "channel_name": "TrillerTV+",
+                        "channel_id": "151"
+                    }
+                ]
+            }
+        ],
         "🏟️ 20th Asian Games Aichi-Nagoya 2026": [
             {
                 "time": "06:04",
@@ -481,6 +493,16 @@
             }
         ],
         "All Soccer Events ⚽": [
+            {
+                "time": "13:00",
+                "event": "⚽ Asian Games : North Korea W vs China W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    }
+                ]
+            },
             {
                 "time": "15:00",
                 "event": "⚽ 🇸🇬 FIFA ASEAN Cup : Singapore 🇸🇬 vs Bangladesh 🇧🇩",
@@ -1556,10 +1578,6 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "1206"
-                    },
-                    {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "1207"
                     }
                 ]
             },
@@ -1570,6 +1588,30 @@
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "⚽ Uruguay Liga AUF : Wanderers vs Albion",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "⚽ Colombia Primera B : Quindio vs Bogota",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     }
                 ]
             },
@@ -1580,6 +1622,10 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     },
                     {
                         "channel_name": "Event Stream",
@@ -1596,8 +1642,22 @@
                         "channel_id": "756"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "3083"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "⚽ CONCACAF Nations League : Saint Lucia vs Bermuda",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     }
                 ]
             },
@@ -1628,6 +1688,10 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
                     },
                     {
                         "channel_name": "TUDN USA",
@@ -1713,11 +1777,25 @@
             },
             {
                 "time": "07:00",
-                "event": "🏏 🇱🇰 2026 Asian Games Men's Cricket, Third Quarterfinal: Sri Lanka 🇱🇰 vs. TBA 🏳️",
+                "event": "🏏 🇱🇰 2026 Asian Games Men's Cricket, Third Quarterfinal: Sri Lanka 🇱🇰 vs. Nepal",
                 "channels": [
                     {
                         "channel_name": "Willow Cricket",
                         "channel_id": "346"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "🏏 🇱🇰 Cricket Asian Games : Bangladesh vs Malaysia",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     }
                 ]
             }
@@ -2418,6 +2496,10 @@
                         "channel_id": "419"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    },
+                    {
                         "channel_name": "SuperSport Grandstand",
                         "channel_id": "412"
                     },
@@ -2692,6 +2774,10 @@
                         "channel_id": "2"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    },
+                    {
                         "channel_name": "Sky Sports NFL DE",
                         "channel_id": "3"
                     },
@@ -2790,6 +2876,38 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "5176"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5025"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5015"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "3002"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "3003"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "3086"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5032"
                     }
                 ]
             }
