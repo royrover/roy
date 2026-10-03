@@ -1,5 +1,187 @@
 {
     "Saturday 03rd Oct 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "20:30",
+                "event": "MotoPlayGround Race at Ponca City",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "219"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "2026 Grand National Cross Country at Mason-Dixon",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "220"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 Vermont Milk Bowl at Thunder Road Speedbowl",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "228"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "2026 Race of Champions Sportsman at Wyoming County International Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "229"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "2026 USAC Rollie Beale Classic at Toledo Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "237"
+                    }
+                ]
+            },
+            {
+                "time": "03:45",
+                "event": "2026 Championship Weekend at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "18"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "2026 AMSOIL Championship Off-Road In San Bernardino, CA",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "Millbridge Speedway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "04:45",
+                "event": "Lucas Oil Late Model Dirt Series Pittsburgh's Pennsylvania Motor Speedway [PPMS]",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "2026 MARS FALS Frenzy at Fairbury Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "2026 Championship Night #1 at Langley Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "30"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "Cedar Lake Speedway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "208"
+                    }
+                ]
+            },
+            {
+                "time": "05:15",
+                "event": "2026 NAPA All Star Circuit of Champions at Michaels Mercer Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "209"
+                    }
+                ]
+            },
+            {
+                "time": "05:45",
+                "event": "World of Outlaws Sprint Cars Williams Grove Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "221"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "MAPLE LEAF PRO Wrestling: Northern Rising 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "222"
+                    }
+                ]
+            },
+            {
+                "time": "07:45",
+                "event": "2026 NARC 410 Sprints at Thunderbowl Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "224"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "AMA EnduroCross Championship Las Vegas",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "225"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "GCW: The Last Frontier 2026 - The Sequel",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "226"
+                    }
+                ]
+            }
+        ],
         "Austin City Limits Music Festival 🎵": [
             {
                 "time": "03:35",
@@ -254,6 +436,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "106"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             }
@@ -266,6 +452,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "107"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     },
                     {
                         "channel_name": "Sky Sports+",
@@ -282,6 +472,10 @@
                         "channel_id": "108"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    },
+                    {
                         "channel_name": "Sky Sports+",
                         "channel_id": "3010"
                     }
@@ -294,6 +488,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "109"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     }
                 ]
             },
@@ -304,6 +502,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "110"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     }
                 ]
             },
@@ -314,6 +516,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "151"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
                     }
                 ]
             },
@@ -324,6 +530,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "152"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     }
                 ]
             },
@@ -334,6 +544,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "153"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     }
                 ]
             },
@@ -344,6 +558,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "154"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     }
                 ]
             },
@@ -354,6 +572,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "155"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
                     }
                 ]
             }
@@ -366,6 +588,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "156"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1238"
                     }
                 ]
             },
@@ -376,6 +602,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "157"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1237"
                     }
                 ]
             },
@@ -386,6 +616,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "158"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1236"
                     }
                 ]
             },
@@ -396,6 +630,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "159"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1235"
                     }
                 ]
             },
@@ -406,6 +644,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "160"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1234"
                     }
                 ]
             },
@@ -416,6 +658,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "161"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1233"
                     }
                 ]
             },
@@ -426,6 +672,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "162"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1232"
                     }
                 ]
             },
@@ -436,6 +686,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "163"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1231"
                     }
                 ]
             },
@@ -446,6 +700,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "164"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1230"
                     }
                 ]
             },
@@ -456,6 +714,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "165"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     }
                 ]
             },
@@ -466,6 +728,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "166"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     }
                 ]
             },
@@ -476,6 +742,40 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "167"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ Scottish Championship : Partick Thistle vs Arbroath",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1239"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ Scottish Championship : Morton vs Raith",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1240"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ Scottish Championship : Livingston vs Ayr",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1241"
                     }
                 ]
             }
@@ -560,6 +860,10 @@
                     {
                         "channel_name": "DAZN2 Spain",
                         "channel_id": "446"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     }
                 ]
             },
@@ -570,6 +874,30 @@
                     {
                         "channel_name": "DAZN1 Spain",
                         "channel_id": "445"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "⚽ 🇯🇵 Japan J League Cup : Kashiwa Reysol 🇯🇵 vs Gamba Osaka 🇯🇵",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "⚽ 🌏 ASEAN Championship : Hong Kong 🇭🇰 vs Cambodia 🇰🇭",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     }
                 ]
             },
@@ -580,6 +908,40 @@
                     {
                         "channel_name": "UPL.TV",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "⚽ 🇸🇪 Friendly Match : Orebro 🇸🇪 vs Nordic United 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "⚽ 🏆 Asian Games : 🇰🇷 South Korea U23 vs 🇯🇵 Japan U23",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "⚽ 🇮🇹 Italy Women Serie A : Parma W 🇮🇹 vs Ternana W 🇮🇹",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
                     }
                 ]
             },
@@ -608,6 +970,66 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4111"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "⚽ 🇸🇪 Sweden Women Allsvenskan : Vittsjo W 🇸🇪 vs Eskilstuna Utd W 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "⚽ 🇸🇪 Sweden Women Allsvenskan : Pitea W 🇸🇪 vs Norrkoping W 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "⚽ 🇸🇪 Sweden Division 1 : Stockholm Internazionale 🇸🇪 vs Assyriska FF 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "⚽ 🇸🇪 Sweden Division 1 : Enkoping SK 🇸🇪 vs Gefle 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "⚽ 🇸🇪 Sweden Division 1 : Tvaaker 🇸🇪 vs Hassleholms IF 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "⚽ 🇸🇪 Sweden Division 1 : Angelholm 🇸🇪 vs Rosengard 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     }
                 ]
             },
@@ -642,6 +1064,10 @@
                     {
                         "channel_name": "Sky Sports Main Event UK",
                         "channel_id": "38"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     },
                     {
                         "channel_name": "Sky Sports Football UK",
@@ -684,6 +1110,10 @@
                     {
                         "channel_name": "Viaplay Sports 1 UK",
                         "channel_id": "451"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1232"
                     }
                 ]
             },
@@ -694,6 +1124,20 @@
                     {
                         "channel_name": "Magenta Sport 301",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "⚽ 🇹🇿 Tanzania Women League : Simba Queens 🇹🇿 vs YJTK Queens 🇹🇿",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1230"
                     }
                 ]
             },
@@ -708,6 +1152,10 @@
                     {
                         "channel_name": "LALIGA TV Hypermotion",
                         "channel_id": "3026"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
                     }
                 ]
             },
@@ -718,6 +1166,10 @@
                     {
                         "channel_name": "BBC One UK",
                         "channel_id": "356"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
                     },
                     {
                         "channel_name": "Sportsnet One",
@@ -804,6 +1256,20 @@
                 ]
             },
             {
+                "time": "19:30",
+                "event": "⚽ 🇳🇴 Norway OBOS-ligaen : Strommen 🇳🇴 vs Sandnes 🇳🇴",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1231"
+                    }
+                ]
+            },
+            {
                 "time": "20:00",
                 "event": "⚽ Slovakia - 2. Futbalová Liga : Inter Bratislava 🇸🇰 vs Zlaté Moravce 🇸🇰",
                 "channels": [
@@ -824,6 +1290,10 @@
                     {
                         "channel_name": "YLE TV2 Finland",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     },
                     {
                         "channel_name": "DAZN2 DE",
@@ -942,6 +1412,10 @@
                     {
                         "channel_name": "ZONA DAZN Italy",
                         "channel_id": "877"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1228"
                     }
                 ]
             },
@@ -952,6 +1426,16 @@
                     {
                         "channel_name": "TV2 Sport X Denmark",
                         "channel_id": "808"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ 🇸🇪 Sweden Division 1 : FBK Karlstad 🇸🇪 vs AFC Eskilstuna 🇸🇪",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1227"
                     }
                 ]
             },
@@ -994,6 +1478,10 @@
                         "channel_id": "308"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    },
+                    {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "3008"
                     }
@@ -1006,6 +1494,10 @@
                     {
                         "channel_name": "#Vamos ES",
                         "channel_id": "521"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     },
                     {
                         "channel_name": "Sport TV1 Portugal",
@@ -1058,6 +1550,10 @@
                         "channel_id": "6"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1245"
+                    },
+                    {
                         "channel_name": "DAZN 1 DE",
                         "channel_id": "426"
                     }
@@ -1080,6 +1576,10 @@
                     {
                         "channel_name": "Teledeporte Spain",
                         "channel_id": "529"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1247"
                     }
                 ]
             },
@@ -1094,12 +1594,116 @@
                 ]
             },
             {
+                "time": "21:00",
+                "event": "⚽ Norway OBOS-ligaen : Stromsgodset vs Asane",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1242"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ Norway OBOS-ligaen : Hodd vs Odd",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1243"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ Norway OBOS-ligaen : Haugesund vs Stabaek",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1244"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ Brazil Serie B : Avai vs Ceara",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1246"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ Sweden Division 1 : Stocksund vs Jarfalla",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1248"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ Sweden Division 1 : Pitea vs Karlstad",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1249"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ Sweden Division 1 : Skovde AIK vs Utsikten",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1250"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ Sweden Division 1 : Jonkoping vs Eskilsminne",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1251"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ Sweden Division 1 : Atvidaberg vs Trollhattan",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1252"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "⚽ Uruguay Liga AUF : Liverpool M vs Progreso",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1253"
+                    }
+                ]
+            },
+            {
                 "time": "21:15",
                 "event": "⚽ Spain - Segunda Division : Almería 🇪🇸 vs Burgos 🇪🇸",
                 "channels": [
                     {
                         "channel_name": "LALIGA TV Hypermotion",
                         "channel_id": "539"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1256"
                     },
                     {
                         "channel_name": "LALIGA TV Hypermotion",
@@ -1164,6 +1768,10 @@
                     {
                         "channel_name": "Viaplay Sports 1 UK",
                         "channel_id": "451"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1232"
                     }
                 ]
             },
@@ -5859,7 +6467,7 @@
             },
             {
                 "time": "00:00",
-                "event": "🥋 MMA Bushido : Würzburg, Germany 🇩🇪",
+                "event": "🥋 MMA Bushido MFC 55 : Würzburg, Germany 🇩🇪",
                 "channels": [
                     {
                         "channel_name": "DAZN PPV",
@@ -7820,6 +8428,16 @@
                 ]
             },
             {
+                "time": "21:00",
+                "event": "🏀 Greece Basketball League : Promitheas vs Peristeri",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1254"
+                    }
+                ]
+            },
+            {
                 "time": "21:15",
                 "event": "🏀 BBL : Hamburg 🇩🇪 vs Rostock 🇩🇪",
                 "channels": [
@@ -8892,8 +9510,16 @@
                         "channel_id": "706"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1229"
+                    },
+                    {
                         "channel_name": "TV4 Sport Live 4 Sweden",
                         "channel_id": "3064"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
                     }
                 ]
             },
@@ -8908,6 +9534,10 @@
                     {
                         "channel_name": "TV4 Sport Live 3 Sweden",
                         "channel_id": "3063"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
                     }
                 ]
             },
@@ -8922,6 +9552,10 @@
                     {
                         "channel_name": "TV4 Sport Live 2 Sweden",
                         "channel_id": "3062"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
                     }
                 ]
             },
@@ -8936,6 +9570,10 @@
                     {
                         "channel_name": "TV4 Hockey Sweden",
                         "channel_id": "3065"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1226"
                     }
                 ]
             },
@@ -9922,6 +10560,10 @@
                         "channel_id": "31"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1255"
+                    },
+                    {
                         "channel_name": "Sportsnet World",
                         "channel_id": "410"
                     },
@@ -9972,6 +10614,10 @@
                         "channel_id": "550"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    },
+                    {
                         "channel_name": "Sportsnet World",
                         "channel_id": "410"
                     },
@@ -9988,6 +10634,10 @@
                     {
                         "channel_name": "Viaplay Sports 2 UK",
                         "channel_id": "550"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     },
                     {
                         "channel_name": "Viaplay Sports 2 UK",
@@ -10064,6 +10714,10 @@
                     {
                         "channel_name": "ESPN3 Argentina",
                         "channel_id": "798"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
                     }
                 ]
             },
