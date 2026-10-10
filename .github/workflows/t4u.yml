@@ -32,7 +32,7 @@ jobs:
         run: |
           python t4u.py
           python amarin.py
-          python d66_mid.py
+          #python d66_mid.py
           python sportsonline_api.py
           python ddl.py
 
