@@ -26,9 +26,9 @@ jobs:
           pip install bs4
 
       - name: Run Scrapers
-        env:
+        #env:
             # 🔥 ส่งค่า Secret ที่พี่ตั้งไว้ใน GitHub Settings เข้าไปในระบบ Runner
-            SPORTSONLINE: ${{ secrets.SPORTSONLINE }}
+            # SPORTSONLINE: ${{ secrets.SPORTSONLINE }}
         run: |
           python t4u.py
           python amarin.py
