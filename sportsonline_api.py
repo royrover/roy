@@ -1,41 +1,34 @@
-import datetime
+import cloudscraper
+import sys
 import re
 import json
-import urllib.request
-import os
-import sys
-
-#SPORTSONLINE = os.getenv("SPORTSONLINE")
-SPORTSONLINE = "https://sportsonline.st"
+import datetime
 
 def main():
-    url = SPORTSONLINE
-    if not url:
-        print("❌ ไม่พบแปรสภาพแวดล้อม SPORTSONLINE (Environment Variable)")
-        sys.exit(1)
-
-    req = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        },
-    )
-
+    url = "https://sportsonline.st"
+    
+    # ใช้ cloudscraper แทน urllib เพื่อป้องกันการโดนบล็อก Bot / Cloudflare
+    scraper = cloudscraper.create_scraper()
+    
     try:
-        # กำหนด timeout เผื่อเน็ตเวิร์กของ GitHub Actions หน่วง
-        with urllib.request.urlopen(req, timeout=30) as response:
-            html = response.read().decode("utf-8", errors="ignore")
+        response = scraper.get(url, timeout=30)
+        if response.status_code != 200:
+            print(f"❌ โหลดข้อมูลไม่สำเร็จ Status Code: {response.status_code}")
+            sys.exit(1)
+        html = response.text
     except Exception as e:
         print(f"❌ โหลดข้อมูลไม่สำเร็จ: {e}")
         sys.exit(1)
-
-    # ปรับจุดที่ 1: ใช้ splitlines() เพื่อจัดการปัญหา \r\n (CRLF) บน Linux GitHub Actions
+        
+    # --- โค้ดส่วนจัดการ Regex และไฟล์ JSON ต่อจากเดิมของคุณ ---
     lines = [line.strip() for line in html.splitlines() if line.strip()]
-
-    # 1. แผนผังวันที่ระบบ (หาจุดตั้งต้นจากวันปัจจุบัน)
+    
     file_days = [
         line.upper() for line in lines if re.match(r"^[A-Z]+DAY$", line.upper())
     ]
+    
+    if not file_days:
+        print("⚠️ คำเตือน: ไม่พบโครงสร้างวันในสัปดาห์ (ระวังเว็บอาจบล็อกหรือเปลี่ยนโครงสร้าง)")
     
     # 💡 บน GitHub Actions ตัวเซิร์ฟเวอร์จะเป็นเวลา UTC เสมอ 
     # แต่เนื่องจากลอจิกใช้คำนวณหา index ของวันในสัปดาห์ (weekday) ความเสี่ยงจึงต่ำ 
