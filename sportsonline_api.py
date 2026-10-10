@@ -5,7 +5,8 @@ import urllib.request
 import os
 import sys
 
-SPORTSONLINE = os.getenv("SPORTSONLINE")
+#SPORTSONLINE = os.getenv("SPORTSONLINE")
+SPORTSONLINE = "https://sportsonline.st"
 
 def main():
     url = SPORTSONLINE
