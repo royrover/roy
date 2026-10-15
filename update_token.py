@@ -1,63 +1,65 @@
 import json
-import os
-from playwright.sync_api import sync_playwright
+import re
+import requests
+
+ACCOUNT_ID = "6415628290001"
+VIDEO_ID = "6392745120112"
+PLAYER_EMBED_ID = "7eqSlPOCLA_default"
+
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "Referer": "https://www.oned.net/",
+    "Origin": "https://www.oned.net",
+}
 
 def run():
-    captured_url = None
+    print("1. Fetching player JS to get Policy Key...")
+    js_url = f"https://players.brightcove.net/{ACCOUNT_ID}/{PLAYER_EMBED_ID}/index.min.js"
+    res = requests.get(js_url, headers=headers)
     
-    with sync_playwright() as p:
-        # รันแบบเปิดหัวข้อจำลอง (หรือปิด headless ถ้าอยากลองรันดูในเครื่องตัวเอง)
-        browser = p.chromium.launch(
-            headless=True,
-            args=[
-                "--disable-blink-features=AutomationControlled",
-                "--no-sandbox",
-                "--disable-setuid-sandbox"
-            ]
-        )
-        
-        # สร้าง Context พร้อมกำหนด User-Agent ที่เป็นเบราว์เซอร์จริง และขนาดจอ
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            viewport={"width": 1280, "height": 800},
-            java_script_enabled=True
-        )
-        
-        page = context.new_page()
+    if res.status_code != 200:
+        raise Exception(f"Failed to fetch player JS: {res.status_code}")
 
-        def handle_request(route, request):
-            nonlocal captured_url
-            if "fastly.live.brightcove.com" in request.url and ".m3u8" in request.url:
-                if not captured_url:
-                    captured_url = request.url
-                    print(f"Captured Stream URL: {captured_url}")
-            route.continue_()
+    match = re.search(r'(BCpk[a-zA-Z0-9_\-\.]+)', res.text)
+    if not match:
+        raise Exception("Policy Key not found in JS.")
+    
+    policy_key = match.group(1)
+    print(f"Policy Key found: {policy_key[:15]}...")
 
-        page.route("**/*", handle_request)
+    print("2. Requesting stream URL from Brightcove API...")
+    api_url = f"https://edge.api.brightcove.com/playback/v1/accounts/{ACCOUNT_ID}/videos/{VIDEO_ID}"
+    api_headers = {
+        "Accept": f"application/json;pk={policy_key}",
+        "Origin": "https://www.oned.net",
+        "Referer": "https://www.oned.net/",
+    }
 
-        print("Navigating to oned.net...")
-        try:
-            # ใช้ domcontentloaded หรือ networkidle เพื่อรอให้หน้าเว็บโหลดสมบูรณ์
-            page.goto("https://www.oned.net/live-tv/gmm25", timeout=60000, wait_until="networkidle")
-            
-            # เลื่อนหน้าจอลงเล็กน้อยเพื่อให้เกิด Event กระตุ้นการเล่นวิดีโอ (ถ้ามี)
-            page.mouse.wheel(0, 300)
-            
-            # เพิ่มเวลารอให้แน่ใจว่าเครื่องเล่น (Player) ถูกกระตุ้นและยิงสตรีมออกมา
-            page.wait_for_timeout(20000)
-            
-        except Exception as e:
-            print(f"Error loading page: {e}")
-        
-        browser.close()
+    api_res = requests.get(api_url, headers=api_headers)
+    if api_res.status_code != 200:
+        raise Exception(f"API request failed: {api_res.status_code} - {api_res.text}")
 
-    if captured_url:
-        data = {"stream_url": captured_url}
-        with open("gmm25.json", "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        print("Updated gmm25.json successfully!")
-    else:
-        raise Exception("Could not capture the stream URL!")
+    data = api_res.json()
+    sources = data.get("sources", [])
+    
+    stream_url = None
+    for src in sources:
+        # หาลิงก์ที่เป็น HLS (.m3u8)
+        if src.get("type") == "application/x-mpegURL" or ".m3u8" in src.get("src", ""):
+            stream_url = src.get("src")
+            break
+
+    if not stream_url:
+        raise Exception("HLS Stream URL not found in API response.")
+
+    print(f"Captured Stream URL: {stream_url}")
+
+    # 3. บันทึกลง gmm25.json
+    output_data = {"stream_url": stream_url}
+    with open("gmm25.json", "w", encoding="utf-8") as f:
+        json.dump(output_data, f, ensure_ascii=False, indent=2)
+    
+    print("Successfully updated gmm25.json!")
 
 if __name__ == "__main__":
     run()
