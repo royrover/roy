@@ -31,9 +31,10 @@ def run():
 
     if captured_url:
         data = {"stream_url": captured_url}
-        with open("token.json", "w", encoding="utf-8") as f:
+        # เซฟเป็นไฟล์ gmm25.json ให้ตรงกับ Workflow
+        with open("gmm25.json", "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
-        print("Updated token.json successfully!")
+        print("Updated gmm25.json successfully!")
     else:
         raise Exception("Could not capture the stream URL!")
 
