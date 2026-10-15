@@ -1,4 +1,4 @@
-name: True4U & Amarin & sportsonline & daddylive
+name: True4U & Amarin & sportsonline & daddylive & gmm25
 
 on:
   schedule:
@@ -34,13 +34,14 @@ jobs:
           python amarin.py
           python sportsonline_api.py
           python ddl.py
+          python update_token.py
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           # เพิ่มไฟล์ทั้งหมดที่เกี่ยวข้อง
-          git add data.json amarin.json sportsonline_api.json daddylive_schedule.json
+          git add data.json amarin.json sportsonline_api.json daddylive_schedule.json gmm25.json
           # Commit เฉพาะเมื่อมีการเปลี่ยนแปลงไฟล์จริงๆ
           if git diff --staged --quiet; then
             echo "No changes to commit"
