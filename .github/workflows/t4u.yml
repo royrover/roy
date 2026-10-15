@@ -23,6 +23,8 @@ jobs:
       - name: Install dependencies
         run: |
           pip install cloudscraper
+          pip install playwright
+          playwright install chromium
           pip install bs4
 
       - name: Run Scrapers
