@@ -186,6 +186,10 @@
                     {
                         "channel_name": "Dirtvision",
                         "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5041"
                     }
                 ]
             },
@@ -196,6 +200,20 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "68"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2005"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "🏁 CARS Tour West at Kevin Harvick's Kern County Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5031"
                     }
                 ]
             },
@@ -206,6 +224,10 @@
                     {
                         "channel_name": "Floracing",
                         "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5025"
                     }
                 ]
             },
@@ -216,6 +238,14 @@
                     {
                         "channel_name": "Floracing",
                         "channel_id": "76"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5033"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5026"
                     }
                 ]
             }
@@ -6618,6 +6648,10 @@
                     {
                         "channel_name": "Premiere 2 BR",
                         "channel_id": "20"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
                     }
                 ]
             },
@@ -6632,12 +6666,36 @@
                 ]
             },
             {
+                "time": "04:15",
+                "event": "⚽ Bolivia Division Profesional : Universitario de Vinto vs SA Bulo Bulo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "⚽ Ecuador Liga Pro : Aucas vs LDU Quito",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    }
+                ]
+            },
+            {
                 "time": "04:30",
                 "event": "⚽ Brazil - Serie B : América Mineiro 🇧🇷 vs Operário PR 🇧🇷",
                 "channels": [
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     }
                 ]
             },
@@ -6650,8 +6708,22 @@
                         "channel_id": "88"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    },
+                    {
                         "channel_name": "Sportdigital FUSSBALL DE",
                         "channel_id": "571"
+                    }
+                ]
+            },
+            {
+                "time": "05:20",
+                "event": "⚽ Paraguay Primera Division : Olimpia Asuncion vs 2 de Mayo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     }
                 ]
             },
@@ -6662,6 +6734,10 @@
                     {
                         "channel_name": "Arena 1 Premium Serbia",
                         "channel_id": "134"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     },
                     {
                         "channel_name": "Match! Football 3 Russia",
@@ -6868,6 +6944,10 @@
                     {
                         "channel_name": "ion USA",
                         "channel_id": "325"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     }
                 ]
             },
@@ -9424,6 +9504,10 @@
                     {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1246"
                     },
                     {
                         "channel_name": "TVA Sports 2",
@@ -12116,6 +12200,10 @@
                         "channel_id": "4"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    },
+                    {
                         "channel_name": "Sportsnet+",
                         "channel_id": "3002"
                     },
@@ -13580,6 +13668,10 @@
                     {
                         "channel_name": "Sky Sport 1 NZ",
                         "channel_id": "588"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
                     },
                     {
                         "channel_name": "Sky Sport Uno IT",
