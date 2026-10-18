@@ -1,115 +1,8 @@
 {
   "groups": [
     {
-      "date": "2026-10-17",
-      "matches": [
-        {
-          "time": "06:30",
-          "title": "Atlanta United x Inter Miami",
-          "urls": [
-            "https://ww1.sportsonnline.click/channels/hd/hd5.php"
-          ]
-        },
-        {
-          "time": "06:30",
-          "title": "New York RB x Toronto FC",
-          "urls": [
-            "https://ww1.sportsonnline.click/channels/hd/hd9.php"
-          ]
-        },
-        {
-          "time": "07:00",
-          "title": "UFC Fight Night: Joaquin Buckley vs Mike Malott",
-          "urls": [
-            "https://ww1.sportsonnline.click/channels/hd/hd1.php",
-            "https://ww1.sportsonnline.click/channels/pt/sporttv1.php"
-          ]
-        },
-        {
-          "time": "07:00",
-          "title": "Boxing: Sebastian Fundora v Ermal Hadribeaj",
-          "urls": [
-            "https://ww1.sportsonnline.click/channels/bra/br6.php"
-          ]
-        },
-        {
-          "time": "07:00",
-          "title": "São Paulo x Vasco da Gama",
-          "urls": [
-            "https://ww1.sportsonnline.click/channels/bra/br5.php"
-          ]
-        },
-        {
-          "time": "08:00",
-          "title": "León x América",
-          "urls": [
-            "https://ww1.sportsonnline.click/channels/hd/hd8.php"
-          ]
-        },
-        {
-          "time": "08:30",
-          "title": "Alianza Lima x Atlético Grau",
-          "urls": [
-            "https://ww1.sportsonnline.click/channels/hd/hd6.php"
-          ]
-        },
-        {
-          "time": "09:30",
-          "title": "Seattle Sounders FC x CF Montréal",
-          "urls": [
-            "https://ww1.sportsonnline.click/channels/hd/hd9.php"
-          ]
-        },
-        {
-          "time": "10:10",
-          "title": "Cruz Azul x Juárez",
-          "urls": [
-            "https://ww1.sportsonnline.click/channels/hd/hd8.php"
-          ]
-        }
-      ]
-    },
-    {
       "date": "2026-10-18",
       "matches": [
-        {
-          "time": "12:30",
-          "title": "Golf: DP World Tour: India Championship - D4",
-          "urls": [
-            "https://ww1.sportsonnline.click/channels/hd/hd1.php",
-            "https://ww1.sportsonnline.click/channels/pt/sporttv3.php"
-          ]
-        },
-        {
-          "time": "13:00",
-          "title": "Tennis: ATP World 1000 - Shangai 2026",
-          "urls": [
-            "https://ww1.sportsonnline.click/channels/pt/sporttv2.php"
-          ]
-        },
-        {
-          "time": "17:15",
-          "title": "PEC Zwolle x Go Ahead Eagles",
-          "urls": [
-            "https://ww1.sportsonnline.click/channels/hd/hd9.php"
-          ]
-        },
-        {
-          "time": "17:30",
-          "title": "Udinese x Lecce",
-          "urls": [
-            "https://ww1.sportsonnline.click/channels/hd/hd7.php",
-            "https://ww1.sportsonnline.click/channels/hd/hd3.php",
-            "https://ww1.sportsonnline.click/channels/pt/sporttv1.php"
-          ]
-        },
-        {
-          "time": "17:30",
-          "title": "Kasımpaşa x Samsunspor",
-          "urls": [
-            "https://ww1.sportsonnline.click/channels/hd/hd10.php"
-          ]
-        },
         {
           "time": "19:00",
           "title": "Osasuna x Racing Santander",
@@ -440,6 +333,166 @@
           "title": "Deportivo Cali x Junior",
           "urls": [
             "https://ww1.sportsonnline.click/channels/hd/hd8.php"
+          ]
+        },
+        {
+          "time": "17:00",
+          "title": "Tennis: ATP World Tour 250 - Brussels",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/pt/sporttv3.php"
+          ]
+        },
+        {
+          "time": "20:00",
+          "title": "Tennis: ATP World Tour 250 - Lyon",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/pt/sporttv4.php"
+          ]
+        },
+        {
+          "time": "22:00",
+          "title": "Universitatea Cluj x SCM Argeşul Piteşti",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/hd/hd3.php"
+          ]
+        },
+        {
+          "time": "22:05",
+          "title": "Al-Fayha x Al-Ahli",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/hd/hd11.php",
+            "https://ww1.sportsonnline.click/channels/pt/sporttv1.php"
+          ]
+        },
+        {
+          "time": "23:30",
+          "title": "Monza x Cagliari",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/hd/hd7.php",
+            "https://ww1.sportsonnline.click/channels/pt/sporttv2.php"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "matches": [
+        {
+          "time": "00:00",
+          "title": "Trabzonspor x Beşiktaş",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/hd/hd10.php",
+            "https://ww1.sportsonnline.click/channels/bra/br6.php"
+          ]
+        },
+        {
+          "time": "01:00",
+          "title": "Voluntari x FCSB",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/hd/hd3.php"
+          ]
+        },
+        {
+          "time": "01:00",
+          "title": "Al Hilal x Al Hazm",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/pt/sporttv3.php"
+          ]
+        },
+        {
+          "time": "01:30",
+          "title": "Celta de Vigo B x Tenerife",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/hd/hd9.php"
+          ]
+        },
+        {
+          "time": "01:45",
+          "title": "Parma x Torino",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/hd/hd8.php",
+            "https://ww1.sportsonnline.click/channels/pt/sporttv2.php"
+          ]
+        },
+        {
+          "time": "01:45",
+          "title": "Rodez x Montpellier",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/hd/hd4.php"
+          ]
+        },
+        {
+          "time": "02:00",
+          "title": "Tottenham Hotspur x Coventry City",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/hd/hd1.php",
+            "https://ww1.sportsonnline.click/channels/pt/eleven1.php",
+            "https://ww1.sportsonnline.click/channels/bra/br2.php"
+          ]
+        },
+        {
+          "time": "02:00",
+          "title": "Getafe x Rayo Vallecano",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/hd/hd2.php",
+            "https://ww1.sportsonnline.click/channels/hd/hd6.php",
+            "https://ww1.sportsonnline.click/channels/pt/eleven2.php"
+          ]
+        },
+        {
+          "time": "02:15",
+          "title": "Sporting Braga x Gil Vicente",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/pt/sporttv1.php"
+          ]
+        },
+        {
+          "time": "05:00",
+          "title": "Newell's Old Boys x Central Córdoba SdE",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/hd/hd10.php"
+          ]
+        },
+        {
+          "time": "05:00",
+          "title": "Sarmiento x Barracas Central",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/hd/hd11.php"
+          ]
+        },
+        {
+          "time": "05:30",
+          "title": "Goiás x Náutico",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/bra/br2.php"
+          ]
+        },
+        {
+          "time": "06:00",
+          "title": "Corinthians x Vitória",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/bra/br1.php"
+          ]
+        },
+        {
+          "time": "07:00",
+          "title": "NFL: Commanders @ 49ers",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/hd/hd1.php"
+          ]
+        },
+        {
+          "time": "07:15",
+          "title": "Deportivo Riestra x Unión Santa Fe",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/hd/hd11.php"
+          ]
+        },
+        {
+          "time": "08:05",
+          "title": "Deportivo Pasto x Alianza",
+          "urls": [
+            "https://ww1.sportsonnline.click/channels/hd/hd9.php"
           ]
         }
       ]
