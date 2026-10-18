@@ -8,6 +8,10 @@
                     {
                         "channel_name": "DIRTVision PPV",
                         "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -18,6 +22,20 @@
                     {
                         "channel_name": "FloRacing PPV",
                         "channel_id": "108"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "🏁 High Limit Racing Awards Banquet",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
                     }
                 ]
             }
@@ -5680,6 +5698,10 @@
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     }
                 ]
             },
@@ -5690,6 +5712,10 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "388"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     },
                     {
                         "channel_name": "Arena 2 Premium Serbia",
@@ -5716,6 +5742,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     }
                 ]
             },
@@ -5726,6 +5756,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     },
                     {
                         "channel_name": "MAX Sport 3 Bulgaria",
@@ -5744,6 +5778,20 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
+                    }
+                ]
+            },
+            {
+                "time": "04:15",
+                "event": "⚽ Bolivia Division Profesional : The Strongest vs Always Ready",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
                     }
                 ]
             },
@@ -5754,6 +5802,10 @@
                     {
                         "channel_name": "Premiere BR",
                         "channel_id": "88"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     },
                     {
                         "channel_name": "Viaplay Sports 1 UK",
@@ -5786,6 +5838,26 @@
                 ]
             },
             {
+                "time": "04:30",
+                "event": "⚽ Ecuador Liga Pro : Barcelona SC vs U Catolica",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "⚽ Uruguay Liga AUF : Liverpool M vs Penarol",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
+                    }
+                ]
+            },
+            {
                 "time": "05:00",
                 "event": "⚽ Costa Rica - Primera Division : Pérez Zeledón 🇨🇷 vs Herediano 🇨🇷",
                 "channels": [
@@ -5796,12 +5868,36 @@
                 ]
             },
             {
+                "time": "05:20",
+                "event": "⚽ Paraguay Primera Division : Sp Luqueno vs San Lorenzo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    }
+                ]
+            },
+            {
+                "time": "05:20",
+                "event": "⚽ Paraguay Primera Division : Sportivo Trinidense vs Libertad Asuncion",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
+                    }
+                ]
+            },
+            {
                 "time": "05:30",
                 "event": "⚽ Brazil - Brasileirão : Remo 🇧🇷 vs RB Bragantino 🇧🇷",
                 "channels": [
                     {
                         "channel_name": "Premiere 4 BR",
                         "channel_id": "21"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     }
                 ]
             },
@@ -5822,6 +5918,10 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
                     }
                 ]
             },
@@ -5832,6 +5932,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     },
                     {
                         "channel_name": "Premier Sports 2 Ireland",
@@ -5866,6 +5970,20 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "⚽ Bolivia Division Profesional : Guabira vs Oriente Petrolero",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
                     }
                 ]
             },
@@ -5876,6 +5994,10 @@
                     {
                         "channel_name": "TUDN USA",
                         "channel_id": "66"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
                     }
                 ]
             },
@@ -5890,6 +6012,10 @@
                     {
                         "channel_name": "Fox Deportes USA",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
                     }
                 ]
             }
@@ -5918,6 +6044,10 @@
                         "channel_id": "31"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    },
+                    {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
                     },
@@ -5942,6 +6072,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "55"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
                     }
                 ]
             }
@@ -8462,6 +8596,10 @@
                         "channel_id": "1"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
+                    },
+                    {
                         "channel_name": "NBC USA",
                         "channel_id": "53"
                     },
@@ -8544,6 +8682,18 @@
                     {
                         "channel_name": "Sport 5 Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4041"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5028"
                     }
                 ]
             }
@@ -8654,6 +8804,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     },
                     {
                         "channel_name": "truTV USA",
@@ -9782,6 +9936,10 @@
                         "channel_id": "7"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    },
+                    {
                         "channel_name": "TVA Sports",
                         "channel_id": "833"
                     },
@@ -9808,6 +9966,10 @@
                         "channel_id": "8"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
+                    },
+                    {
                         "channel_name": "TVA Sports",
                         "channel_id": "833"
                     },
@@ -9826,6 +9988,10 @@
                     {
                         "channel_name": "Sport 5 Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4051"
                     }
                 ]
             }
