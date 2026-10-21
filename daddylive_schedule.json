@@ -1,5 +1,21 @@
 {
     "Wednesday 21st Oct 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "03:45",
+                "event": "🏁 No Mercy 17 at South Georgia Motorsports Park (21–25)",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "18"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5037"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "13:00",
@@ -614,6 +630,10 @@
                         "channel_id": "35"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
+                    },
+                    {
                         "channel_name": "Sky Sports Main Event UK",
                         "channel_id": "38"
                     },
@@ -1202,6 +1222,10 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     }
                 ]
             },
@@ -1212,6 +1236,10 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
                     },
                     {
                         "channel_name": "DSports+ Argentina",
@@ -1226,6 +1254,10 @@
                     {
                         "channel_name": "M+ LALIGA TV",
                         "channel_id": "84"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     },
                     {
                         "channel_name": "ESPN+ USA",
@@ -1310,6 +1342,16 @@
                 ]
             },
             {
+                "time": "01:30",
+                "event": "⚽ Uruguay Copa : Liverpool M vs Cerro Largo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
+                    }
+                ]
+            },
+            {
                 "time": "01:45",
                 "event": "⚽ Scotland - SWPL 1 : Glasgow City LFC 🏴󠁧󠁢󠁳󠁣󠁴󠁿 vs Rangers LFC 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
                 "channels": [
@@ -1321,11 +1363,33 @@
             },
             {
                 "time": "02:00",
+                "event": "⚽ UEFA Champions League : The Golazo Show",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports 3 UK",
+                        "channel_id": "33"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5003"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
                 "event": "⚽ UEFA Champions League : Simulcast 🇪🇺",
                 "channels": [
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "110"
+                    },
+                    {
+                        "channel_name": "TNT Sports 3 UK",
+                        "channel_id": "33"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
                     },
                     {
                         "channel_name": "Sky Sport Austria 1",
@@ -1380,6 +1444,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "151"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
                     },
                     {
                         "channel_name": "TNT Sports 2 UK",
@@ -1476,6 +1544,22 @@
                     {
                         "channel_name": "beIN Sports MENA 4",
                         "channel_id": "94"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5004"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5030"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4002"
                     }
                 ]
             },
@@ -1486,6 +1570,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "152"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     },
                     {
                         "channel_name": "TNT Sports 1 UK",
@@ -1630,6 +1718,22 @@
                     {
                         "channel_name": "5Plus Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5005"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5031"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5041"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -1640,6 +1744,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "153"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1227"
                     },
                     {
                         "channel_name": "TNT Sports 6 UK",
@@ -1708,6 +1816,22 @@
                     {
                         "channel_name": "beIN Sports MENA 5",
                         "channel_id": "95"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5006"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5032"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5042"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4003"
                     }
                 ]
             },
@@ -1718,6 +1842,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "154"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1226"
                     },
                     {
                         "channel_name": "TNT Sports 7 UK",
@@ -1770,6 +1898,22 @@
                     {
                         "channel_name": "beIN Sports MENA 8",
                         "channel_id": "98"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5007"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5033"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5043"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -1782,11 +1926,15 @@
                         "channel_id": "155"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
+                    },
+                    {
                         "channel_name": "TNT Sports 5 UK",
                         "channel_id": "614"
                     },
                     {
-                        "channel_name": "Amazon Prime Video IT8",
+                        "channel_name": "Amazon Prime Video IT",
                         "channel_id": "176"
                     },
                     {
@@ -1872,6 +2020,22 @@
                     {
                         "channel_name": "5Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5008"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5034"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5044"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4005"
                     }
                 ]
             },
@@ -1882,6 +2046,14 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "156"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
                     },
                     {
                         "channel_name": "TNT Sports 4 UK",
@@ -1994,6 +2166,26 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5009"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5035"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5045"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4004"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4010"
                     }
                 ]
             },
@@ -2004,6 +2196,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "157"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
                     },
                     {
                         "channel_name": "TNT Sports 8 UK",
@@ -2048,6 +2244,22 @@
                     {
                         "channel_name": "beIN Sports MENA 9",
                         "channel_id": "99"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5036"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5046"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -2088,6 +2300,10 @@
                     {
                         "channel_name": "beIN SPORTS USA",
                         "channel_id": "425"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1229"
                     },
                     {
                         "channel_name": "beIN SPORTS en Español",
@@ -2154,6 +2370,16 @@
                     {
                         "channel_name": "Sportv2 Brazil",
                         "channel_id": "79"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "⚽ Bolivia División Profesional : Real Potosí vs Bolívar",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1230"
                     }
                 ]
             },
@@ -5226,6 +5452,16 @@
                     {
                         "channel_name": "TVP Sport Poland",
                         "channel_id": "128"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "⚽ Futsal Africa Cup of Nations : Morocco vs Angola",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1228"
                     }
                 ]
             }
