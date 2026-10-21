@@ -751,6 +751,16 @@
             },
             {
                 "time": "23:45",
+                "event": "⚽ UEFA Champions League : The Golazo Show",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5003"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
                 "event": "⚽ UEFA Champions League : Simulcast 🇪🇺",
                 "channels": [
                     {
@@ -782,6 +792,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "108"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     },
                     {
                         "channel_name": "TNT Sports 4 UK",
@@ -918,6 +932,22 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4104"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5030"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4003"
                     }
                 ]
             },
@@ -928,6 +958,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "109"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     },
                     {
                         "channel_name": "TNT Sports 2 UK",
@@ -1080,6 +1114,26 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4103"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5031"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5041"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4010"
                     }
                 ]
             },
@@ -1100,6 +1154,20 @@
                     {
                         "channel_name": "ON Sport 1 Egypt",
                         "channel_id": "611"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "⚽ Denmark Cup : Vanlose vs Nykobing",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
                     }
                 ]
             },
@@ -1110,6 +1178,20 @@
                     {
                         "channel_name": "ON Sport Max Egypt",
                         "channel_id": "165"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Egypt Premier League : Ceramica Cleopatra vs Petrojet",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     }
                 ]
             },
@@ -4558,6 +4640,10 @@
                         "channel_id": "18"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    },
+                    {
                         "channel_name": "Sport TV6 Portugal",
                         "channel_id": "291"
                     },
@@ -5408,6 +5494,10 @@
                         "channel_id": "704"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
+                    },
+                    {
                         "channel_name": "TV4 Sport Live 2",
                         "channel_id": "3062"
                     }
@@ -5420,6 +5510,10 @@
                     {
                         "channel_name": "TV4 Sport Live 1",
                         "channel_id": "703"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     },
                     {
                         "channel_name": "TV4 Sport Live 1",
@@ -5436,6 +5530,10 @@
                         "channel_id": "707"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    },
+                    {
                         "channel_name": "TV4 Sportkanalen",
                         "channel_id": "3065"
                     }
@@ -5448,6 +5546,10 @@
                     {
                         "channel_name": "TV4 Sport Live 4",
                         "channel_id": "706"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     },
                     {
                         "channel_name": "TV4 Sport Live 4",
@@ -5464,6 +5566,10 @@
                         "channel_id": "700"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
+                    },
+                    {
                         "channel_name": "TV4 Hockey",
                         "channel_id": "3066"
                     }
@@ -5478,6 +5584,10 @@
                         "channel_id": "705"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    },
+                    {
                         "channel_name": "TV4 Sport Live 3 Sweden",
                         "channel_id": "3063"
                     }
@@ -5490,6 +5600,10 @@
                     {
                         "channel_name": "TV4 Sport Live",
                         "channel_id": "3067"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
                     }
                 ]
             },
