@@ -2,6 +2,16 @@
     "Thursday 22nd Oct 2026 - Schedule Time UK GMT": {
         "Upcoming Events": [
             {
+                "time": "22:30",
+                "event": "UAE Warriors 74",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "225"
+                    }
+                ]
+            },
+            {
                 "time": "13:00",
                 "event": "🏍️🇦🇺 Australian Motorcycle Grand Prix (MotoGP) | Phillip Island, Australia | 25 October 2026",
                 "channels": [
@@ -730,6 +740,10 @@
                     {
                         "channel_name": "M+ Liga de Campeones 2 ES",
                         "channel_id": "3028"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -860,6 +874,10 @@
                         "channel_id": "160"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    },
+                    {
                         "channel_name": "M4 Sports Hungary",
                         "channel_id": "265"
                     },
@@ -886,6 +904,10 @@
                     {
                         "channel_name": "M4 Sports Hungary",
                         "channel_id": "3070"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -896,6 +918,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "161"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     },
                     {
                         "channel_name": "Canal+ Live 8 France",
@@ -928,6 +954,10 @@
                     {
                         "channel_name": "Ziggo Sport 3 NL",
                         "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -938,6 +968,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "162"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     },
                     {
                         "channel_name": "Ziggo Sport 2 NL",
@@ -962,6 +996,10 @@
                     {
                         "channel_name": "Ziggo Sport 2 NL",
                         "channel_id": "3089"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -972,6 +1010,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "163"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     },
                     {
                         "channel_name": "TNT Sports 5 UK",
@@ -1092,6 +1134,10 @@
                     {
                         "channel_name": "Sky Sport Calcio IT",
                         "channel_id": "3047"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5004"
                     }
                 ]
             },
@@ -1170,6 +1216,10 @@
                     {
                         "channel_name": "Polsat Sport 1 Poland",
                         "channel_id": "3060"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5005"
                     }
                 ]
             },
@@ -1240,6 +1290,10 @@
                     {
                         "channel_name": "MagentaSport 4 Greece",
                         "channel_id": "3023"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -1250,6 +1304,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "166"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
                     },
                     {
                         "channel_name": "TNT Sports 8 UK",
@@ -1290,6 +1348,10 @@
                     {
                         "channel_name": "TNT Sports 8 UK",
                         "channel_id": "3007"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5007"
                     }
                 ]
             },
@@ -1300,6 +1362,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "167"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     },
                     {
                         "channel_name": "TNT Sports 7 UK",
@@ -1340,6 +1406,10 @@
                     {
                         "channel_name": "Canal+ Foot France",
                         "channel_id": "3051"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5008"
                     }
                 ]
             },
@@ -1350,6 +1420,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "168"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
                     },
                     {
                         "channel_name": "Canal+ Live 13 France",
@@ -1366,6 +1440,10 @@
                     {
                         "channel_name": "bTV Action BG",
                         "channel_id": "3048"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5009"
                     }
                 ]
             },
@@ -1378,12 +1456,20 @@
                         "channel_id": "169"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    },
+                    {
                         "channel_name": "Canal+ Live 18 France",
                         "channel_id": "109"
                     },
                     {
                         "channel_name": "bTV Action Bulgaria",
                         "channel_id": "481"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5010"
                     }
                 ]
             },
@@ -1396,12 +1482,20 @@
                         "channel_id": "170"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
+                    },
+                    {
                         "channel_name": "Canal+ Live 17 France",
                         "channel_id": "110"
                     },
                     {
                         "channel_name": "V Sport 1 Norway",
                         "channel_id": "3020"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5011"
                     }
                 ]
             },
@@ -1412,6 +1506,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "171"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     },
                     {
                         "channel_name": "TNT Sports 2 UK",
@@ -1456,6 +1554,10 @@
                     {
                         "channel_name": "TNT Sports 2 UK",
                         "channel_id": "3002"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5012"
                     }
                 ]
             },
@@ -1466,6 +1568,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "172"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     },
                     {
                         "channel_name": "Canal+ Live 16 France",
@@ -1486,6 +1592,10 @@
                     {
                         "channel_name": "Digi Sport 1 Romania",
                         "channel_id": "3029"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5013"
                     }
                 ]
             },
@@ -1498,8 +1608,16 @@
                         "channel_id": "173"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    },
+                    {
                         "channel_name": "Canal+ Live 15 France",
                         "channel_id": "153"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5014"
                     }
                 ]
             },
@@ -1510,6 +1628,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "174"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     },
                     {
                         "channel_name": "TNT Sports 9 UK",
@@ -1538,6 +1660,10 @@
                     {
                         "channel_name": "RTS 2 Serbia",
                         "channel_id": "3045"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5015"
                     }
                 ]
             },
@@ -1548,6 +1674,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "175"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
                     },
                     {
                         "channel_name": "TNT Sports 10 UK",
@@ -1568,6 +1698,10 @@
                     {
                         "channel_name": "Movistar Liga de Campeones",
                         "channel_id": "3030"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5016"
                     }
                 ]
             },
@@ -1578,6 +1712,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "176"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     },
                     {
                         "channel_name": "TNT Sports 3 UK",
@@ -1602,6 +1740,10 @@
                     {
                         "channel_name": "TNT Sports 3 UK",
                         "channel_id": "3003"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5017"
                     }
                 ]
             },
@@ -4860,6 +5002,10 @@
                         "channel_id": "318"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
+                    },
+                    {
                         "channel_name": "Sky Sports Golf UK",
                         "channel_id": "70"
                     },
@@ -5808,6 +5954,10 @@
                         "channel_id": "353"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
+                    },
+                    {
                         "channel_name": "Sky Sport 3 NZ",
                         "channel_id": "590"
                     },
@@ -6250,6 +6400,10 @@
                     {
                         "channel_name": "TV4 Sport Live 3 Sweden",
                         "channel_id": "705"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
                     }
                 ]
             },
@@ -6260,6 +6414,10 @@
                     {
                         "channel_name": "TV12 Sweden",
                         "channel_id": "24"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     }
                 ]
             },
@@ -6270,6 +6428,10 @@
                     {
                         "channel_name": "TV4 Sportkanalen Sweden",
                         "channel_id": "707"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
                     }
                 ]
             },
@@ -6280,6 +6442,10 @@
                     {
                         "channel_name": "TV4 Sport Live 1 Sweden",
                         "channel_id": "703"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
                     }
                 ]
             },
@@ -6290,6 +6456,10 @@
                     {
                         "channel_name": "TV4 Hockey Sweden",
                         "channel_id": "700"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
                     }
                 ]
             },
@@ -6300,6 +6470,10 @@
                     {
                         "channel_name": "TV4 Sport Live 2 Sweden",
                         "channel_id": "704"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1226"
                     }
                 ]
             }
