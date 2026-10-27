@@ -756,6 +756,10 @@
                         "channel_id": "467"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    },
+                    {
                         "channel_name": "beIN Sports MENA 1",
                         "channel_id": "91"
                     },
@@ -780,6 +784,10 @@
                     {
                         "channel_name": "Nova Sport Bulgaria",
                         "channel_id": "468"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     },
                     {
                         "channel_name": "beIN Sports MENA 2",
@@ -812,6 +820,10 @@
                     {
                         "channel_name": "Thmanyah",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             },
@@ -822,6 +834,16 @@
                     {
                         "channel_name": "MUTV UK",
                         "channel_id": "377"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ 🇷🇴 Romania Cup : FK Csíkszereda Miercurea Ciuc 🇷🇴 vs FC Bihor Oradea 🇷🇴",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     }
                 ]
             },
@@ -864,6 +886,10 @@
                     {
                         "channel_name": "Cytavision Sports 7 Cyprus",
                         "channel_id": "917"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     }
                 ]
             },
