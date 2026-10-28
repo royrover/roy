@@ -1,5 +1,17 @@
 {
     "Tuesday 27th Oct 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "05:15",
+                "event": "🏁 Millbridge Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "30"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "17:00",
@@ -2216,8 +2228,12 @@
                         "channel_id": "4108"
                     },
                     {
-                        "channel_name": "Event Stream",
+                        "channel_name": "Event Stream [Home Feed]",
                         "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Event Stream [Away Feed]",
+                        "channel_id": "5013"
                     }
                 ]
             },
@@ -2722,6 +2738,10 @@
                         "channel_id": "388"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    },
+                    {
                         "channel_name": "Arena Sport 4 Croatia",
                         "channel_id": "580"
                     }
@@ -2734,6 +2754,26 @@
                     {
                         "channel_name": "ESPN Deportes",
                         "channel_id": "375"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "⚽ Paraguay Copa : Libertad Asunción vs Independiente FBC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "⚽ Uruguay Copa Uruguay : Peñarol vs Montevideo City Torque",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             },
@@ -4380,6 +4420,18 @@
                     {
                         "channel_name": "beIN Sports 2 France",
                         "channel_id": "117"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4015"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5035"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5011"
                     }
                 ]
             }
@@ -4882,6 +4934,22 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4065"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5034"
+                    },
+                    {
+                        "channel_name": "Event Stream [Home Feed]",
+                        "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Event Stream [Away Feed]",
+                        "channel_id": "5013"
                     }
                 ]
             },
@@ -4960,6 +5028,18 @@
                     {
                         "channel_name": "beIN SPORTS MENA 8",
                         "channel_id": "98"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4066"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5036"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5014"
                     }
                 ]
             },
@@ -4974,6 +5054,18 @@
                     {
                         "channel_name": "NBCS California USA",
                         "channel_id": "755"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4067"
+                    },
+                    {
+                        "channel_name": "Event Stream [Home Feed]",
+                        "channel_id": "5015"
+                    },
+                    {
+                        "channel_name": "Event Stream [Away Feed]",
+                        "channel_id": "5016"
                     }
                 ]
             },
@@ -5028,6 +5120,10 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4068"
                     }
                 ]
             }
@@ -5130,6 +5226,14 @@
                     {
                         "channel_name": "Viasat Vinter",
                         "channel_id": "18"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4050"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5033"
                     }
                 ]
             },
@@ -5148,6 +5252,10 @@
                     {
                         "channel_name": "MAX Sport 2 Bulgaria",
                         "channel_id": "473"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4055"
                     }
                 ]
             },
@@ -5158,6 +5266,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4054"
                     }
                 ]
             },
@@ -5176,6 +5288,10 @@
                     {
                         "channel_name": "TSN2",
                         "channel_id": "112"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4053"
                     }
                 ]
             },
@@ -5194,6 +5310,10 @@
                     {
                         "channel_name": "V Sport Extra",
                         "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4056"
                     }
                 ]
             },
@@ -5220,6 +5340,14 @@
                     {
                         "channel_name": "ESPN 3 BR",
                         "channel_id": "83"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4051"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5037"
                     }
                 ]
             },
@@ -5238,6 +5366,14 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "572"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4052"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5038"
                     }
                 ]
             },
@@ -5248,6 +5384,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4057"
                     }
                 ]
             },
@@ -5258,6 +5398,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "14"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4059"
                     }
                 ]
             },
@@ -5280,6 +5424,10 @@
                     {
                         "channel_name": "RDS Info CA",
                         "channel_id": "841"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4058"
                     }
                 ]
             },
@@ -5322,6 +5470,10 @@
                     {
                         "channel_name": "Viasat Vinter",
                         "channel_id": "18"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4060"
                     }
                 ]
             }
