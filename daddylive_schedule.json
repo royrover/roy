@@ -1,5 +1,17 @@
 {
     "Wednesday 28h Oct 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "05:15",
+                "event": "🏁 Millbridge Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision PPV",
+                        "channel_id": "27"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "17:00",
@@ -460,6 +472,10 @@
                     {
                         "channel_name": "SPFL Feed",
                         "channel_id": "158"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1274"
                     }
                 ]
             },
@@ -470,6 +486,10 @@
                     {
                         "channel_name": "SPFL Feed",
                         "channel_id": "159"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1270"
                     }
                 ]
             },
@@ -480,6 +500,10 @@
                     {
                         "channel_name": "SPFL Feed",
                         "channel_id": "160"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1273"
                     }
                 ]
             },
@@ -490,6 +514,10 @@
                     {
                         "channel_name": "SPFL Feed",
                         "channel_id": "161"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1272"
                     }
                 ]
             },
@@ -500,6 +528,10 @@
                     {
                         "channel_name": "SPFL Feed",
                         "channel_id": "162"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1271"
                     }
                 ]
             },
@@ -510,6 +542,10 @@
                     {
                         "channel_name": "SPFL Feed",
                         "channel_id": "163"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1276"
                     },
                     {
                         "channel_name": "Sky Sports Football UK",
@@ -696,6 +732,38 @@
                     {
                         "channel_name": "TSN3",
                         "channel_id": "113"
+                    }
+                ]
+            }
+        ],
+        "English National League ⚽": [
+            {
+                "time": "02:45",
+                "event": "⚽ English National League : Sutton vs Aldershot",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    }
+                ]
+            },
+            {
+                "time": "02:45",
+                "event": "⚽ English National League : Forest Green vs Eastleigh",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    }
+                ]
+            },
+            {
+                "time": "02:45",
+                "event": "⚽ English National League : Carlisle vs Harrogate",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     }
                 ]
             }
@@ -2436,6 +2504,20 @@
                     {
                         "channel_name": "Viaplay Sport News Denmark",
                         "channel_id": "806"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1256"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "⚽ Uruguay Cup : Nacional Florida vs Juventud",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1257"
                     }
                 ]
             },
@@ -2446,6 +2528,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "105"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1250"
                     }
                 ]
             },
@@ -2456,6 +2542,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "106"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1249"
                     }
                 ]
             },
@@ -2466,6 +2556,10 @@
                     {
                         "channel_name": "MUTV UK",
                         "channel_id": "377"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1253"
                     }
                 ]
             },
@@ -2476,6 +2570,40 @@
                     {
                         "channel_name": "ESPN 3 NL",
                         "channel_id": "888"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1251"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "⚽ English Women League Cup : Sheffield Utd W vs Everton W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1252"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "⚽ English Women League Cup : London City Lionesses W vs Crystal Palace W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1254"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "⚽ English Women League Cup : Bristol City W vs Tottenham W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1255"
                     }
                 ]
             },
@@ -2486,6 +2614,10 @@
                     {
                         "channel_name": "Digi Sport 1 Romania",
                         "channel_id": "400"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1260"
                     },
                     {
                         "channel_name": "Prima Sport 1 Romania",
@@ -2500,6 +2632,10 @@
                     {
                         "channel_name": "TVP Sport Poland",
                         "channel_id": "128"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1259"
                     },
                     {
                         "channel_name": "TVP Sport Poland",
@@ -2553,11 +2689,55 @@
             },
             {
                 "time": "02:30",
+                "event": "⚽ Austria Cup : LASK vs Ried",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1258"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "⚽ English Women League Cup : Wolverhampton W vs Brighton W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1261"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "⚽ English Women League Cup : Charlton W vs West Ham W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1262"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "⚽ English Women League Cup : Aston Villa W vs Birmingham W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1263"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
                 "event": "⚽ England - League Cup : Manchester City 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Brighton &amp; Hove Albion 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "107"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1265"
                     },
                     {
                         "channel_name": "Sky Sports+",
@@ -2654,6 +2834,10 @@
                         "channel_id": "108"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1269"
+                    },
+                    {
                         "channel_name": "Sport TV5 Portugal",
                         "channel_id": "290"
                     },
@@ -2716,6 +2900,10 @@
                         "channel_id": "109"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1268"
+                    },
+                    {
                         "channel_name": "beIN Sports MAX 8 France",
                         "channel_id": "498"
                     },
@@ -2764,6 +2952,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "110"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1267"
                     },
                     {
                         "channel_name": "beIN Sports MAX 9 France",
@@ -2834,6 +3026,10 @@
                         "channel_id": "200"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    },
+                    {
                         "channel_name": "Sky Sport 3 DE",
                         "channel_id": "13"
                     },
@@ -2878,6 +3074,10 @@
                     {
                         "channel_name": "DAZN CA",
                         "channel_id": "201"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     },
                     {
                         "channel_name": "Sky Sport 2 DE",
@@ -2950,6 +3150,10 @@
                         "channel_id": "202"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    },
+                    {
                         "channel_name": "Sky Sport 5 DE",
                         "channel_id": "11"
                     },
@@ -2970,6 +3174,10 @@
                     {
                         "channel_name": "DAZN CA",
                         "channel_id": "203"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     },
                     {
                         "channel_name": "Sky Sport 4 DE",
@@ -3106,6 +3314,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4010"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     }
                 ]
             },
@@ -3116,6 +3328,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "153"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     },
                     {
                         "channel_name": "TNT Sports 1 UK",
@@ -3220,6 +3436,10 @@
                     {
                         "channel_name": "ESPN 4 NL",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1277"
                     }
                 ]
             },
@@ -3230,6 +3450,10 @@
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1279"
                     },
                     {
                         "channel_name": "RTP2 Portugal",
@@ -3266,6 +3490,10 @@
                         "channel_id": "712"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1278"
+                    },
+                    {
                         "channel_name": "ESPN 4 Argentina",
                         "channel_id": "7"
                     }
@@ -3278,6 +3506,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "154"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1275"
                     },
                     {
                         "channel_name": "ITV 1 UK",
@@ -3466,6 +3698,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
                     }
                 ]
             },
@@ -3480,6 +3716,10 @@
                     {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "3021"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
                     }
                 ]
             },
@@ -3490,6 +3730,10 @@
                     {
                         "channel_name": "Premiere 4 BR",
                         "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             },
@@ -3500,6 +3744,10 @@
                     {
                         "channel_name": "Premiere 2 BR",
                         "channel_id": "21"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     }
                 ]
             },
@@ -3510,6 +3758,10 @@
                     {
                         "channel_name": "Premiere BR",
                         "channel_id": "88"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     },
                     {
                         "channel_name": "Viaplay Sports 2 UK",
@@ -3546,6 +3798,16 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "⚽ Paraguay Copa : Sportivo Luqueño vs Recoleta FC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     }
                 ]
             },
@@ -5684,6 +5946,10 @@
                         "channel_id": "28"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1248"
+                    },
+                    {
                         "channel_name": "M+ Baloncesto 5",
                         "channel_id": "186"
                     },
@@ -5720,6 +5986,10 @@
                     {
                         "channel_name": "Magenta Sport 306",
                         "channel_id": "29"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1264"
                     },
                     {
                         "channel_name": "M+ Baloncesto 4",
