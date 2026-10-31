@@ -26,6 +26,7 @@ jobs:
           pip install playwright
           playwright install chromium
           pip install bs4
+          playwright install-deps chromium # สำคัญมากสำหรับ Linux บน GitHub
 
       - name: Run Scrapers
         #env:
