@@ -111,7 +111,7 @@ def main():
 
             try:
                 dt_obj = datetime.datetime.strptime(raw_datetime_str, "%d-%m-%Y %H:%M")
-                dt_th = dt_obj + datetime.timedelta(hours=6)
+                dt_th = dt_obj + datetime.timedelta(hours=7)
 
                 th_date = dt_th.strftime("%Y-%m-%d")
                 th_time = dt_th.strftime("%H:%M")
