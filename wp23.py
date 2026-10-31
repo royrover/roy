@@ -1,14 +1,14 @@
 import base64
+from datetime import datetime
+import json
 import re
 import cloudscraper
 
 
 def get_rumble_hls():
-  # สร้าง scraper instance ที่จำลองบราวเซอร์ Chrome บน Windows
   scraper = cloudscraper.create_scraper(
       browser={"browser": "chrome", "platform": "windows", "desktop": True}
   )
-
   url = "https://rumble.com/embed/v7ew6ko"
   headers = {
       "User-Agent": (
@@ -22,14 +22,11 @@ def get_rumble_hls():
     response = scraper.get(url, headers=headers, timeout=15)
     html = response.text
 
-    # ค้นหา HLS URL ด้วย Regex
     match = re.search(r'"hls"\s*:\s*\{\s*"url"\s*:\s*"([^"]+)"', html)
     if match:
       hls_url = match.group(1).replace(r"\/", "/")
-      # แปลงเป็น Base64
       b64_encoded = base64.b64encode(hls_url.encode("utf-8")).decode("utf-8")
       return b64_encoded
-
   except Exception as e:
     print(f"Error: {e}")
 
@@ -37,8 +34,17 @@ def get_rumble_hls():
 
 
 if __name__ == "__main__":
-  result = get_rumble_hls()
-  if result:
-    print(result)
-  else:
-    print("ERROR_NOT_FOUND")
+  b64_result = get_rumble_hls()
+
+  # สร้างโครงสร้างข้อมูล JSON
+  data = {
+      "status": "success" if b64_result else "error",
+      "base64": b64_result,
+      "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+  }
+
+  # บันทึกลงไฟล์ wp64.json
+  with open("wp64.json", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=4)
+
+  print("✅ Saved to wp64.json successfully!")
