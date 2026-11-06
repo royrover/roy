@@ -1,5 +1,41 @@
 {
     "Friday 06th Nov 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "23:00",
+                "event": "🥊 APFC: Indian Fight League : IFL: Delhi 🇮🇳 vs Chennai 🇮🇳 – Sumit Bhyan vs Paalee Sathishwer",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "🥋 Power Slap 26 : Greenhalgh vs Simonds 🇺🇸",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "176"
+                    },
+                    {
+                        "channel_name": "Arena Sport 7 Serbia",
+                        "channel_id": "942"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "🤼 GCW: Dead on Arrival 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "19"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "18:00",
