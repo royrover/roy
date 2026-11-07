@@ -11,27 +11,26 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.12'
 
       - name: Install dependencies
         run: |
-          pip install cloudscraper
-          pip install playwright
-          playwright install chromium
-          pip install bs4
-          playwright install-deps chromium # สำคัญมากสำหรับ Linux บน GitHub
+          python -m pip install --upgrade pip
+          pip install cloudscraper playwright beautifulsoup4
+          playwright install --with-deps chromium
 
       - name: Run Scrapers
         #env:
-            # 🔥 ส่งค่า Secret ที่พี่ตั้งไว้ใน GitHub Settings เข้าไปในระบบ Runner
-            # SPORTSONLINE: ${{ secrets.SPORTSONLINE }}
+          # ส่งค่า Secret ที่ตั้งไว้ใน GitHub Settings เข้าไปในระบบ Runner
+          # SPORTSONLINE: ${{ secrets.SPORTSONLINE }}
         run: |
           python t4u.py
           python amarin.py
@@ -42,8 +41,10 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
           # เพิ่มไฟล์ทั้งหมดที่เกี่ยวข้อง
-          git add data.json amarin.json sportsonline_api.json daddylive_schedule.json 
+          git add data.json amarin.json sportsonline_api.json daddylive_schedule.json
+
           # Commit เฉพาะเมื่อมีการเปลี่ยนแปลงไฟล์จริงๆ
           if git diff --staged --quiet; then
             echo "No changes to commit"
