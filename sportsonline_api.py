@@ -6,7 +6,7 @@ import datetime
 from bs4 import BeautifulSoup
 
 def main():
-    url = "https://sportsonline.st"
+    url = "https://sportsonline.st/prog.txt"
     
     scraper = cloudscraper.create_scraper()
     
