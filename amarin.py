@@ -3,7 +3,6 @@ from playwright.sync_api import sync_playwright
 
 def get_data():
     with sync_playwright() as p:
-        # เปิดเบราว์เซอร์แบบ headless
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
@@ -17,15 +16,14 @@ def get_data():
             # ดึง Source Code ทั้งหน้าเว็บมาวิเคราะห์
             html_content = page.content()
             
-            # ค้นหาลิงก์ m3u8 ที่อยู่ในฟิลด์ source ของ live
+            # ค้นหาลิงก์ m3u8 จากฟิลด์ source ใน JSON ของหน้าเว็บ
             match = re.search(r'"source"\s*:\s*"(https:[^"]+\.m3u8[^"]*)"', html_content)
             
             if match:
                 raw_url = match.group(1)
                 
-                # แปลงรหัส Unicode escape เช่น \u0026 ให้เป็น & ปกติ
-                final_url = raw_url.encode().decode('unicode_escape')
-                final_url = final_url.replace('\\', '').strip()
+                # แปลงรหัส \u0026 ให้กลับเป็น & ปกติ และล้างเครื่องหมาย \ ส่วนเกินออก
+                final_url = raw_url.encode().decode('unicode_escape').replace('\\', '').strip()
                 
                 # เขียนลงไฟล์ amarin.json
                 with open("amarin.json", "w", encoding="utf-8") as f:
