@@ -1,49 +1,44 @@
-import cloudscraper
 import re
+from playwright.sync_api import sync_playwright
 
 def get_data():
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-        "Referer": "https://www.amarintv.com/",
-    }
-
-    scraper = cloudscraper.create_scraper(
-        browser={"browser": "chrome", "platform": "windows", "mobile": False}
-    )
-
-    try:
-        response = scraper.get("https://www.amarintv.com/live", headers=headers)
-
-        if response.status_code == 200:
-            match = re.search(r'"(https[^"]+\.m3u8[^"]*)"', response.text)
+    with sync_playwright() as p:
+        # เปิดเบราว์เซอร์แบบ headless
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
+        )
+        page = context.new_page()
+        
+        try:
+            print("กำลังเปิดเว็บไซต์ Amarin TV ผ่าน Playwright...")
+            page.goto("https://www.amarintv.com/live", wait_until="domcontentloaded", timeout=60000)
+            
+            # ดึง Source Code ทั้งหน้าเว็บมาวิเคราะห์
+            html_content = page.content()
+            
+            # ค้นหาลิงก์ m3u8 ที่อยู่ในฟิลด์ source ของ live
+            match = re.search(r'"source"\s*:\s*"(https:[^"]+\.m3u8[^"]*)"', html_content)
+            
             if match:
                 raw_url = match.group(1)
-
-                # --- ส่วนที่แก้ไขเพื่อป้องกัน Error ---
-                # 1. ลบเครื่องหมาย \ ที่ปิดท้ายออกก่อน (ถ้ามี) เพื่อป้องกัน unicodeescape error
-                clean_raw = raw_url.rstrip('\\')
                 
-                # 2. แปลง \\u0026 เป็น & (unicode_escape)
-                final_url = clean_raw.encode().decode('unicode_escape')
+                # แปลงรหัส Unicode escape เช่น \u0026 ให้เป็น & ปกติ
+                final_url = raw_url.encode().decode('unicode_escape')
+                final_url = final_url.replace('\\', '').strip()
                 
-                # 3. กวาดล้าง \ ที่อาจหลงเหลืออยู่ในจุดอื่นๆ ออกให้หมด
-                final_url = final_url.replace('\\', '')
-                
-                # 4. ตัดช่องว่างหัวท้ายให้ชัวร์
-                final_url = final_url.strip()
-
-                # เขียนลงไฟล์แบบ Plain Text (ไม่ใช้ JSON)
+                # เขียนลงไฟล์ amarin.json
                 with open("amarin.json", "w", encoding="utf-8") as f:
                     f.write(final_url)
-
+                    
                 print(f"✅ Success! URL saved: {final_url}")
             else:
-                print("❌ No M3U8 found.")
-        else:
-            print(f"❌ Status: {response.status_code}")
-
-    except Exception as e:
-        print(f"⚠️ Error: {e}")
+                print("❌ No M3U8 found in page source.")
+                
+        except Exception as e:
+            print(f"⚠️ Error: {e}")
+        finally:
+            browser.close()
 
 if __name__ == "__main__":
     get_data()
