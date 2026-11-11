@@ -1,48 +1,47 @@
-import cloudscraper
 import re
+from playwright.sync_api import sync_playwright
 
 def get_data():
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
-        "Referer": "https://true4u.com/",
-        "X-Requested-With": "XMLHttpRequest",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8",
-        "Accept-Language": "th,en;q=0.9"
-    }
-
-    # สร้าง Session ผ่าน cloudscraper (ช่วยเก็บบันทึก Cookie และจัดการการเชื่อมต่ออัตโนมัติ)
-    scraper = cloudscraper.create_scraper(
-        browser={"browser": "chrome", "platform": "windows", "mobile": False}
-    )
-    
-    try:
-        # (ทางเลือก) แวะเข้าหน้าแรกก่อน เพื่อรับคุกกี้เริ่มต้นจาก Cloudflare เหมือนผู้ใช้จริง
-        print("กำลังเชื่อมต่อหน้าแรกเพื่อรับ Session และ Cookie...")
-        home_response = scraper.get("https://true4u.com/", headers=headers)
-        print(f"หน้าแรก Status: {home_response.status_code}")
-
-        # หน่วงเวลาเล็กน้อยหรือยิง API ต่อเนื่องโดยใช้ session เดิม
-        print("กำลังดึง API signer-url...")
-        response = scraper.get("https://true4u.com/live-api/signer-url?prefix=/live/", headers=headers)
+    with sync_playwright() as p:
+        # เปิดเบราว์เซอร์แบบ headless
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
+        )
+        page = context.new_page()
         
-        if response.status_code == 200:
-            raw_url = response.text # ค่าที่ได้จะเป็น URL เต็มๆ
+        try:
+            print("กำลังเปิดเว็บไซต์ True4u ผ่าน Playwright เพื่อผ่านระบบป้องกัน...")
+            # เข้าหน้าแรกก่อนเพื่อให้ Cloudflare ผ่านการตรวจสอบ (Challenge)
+            page.goto("https://true4u.com/", wait_until="domcontentloaded", timeout=60000)
             
-            # แปลงจาก Master Playlist เป็น 720p ทันที
-            final_url = re.sub(r"playlist\.m3u8", "pl_720p/index.m3u8", raw_url)
+            # รอหรือเข้าไปที่ API endpoint โดยตรงผ่านหน้าเว็บที่เปิดอยู่
+            print("กำลังดึง API signer-url...")
+            response = page.goto("https://true4u.com/live-api/signer-url?prefix=/live/", wait_until="domcontentloaded", timeout=30000)
             
-            # เซฟลงไฟล์ data.json (เขียนทับค่าเดิม)
-            with open("data.json", "w", encoding="utf-8") as f:
-                f.write(final_url)
+            if response and response.status == 200:
+                raw_url = page.inner_text("body") # ดึงข้อความ URL จากหน้าเว็บ
                 
-            print(f"Success! URL saved to data.json")
-            print(f"URL: {final_url}")
-        else:
-            print(f"Failed with status code: {response.status_code}")
-            print(response.text)
-
-    except Exception as e:
-        print(f"Error: {e}")
+                # ทำความสะอาดข้อความ เผื่อติด HTML tags
+                raw_url = raw_url.strip()
+                
+                # แปลงจาก Master Playlist เป็น 720p
+                final_url = re.sub(r"playlist\.m3u8", "pl_720p/index.m3u8", raw_url)
+                
+                # เซฟลงไฟล์ data.json
+                with open("data.json", "w", encoding="utf-8") as f:
+                    f.write(final_url)
+                    
+                print(f"Success! URL saved to data.json")
+                print(f"URL: {final_url}")
+            else:
+                status = response.status if response else "Unknown"
+                print(f"Failed with status code: {status}")
+                
+        except Exception as e:
+            print(f"Error: {e}")
+        finally:
+            browser.close()
 
 if __name__ == "__main__":
     get_data()
