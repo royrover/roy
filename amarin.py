@@ -11,16 +11,13 @@ def get_data():
         
         try:
             print("กำลังเปิดเว็บไซต์ Amarin TV ผ่าน Playwright...")
-            page.goto("https://www.amarintv.com/live", wait_until="networkidle", timeout=60000)
+            # เปลี่ยนจาก networkidle เป็น domcontentloaded เพื่อป้องกัน Timeout
+            page.goto("https://www.amarintv.com/live", wait_until="domcontentloaded", timeout=60000)
             
-            # 🛑 เพิ่มการสั่งรอให้ข้อความหรือโครงสร้างที่เกี่ยวกับ m3u8 ปรากฏบนหน้าเว็บก่อน
-            print("กำลังรอให้หน้าเว็บโหลดข้อมูลสตรีม...")
-            try:
-                page.wait_for_selector("script", timeout=10000)
-            except:
-                pass
+            # รอเวลาสั้นๆ ให้ JavaScript เรนเดอร์ข้อมูลขึ้นมา (ประมาณ 3 วินาที)
+            page.wait_for_timeout(3000)
             
-            # ดึง Source Code ทั้งหน้าเว็บหลังจากโหลดเสร็จสมบูรณ์
+            # ดึง Source Code ทั้งหน้าเว็บมาวิเคราะห์
             html_content = page.content()
             
             # ค้นหาลิงก์ m3u8 จากฟิลด์ source ใน JSON ของหน้าเว็บ
@@ -38,7 +35,7 @@ def get_data():
                     
                 print(f"✅ Success! URL saved: {final_url}")
             else:
-                print("❌ No M3U8 found in page source after waiting.")
+                print("❌ No M3U8 found in page source.")
                 
         except Exception as e:
             print(f"⚠️ Error: {e}")
