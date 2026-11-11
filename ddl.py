@@ -28,7 +28,7 @@ def get_schedule_api_json():
     json_output = {}
 
     try:
-        url = "https://dlhd.st/index.php"
+        url = "https://thedaddy.li/index.php"
         response = session.get(url, timeout=15, verify=False)
         response.raise_for_status()
         html_content = response.text
