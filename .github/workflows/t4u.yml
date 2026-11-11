@@ -28,21 +28,18 @@ jobs:
           playwright install --with-deps chromium
 
       - name: Run Scrapers
-        #env:
-          # ส่งค่า Secret ที่ตั้งไว้ใน GitHub Settings เข้าไปในระบบ Runner
-          # SPORTSONLINE: ${{ secrets.SPORTSONLINE }}
         run: |
-          python t4u.py
-          python amarin.py
-          python sportsonline_api.py
-          python ddl.py
+          python t4u.py || true
+          python amarin.py || true
+          python sportsonline_api.py || true
+          python ddl.py || true
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          # เพิ่มไฟล์ทั้งหมดที่เกี่ยวข้อง
+          # เพิ่มไฟล์ทั้งหมดที่เกี่ยวข้อง (ไฟล์ไหนสร้างสำเร็จ บอทจะหยิบไปคอมมิทให้)
           git add data.json amarin.json sportsonline_api.json daddylive_schedule.json
 
           # Commit เฉพาะเมื่อมีการเปลี่ยนแปลงไฟล์จริงๆ
