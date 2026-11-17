@@ -54,22 +54,43 @@ print("1. Fetching Worker M3U...")
 try:
     response = requests.get(
         WORKER_URL,
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/157.0.0.0 Safari/537.36"
+            ),
+            "Accept": (
+                "text/html,application/xhtml+xml,"
+                "application/xml;q=0.9,*/*;q=0.8"
+            ),
+            "Accept-Language": "th,en;q=0.9"
+        },
         timeout=30
     )
 
-    response.raise_for_status()
+    print("Worker HTTP:", response.status_code)
+    print("Content-Type:", response.headers.get("Content-Type"))
+    print("Response size:", len(response.content))
+
+    if response.status_code != 200:
+        print("\nWORKER RESPONSE BODY:")
+        print(response.text[:5000])
+        raise SystemExit(1)
 
     playlist = response.text
 
     if "#EXTM3U" not in playlist:
-        raise ValueError("Invalid M3U response")
+        print("ERROR: Invalid M3U response")
+        print(playlist[:3000])
+        raise SystemExit(1)
 
-    print("Worker HTTP:", response.status_code)
-    print("Playlist size:", len(playlist))
-    
-except Exception as e:
+    print("Worker M3U: OK")
+
+except requests.RequestException as e:
     print("WORKER ERROR:", str(e))
     raise SystemExit(1)
+
 
 # ==========================================
 # PARSE CHANNELS
