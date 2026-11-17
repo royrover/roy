@@ -9,9 +9,6 @@ API_KEY = os.environ["API_KEY"]
 
 viewer_id = "7082c578da034ad78c6574168f9c5493"
 
-request_id = viewer_id + base36(
-    int(time.time() * 1000)
-)
 
 def base36(number):
     chars = "0123456789abcdefghijklmnopqrstuvwxyz"
@@ -22,6 +19,9 @@ def base36(number):
         result = chars[remainder] + result
 
     return result or "0"
+
+
+request_id = viewer_id + base36(int(time.time() * 1000))
 
 payload = {
     "api_key": API_KEY,
