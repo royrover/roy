@@ -790,6 +790,10 @@
                         "channel_id": "88"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
+                    },
+                    {
                         "channel_name": "SporTV BR",
                         "channel_id": "78"
                     }
@@ -802,6 +806,10 @@
                     {
                         "channel_name": "Premiere 2 BR",
                         "channel_id": "18"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     },
                     {
                         "channel_name": "Viaplay Sports 2 UK",
@@ -830,12 +838,26 @@
                 ]
             },
             {
+                "time": "06:30",
+                "event": "⚽ Bolivia Division Profesional : Always Ready vs Real Potosi",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    }
+                ]
+            },
+            {
                 "time": "07:30",
                 "event": "⚽ Brazil - Brasileirão : Grêmio 🇧🇷 vs Bahia 🇧🇷",
                 "channels": [
                     {
                         "channel_name": "Premiere 5 BR",
                         "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
                     }
                 ]
             },
@@ -846,6 +868,10 @@
                     {
                         "channel_name": "Premiere 3 BR",
                         "channel_id": "20"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     }
                 ]
             }
@@ -1698,6 +1724,10 @@
                     {
                         "channel_name": "CBSSN",
                         "channel_id": "308"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     }
                 ]
             },
@@ -1708,6 +1738,10 @@
                     {
                         "channel_name": "ESPNU USA",
                         "channel_id": "316"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1226"
                     }
                 ]
             }
@@ -2152,6 +2186,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     }
                 ]
             },
@@ -2162,6 +2200,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
                     },
                     {
                         "channel_name": "Space City Home Network",
@@ -2176,6 +2218,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     },
                     {
                         "channel_name": "ESPN USA",
@@ -2256,6 +2302,10 @@
                         "channel_id": "4"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
+                    },
+                    {
                         "channel_name": "NBCS Philadelphia USA",
                         "channel_id": "777"
                     },
@@ -2274,6 +2324,10 @@
                         "channel_id": "5"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    },
+                    {
                         "channel_name": "YES USA",
                         "channel_id": "763"
                     },
@@ -2290,6 +2344,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     },
                     {
                         "channel_name": "RDS CA",
@@ -2324,6 +2382,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
                     }
                 ]
             },
@@ -2334,6 +2396,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
                     }
                 ]
             },
@@ -2344,6 +2410,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
                     },
                     {
                         "channel_name": "NBCS Bay Area USA",
@@ -2412,6 +2482,10 @@
                         "channel_id": "10"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1229"
+                    },
+                    {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
                     },
@@ -2446,6 +2520,10 @@
                         "channel_id": "11"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1231"
+                    },
+                    {
                         "channel_name": "Spectrum SportsNet USA",
                         "channel_id": "982"
                     },
@@ -2462,6 +2540,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1230"
                     },
                     {
                         "channel_name": "NBCS California USA",
@@ -2932,12 +3014,32 @@
                 ]
             },
             {
+                "time": "08:00",
+                "event": "🏀 College Basketball : West Virginia vs Kansas",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1227"
+                    }
+                ]
+            },
+            {
                 "time": "08:30",
                 "event": "🏀 College Basketball : South Dakota 🇺🇸 vs Nebraska 🇺🇸",
                 "channels": [
                     {
                         "channel_name": "BTN USA",
                         "channel_id": "397"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "🏀 College Basketball : UConn vs Arizona",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1228"
                     }
                 ]
             },
@@ -3982,6 +4084,10 @@
                         "channel_id": "13"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
+                    },
+                    {
                         "channel_name": "TNT USA",
                         "channel_id": "338"
                     },
@@ -4006,6 +4112,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "14"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
                     },
                     {
                         "channel_name": "Viaplay Sports 1 UK",
@@ -4048,6 +4158,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1232"
                     },
                     {
                         "channel_name": "TNT USA",
